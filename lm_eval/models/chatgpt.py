@@ -93,7 +93,7 @@ class CHATGPTLM(BaseLM):
 
     @property
     def max_gen_toks(self):
-        return 512
+        return 1500
 
     @property
     def batch_size(self):

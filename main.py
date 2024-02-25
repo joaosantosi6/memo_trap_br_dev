@@ -2,7 +2,7 @@ import argparse
 import json
 import logging
 import fnmatch
-
+import os
 from lm_eval import tasks, evaluator
 
 logging.getLogger("openai").setLevel(logging.WARNING)
@@ -78,6 +78,10 @@ def main():
         with open(args.description_dict_path, "r") as f:
             description_dict = json.load(f)
 
+    if args.output_path:
+        os.makedirs(os.path.dirname(args.output_path), exist_ok=True)
+    
+
     results = evaluator.simple_evaluate(
         model=args.model,
         model_args=args.model_args,
@@ -92,6 +96,7 @@ def main():
         prompt_as_single_user_message=args.prompt_as_single_user_message,
         decontamination_ngrams_path=args.decontamination_ngrams_path,
         check_integrity=args.check_integrity,
+        output_dir=os.path.dirname(args.output_path),
     )
 
     dumped = json.dumps(results, indent=2)

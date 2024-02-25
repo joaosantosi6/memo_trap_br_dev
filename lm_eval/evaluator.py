@@ -7,7 +7,7 @@ import lm_eval.models
 import lm_eval.tasks
 import lm_eval.base
 from lm_eval.utils import positional_deprecated, run_task_tests
-
+import os
 
 @positional_deprecated
 def simple_evaluate(
@@ -25,6 +25,7 @@ def simple_evaluate(
     prompt_as_single_user_message=False,
     check_integrity=False,
     decontamination_ngrams_path=None,
+    output_dir=None,
 ):
 
     """Instantiate and evaluate a model on a list of tasks.
@@ -95,6 +96,7 @@ def simple_evaluate(
         conversation_template=conversation_template,
         prompt_as_single_user_message=prompt_as_single_user_message,
         decontamination_ngrams_path=decontamination_ngrams_path,
+        output_dir=output_dir,
     )
 
     # add info about the model and few shot config
@@ -115,6 +117,18 @@ def simple_evaluate(
 
 decontaminate_suffix = "_decontaminate"
 
+def write_sample(output_dir, task_name, doc_id, pred, req_obj, metrics):
+    print(doc_id)
+    with open(os.path.join(output_dir, f"{task_name}_samples.txt"), "a", encoding="utf-8") as f:
+        f.write("*" * 50)
+        f.write(f"doc_id: {doc_id}\n")
+        f.write("------------------------prompt------------------------------------\n")
+
+        f.write(f"{req_obj.args[0]}\n")
+        f.write("--" * 20 + "\n")
+
+        f.write(f"Prediction: {pred}\n")
+        f.write(f"Metrics: {metrics}\n")
 
 @positional_deprecated
 def evaluate(
@@ -128,6 +142,7 @@ def evaluate(
     conversation_template=None,
     prompt_as_single_user_message=False,
     decontamination_ngrams_path=None,
+    output_dir=None,
 ):
     """Instantiate and evaluate a model on a list of tasks.
 
@@ -260,20 +275,24 @@ def evaluate(
             x if req.index is None else x[req.index] for x, req in zip(resps, reqs)
         ]
 
-        for resp, (i, task_name, doc, doc_id) in zip(resps, requests_origin[reqtype]):
-            process_res_queue[(task_name, doc_id)].append((i, resp))
+        for resp, (i, task_name, doc, doc_id), req in zip(resps, requests_origin[reqtype],reqs):
+            process_res_queue[(task_name, doc_id)].append((i, resp, req, reqtype))
 
     vals = collections.defaultdict(list)
 
     # unpack results and sort back in order and return control to Task
     for (task_name, doc_id), requests in process_res_queue.items():
         requests.sort(key=lambda x: x[0])
-        requests = [x[1] for x in requests]
+        preds = [x[1] for x in requests]
 
         task = task_dict[task_name]
         doc = docs[(task_name, doc_id)]
 
-        metrics = task.process_results(doc, requests)
+        metrics = task.process_results(doc, preds)
+        _, pred, req_obj, reqtype = requests[0]
+
+        if output_dir and reqtype=="greedy_until":
+            write_sample(output_dir, task_name, doc_id, pred=pred, req_obj=req_obj, metrics=metrics)
         for metric, value in metrics.items():
             vals[(task_name, metric)].append(value)
 
