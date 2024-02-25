@@ -9,6 +9,8 @@ from lm_eval.utils import join_iters
 EXAMPLE_DIVIDER = "!!@@##@@!! -- Example {i}\n"
 
 
+# python scripts/write_out.py --output_base_path data/test --tasks bluex_blind --sets test --num_fewshot 2 --seed 42 --num_examples 1 --description_dict_path description.json --conversation_template chatgpt
+
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--output_base_path", required=True)

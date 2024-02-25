@@ -4,7 +4,7 @@ from typing import List, Union
 import lm_eval.base
 from . import enem
 from . import enem_multimodal
-
+from . import bluex
 
 ########################################
 # All tasks
@@ -30,6 +30,15 @@ TASK_REGISTRY = {
     "enem_cot_2023_images": enem_multimodal.ENEM_CoT_2023_IMAGES,
     "enem_2023_captions": enem_multimodal.ENEM_2023,
     "enem_cot_2023_captions": enem_multimodal.ENEM_CoT_2023,
+
+    "bluex_blind": bluex.BLUEX_BLIND,
+    "bluex_images": bluex.BLUEX_IMAGES,
+    "bluex_captions": bluex.BLUEX_CAPTIONS,
+    "bluex_context_captions": bluex.BLUEX_CONTEXT_CAPTIONS,
+    "bluex_blind_cot": bluex.BLUEX_BLIND_COT,
+    "bluex_images_cot": bluex.BLUEX_IMAGES_COT,
+    "bluex_captions_cot": bluex.BLUEX_CAPTIONS_COT,
+    "bluex_context_captions_cot": bluex.BLUEX_CONTEXT_CAPTIONS_COT,
 }
 
 
