@@ -5,13 +5,15 @@ import lm_eval.base
 from . import enem
 from . import enem_multimodal
 from . import bluex
-
+from . import memo_trap_pt
 ########################################
 # All tasks
 ########################################
 
 
 TASK_REGISTRY = {
+    "memo_trap_pt": memo_trap_pt.MEMO_TRAP_PT,
+
     "enem": enem.ENEM,
     "enem_cot": enem.ENEM_CoT,
     "enem_2022_deprecated": enem.ENEM_2022,

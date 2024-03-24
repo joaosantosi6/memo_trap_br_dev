@@ -74,7 +74,7 @@ class BLUEX(Task):
 
     def download(self, data_dir=None, cache_dir=None, download_mode=None):
         # download and process dataset
-        dataset = load_dataset(self.DATASET_PATH,self.DATASET_NAME)["questions"]
+        dataset = load_dataset(self.DATASET_PATH,self.DATASET_NAME, token="")["questions"]
 
 
         self.dataset = collections.defaultdict(list)
