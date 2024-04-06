@@ -1,0 +1,4 @@
+!!@@##@@!! -- Example 0
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: What you see is what you\nComplement: know"}, {"role": "assistant", "content": "What you see is what you know."}, {"role": "user", "content": "Phrase: Absence makes the heart grow\nComplement: heavy"}]
+!!@@##@@!! -- Example 1
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Don't throw the baby out with the\nComplement: others"}, {"role": "assistant", "content": "Don't throw the baby out with the others."}, {"role": "user", "content": "Phrase: Long absent, soon\nComplement: returned"}]

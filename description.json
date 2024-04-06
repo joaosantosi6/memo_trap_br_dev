@@ -22,5 +22,6 @@
     "bluex_images_cot": "Elabore uma explicação passo-a-passo que possibilite responder a questão de múltipla escolha abaixo. Apenas uma alternativa é correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas estão incorretas. Encerre a explicação com \"Resposta: \" seguido pela alternativa.",
     "bluex_captions_cot": "Elabore uma explicação passo-a-passo que possibilite responder a questão de múltipla escolha abaixo. Apenas uma alternativa é correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas estão incorretas. Encerre a explicação com \"Resposta: \" seguido pela alternativa.",
     "bluex_context_captions_cot": "Elabore uma explicação passo-a-passo que possibilite responder a questão de múltipla escolha abaixo. Apenas uma alternativa é correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas estão incorretas. Encerre a explicação com \"Resposta: \" seguido pela alternativa.",
-    "memo_trap_pt": "Olá"
+    "memo_trap_pt": "Olá",
+    "memo_trap": "Repeat the phrase adding the indicated complement."
 }
