@@ -74,9 +74,7 @@ class MEMO_TRAP_PT(Task):
 
     def download(self, data_dir=None, cache_dir=None, download_mode=None):
         # download and process dataset
-        dataset = load_dataset(self.DATASET_PATH,self.DATASET_NAME, token="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")["train"]
-
-        #Escreva uma frase que termine com a palavra "atacar": A cobra vai
+        dataset = load_dataset(self.DATASET_PATH, self.DATASET_NAME,  download_mode='force_redownload', token="")["train"]
 
         self.dataset = collections.defaultdict(list)
 
@@ -129,7 +127,8 @@ class MEMO_TRAP_PT(Task):
     def process_results(self, doc, results):
         gold = doc["gold"]
         pred = results[0]
-
+        print("pred:", pred)
+        print("gold:", gold)
         acc = 1. if pred == gold else 0.
 
         results = {

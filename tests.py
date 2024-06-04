@@ -4,7 +4,7 @@ from datasets import load_dataset
 dataset = load_dataset(
     "portuguese-benchmark-datasets/proverbs",
     name="proverbs_ptbr",
-    token='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'
+    token=''
 )
 
 print(dataset)

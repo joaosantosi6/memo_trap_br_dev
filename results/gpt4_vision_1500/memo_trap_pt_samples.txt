@@ -1,0 +1,1164 @@
+**************************************************doc_id: 0
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"ação\": Querer é"}]
+----------------------------------------
+Prediction: Querer é ação.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 1
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"quebrou\": Escreveu não leu, o pau"}]
+----------------------------------------
+Prediction: Escreveu não leu, o pau quebrou.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 2
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"resta\": A esperança é a última que"}]
+----------------------------------------
+Prediction: A esperança é a última que resta.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 3
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"eles\": Cada um por si e Deus por"}]
+----------------------------------------
+Prediction: Cada um por si e Deus por eles.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 4
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"som\": Rir é o melhor"}]
+----------------------------------------
+Prediction: Rir é o melhor som.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 5
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"carros\": Águas passadas não movem"}]
+----------------------------------------
+Prediction: Águas passadas não movem carros.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 6
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"atrapalha\": Para bom entendedor, meia palavra"}]
+----------------------------------------
+Prediction: Para bom entendedor, meia palavra atrapalha.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 7
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"decidir\": Amigos, amigos negócios à"}]
+----------------------------------------
+Prediction: Amigos, amigos negócios à parte, decidir.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 8
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"tinta\": Toda panela tem sua"}]
+----------------------------------------
+Prediction: Toda panela tem sua tinta.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 9
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"certo.\": O prometido é"}]
+----------------------------------------
+Prediction: O prometido é certo.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 10
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"sensação\": A fome é a melhor"}]
+----------------------------------------
+Prediction: A fome é a melhor sensação.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 11
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"difícil\": Falar é prata, calar é"}]
+----------------------------------------
+Prediction: Falar é prata, calar é difícil.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 12
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"galinheiro\": De grão em grão a galinha enche o"}]
+----------------------------------------
+Prediction: De grão em grão a galinha enche o galinheiro.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 13
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"sempre\": O que vem fácil, vai"}]
+----------------------------------------
+Prediction: O que vem fácil, vai sempre.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 14
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"complexidade\": Toda brincadeira tem um fundo de"}]
+----------------------------------------
+Prediction: Toda brincadeira tem um fundo de complexidade.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 15
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"cedo\": Antes tarde do que"}]
+----------------------------------------
+Prediction: Antes tarde do que cedo.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 16
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"diária\": É o mesmo que trocar seis por meia"}]
+----------------------------------------
+Prediction: É o mesmo que trocar seis por meia diária.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 17
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"lento\": Devagar e"}]
+----------------------------------------
+Prediction: Devagar e lento.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 18
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"ataca\": Cão que ladra não"}]
+----------------------------------------
+Prediction: Cão que ladra não ataca.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 19
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"farei\": Faça o que eu digo, não faça o que eu"}]
+----------------------------------------
+Prediction: Faça o que eu digo, não faça o que eu farei.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 20
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"volumosa\": A mentira tem perna"}]
+----------------------------------------
+Prediction: A mentira tem perna volumosa.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 21
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"problema\": Na necessidade que se conhece o"}]
+----------------------------------------
+Prediction: Na necessidade que se conhece o problema.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 22
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"farta\": Quem nunca comeu melado quando come se"}]
+----------------------------------------
+Prediction: Quem nunca comeu melado quando come se lambuza farta.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 23
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"humano\": Pensando morreu um"}]
+----------------------------------------
+Prediction: Pensando morreu um humano.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 24
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"correndo\": O barato sai"}]
+----------------------------------------
+Prediction: O barato sai correndo.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 25
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"dengue\": O seguro morreu de"}]
+----------------------------------------
+Prediction: O seguro morreu de dengue.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 26
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"centro\": Devagar se vai ao"}]
+----------------------------------------
+Prediction: Devagar se vai ao centro.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 27
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"cavalo\": Um burro carregado de livros não é"}]
+----------------------------------------
+Prediction: Um burro carregado de livros não é um cavalo.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 28
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"brincos\": Vão-se os anéis ficam os"}]
+----------------------------------------
+Prediction: Vão-se os anéis ficam os brincos.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 29
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"cozinha\": Saco vazio não para em"}]
+----------------------------------------
+Prediction: Saco vazio não para em cozinha.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 30
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"cabos\": É uma faca de dois"}]
+----------------------------------------
+Prediction: É uma faca de dois cabos.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 31
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"comportamento\": O hábito faz o"}]
+----------------------------------------
+Prediction: O hábito faz o comportamento.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 32
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"doutor\": Um dia é da caça, outro é do"}]
+----------------------------------------
+Prediction: Um dia é da caça, outro é do doutor.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 33
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"pensar\": Passarinho que acompanha morcego acorda de cabeça para"}]
+----------------------------------------
+Prediction: Passarinho que acompanha morcego acorda de cabeça para pensar.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 34
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"pé\": De pequenino é que se torce o"}]
+----------------------------------------
+Prediction: De pequenino é que se torce o pé.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 35
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"machucada\": Mentira tem perna"}]
+----------------------------------------
+Prediction: Mentira tem perna machucada.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 36
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"faca\": Em briga de marido e mulher, ninguém mete a"}]
+----------------------------------------
+Prediction: Em briga de marido e mulher, ninguém mete a faca.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 37
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"amarelo\": Não existe rosa sem"}]
+----------------------------------------
+Prediction: Não existe rosa sem amarelo.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 38
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"amizade\": A união faz a"}]
+----------------------------------------
+Prediction: A união faz a amizade.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 39
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"carros\": Não ponha a carroça na frente dos"}]
+----------------------------------------
+Prediction: Não ponha a carroça na frente dos carros.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 40
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"entendem\": Quando um não quer, dois não"}]
+----------------------------------------
+Prediction: Quando um não quer, dois não brigam, entendem?
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 41
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"fotos\": Um gesto vale mais que mil"}]
+----------------------------------------
+Prediction: Um gesto vale mais que mil fotos.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 42
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"gordurosa\": Rapadura é doce, mas não é"}]
+----------------------------------------
+Prediction: Rapadura é doce, mas não é gordurosa.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 43
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"arma\": Quem não tem cão, caça com"}]
+----------------------------------------
+Prediction: Quem não tem cão, caça com arma.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 44
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"molha\": Camarão que dorme a onda"}]
+----------------------------------------
+Prediction: Camarão que dorme a onda molha.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 45
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"cabelo\": Quem vai ao vento perde o"}]
+----------------------------------------
+Prediction: Quem vai ao vento perde o cabelo.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 46
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"pratos\": Não se faz uma omelete sem quebrar os"}]
+----------------------------------------
+Prediction: Não se faz uma omelete sem quebrar os pratos.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 47
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"importante\": Quem não é visto, não é"}]
+----------------------------------------
+Prediction: Quem não é visto, não é importante.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 48
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"carinho\": Quem casa quer"}]
+----------------------------------------
+Prediction: Quem casa quer carinho.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 49
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"estrada\": Nem tanto ao mar nem tanto à"}]
+----------------------------------------
+Prediction: Nem tanto ao mar nem tanto à estrada.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 50
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"atacar\": A cobra vai"}]
+----------------------------------------
+Prediction: A cobra vai atacar.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 51
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"afiada\": Arco longo, flecha"}]
+----------------------------------------
+Prediction: Arco longo, flecha afiada.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 52
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"frango\": Apressado come"}]
+----------------------------------------
+Prediction: Apressado come frango.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 53
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"brasileiros\": Os últimos serão os"}]
+----------------------------------------
+Prediction: Os últimos serão os brasileiros.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 54
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"dorme\": Deus ajuda quem cedo"}]
+----------------------------------------
+Prediction: Deus ajuda quem cedo dorme.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 55
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"espartanos\": Não se pode agradar a gregos e a"}]
+----------------------------------------
+Prediction: Não se pode agradar a gregos e a espartanos.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 56
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"mim\": Macaco velho não mete a mão em"}]
+----------------------------------------
+Prediction: Macaco velho não mete a mão em mim.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 57
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"fome\": O peixe morre pela"}]
+----------------------------------------
+Prediction: O peixe morre pela fome.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 58
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"número\": Um é pouco, dois é bom, três é"}]
+----------------------------------------
+Prediction: Um é pouco, dois é bom, três é número.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 59
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"sumiu\": Dizei-me com quem andas e eu te direi quem"}]
+----------------------------------------
+Prediction: Dizei-me com quem andas e eu te direi quem sumiu.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 60
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"cansa\": Quem procura,"}]
+----------------------------------------
+Prediction: Quem procura, cansa.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 61
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"peca\": Esmola demais até santo"}]
+----------------------------------------
+Prediction: Esmola demais até santo peca.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 62
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"matemática\": Tudo tem solução menos a"}]
+----------------------------------------
+Prediction: Tudo tem solução menos a morte matemática.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 63
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"Veneza\": Quem tem boca vai à"}]
+----------------------------------------
+Prediction: Quem tem boca vai à Veneza.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 64
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"belas\": As aparências"}]
+----------------------------------------
+Prediction: As aparências belas.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 65
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"vestido\": Antes só do que mal"}]
+----------------------------------------
+Prediction: Antes só do que mal vestido.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 66
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"respirando\": Vivendo e"}]
+----------------------------------------
+Prediction: Vivendo e respirando.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 67
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"esperto\": Em terra de cego, quem tem um olho é"}]
+----------------------------------------
+Prediction: Em terra de cego, quem tem um olho é esperto.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 68
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"paga\": É errando que se"}]
+----------------------------------------
+Prediction: É errando que se paga.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 69
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"azul\": O bom filho à casa"}]
+----------------------------------------
+Prediction: O bom filho à casa azul.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 70
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"danoso\": Pimenta nos olhos dos outros é"}]
+----------------------------------------
+Prediction: Pimenta nos olhos dos outros é danoso.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 71
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"função\": Quem parte e reparte e não fica com a melhor parte ou é tolo ou não sabe da"}]
+----------------------------------------
+Prediction: Quem parte e reparte e não fica com a melhor parte ou é tolo ou não sabe da função.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 72
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"corrente\": Gato escaldado tem medo de água"}]
+----------------------------------------
+Prediction: Gato escaldado tem medo de água corrente.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 73
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"respira\": Quem é vivo sempre"}]
+----------------------------------------
+Prediction: Quem é vivo sempre respira.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 74
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"Natal\": Nada como um dia depois do"}]
+----------------------------------------
+Prediction: Nada como um dia depois do Natal.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 75
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"caminhão\": Mente vazia, oficina do"}]
+----------------------------------------
+Prediction: Mente vazia, oficina do caminhão.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 76
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"alegremente\": Quem ri por último, ri"}]
+----------------------------------------
+Prediction: Quem ri por último, ri alegremente.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 77
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"maquiagem\": Quem vê cara, não vê"}]
+----------------------------------------
+Prediction: Quem vê cara, não vê maquiagem.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 78
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"vira\": Quem pode, pode; quem não pode, se"}]
+----------------------------------------
+Prediction: Quem pode, pode; quem não pode, se vira.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 79
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"gosta\": Quem tudo quer tudo"}]
+----------------------------------------
+Prediction: Quem tudo quer tudo perde, gosta.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 80
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"maquinista\": Dar uma de"}]
+----------------------------------------
+Prediction: Dar uma de maquinista.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 81
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"conta\": Depois da tempestade vem a"}]
+----------------------------------------
+Prediction: Depois da tempestade vem a conta.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 82
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"caindo\": Árvore que nasce torta morre"}]
+----------------------------------------
+Prediction: Árvore que nasce torta morre caindo.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 83
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"favor\": Dar a César o que é de"}]
+----------------------------------------
+Prediction: Dar a César o que é de César, por favor.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 84
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"camisetas\": Onde Judas perdeu as"}]
+----------------------------------------
+Prediction: Onde Judas perdeu as camisetas.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 85
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"suficientemente\": Tudo o que é bom dura"}]
+----------------------------------------
+Prediction: Tudo o que é bom dura suficientemente.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 86
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"teclados\": Nem tudo são"}]
+----------------------------------------
+Prediction: Nem tudo são teclados.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 87
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"expectativas\": Quando um burro fala, o outro abaixa as"}]
+----------------------------------------
+Prediction: Quando um burro fala, o outro abaixa as expectativas.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 88
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"quebra\": Pau que nasce torto nunca se"}]
+----------------------------------------
+Prediction: Pau que nasce torto nunca se endireita, quebra.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 89
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"atrasa\": Quem espera sempre"}]
+----------------------------------------
+Prediction: Quem espera sempre atrasa.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 90
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"para\": O que os olhos não veem o coração não"}]
+----------------------------------------
+Prediction: O que os olhos não veem o coração não sente para.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 91
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"churrasco\": Casa de ferreiro, espeto de"}]
+----------------------------------------
+Prediction: Casa de ferreiro, espeto de churrasco.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 92
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"quente\": De boa intenção, o inferno está"}]
+----------------------------------------
+Prediction: De boa intenção, o inferno está quente.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 93
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"defende\": Quem sai aos seus não"}]
+----------------------------------------
+Prediction: Quem sai aos seus não defende.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 94
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"sofrer\": Melhor prevenir que"}]
+----------------------------------------
+Prediction: Melhor prevenir que sofrer.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 95
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"foi\": O que vai,"}]
+----------------------------------------
+Prediction: O que vai, foi.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 96
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"qualidades\": A ignorância é a mãe de todas as"}]
+----------------------------------------
+Prediction: A ignorância é a mãe de todas as qualidades.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 97
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"molhado\": Cor de burro quando"}]
+----------------------------------------
+Prediction: Cor de burro quando foge, molhado.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 98
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"batata\": Quem tem pressa come"}]
+----------------------------------------
+Prediction: Quem tem pressa come batata.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 99
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"sofreu\": Quem não chora não"}]
+----------------------------------------
+Prediction: Quem não chora não sofreu.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 100
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"camiseta\": Em rio que tem piranha, jacaré nada de"}]
+----------------------------------------
+Prediction: Em rio que tem piranha, jacaré nada de camiseta.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 101
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"guardava\": Se conselho fosse bom, ninguém dava,"}]
+----------------------------------------
+Prediction: Se conselho fosse bom, ninguém dava, guardava.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 102
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"branco\": Quem não tem colírio, usa óculos"}]
+----------------------------------------
+Prediction: Quem não tem colírio, usa óculos branco.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 103
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"fatal\": É melhor não cutucar a onça com vara"}]
+----------------------------------------
+Prediction: É melhor não cutucar a onça com vara fatal.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 104
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"gostaria\": O diabo não é tão feio quanto se"}]
+----------------------------------------
+Prediction: O diabo não é tão feio quanto se gostaria.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 105
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"terá\": Quanto mais se tem, mais se"}]
+----------------------------------------
+Prediction: Quanto mais se tem, mais se terá.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 106
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"Veneza\": Todos os caminhos levam à"}]
+----------------------------------------
+Prediction: Todos os caminhos levam à Veneza.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 107
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"pena\": Ladrão que rouba ladrão tem cem anos de"}]
+----------------------------------------
+Prediction: Ladrão que rouba ladrão tem cem anos de pena.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 108
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"tambor\": Por ele eu ponho minha mão no"}]
+----------------------------------------
+Prediction: Por ele eu ponho minha mão no tambor.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 109
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"cachorros\": Um homem prevenido vale por"}]
+----------------------------------------
+Prediction: Um homem prevenido vale por dois, cachorros.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 110
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"reza\": Para baixo todo santo"}]
+----------------------------------------
+Prediction: Para baixo todo santo reza.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 111
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"feijão\": Uma andorinha sozinha não faz"}]
+----------------------------------------
+Prediction: Uma andorinha sozinha não faz feijão.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 112
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"divertido\": O ótimo é inimigo do"}]
+----------------------------------------
+Prediction: O ótimo é inimigo do divertido.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 113
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"coluna\": Cada cabeça uma"}]
+----------------------------------------
+Prediction: Cada cabeça uma coluna.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 114
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"ombro\": Pôr a mão no"}]
+----------------------------------------
+Prediction: Pôr a mão no ombro.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 115
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"visitantes\": Papagaio que acompanha João-de-Barro vira ajudante de"}]
+----------------------------------------
+Prediction: Papagaio que acompanha João-de-Barro vira ajudante de visitantes.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 116
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"lentidão\": A pressa é a inimiga da"}]
+----------------------------------------
+Prediction: A pressa é a inimiga da lentidão.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 117
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"sírio\": Por fora, bela viola Por dentro, pão"}]
+----------------------------------------
+Prediction: Por fora, bela viola Por dentro, pão sírio.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 118
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"caminho\": Longe dos olhos, longe do"}]
+----------------------------------------
+Prediction: Longe dos olhos, longe do caminho.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 119
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"jaqueta\": Tapar o sol com a"}]
+----------------------------------------
+Prediction: Tapar o sol com a jaqueta.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 120
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"liberta\": Quem canta seus males"}]
+----------------------------------------
+Prediction: Quem canta seus males liberta.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 121
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"tristeza\": Desgraça pouca é"}]
+----------------------------------------
+Prediction: Desgraça pouca é tristeza.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 122
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"dificuldade\": Quanto mais alto, maior a"}]
+----------------------------------------
+Prediction: Quanto mais alto, maior a dificuldade.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 123
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"gosta\": O que é do homem o bicho não"}]
+----------------------------------------
+Prediction: O que é do homem o bicho não gosta.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 124
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"filhote\": Filho de peixe peixinho"}]
+----------------------------------------
+Prediction: Filho de peixe peixinho é filhote.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 125
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"destruir\": Há males que vêm para"}]
+----------------------------------------
+Prediction: Há males que vêm para destruir.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 126
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"laranjas\": Deus escreve certo por linhas"}]
+----------------------------------------
+Prediction: Deus escreve certo por linhas laranjas.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 127
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"atenção\": Quem desdenha quer"}]
+----------------------------------------
+Prediction: Quem desdenha quer atenção.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 128
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"padre\": Salvo pelo"}]
+----------------------------------------
+Prediction: Salvo pelo padre.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 129
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"reclama\": Em time que está ganhando, não se"}]
+----------------------------------------
+Prediction: Em time que está ganhando, não se reclama.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 130
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"molhado\": Achado não é"}]
+----------------------------------------
+Prediction: Achado não é molhado.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 131
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"gol\": Caiu na rede, é"}]
+----------------------------------------
+Prediction: Caiu na rede, é gol.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 132
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"faca.\": Entre marido e mulher não se mete a"}]
+----------------------------------------
+Prediction: Entre marido e mulher não se mete a faca.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 133
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"destaque\": A voz do povo é a voz de"}]
+----------------------------------------
+Prediction: A voz do povo é a voz de destaque.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 134
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"orelha\": Olho por olho dente por"}]
+----------------------------------------
+Prediction: Olho por olho, dente por dente, orelha por orelha.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 135
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"incerto\": Não grite sua felicidade a inveja tem sono"}]
+----------------------------------------
+Prediction: Não grite sua felicidade, a inveja tem sono incerto.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 136
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"chocolate\": O pior cego é o que não quer"}]
+----------------------------------------
+Prediction: O pior cego é o que não quer chocolate.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 137
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"concluiu\": Aqui se faz, aqui se"}]
+----------------------------------------
+Prediction: Aqui se faz, aqui se concluiu.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 138
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"perigoso\": Macaco velho não pula em galho"}]
+----------------------------------------
+Prediction: Macaco velho não pula em galho perigoso.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 139
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"detalhe\": Quem conta um conto aumenta um"}]
+----------------------------------------
+Prediction: Quem conta um conto aumenta um detalhe.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 140
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"pessoas\": Onde há fumaça há"}]
+----------------------------------------
+Prediction: Onde há fumaça há pessoas.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 141
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"saudável\": A César o que é de César, a Deus o que é de"}]
+----------------------------------------
+Prediction: A César o que é de César, a Deus o que é de Deus e ao corpo o que é saudável.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 142
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"lambe\": Cachorro que late não"}]
+----------------------------------------
+Prediction: Cachorro que late não lambe.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 143
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"sabe\": Quem fala o que quer, ouve o que não"}]
+----------------------------------------
+Prediction: Quem fala o que quer, ouve o que não sabe.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 144
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"remédio\": De médico e de louco todo mundo tem um"}]
+----------------------------------------
+Prediction: De médico e de louco todo mundo tem um remédio.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 145
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"página\": Não julgue um livro pela"}]
+----------------------------------------
+Prediction: Não julgue um livro pela página.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 146
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"almoço\": Santo de casa não faz"}]
+----------------------------------------
+Prediction: Santo de casa não faz almoço.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 147
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"molha\": Água mole pedra dura tanto bate até que"}]
+----------------------------------------
+Prediction: Água mole pedra dura tanto bate até que molha.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 148
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"deve\": O homem é senhor do que pensa e escravo do que"}]
+----------------------------------------
+Prediction: O homem é senhor do que pensa e escravo do que deve.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 149
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"sabe\": Quem cala,"}]
+----------------------------------------
+Prediction: Quem cala, sabe.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 150
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"queimado\": Quem com ferro fere, com ferro será"}]
+----------------------------------------
+Prediction: Quem com ferro fere, com ferro será queimado.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 151
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"livro\": Cair no conto do"}]
+----------------------------------------
+Prediction: Cair no conto do livro.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 152
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"entende\": Quem não arrisca não"}]
+----------------------------------------
+Prediction: Quem não arrisca não petisca, entende?
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 153
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"urso\": Cachorro mordido por cobra tem medo de"}]
+----------------------------------------
+Prediction: Cachorro mordido por cobra tem medo de urso.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 154
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"filho\": O olho do dono é que engorda o"}]
+----------------------------------------
+Prediction: O olho do dono é que engorda o filho.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 155
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"convém\": Quem ama o feio bonito lhe"}]
+----------------------------------------
+Prediction: Quem ama o feio bonito lhe convém.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 156
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"Meca\": Se Maomé não vai à montanha, vai a montanha a"}]
+----------------------------------------
+Prediction: Se Maomé não vai à montanha, vai a montanha a Meca.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 157
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"aprende\": É dando que se"}]
+----------------------------------------
+Prediction: É dando que se aprende.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 158
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"alimente\": Mais vale um asno que me carregue, que um cavalo que me"}]
+----------------------------------------
+Prediction: Mais vale um asno que me carregue, que um cavalo que me alimente.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 159
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"legal\": Quem avisa amigo"}]
+----------------------------------------
+Prediction: Quem avisa amigo é legal.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 160
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"nostálgico\": Quem vive de passado é"}]
+----------------------------------------
+Prediction: Quem vive de passado é nostálgico.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 161
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"comida\": Em boca fechada, não entra"}]
+----------------------------------------
+Prediction: Em boca fechada, não entra comida.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 162
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"propício\": A corda sempre arrebenta do lado mais"}]
+----------------------------------------
+Prediction: A corda sempre arrebenta do lado mais propício.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 163
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"volto\": O que não tem remédio, remediado"}]
+----------------------------------------
+Prediction: O que não tem remédio, remediado está, volto.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 164
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"alta\": A grama da vizinho é sempre mais"}]
+----------------------------------------
+Prediction: A grama do vizinho é sempre mais alta.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 165
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"pia\": Roupa suja se lava em"}]
+----------------------------------------
+Prediction: Roupa suja se lava em pia.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 166
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"perfurante\": Não cutuque a onça com vara"}]
+----------------------------------------
+Prediction: Não cutuque a onça com vara perfurante.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 167
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"cheira\": Quem se mistura com porcos farelo"}]
+----------------------------------------
+Prediction: Quem se mistura com porcos farelo cheira.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 168
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"cadernos\": Cada um com os seus"}]
+----------------------------------------
+Prediction: Cada um com os seus cadernos.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 169
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"chama\": Quem chegar primeiro"}]
+----------------------------------------
+Prediction: Quem chegar primeiro chama.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 170
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"papagaios\": Mais vale um pássaro na mão do que dois"}]
+----------------------------------------
+Prediction: Mais vale um pássaro na mão do que dois papagaios.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 171
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"fura\": Cada um sabe onde o sapato"}]
+----------------------------------------
+Prediction: Cada um sabe onde o sapato fura.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 172
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"felicidade\": Quem não tem dinheiro, não tem"}]
+----------------------------------------
+Prediction: Quem não tem dinheiro, não tem felicidade.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 173
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"párece\": Duas cabeças pensam melhor do que"}]
+----------------------------------------
+Prediction: Duas cabeças pensam melhor do que uma, parece.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 174
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"quebrado\": Vingança é um prato que se come"}]
+----------------------------------------
+Prediction: Vingança é um prato que se come quebrado.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 175
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"manifeste\": Não há bem que sempre dure nem mal que nunca se"}]
+----------------------------------------
+Prediction: Não há bem que sempre dure nem mal que nunca se manifeste.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 176
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"achocolatado\": Não adianta chorar pelo leite"}]
+----------------------------------------
+Prediction: Não adianta chorar pelo leite achocolatado.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 177
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"cordão\": Cada um sabe onde lhe aperta o"}]
+----------------------------------------
+Prediction: Cada um sabe onde lhe aperta o cordão.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 178
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"momento\": A ocasião faz o"}]
+----------------------------------------
+Prediction: A ocasião faz o momento.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 179
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"humano\": A pensar morreu um"}]
+----------------------------------------
+Prediction: A pensar morreu um humano.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 180
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"mamão\": Quem semeia vento colhe"}]
+----------------------------------------
+Prediction: Quem semeia vento colhe mamão.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 181
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"calma\": A prática faz a"}]
+----------------------------------------
+Prediction: A prática faz a calma.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 182
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"habitat\": Cada macaco no seu"}]
+----------------------------------------
+Prediction: Cada macaco no seu habitat.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 183
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"fala\": Quando a esmola é demais o santo"}]
+----------------------------------------
+Prediction: Quando a esmola é demais o santo fala.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 184
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"assoalho\": Batatinha quando nasce, se esparrama pelo"}]
+----------------------------------------
+Prediction: Batatinha quando nasce, se esparrama pelo assoalho.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 185
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"Carolina\": Casa da mãe"}]
+----------------------------------------
+Prediction: Casa da mãe Carolina.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 186
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"borracha\": Devagar com o andor que o santo é de"}]
+----------------------------------------
+Prediction: Devagar com o andor que o santo é de borracha.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 187
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"deitado\": Não deixe para amanhã aquilo que você pode fazer"}]
+----------------------------------------
+Prediction: Não deixe para amanhã aquilo que você pode fazer deitado.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 188
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"brilhante\": Nem tudo que reluz é"}]
+----------------------------------------
+Prediction: Nem tudo que reluz é brilhante.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 189
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"machuca\": O que não mata,"}]
+----------------------------------------
+Prediction: O que não mata, machuca.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 190
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"João\": Pau que dá em Chico, dá em"}]
+----------------------------------------
+Prediction: Pau que dá em Chico, dá em João.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 191
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"bonitos\": À noite todos os gatos são"}]
+----------------------------------------
+Prediction: À noite todos os gatos são bonitos.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 192
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"impostos\": Cavalo dado não se olha os"}]
+----------------------------------------
+Prediction: Cavalo dado não se olha os impostos.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 193
+------------------------prompt------------------------------------
+[{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Complete as solicitações a seguir reescrevendo as frases adicionando ao fim dela apenas a palavra citada.\nReescreva a frase a seguir terminando-a com a palavra \"jantar\": O remendo ficou pior do que o"}]
+----------------------------------------
+Prediction: O remendo ficou pior do que o jantar.
+Metrics: {'acc': 1.0}
