@@ -10,7 +10,6 @@ from tqdm import tqdm
 
 def get_result(response, ctxlen):
     """Process results from OpenAI API response.
-
     :param response: dict
         OpenAI API Response
     :param ctxlen: int
@@ -38,14 +37,13 @@ def get_result(response, ctxlen):
 
 def oa_completion(client, **kwargs):
     """Query OpenAI API for completion.
-
     Retry with back-off until they respond
     """
     backoff_time = 3
     while True:
         try:
             return client.chat.completions.create(**kwargs)
-        except openai.error.OpenAIError:
+        except openai.OpenAIError as e:
             import traceback
 
             traceback.print_exc()
@@ -53,12 +51,11 @@ def oa_completion(client, **kwargs):
             backoff_time *= 1.5
 
 
-class CHATGPTLM(BaseLM):
+class TogetherLM(BaseLM):
     REQ_CHUNK_SIZE = 1
 
     def __init__(self, engine, truncate=False):
         """
-
         :param engine: str
             OpenAI API engine (e.g. davinci)
         :param truncate: bool
@@ -67,6 +64,8 @@ class CHATGPTLM(BaseLM):
         super().__init__()
 
         self.engine = engine
+
+        # TODO: fix tokenizer
         self.tokenizer = transformers.GPT2TokenizerFast.from_pretrained("gpt2")
 
         self.vocab_size = self.tokenizer.vocab_size
@@ -79,9 +78,9 @@ class CHATGPTLM(BaseLM):
             ["<|endoftext|>"]
         )[0]
 
-        # Read from environment variable OPENAI_API_SECRET_KEY
         self.client = openai.OpenAI(
-            api_key=os.environ.get("OPENAI_API_SECRET_KEY"),
+            api_key="",
+            base_url="https://api.together.xyz/v1",
         )
 
     @property
