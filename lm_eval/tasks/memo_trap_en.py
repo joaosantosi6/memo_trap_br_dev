@@ -197,6 +197,10 @@ class MEMO_TRAP_EN(Task):
             if prompt_as_single_user_message:
                 return conversation.get_prompt()
             else:
-                return json.dumps(conversation.to_openai_api_messages(), ensure_ascii=False)
+                messages= conversation.to_openai_api_messages()
+                # remove any system messages
+                messages = [m for m in messages if m["role"] != "system"]
+                
+                return json.dumps(messages, ensure_ascii=False)
         else:
             return description + labeled_examples + example
