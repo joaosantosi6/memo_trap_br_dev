@@ -6,6 +6,7 @@ from . import enem
 from . import enem_multimodal
 from . import bluex
 from . import memo_trap_pt
+from . import memo_trap_en
 ########################################
 # All tasks
 ########################################
@@ -13,6 +14,7 @@ from . import memo_trap_pt
 
 TASK_REGISTRY = {
     "memo_trap_pt": memo_trap_pt.MEMO_TRAP_PT,
+    "memo_trap_en": memo_trap_en.MEMO_TRAP_EN,
 
     "enem": enem.ENEM,
     "enem_cot": enem.ENEM_CoT,

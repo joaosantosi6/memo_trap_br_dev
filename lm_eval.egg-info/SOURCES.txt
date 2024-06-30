@@ -21,10 +21,13 @@ lm_eval/models/chatgpt.py
 lm_eval/models/dummy.py
 lm_eval/models/gpt2.py
 lm_eval/models/gpt3.py
+lm_eval/models/together.py
 lm_eval/tasks/__init__.py
 lm_eval/tasks/bluex.py
 lm_eval/tasks/enem.py
 lm_eval/tasks/enem_multimodal.py
+lm_eval/tasks/memo_trap_en.py
+lm_eval/tasks/memo_trap_pt.py
 scripts/__init__.py
 scripts/cost_estimate.py
 scripts/get_prompts.py

@@ -69,7 +69,7 @@ def main():
             for i, doc in (
                 zip(range(args.num_examples), docs)
                 if args.num_examples > 0
-                else enumerate(docs)
+                else enumerate(docs)    
             ):
                 f.write(EXAMPLE_DIVIDER.format(i=i))
                 ctx = task.fewshot_context(

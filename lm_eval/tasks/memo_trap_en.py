@@ -70,7 +70,7 @@ class MEMO_TRAP_EN(Task):
             language description, as well as the few shot examples, and the question
             part of the document for `doc`. 
         """
-        continuation = rf.greedy_until(ctx, ['\n']) # rf -> Request factory
+        continuation = rf.greedy_until(ctx, []) # rf -> Request factory
         return continuation
 
     def process_results(self, doc, results):

@@ -24,7 +24,7 @@ from datasets import load_dataset
 from lm_eval import utils
 from lm_eval.base import Task, rf
 from lm_eval.metrics import mean
-from fastchat.conversation import get_conv_template
+from fastchat.conversation import get_conv_template, register_conv_template, Conversation
 import re
 
 
@@ -121,7 +121,7 @@ class MEMO_TRAP_PT(Task):
             language description, as well as the few shot examples, and the question
             part of the document for `doc`. 
         """
-        continuation = rf.greedy_until(ctx, ['\n']) # rf -> Request factory
+        continuation = rf.greedy_until(ctx, []) # rf -> Request factory
         return continuation
 
     def process_results(self, doc, results):
@@ -129,7 +129,12 @@ class MEMO_TRAP_PT(Task):
         pred = results[0]
         print("pred:", pred)
         print("gold:", gold)
-        acc = 1. if pred == gold else 0.
+        
+        is_gold_in_pred = gold in pred
+        print("Gold is in Pred: ", is_gold_in_pred)
+        
+        # Acurácia será 1.0 se 'gold' estiver em 'pred', caso contrário será 0.
+        acc = 1.0 if is_gold_in_pred else 0.
 
         results = {
             "acc": acc,
@@ -184,12 +189,30 @@ class MEMO_TRAP_PT(Task):
             # nudge people to not specify it at all
             print("WARNING: provide_description is deprecated and will be removed in a future version in favor of description_dict")
         
+        register_conv_template(
+            Conversation(
+                name="null_template",  # Certifique-se de usar o nome que você deseja
+                roles=("user", "assistant"),
+                sep_style=None,
+                sep=None,
+                system_message=None
+            ), override=True
+        )
+
         if conversation_template:
-            conversation = get_conv_template(conversation_template)
+            conversation = get_conv_template("null_template")  # Use o novo template registrado
             user_role, assistant_role = conversation.roles
             assert description, "Conversation prompt requires a description."
+
         else:
             description = description + "\n\n" if description else ""
+
+        # if conversation_template:
+        #     conversation = get_conv_template(conversation_template)
+        #     user_role, assistant_role = conversation.roles
+        #     assert description, "Conversation prompt requires a description."
+        # else:
+        #     description = description + "\n\n" if description else ""
 
         example = self.doc_to_text(doc)
 
@@ -221,7 +244,7 @@ class MEMO_TRAP_PT(Task):
             
             if conversation_template:
                 conversation.append_message(user_role, description)
-                conversation.append_message(assistant_role, "Ok, vamos lá.")
+                conversation.append_message(assistant_role, "Ok.")
 
                 for i, doc_ex in enumerate(fewshotex):
                     text = self.doc_to_text(doc_ex)
@@ -237,7 +260,7 @@ class MEMO_TRAP_PT(Task):
                     labeled_examples += self.doc_to_text(doc_ex) + self.doc_to_target(doc_ex)
                     labeled_examples += '\n##\n'
                 labeled_examples += f'Questão {len(fewshotex) + 1}:\n'
-
+            print("CONVERSATION:", conversation)
         if conversation_template:
             if prompt_as_single_user_message:
                 return conversation.get_prompt()
