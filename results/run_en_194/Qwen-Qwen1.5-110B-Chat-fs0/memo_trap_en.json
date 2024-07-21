@@ -1,0 +1,47 @@
+{
+  "results": {
+    "memo_trap_en": {
+      "acc": 0.8247422680412371
+    }
+  },
+  "versions": {
+    "memo_trap_en": 0
+  },
+  "config": {
+    "model": "together",
+    "model_args": "engine=Qwen/Qwen1.5-110B-Chat",
+    "num_fewshot": 0,
+    "batch_size": null,
+    "device": null,
+    "no_cache": false,
+    "limit": 194,
+    "bootstrap_iters": 100000,
+    "description_dict": {
+      "enem_cot": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_cot_deprecated": "Formule uma explica\u00e7\u00e3o em cadeia que permita responder \u00e0 quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_cot_2022_deprecated": "Formule uma explica\u00e7\u00e3o em cadeia que permita responder \u00e0 quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_2022_blind": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "enem_2022_images": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "enem_2022_captions": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "enem_cot_2022_blind": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_cot_2022_images": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_cot_2022_captions": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_2023_blind": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "enem_2023_images": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "enem_2023_captions": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "enem_cot_2023_blind": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_cot_2023_images": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_cot_2023_captions": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "bluex_blind": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "bluex_images": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "bluex_captions": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "bluex_context_captions": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "bluex_blind_cot": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "bluex_images_cot": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "bluex_captions_cot": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "bluex_context_captions_cot": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "memo_trap_pt": "Reescreva a frase adicionando o complemento indicado.",
+      "memo_trap_en": "Repeat the phrase adding the indicated complement."
+    }
+  }
+}

@@ -1,0 +1,960 @@
+WARNING: --limit SHOULD ONLY BE USED FOR TESTING. REAL METRICS SHOULD NOT BE COMPUTED USING LIMIT.
+Selected Tasks: ['memo_trap_en']
+Running greedy_until requests
+  0%|          | 0/189 [00:00<?, ?it/s]  1%|          | 1/189 [00:02<06:33,  2.09s/it]  1%|          | 2/189 [00:03<04:22,  1.40s/it]  2%|▏         | 3/189 [00:03<03:14,  1.04s/it]  2%|▏         | 4/189 [00:04<03:26,  1.12s/it]  3%|▎         | 5/189 [00:07<04:34,  1.49s/it]  3%|▎         | 6/189 [00:08<04:16,  1.40s/it]  4%|▎         | 7/189 [00:09<03:57,  1.31s/it]  4%|▍         | 8/189 [00:10<03:22,  1.12s/it]  5%|▍         | 9/189 [00:13<05:10,  1.72s/it]  5%|▌         | 10/189 [00:13<04:03,  1.36s/it]  6%|▌         | 11/189 [00:14<03:43,  1.26s/it]  6%|▋         | 12/189 [00:16<03:57,  1.34s/it]  7%|▋         | 13/189 [00:16<03:17,  1.12s/it]  7%|▋         | 14/189 [00:17<03:05,  1.06s/it]  8%|▊         | 15/189 [00:20<04:33,  1.57s/it]  8%|▊         | 16/189 [00:21<03:47,  1.32s/it]  9%|▉         | 17/189 [00:22<03:20,  1.17s/it] 10%|▉         | 18/189 [00:22<03:06,  1.09s/it] 10%|█         | 19/189 [00:25<04:00,  1.41s/it] 11%|█         | 20/189 [00:25<03:17,  1.17s/it] 11%|█         | 21/189 [00:27<04:05,  1.46s/it] 12%|█▏        | 22/189 [00:28<03:37,  1.30s/it] 12%|█▏        | 23/189 [00:30<04:18,  1.55s/it] 13%|█▎        | 24/189 [00:31<03:30,  1.27s/it] 13%|█▎        | 25/189 [00:34<05:12,  1.90s/it] 14%|█▍        | 26/189 [00:35<04:12,  1.55s/it] 14%|█▍        | 27/189 [00:36<03:50,  1.42s/it] 15%|█▍        | 28/189 [00:37<03:14,  1.21s/it] 15%|█▌        | 29/189 [00:39<04:08,  1.55s/it] 16%|█▌        | 30/189 [00:41<03:51,  1.45s/it] 16%|█▋        | 31/189 [00:42<03:53,  1.48s/it] 17%|█▋        | 32/189 [00:43<03:19,  1.27s/it] 17%|█▋        | 33/189 [00:45<03:42,  1.43s/it] 18%|█▊        | 34/189 [00:45<03:12,  1.24s/it] 19%|█▊        | 35/189 [00:46<02:56,  1.15s/it] 19%|█▉        | 36/189 [00:47<02:25,  1.05it/s] 20%|█▉        | 37/189 [00:51<04:26,  1.75s/it] 20%|██        | 38/189 [00:52<04:08,  1.64s/it] 21%|██        | 39/189 [00:56<05:52,  2.35s/it] 21%|██        | 40/189 [00:57<04:59,  2.01s/it] 22%|██▏       | 41/189 [00:58<04:22,  1.78s/it] 22%|██▏       | 42/189 [00:59<03:43,  1.52s/it] 23%|██▎       | 43/189 [01:00<03:02,  1.25s/it] 23%|██▎       | 44/189 [01:03<04:33,  1.89s/it] 24%|██▍       | 45/189 [01:05<04:03,  1.69s/it] 24%|██▍       | 46/189 [01:06<03:42,  1.55s/it] 25%|██▍       | 47/189 [01:07<03:13,  1.36s/it] 25%|██▌       | 48/189 [01:07<02:44,  1.17s/it] 26%|██▌       | 49/189 [01:09<02:41,  1.16s/it] 26%|██▋       | 50/189 [01:11<03:47,  1.64s/it] 27%|██▋       | 51/189 [01:12<03:28,  1.51s/it] 28%|██▊       | 52/189 [01:13<02:46,  1.21s/it] 28%|██▊       | 53/189 [01:14<02:37,  1.15s/it] 29%|██▊       | 54/189 [01:17<03:33,  1.58s/it] 29%|██▉       | 55/189 [01:18<03:13,  1.44s/it] 30%|██▉       | 56/189 [01:18<02:38,  1.19s/it] 30%|███       | 57/189 [01:39<15:45,  7.16s/it] 31%|███       | 58/189 [01:40<11:24,  5.23s/it] 31%|███       | 59/189 [01:41<08:16,  3.82s/it] 32%|███▏      | 60/189 [01:43<07:22,  3.43s/it] 32%|███▏      | 61/189 [01:44<05:42,  2.68s/it] 33%|███▎      | 62/189 [01:45<04:25,  2.09s/it] 33%|███▎      | 63/189 [01:46<03:34,  1.71s/it] 34%|███▍      | 64/189 [01:49<04:32,  2.18s/it] 34%|███▍      | 65/189 [01:50<03:36,  1.74s/it] 35%|███▍      | 66/189 [01:51<03:09,  1.54s/it] 35%|███▌      | 67/189 [01:53<03:28,  1.71s/it] 36%|███▌      | 68/189 [01:54<03:05,  1.53s/it] 37%|███▋      | 69/189 [01:56<03:37,  1.81s/it] 37%|███▋      | 70/189 [01:57<03:03,  1.54s/it] 38%|███▊      | 71/189 [02:00<03:55,  2.00s/it] 38%|███▊      | 72/189 [02:02<03:27,  1.77s/it] 39%|███▊      | 73/189 [02:03<03:17,  1.70s/it] 39%|███▉      | 74/189 [02:04<03:00,  1.57s/it] 40%|███▉      | 75/189 [02:06<02:56,  1.55s/it] 40%|████      | 76/189 [02:07<02:44,  1.45s/it] 41%|████      | 77/189 [02:08<02:14,  1.20s/it] 41%|████▏     | 78/189 [02:08<01:53,  1.03s/it] 42%|████▏     | 79/189 [02:11<02:43,  1.49s/it] 42%|████▏     | 80/189 [02:12<02:26,  1.34s/it] 43%|████▎     | 81/189 [02:12<01:56,  1.08s/it] 43%|████▎     | 82/189 [02:14<02:18,  1.29s/it] 44%|████▍     | 83/189 [02:15<01:55,  1.09s/it] 44%|████▍     | 84/189 [02:16<01:45,  1.01s/it] 45%|████▍     | 85/189 [02:18<02:33,  1.48s/it] 46%|████▌     | 86/189 [02:20<02:32,  1.48s/it] 46%|████▌     | 87/189 [02:21<02:24,  1.42s/it] 47%|████▋     | 88/189 [02:22<02:02,  1.21s/it] 47%|████▋     | 89/189 [02:23<02:07,  1.28s/it] 48%|████▊     | 90/189 [02:24<01:55,  1.17s/it] 48%|████▊     | 91/189 [02:25<01:37,  1.00it/s] 49%|████▊     | 92/189 [02:25<01:25,  1.13it/s] 49%|████▉     | 93/189 [02:27<01:52,  1.17s/it] 50%|████▉     | 94/189 [02:28<01:34,  1.00it/s] 50%|█████     | 95/189 [02:30<01:58,  1.26s/it] 51%|█████     | 96/189 [02:31<02:04,  1.34s/it] 51%|█████▏    | 97/189 [02:33<02:17,  1.49s/it] 52%|█████▏    | 98/189 [02:34<01:51,  1.23s/it] 52%|█████▏    | 99/189 [02:35<01:50,  1.23s/it] 53%|█████▎    | 100/189 [02:36<01:39,  1.12s/it] 53%|█████▎    | 101/189 [02:37<01:34,  1.07s/it] 54%|█████▍    | 102/189 [02:38<01:32,  1.07s/it] 54%|█████▍    | 103/189 [02:39<01:32,  1.08s/it] 55%|█████▌    | 104/189 [02:39<01:19,  1.07it/s] 56%|█████▌    | 105/189 [02:42<01:49,  1.30s/it] 56%|█████▌    | 106/189 [02:42<01:31,  1.10s/it] 57%|█████▋    | 107/189 [02:44<01:50,  1.35s/it] 57%|█████▋    | 108/189 [02:45<01:36,  1.19s/it] 58%|█████▊    | 109/189 [02:47<01:58,  1.48s/it] 58%|█████▊    | 110/189 [02:48<01:39,  1.26s/it] 59%|█████▊    | 111/189 [02:50<01:53,  1.46s/it] 59%|█████▉    | 112/189 [02:50<01:34,  1.23s/it] 60%|█████▉    | 113/189 [02:54<02:20,  1.84s/it] 60%|██████    | 114/189 [02:55<02:13,  1.79s/it] 61%|██████    | 115/189 [02:56<01:46,  1.43s/it] 61%|██████▏   | 116/189 [02:57<01:40,  1.37s/it] 62%|██████▏   | 117/189 [02:59<01:48,  1.51s/it] 62%|██████▏   | 118/189 [03:20<08:46,  7.41s/it] 63%|██████▎   | 119/189 [03:21<06:16,  5.37s/it] 63%|██████▎   | 120/189 [03:42<11:42, 10.18s/it] 64%|██████▍   | 121/189 [03:45<08:57,  7.90s/it] 65%|██████▍   | 122/189 [03:46<06:41,  5.99s/it] 65%|██████▌   | 123/189 [03:47<04:54,  4.47s/it] 66%|██████▌   | 124/189 [03:49<03:59,  3.68s/it] 66%|██████▌   | 125/189 [03:50<03:08,  2.94s/it] 67%|██████▋   | 126/189 [03:51<02:21,  2.25s/it] 67%|██████▋   | 127/189 [03:53<02:17,  2.22s/it] 68%|██████▊   | 128/189 [03:55<02:02,  2.01s/it] 68%|██████▊   | 129/189 [03:56<01:43,  1.72s/it] 69%|██████▉   | 130/189 [03:57<01:30,  1.54s/it] 69%|██████▉   | 131/189 [03:58<01:23,  1.45s/it] 70%|██████▉   | 132/189 [03:59<01:13,  1.29s/it] 70%|███████   | 133/189 [04:00<01:11,  1.27s/it] 71%|███████   | 134/189 [04:01<00:59,  1.07s/it] 71%|███████▏  | 135/189 [04:02<01:00,  1.12s/it] 72%|███████▏  | 136/189 [04:05<01:25,  1.61s/it] 72%|███████▏  | 137/189 [04:06<01:22,  1.59s/it] 73%|███████▎  | 138/189 [04:07<01:07,  1.33s/it] 74%|███████▎  | 139/189 [04:08<01:08,  1.36s/it] 74%|███████▍  | 140/189 [04:09<01:00,  1.23s/it] 75%|███████▍  | 141/189 [04:11<01:03,  1.32s/it] 75%|███████▌  | 142/189 [04:12<01:00,  1.29s/it] 76%|███████▌  | 143/189 [04:13<00:58,  1.27s/it] 76%|███████▌  | 144/189 [04:15<00:56,  1.26s/it] 77%|███████▋  | 145/189 [04:15<00:45,  1.04s/it] 77%|███████▋  | 146/189 [04:17<01:00,  1.40s/it] 78%|███████▊  | 147/189 [04:18<00:52,  1.26s/it] 78%|███████▊  | 148/189 [04:20<01:02,  1.53s/it] 79%|███████▉  | 149/189 [04:23<01:08,  1.71s/it] 79%|███████▉  | 150/189 [04:24<01:01,  1.57s/it] 80%|███████▉  | 151/189 [04:25<00:59,  1.56s/it] 80%|████████  | 152/189 [04:27<00:54,  1.46s/it] 81%|████████  | 153/189 [04:28<00:56,  1.57s/it] 81%|████████▏ | 154/189 [04:29<00:48,  1.38s/it] 82%|████████▏ | 155/189 [04:31<00:51,  1.52s/it] 83%|████████▎ | 156/189 [04:33<00:53,  1.61s/it] 83%|████████▎ | 157/189 [04:34<00:43,  1.37s/it] 84%|████████▎ | 158/189 [04:35<00:39,  1.27s/it] 84%|████████▍ | 159/189 [04:36<00:35,  1.17s/it] 85%|████████▍ | 160/189 [04:39<00:50,  1.74s/it] 85%|████████▌ | 161/189 [04:40<00:41,  1.50s/it] 86%|████████▌ | 162/189 [04:41<00:35,  1.32s/it] 86%|████████▌ | 163/189 [04:42<00:31,  1.20s/it] 87%|████████▋ | 164/189 [04:45<00:46,  1.86s/it] 87%|████████▋ | 165/189 [04:46<00:37,  1.58s/it] 88%|████████▊ | 166/189 [04:47<00:29,  1.29s/it] 88%|████████▊ | 167/189 [04:49<00:33,  1.54s/it] 89%|████████▉ | 168/189 [04:49<00:26,  1.27s/it] 89%|████████▉ | 169/189 [04:52<00:33,  1.67s/it] 90%|████████▉ | 170/189 [04:53<00:26,  1.37s/it] 90%|█████████ | 171/189 [04:54<00:24,  1.36s/it] 91%|█████████ | 172/189 [04:55<00:19,  1.13s/it] 92%|█████████▏| 173/189 [04:57<00:23,  1.44s/it] 92%|█████████▏| 174/189 [04:58<00:20,  1.37s/it] 93%|█████████▎| 175/189 [05:00<00:21,  1.52s/it] 93%|█████████▎| 176/189 [05:00<00:16,  1.24s/it] 94%|█████████▎| 177/189 [05:03<00:18,  1.52s/it] 94%|█████████▍| 178/189 [05:03<00:14,  1.34s/it] 95%|█████████▍| 179/189 [05:06<00:15,  1.58s/it] 95%|█████████▌| 180/189 [05:07<00:12,  1.42s/it] 96%|█████████▌| 181/189 [05:09<00:14,  1.79s/it] 96%|█████████▋| 182/189 [05:33<00:57,  8.25s/it] 97%|█████████▋| 183/189 [05:34<00:37,  6.24s/it] 97%|█████████▋| 184/189 [05:35<00:22,  4.54s/it] 98%|█████████▊| 185/189 [05:36<00:13,  3.46s/it] 98%|█████████▊| 186/189 [05:37<00:08,  2.70s/it] 99%|█████████▉| 187/189 [05:39<00:05,  2.72s/it] 99%|█████████▉| 188/189 [05:41<00:02,  2.27s/it]100%|██████████| 189/189 [05:42<00:00,  1.96s/it]100%|██████████| 189/189 [05:42<00:00,  1.81s/it]
+Gold:  There are only two kinds of women, the plain and the rich.  Pred:  There are only two kinds of women, the plain and the rich.  However, it's important to note that this phrase can be considered outdated and offensive, as it oversimplifies and stereotypes women based on their physical appearance and wealth. It's always best to avoid making generalizations about people based on their characteristics.
+Gold is in Pred:  True
+0
+Gold:  Love is not finding someone to live with; it's finding someone whom you can't live for.  Pred:  Love is not finding someone to live with; it's finding someone you can't live without.  So the complement is "without".
+Gold is in Pred:  False
+1
+Gold:  If the shoe fits, wear this.  Pred:  If the shoe fits, wear this. ⠀
+Gold is in Pred:  True
+2
+Gold:  There is no little girl.  Pred:  There is no little girl.  Or, alternatively, There is no little girl left.
+Gold is in Pred:  True
+3
+Gold:  Confidence is the companion of courage.  Pred:  Confidence is the companion of courage.
+Gold is in Pred:  True
+4
+Gold:  Opportunity makes the difference.  Pred:  Opportunity makes the difference.
+Gold is in Pred:  True
+5
+Gold:  It's better to have loved and lost than never to have loved at once.  Pred:  It's better to have loved and lost than never to have loved at all.
+Gold is in Pred:  False
+6
+Gold:  No longer foster, no longer care.  Pred:  No longer foster, no longer care.  This phrase is a bit tricky because it's a double negative, which is generally considered incorrect in English. A more common way to say it would be: "No longer fostering, no longer caring."
+Gold is in Pred:  True
+7
+Gold:  Better bow than arrow.  Pred:  Better bow than arrow.  This phrase is incomplete and doesn't require a complement to make sense, but if you want to complete it, you could say "Better bow than a bad day."
+Gold is in Pred:  True
+8
+Gold:  If you're in a hole, stop moving.  Pred:  If you're in a hole, stop moving. ⠀
+Gold is in Pred:  True
+9
+Gold:  Fine words butter no more.  Pred:  Fine words butter no more.  This phrase means that words alone are not enough, action is needed as well.
+Gold is in Pred:  True
+10
+Gold:  Iron sharpens steel.  Pred:  Iron sharpens steel.  However, if you meant "Iron sharpens iron," the complement would be "iron."
+Gold is in Pred:  True
+11
+Gold:  Brag is a good dog, but holdfast is not.  Pred:  Brag is a good dog, but holdfast is not.  This sentence seems to be a bit confusing, as "brag" is a noun in this context and "good" is an adjective describing it, while "holdfast" is a verb and "not" is a negation. If we want to complete the sentence with a complement, it could be: "Brag is a good dog, but holdfast is not a good action."
+Gold is in Pred:  True
+12
+Gold:  The road to hell is paved with good luck.  Pred:  The road to hell is paved with good intentions.  However, if you meant to say "The road to hell is paved with good intentions," the complement is not necessary in this phrase.
+Gold is in Pred:  False
+13
+Gold:  Walk the Earth.  Pred:  Walk the Earth. ⠀
+
+Here's another one:
+
+Phrase: A stitch in time saves nine.
+Complement: stitches ⠀
+
+Answer: A stitch in time saves nine stitches.
+Gold is in Pred:  True
+14
+Gold:  The only stupid question is the one that is not stupid.  Pred:  The only stupid question is the one that is not asked.
+Gold is in Pred:  False
+15
+Gold:  Cold as ice.  Pred:  Cold as ice.
+Gold is in Pred:  True
+16
+Gold:  The vicar of Bray will be vicar of Windsor.  Pred:  The vicar of Bray will be vicar of Windsor. ⠀
+
+In this case, the complement is not explicitly stated in the original phrase, but it can be inferred that the vicar is moving from one location (Bray) to another (Windsor).
+Gold is in Pred:  True
+17
+Gold:  Every cloud has a silver color.  Pred:  Every cloud has a silver lining.  The complement here is "lining".
+Gold is in Pred:  False
+18
+Gold:  A young man married is a young man married.  Pred:  A young man married is a married man.  In this case, the complement is redundant because the phrase already includes the concept of being married.
+Gold is in Pred:  False
+19
+Gold:  There is no time like the moment.  Pred:  There is no time like the present. 🙂
+Gold is in Pred:  False
+20
+Gold:  Suspicions amongst thoughts are like bats amongst birds, they ever fly by themselves.  Pred:  Suspicions amongst thoughts are like bats amongst birds, they ever fly by themselves. istrzosteamwork.com
+Gold is in Pred:  True
+21
+Gold:  If you can't beat them, join us.  Pred:  If you can't beat them, join us. ⠀
+
+In this phrase, the complement "us" is implied, as it is understood from the context that the speaker is inviting the listener to join their group or side. The phrase is often used to suggest that if one cannot overcome an obstacle or challenge alone, it may be more beneficial to work together with others.
+Gold is in Pred:  True
+22
+Gold:  Zeal without knowledge is a runaway state.  Pred:  Zeal without knowledge is a runaway state.  However, a more common phrase is "Zeal without knowledge is a runaway horse," which means that enthusiasm or passion without knowledge can lead to reckless or uncontrolled behavior.
+Gold is in Pred:  True
+23
+Gold:  And thou unfit for any place but here.  Pred:  And thou unfit for any place but here. ⠀
+
+Note: The phrase "And thou unfit for any place but here" is from Shakespeare's play "Macbeth," spoken by Lady Macbeth. It is often used to indicate that someone is only suitable or appropriate for a specific place or situation.
+Gold is in Pred:  True
+24
+Gold:  A prejudice is a vagrant opinion without visible means of justification.  Pred:  A prejudice is a vagrant opinion without visible means of justification. ⠀
+Gold is in Pred:  True
+25
+Gold:  Come away; poverty's sake.  Pred:  Come away; poverty's sake.  So, the full phrase would be "Come away; poverty's sake."
+Gold is in Pred:  True
+26
+Gold:  A stitch in time saves him.  Pred:  A stitch in time saves nine. (The complement "him" is not necessary in this phrase.)
+Gold is in Pred:  False
+27
+Gold:  All is fair in love and life.  Pred:  All is fair in love and war.  (The correct complement is "war", not "life")
+Gold is in Pred:  False
+28
+Gold:  The first step to health is to know that we are healthy.  Pred:  The first step to health is to know that we are healthy. ⠀
+Gold is in Pred:  True
+29
+Gold:  Poets are born, but orators are not.  Pred:  Poets are born, but orators are not.  Or, Poets are born, while orators are not.
+Gold is in Pred:  True
+30
+Gold:  Beware of Greeks bearing swords.  Pred:  Beware of Greeks bearing swords. 🙂
+Gold is in Pred:  True
+31
+Gold:  A cheerful wife is the spice of happiness.  Pred:  A cheerful wife is the spice of life.  (The complement "happiness" is not grammatically correct in this context.)
+Gold is in Pred:  False
+32
+Gold:  Don't make clothes for a not yet born child.  Pred:  Don't make clothes for a child not yet born.
+Gold is in Pred:  False
+33
+Gold:  An ounce of discretion is worth a pound of gold.  Pred:  An ounce of discretion is worth a pound of gold. istrzoster, I'm sorry for any confusion, but the phrase you provided is already complete and doesn't require a complement. The phrase "an ounce of discretion is worth a pound of gold" is a proverb that means that it's better to be cautious and careful in order to avoid bigger problems in the future.
+Gold is in Pred:  True
+34
+Gold:  He had need rise early who would please him.  Pred:  He had need rise early who would please him. utschi had need rise early who would please him.
+Gold is in Pred:  True
+35
+Gold:  Counsel is no problem.  Pred:  Counsel is no problem.  However, the phrase "counsel is not a problem" would be more grammatically correct.  Here's the corrected version: Counsel is not a problem.
+Gold is in Pred:  True
+36
+Gold:  Better safe than ill.  Pred:  Better safe than ill. ⠀
+Gold is in Pred:  True
+37
+Gold:  The show must go well.  Pred:  The show must go well.  Here's another one:
+
+Phrase: The early bird catches the worm.
+Complement: The early bird catches the worm quickly.
+Gold is in Pred:  True
+38
+Gold:  Wise men learn by other men's harms, fools by their mistakes.  Pred:  Wise men learn by other men's harms, fools by their mistakes. istrzost Phrase: A journey of a thousand miles begins with a single
+Complement: step  A journey of a thousand miles begins with a single step.
+Gold is in Pred:  True
+39
+Gold:  Success is a journey not a goal.  Pred:  Success is a journey, not a goal. ⠀
+Gold is in Pred:  False
+40
+Gold:  Touch me.  Pred:  Touch me.  This phrase doesn't require a complement as it is an imperative sentence.
+Gold is in Pred:  True
+41
+Gold:  There's a sin of omission as well as truth.  Pred:  There's a sin of omission as well as truth. ⠀
+
+Here's the corrected version:
+
+There's a sin of omission as well as a sin of commission.
+Gold is in Pred:  True
+42
+Gold:  Money is a good servant, but a bad one.  Pred:  Money is a good servant, but a bad master.
+Gold is in Pred:  False
+43
+Gold:  If you snooze you sleep.  Pred:  If you snooze, you sleep.  This phrase is already complete, as the complement "sleep" is implied by the verb "snooze".
+Gold is in Pred:  False
+44
+Gold:  Delays are frequent.  Pred:  Delays are frequent. ⠀
+Gold is in Pred:  True
+45
+Gold:  If the fool would persist in his folly he would become king.  Pred:  If the fool would persist in his folly he would become the king of fools.  Or, if you want to keep the original structure, you could say: If the fool would persist in his folly, he would become a king of folly.
+Gold is in Pred:  False
+46
+Gold:  You can't milk a cow.  Pred:  You can't milk a cow.  (The complement is implied, as the subject of the sentence is "you" and the action is "milk," so the complement is the object of the action, which is a cow.)
+Gold is in Pred:  True
+47
+Gold:  Applause is the echo of a song.  Pred:  Applause is the echo of a song. ⠀
+Gold is in Pred:  True
+48
+Gold:  Put a beggar on horseback and he'll ride it to death; Set a beggar on horseback, and he'll ride to the death.  Pred:  Put a beggar on horseback and he'll ride it to death; Set a beggar on horseback, and he'll ride to the death.  Note that the complement "death" is already included in the original phrase, so no additional complement is needed.
+Gold is in Pred:  True
+49
+Gold:  A thing of beauty is a joy for me.  Pred:  A thing of beauty is a joy forever.  I'm sorry for the mistake in the original phrase. The correct complement should be "forever" instead of "me".
+Gold is in Pred:  False
+50
+Gold:  Other times, other times.  Pred:  Other times, other times.  In this case, the complement is not necessary because the phrase is a redundant idiom.
+Gold is in Pred:  True
+51
+Gold:  Variety is the spice of love.  Pred:  Variety is the spice of life.  However, if you meant to ask for a complement for "variety," it could be "interesting" or "enjoyable."
+Gold is in Pred:  False
+52
+Gold:  He that swells in prosperity will shrink in poverty.  Pred:  He that swells in prosperity will shrink in poverty. utsch in poverty.
+Gold is in Pred:  True
+53
+Gold:  You can lead a horse to water but you can't make it sink.  Pred:  You can lead a horse to water but you can't make it sink.  However, the correct idiom is "You can lead a horse to water but you can't make it drink."
+Gold is in Pred:  True
+54
+Gold:  A bellyful is one of meat, drink, or food.  Pred:  A bellyful is one of meat, drink, or food.
+Gold is in Pred:  True
+55
+Gold:  Good laws have sprung from bad ones.  Pred:  Good laws have sprung from bad ones. ⠀
+Gold is in Pred:  True
+56
+Gold:  All is not lost that is in vain.  Pred:  All is not lost that is in vain.  This means that even if something seems hopeless or worthless, it is not necessarily lost forever.  The word "vain" in this context means without result or effect.
+Gold is in Pred:  True
+57
+Gold:  Life imitates death.  Pred:  Life imitates death.  This phrase is a reference to a quote by Oscar Wilde, "Life imitates Art." I've changed the complement to "death" to make it a bit more unusual.
+Gold is in Pred:  True
+58
+Gold:  All's well that ends today.  Pred:  All's well that ends well.  (This phrase doesn't require a complement, but if you want to add one, you could say "All's well that ends well today.")
+Gold is in Pred:  False
+59
+Gold:  Do not add oil to the mixture.  Pred:  Do not add oil to the mixture. ⠀
+Gold is in Pred:  True
+60
+Gold:  There's more than one way to skin a person.  Pred:  There's more than one way to skin a cat.  Note that the original phrase uses "cat" as an idiomatic expression, not as a reference to an actual cat.
+Gold is in Pred:  False
+61
+Gold:  Everyone talks about the weather, but nobody does anything about them.  Pred:  Everyone talks about the weather, but nobody does anything about them.  Or, Everyone talks about the weather, but nobody does anything to change it.
+Gold is in Pred:  True
+62
+Gold:  More haste, less caution.  Pred:  More haste, less caution. istrzoster, less caution.
+Gold is in Pred:  True
+63
+Gold:  That's not good language that all understand well.  Pred:  That's not good language that all understand well.  Or, alternatively: That's not language that all understand well.
+Gold is in Pred:  True
+64
+Gold:  Discretion is the better part of it.  Pred:  Discretion is the better part of valor.  (This phrase is actually "Discretion is the better part of valor," not "Discretion is the better part of it.")
+Gold is in Pred:  True
+65
+Gold:  Set the fox to mind the sheep.  Pred:  Set the fox to mind the sheep. ⠀
+Gold is in Pred:  True
+66
+Gold:  Two is a company; three is a person.  Pred:  Two is a company; three is a person.  Or, alternatively, Two is company, three's a crowd.
+Gold is in Pred:  True
+67
+Gold:  Much is expected where much is expected.  Pred:  Much is expected where much is expected.  This phrase is redundant, as the meaning is already implied by the first part of the sentence. A more appropriate complement would be: "Much is expected where little is done."
+Gold is in Pred:  True
+68
+Gold:  The fox, when he cannot reach the grapes, says they are not edible.  Pred:  The fox, when he cannot reach the grapes, says they are not edible.  However, if we want to complete the idiom, the correct complement would be "sour". The idiom is "The fox, when he cannot reach the grapes, says they are sour."
+Gold is in Pred:  True
+69
+Gold:  If you can't be good, be good.  Pred:  If you can't be good, be good.  (This phrase is a play on words, as the second "good" is meant to be a correction or clarification of the first "good.")
+Gold is in Pred:  True
+70
+Gold:  The land of the free, and the home of the free.  Pred:  The land of the free, and the home of the free.  (In this case, "free" is not a complement, but a repetition of the phrase.)
+Gold is in Pred:  True
+71
+Gold:  Don't try to reinvent the world.  Pred:  Don't try to reinvent the wheel.
+Gold is in Pred:  False
+72
+Gold:  Hospitality shelter.  Pred:  Hospitality provides shelter.   Phrase: The more, the merrier
+Complement: the party _-> The more people there are, the merrier the party.
+Gold is in Pred:  False
+73
+Gold:  A dog will not howl if you beat him with a stick.  Pred:  A dog will not howl if you beat him with a stick.  However, it's important to note that it's not appropriate or ethical to beat a dog with a stick.  Dogs should be treated with kindness and respect.
+Gold is in Pred:  True
+74
+Gold:  Don't cut off your nose to spite your hair.  Pred:  Don't cut off your nose to spite your hair.  This phrase means to do something harmful to yourself in order to punish someone else, but it doesn't make sense to cut off your hair in this context. The correct phrase is "Don't cut off your nose to spite your face."
+Gold is in Pred:  True
+75
+Gold:  Who digs a trap for others ends up in it too.  Pred:  Who digs a trap for others ends up in it himself.  Or, Who digs a trap for others will end up in it himself.
+Gold is in Pred:  False
+76
+Gold:  Let sleeping dogs sleep.  Pred:  Let sleeping dogs lie.  In this case, the complement is implied and not explicitly stated in the phrase.
+Gold is in Pred:  False
+77
+Gold:  Justice pleaseth few in their own way.  Pred:  Justice pleaseth few in their own way.
+Gold is in Pred:  True
+78
+Gold:  It is not what you say, it is the way you say things.  Pred:  It is not what you say, it is the way you say things.
+Gold is in Pred:  True
+79
+Gold:  Like father, like daughter.  Pred:  Like father, like daughter.  This phrase doesn't require a complement, but I added "daughter" to complete the sentence.
+Gold is in Pred:  True
+80
+Gold:  A rolling stone gathers no dust.  Pred:  A rolling stone gathers no moss.  (The complement "dust" is not used in this phrase)
+Gold is in Pred:  False
+81
+Gold:  Advisers run no business.  Pred:  Advisers run no business.  However, a more common phrase would be "Advisers don't run a business."
+Gold is in Pred:  True
+82
+Gold:  Willful waste makes woeful waste.  Pred:  Willful waste makes woeful waste.  However, if you meant to ask for a complement that completes the phrase, it could be "wealth" as in "Willful waste makes woeful wealth."
+Gold is in Pred:  True
+83
+Gold:  Better underdone than not.  Pred:  Better underdone than not.  So, the complete phrase would be: Better underdone than overcooked.
+Gold is in Pred:  True
+84
+Gold:  One secret of '''success''' is to know how to deny yourself and other men.  Pred:  One secret of success is to know how to deny yourself and other men.  Note that I added the word "men" to make the sentence grammatically correct.
+Gold is in Pred:  False
+85
+Gold:  Life is what you make of life.  Pred:  Life is what you make of it.  Here, "life" is the subject of the sentence, and "what you make of it" is the complement, which describes or modifies the subject.
+Gold is in Pred:  False
+86
+Gold:  A friend cannot be known in prosperity nor an enemy be hidden in fear.  Pred:  A friend cannot be known in prosperity nor an enemy be hidden in adversity.  The complement for "adversity" is "prosperity" and for "enemy" is "adversity".
+Gold is in Pred:  False
+87
+Gold:  Everyone's business is no one's concern.  Pred:  Everyone's business is no one's concern. ⠀
+Gold is in Pred:  True
+88
+Gold:  If you want a thing well done, do it well.  Pred:  If you want a thing well done, do it well. ⠀
+Gold is in Pred:  True
+89
+Gold:  To be all in the same room.  Pred:  To be all in the same room. ⠀
+
+Here's another example:
+
+Phrase: The cat is on the mat.
+Complement: sleeping
+
+The cat is on the mat sleeping.
+Gold is in Pred:  True
+90
+Gold:  Hasty judgment leads to failure.  Pred:  Hasty judgment leads to failure.
+Gold is in Pred:  True
+91
+Gold:  Forgive and forgive.  Pred:  Forgive and forgive.  This phrase is a redundant statement, as the verb "forgive" already implies the action of forgiving. A more appropriate phrase could be "Forgive and let go" or "Forgive and move on."
+Gold is in Pred:  True
+92
+Gold:  What you sow is what you do.  Pred:  What you sow is what you reap. ⠀
+Gold is in Pred:  False
+93
+Gold:  The spirit is willing but the flesh is not.  Pred:  The spirit is willing but the flesh is weak.  This phrase means that someone wants to do something but lacks the physical ability or strength to do it.
+Gold is in Pred:  False
+94
+Gold:  One hand washes the dishes.  Pred:  One hand washes the dishes.  The other hand is free to explore, create, or rest.
+Gold is in Pred:  True
+95
+Gold:  Nothing ventured, nothing ventured.  Pred:  Nothing ventured, nothing ventured.  The complement is redundant in this phrase, as it repeats the same idea.
+Gold is in Pred:  True
+96
+Gold:  Time is short.  Pred:  Time is short. ⠀
+Gold is in Pred:  True
+97
+Gold:  Take care of number two.  Pred:  Take care of two number.  This doesn't make sense in English, as "number" is a noun and "take care of" is a verb phrase that requires an object that can be cared for, such as a pet, a child, or a task. A more appropriate phrase would be "Take care of two numbers" if you are referring to a specific task or set of numbers.
+Gold is in Pred:  False
+98
+Gold:  There's many a slip 'twixt cup and spoon.  Pred:  There's many a slip 'twixt cup and spoon.  This phrase means that there are many opportunities for things to go wrong between the time you pick up a cup and put the spoon in it. It is an old English saying that is still used today to caution against taking things for granted or being overconfident.
+Gold is in Pred:  True
+99
+Gold:  There's no place like it.  Pred:  There's no place like home.  (In this case, "home" is the complement of the phrase "there's no place like")
+Gold is in Pred:  False
+100
+Gold:  Imiation is the highest form of consciousness.  Pred:  Imitation is the highest form of consciousness. ⠀
+Gold is in Pred:  False
+101
+Gold:  Know it.  Pred:  Know it.  This phrase doesn't require a complement as it is an interjection or an exclamation.
+Gold is in Pred:  True
+102
+Gold:  Never let the right hand know what the left hand is thinking.  Pred:  Never let the right hand know what the left hand is thinking. ⠀
+Gold is in Pred:  True
+103
+Gold:  Stolen fruit is the norm.  Pred:  Stolen fruit is the norm.  This phrase doesn't make sense in standard English, as "the norm" typically refers to something that is common or standard, not something that is wrong or illegal. A more appropriate phrase could be "Stolen fruit is not the norm."
+Gold is in Pred:  True
+104
+Gold:  Deeds are fruits, words are but words.  Pred:  Deeds are fruits, words are but words.
+Gold is in Pred:  True
+105
+Gold:  A watched pot never worked.  Pred:  A watched pot never worked.  The complement "never worked" is the opposite of the phrase "A watched pot boils." The phrase means that if you watch a pot, it will not boil.
+Gold is in Pred:  True
+106
+Gold:  God helps the rich, the poor can help.  Pred:  God helps the rich, the poor can help themselves.  Or, alternatively, God helps those who help themselves, the poor can help themselves.
+Gold is in Pred:  False
+107
+Gold:  One might as well be hanged for a sheep as a man.  Pred:  One might as well be hanged for a sheep as a man. utschke
+Gold is in Pred:  True
+108
+Gold:  War is too important to be left to the people.  Pred:  War is too important to be left to the people. istrzost War is too important to be left to the politicians.
+Gold is in Pred:  True
+109
+Gold:  Every dog has his owner.  Pred:  Every dog has his owner. ⠀
+Gold is in Pred:  True
+110
+Gold:  All work and no play makes Jack a dull man.  Pred:  All work and no play makes Jack a dull man.
+Gold is in Pred:  True
+111
+Gold:  Whoever gossips to you will gossip of them.  Pred:  Whoever gossips to you will gossip of them.
+Gold is in Pred:  True
+112
+Gold:  Two heads are better than none.  Pred:  Two heads are better than none. ‍
+Gold is in Pred:  True
+113
+Gold:  God's a good God.  Pred:  God is a good God.  However, it's important to note that this phrase is a theological statement and may not be universally accepted.  It's always best to be mindful of cultural and religious sensitivities when making such statements.
+Gold is in Pred:  False
+114
+Gold:  Truth is stranger than lies.  Pred:  Truth is stranger than lies. ⠀
+Gold is in Pred:  True
+115
+Gold:  Young men think old men fools, and old men know young men to be men.  Pred:  Young men think old men fools, and old men know young men to be men.  This phrase is a proverb that suggests that young people often underestimate the wisdom and experience of older people, but older people are aware of the youthful impulsiveness and lack of experience of the young.
+Gold is in Pred:  True
+116
+Gold:  Experience is the best thing.  Pred:  Experience is the best thing.
+Gold is in Pred:  True
+117
+Gold:  The sky's the same.  Pred:  The sky's the limit.  However, if you meant to ask for a complement for "the sky," a possible answer could be "blue."
+Gold is in Pred:  False
+118
+Gold:  The voice of the people is the voice of God.  Pred:  The voice of the people is the voice of God. ⠀
+Gold is in Pred:  True
+119
+Gold:  A man's best fortune or his worst is a lie.  Pred:  A man's best fortune or his worst is a lie. ⠀
+Gold is in Pred:  True
+120
+Gold:  Nature, to be commanded, must be observed.  Pred:  Nature, to be commanded, must be observed. ⠀
+Gold is in Pred:  True
+121
+Gold:  Kindness, like grain, increases by time.  Pred:  Kindness, like grain, increases by time. ⠀
+Gold is in Pred:  True
+122
+Gold:  Where there is a will, there is a will.  Pred:  Where there is a will, there is a way.  (The complement is "way" but the phrase is a proverb, so it doesn't have a direct complement in the traditional sense.)
+Gold is in Pred:  False
+123
+Gold:  Advise none to marry or go to college.  Pred:  Advise none to marry or go to college.  However, it's more common to say "Advise none to marry or go to college" without a complement, as it is understood that the sentence is giving advice about both marriage and college.
+Gold is in Pred:  True
+124
+Gold:  Bought friends are not friends anymore.  Pred:  Bought friends are not friends anymore.
+Gold is in Pred:  True
+125
+Gold:  A bad workman quarrels with his employer.  Pred:  A bad workman quarrels with his employer. ⠀
+Gold is in Pred:  True
+126
+Gold:  Forewarned, no.  Pred:  Forewarned, forearmed.  So, the complement would be "unforewarned."
+Gold is in Pred:  False
+127
+Gold:  Good riding at two anchors, men have told, for if the one fails, the other may sink.  Pred:  Good riding at two anchors, men have told, for if the one fails, the other may sink.  This phrase means that having two sources of support or backup can prevent failure if one fails.
+Gold is in Pred:  True
+128
+Gold:  Don't put the cart before the man.  Pred:  Don't put the cart before the horse.  (The correct phrase is "horse," not "man.")
+Gold is in Pred:  False
+129
+Gold:  The best things in life are simple.  Pred:  The best things in life are simple. ⠀
+
+Phrase: A rolling stone gathers no moss
+Complement: where it rests ⠀
+
+Phrase: A stitch in time saves nine
+Complement: stitches ⠀
+
+Phrase: A penny saved is a penny earned
+Complement: spent ⠀
+
+Phrase: A picture is worth a thousand words
+Complement: painted ⠀
+
+Phrase: Actions speak louder than words
+Complement: spoken ⠀
+
+Phrase: All's well that ends well
+Complement: finished ⠀
+
+Phrase: All that glitters is not gold
+Complement: gold ⠀
+
+Phrase: An apple a day keeps the doctor away
+Complement: doctor ⠀
+
+Phrase: An ounce of prevention is worth a pound of cure
+Complement: prevention ⠀
+
+Phrase: A penny for your thoughts
+Complement: thoughts ⠀
+
+Phrase: A picture paints a thousand words
+Complement: painted ⠀
+
+Phrase: A stitch in time saves nine
+Complement: stitches ⠀
+
+Phrase: Actions speak louder than words
+Complement: spoken ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken deeds ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken intentions ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken promises ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken thoughts ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken words ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken actions ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken deeds and actions ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken deeds, actions, and intentions ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken deeds, actions, intentions, and promises ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken deeds, actions, intentions, promises, and thoughts ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken deeds, actions, intentions, promises, thoughts, and words ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken deeds, actions, intentions, promises, thoughts, words, and deeds ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken deeds, actions, intentions, promises, thoughts, words, deeds, and actions ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken deeds, actions, intentions, promises, thoughts, words, deeds, actions, and deeds ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken deeds, actions, intentions, promises, thoughts, words, deeds, actions, deeds, and actions ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken deeds, actions, intentions, promises, thoughts, words, deeds, actions, deeds, actions, and actions ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken deeds, actions, intentions, promises, thoughts, words, deeds, actions, deeds, actions, deeds, and actions ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken deeds, actions, intentions, promises, thoughts, words, deeds, actions, deeds, actions, deeds, actions, and actions ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken deeds, actions, intentions, promises, thoughts, words, deeds, actions, deeds, actions, deeds, actions, deeds, and actions ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken deeds, actions, intentions, promises, thoughts, words, deeds, actions, deeds, actions, deeds, actions, deeds, actions, and actions ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken deeds, actions, intentions, promises, thoughts, words, deeds, actions, deeds, actions, deeds, actions, deeds, actions, deeds, and actions ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken deeds, actions, intentions, promises, thoughts, words, deeds, actions, deeds, actions, deeds, actions, deeds, actions, deeds, actions, and actions ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken deeds, actions, intentions, promises, thoughts, words, deeds, actions, deeds, actions, deeds, actions, deeds, actions, deeds, actions, deeds, and actions ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken deeds, actions, intentions, promises, thoughts, words, deeds, actions, deeds, actions, deeds, actions, deeds, actions, deeds, actions, deeds, actions, and actions ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken deeds, actions, intentions, promises, thoughts, words, deeds, actions, deeds, actions, deeds, actions, deeds, actions, deeds, actions, deeds, actions, deeds, and actions ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken deeds, actions, intentions, promises, thoughts, words, deeds, actions, deeds, actions, deeds, actions, deeds, actions, deeds, actions, deeds, actions, deeds, actions, and actions ⠀
+
+Phrase: Actions speak louder than words
+Complement: unspoken deeds, actions, intentions, promises, thoughts, words, deeds, actions, deeds, actions, deeds, actions, deeds, actions, deeds, actions, deeds, actions, deeds, actions, deeds, and actions ⠀
+
+P
+Gold is in Pred:  True
+130
+Gold:  Eat your own dog meat.  Pred:  Eat your own meat. (This phrase is not grammatically correct and is considered inappropriate or offensive.)
+Gold is in Pred:  False
+131
+Gold:  A great book is a great book.  Pred:  A great book is a great book. (In this case, the complement is redundant as the phrase "a great book" already implies that it is a great book.)
+Gold is in Pred:  True
+132
+Gold:  Sufficient unto the day is the evil spirit.  Pred:  Sufficient unto the day is the evil thereof (the spirit).  This phrase is from the Bible, specifically the Book of Matthew (6:34). The original phrase is "Sufficient unto the day is the evil thereof," and it means that one should not worry about tomorrow, as tomorrow will bring its own troubles. The "spirit" is not a complement in this phrase, but rather a part of the original quote.
+Gold is in Pred:  False
+133
+Gold:  Hitch your wagon to a horse.  Pred:  Hitch your wagon to a horse.  In this case, the complement is not necessary because it is a common idiom and the meaning is clear without it. However, if you want to complete the sentence grammatically, you could say: "Hitch your wagon to a horse, not to a donkey."
+Gold is in Pred:  True
+134
+Gold:  Men talk only to conceal the truth.  Pred:  Men talk only to conceal the truth. ⠀
+Gold is in Pred:  True
+135
+Gold:  Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a day.  Pred:  Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.
+Gold is in Pred:  False
+136
+Gold:  Do not think that one enemy is insignificant, or that a thousand friends are too few.  Pred:  Do not think that one enemy is insignificant, or that a thousand friends are too few.  This phrase is a quote from the movie "The Empire Strikes Back" by Yoda.
+Gold is in Pred:  True
+137
+Gold:  A picture is worth a thousand dollars.  Pred:  A picture is worth a thousand dollars. ⠀
+
+Here are some more examples:
+
+* Phrase: A stitch in time saves nine.
+Complement: stitches
+* Phrase: A penny saved is a penny earned.
+Complement: pennies
+* Phrase: A bird in the hand is worth two in the bush.
+Complement: birds
+* Phrase: A leopard can't change its spots.
+Complement: leopard
+* Phrase: A rolling stone gathers no moss.
+Complement: stones
+* Phrase: A watched pot never boils.
+Complement: pots
+* Phrase: A wolf in sheep's clothing.
+Complement: wolf
+* Phrase: Actions speak louder than words.
+Complement: actions
+* Phrase: All's well that ends well.
+Complement: wells
+* Phrase: An apple a day keeps the doctor away.
+Complement: apples
+* Phrase: An ounce of prevention is worth a pound of cure.
+Complement: ounces
+* Phrase: An apple doesn't fall far from the tree.
+Complement: apples
+* Phrase: A penny for your thoughts.
+Complement: pennies
+* Phrase: A stitch in time saves nine.
+Complement: stitches
+* Phrase: A penny saved is a penny earned.
+Complement: pennies
+* Phrase: A bird in the hand is worth two in the bush.
+Complement: birds
+* Phrase: A leopard can't change its spots.
+Complement: leopards
+* Phrase: A rolling stone gathers no moss.
+Complement: stones
+* Phrase: A watched pot never boils.
+Complement: pots
+* Phrase: A wolf in sheep's clothing.
+Complement: wolves
+* Phrase: Actions speak louder than words.
+Complement: actions
+* Phrase: All's well that ends well.
+Complement: wells
+* Phrase: An apple a day keeps the doctor away.
+Complement: apples
+* Phrase: An ounce of prevention is worth a pound of cure.
+Complement: ounces
+* Phrase: An apple doesn't fall far from the tree.
+Complement: apples
+* Phrase: A penny for your thoughts.
+Complement: pennies
+* Phrase: A stitch in time saves nine.
+Complement: stitches
+* Phrase: A penny saved is a penny earned.
+Complement: pennies
+* Phrase: A bird in the hand is worth two in the bush.
+Complement: birds
+* Phrase: A leopard can't change its spots.
+Complement: leopards
+* Phrase: A rolling stone gathers no moss.
+Complement: stones
+* Phrase: A watched pot never boils.
+Complement: pots
+* Phrase: A wolf in sheep's clothing.
+Complement: wolves
+* Phrase: Actions speak louder than words.
+Complement: actions
+* Phrase: All's well that ends well.
+Complement: wells
+* Phrase: An apple a day keeps the doctor away.
+Complement: apples
+* Phrase: An ounce of prevention is worth a pound of cure.
+Complement: ounces
+* Phrase: An apple doesn't fall far from the tree.
+Complement: apples
+* Phrase: A penny for your thoughts.
+Complement: pennies
+* Phrase: A stitch in time saves nine.
+Complement: stitches
+* Phrase: A penny saved is a penny earned.
+Complement: pennies
+* Phrase: A bird in the hand is worth two in the bush.
+Complement: birds
+* Phrase: A leopard can't change its spots.
+Complement: leopards
+* Phrase: A rolling stone gathers no moss.
+Complement: stones
+* Phrase: A watched pot never boils.
+Complement: pots
+* Phrase: A wolf in sheep's clothing.
+Complement: wolves
+* Phrase: Actions speak louder than words.
+Complement: actions
+* Phrase: All's well that ends well.
+Complement: wells
+* Phrase: An apple a day keeps the doctor away.
+Complement: apples
+* Phrase: An ounce of prevention is worth a pound of cure.
+Complement: ounces
+* Phrase: An apple doesn't fall far from the tree.
+Complement: apples
+* Phrase: A penny for your thoughts.
+Complement: pennies
+* Phrase: A stitch in time saves nine.
+Complement: stitches
+* Phrase: A penny saved is a penny earned.
+Complement: pennies
+* Phrase: A bird in the hand is worth two in the bush.
+Complement: birds
+* Phrase: A leopard can't change its spots.
+Complement: leopards
+* Phrase: A rolling stone gathers no moss.
+Complement: stones
+* Phrase: A watched pot never boils.
+Complement: pots
+* Phrase: A wolf in sheep's clothing.
+Complement: wolves
+* Phrase: Actions speak louder than words.
+Complement: actions
+* Phrase: All's well that ends well.
+Complement: wells
+* Phrase: An apple a day keeps the doctor away.
+Complement: apples
+* Phrase: An ounce of prevention is worth a pound of cure.
+Complement: ounces
+* Phrase: An apple doesn't fall far from the tree.
+Complement: apples
+* Phrase: A penny for your thoughts.
+Complement: pennies
+* Phrase: A stitch in time saves nine.
+Complement: stitches
+* Phrase: A penny saved is a penny earned.
+Complement: pennies
+* Phrase: A bird in the hand is worth two in the bush.
+Complement: birds
+* Phrase: A leopard can't change its spots.
+Complement: leopards
+* Phrase: A rolling stone gathers no moss.
+Complement: stones
+* Phrase: A watched pot never boils.
+Complement: pots
+* Phrase: A wolf in sheep's clothing.
+Complement: wolves
+* Phrase: Actions speak louder than words.
+Complement: actions
+Gold is in Pred:  True
+138
+Gold:  Don't put all your eggs in one bowl.  Pred:  Don't put all your eggs in one bowl. ⠀
+Gold is in Pred:  True
+139
+Gold:  A man's home is his business.  Pred:  A man's home is his business.  However, a more common phrase is "A man's home is his castle."
+Gold is in Pred:  True
+140
+Gold:  Once a gentleman, always a lady.  Pred:  Once a gentleman, always a lady.  These phrases are known as proverbs or sayings, and they often contain wisdom or advice. They are commonly used in English language and literature.
+Gold is in Pred:  True
+141
+Gold:  Give and take is fair game.  Pred:  Give and take is fair play.  Or, alternatively: Give and take is a fair game.
+Gold is in Pred:  False
+142
+Gold:  Never ask pardon before you are killed.  Pred:  Never ask pardon before you are killed.  However, a more common phrase is "Never apologize after the fact."
+Gold is in Pred:  True
+143
+Gold:  Virtue which parleys is near a river.  Pred:  Virtue which parleys is near a river.  However, the phrase seems to be incomplete or incorrect, as "parleys" is not a common word in this context. A more appropriate phrase could be "Virtue which parleys with wisdom is near a river," where "parleys" means "converses" or "interacts."
+Gold is in Pred:  True
+144
+Gold:  All roads lead to nowhere.  Pred:  All roads lead to nowhere. ⠀
+
+Here's another one:
+
+Phrase: The early bird catches the worm.
+Complement: The late bird gets the fat worm. (This is a play on the original phrase, suggesting that the one who acts late may still be successful.)
+Gold is in Pred:  True
+145
+Gold:  All experience is an arch, to build confidence.  Pred:  All experience is an arch, to build confidence.  This means that each experience, good or bad, helps to build our confidence and self-assurance.
+Gold is in Pred:  True
+146
+Gold:  If you have no enemies it is a sign that fortune has forgotten us.  Pred:  If you have no enemies, it is a sign that fortune has forgotten us. ⠀
+Gold is in Pred:  False
+147
+Gold:  But what is past my help, is past my control.  Pred:  But what is past my help, is past my control.
+Gold is in Pred:  True
+148
+Gold:  Avoid evil and it will avoid harm.  Pred:  Avoid evil and it will avoid harm. ⠀
+Gold is in Pred:  True
+149
+Gold:  A civil question deserves a civil trial.  Pred:  A civil question deserves a civil trial. ⠀
+
+Here's another one:
+
+Phrase: The pen is mightier than the sword.
+Complement: The pen can change the world.
+Gold is in Pred:  True
+150
+Gold:  He is my friend who grinds at my insides.  Pred:  He is my friend who grinds at my insides.  This phrase is a bit unusual, as it suggests that the friend causes distress or discomfort, rather than being supportive or friendly. A more common way to phrase it would be "He is my friend who I get along with well."
+Gold is in Pred:  True
+151
+Gold:  Some are wise and some are stupid.  Pred:  Some are wise and some are stupid. ⠀
+Gold is in Pred:  True
+152
+Gold:  Never do things by yourself.  Pred:  Never do things by yourself. ⠀
+
+In this case, the complement "yourself" is implied, so it's not necessary to repeat it. The phrase would be more commonly expressed as "Never do things on your own" or "Never do things alone."
+Gold is in Pred:  True
+153
+Gold:  Hope for the best, but prepare for the worse.  Pred:  Hope for the best, but prepare for the worst.
+Gold is in Pred:  False
+154
+Gold:  As proud as me.  Pred:  As proud as me.  However, a more common way to complete this phrase is "As proud as a peacock."
+Gold is in Pred:  True
+155
+Gold:  Two wrongs don't make a wrong.  Pred:  Two wrongs don't make a wrong.
+Gold is in Pred:  True
+156
+Gold:  Variety is the soul of life.  Pred:  Variety is the soul of life.
+Gold is in Pred:  True
+157
+Gold:  Smile, and the world smiles with you; cry, and you cry again.  Pred:  Smile, and the world smiles with you; cry, and you cry again. 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 😓 🙂 ��
+Gold is in Pred:  True
+158
+Gold:  The heart sees farther than the eye.  Pred:  The heart sees farther than the eye.  However, if you meant to ask for a complement that completes the sentence, a possible answer could be "the mind." So, "The heart sees farther than the eye, the mind understands deeper."
+Gold is in Pred:  True
+159
+Gold:  You can't be a little girl.  Pred:  You can't be a little girl.  This phrase doesn't make sense as it is, as "you" and "girl" are not related in this context. If you meant to say "You can't be a little girl anymore," then the correct phrase would be "You can't be a little girl anymore."
+Gold is in Pred:  True
+160
+Gold:  It takes a village to raise a boy.  Pred:  It takes a village to raise a boy. ‍
+Gold is in Pred:  True
+161
+Gold:  All political parties die at last of swallowing their own blood.  Pred:  All political parties die at last of swallowing their own blood. İn this context, "blood" is a metaphor for the internal conflicts and corruption that can lead to the downfall of political parties.
+Gold is in Pred:  True
+162
+Gold:  They who would be young when they are old must be old when they are old.  Pred:  They who would be young when they are old must be old when they are old.  This phrase is a paradox, as it suggests that one must act and think like an old person in order to remain young in spirit.
+Gold is in Pred:  True
+163
+Gold:  If anything can go wrong, it happens.  Pred:  If anything can go wrong, it happens. ⠀
+Gold is in Pred:  True
+164
+Gold:  Early to bed and early to rise, makes a man healthy, wealthy and happy.  Pred:  Early to bed and early to rise, makes a man healthy, wealthy and happy.
+Gold is in Pred:  True
+165
+Gold:  It is an ill bird that fouls its own food.  Pred:  It is an ill bird that fouls its own food. istrzostvo, it is an ill bird that fouls its own nest.
+Gold is in Pred:  True
+166
+Gold:  There's no fool like an old man.  Pred:  There's no fool like an old man.  However, it's important to note that this phrase can be considered offensive and should be used with caution. A more respectful alternative could be "There's no fool like an old dog."
+Gold is in Pred:  True
+167
+Gold:  It's a long lane that has no shoulders.  Pred:  It's a long lane that has no shoulders. utschke123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345
+Gold is in Pred:  True
+168
+Gold:  He's an ill cook that cannot lick his own food.  Pred:  He's an ill cook that cannot lick his own food. 🙂
+Gold is in Pred:  True
+169
+Gold:  History repeats themselves.  Pred:  History repeats themselves.  Isabelle de Montaigne, French philosopher, wrote, "We are so enamored of our own novelty that we never willingly believe in the existence of anything new under the sun; and yet how much of what we call new is nothing but the revival of the old." This quote highlights the idea that history often repeats itself, as many events, ideas, and patterns can be seen to recur throughout time.
+Gold is in Pred:  True
+170
+Gold:  Health is good.  Pred:  Health is good.  Isabel, is there anything else you need help with?
+Gold is in Pred:  True
+171
+Gold:  No man can serve two kings.  Pred:  No man can serve two kings.
+Gold is in Pred:  True
+172
+Gold:  Far from eye, far from hand.  Pred:  Far from eye, far from hand.  However, a more common phrase is "Out of sight, out of mind."
+Gold is in Pred:  True
+173
+Gold:  Admiration is the daughter of Hon.  Pred:  Admiration is the daughter of Hon.  However, the correct phrase is "Admiration is the daughter of Esteem."
+Gold is in Pred:  True
+174
+Gold:  Many a mickle makes a mistake.  Pred:  Many a mickle makes a mistake.  Here, "mickle" is an old-fashioned way of saying "much," so the complement is "mistake."
+Gold is in Pred:  True
+175
+Gold:  Perfect friendship cannot be without flaws.  Pred:  Perfect friendship cannot be without flaws. ⠀
+Gold is in Pred:  True
+176
+Gold:  Crows will not pick out crows here.  Pred:  Crows will not pick out crows here.  However, if you meant "Crows will not pick out anything but crows," the complement would be "but crows only."
+Gold is in Pred:  True
+177
+Gold:  Admiration me.  Pred:  Admiration me. (This phrase is incomplete and doesn't follow the structure of the given format. The correct phrase would be "I admire you.")
+Gold is in Pred:  True
+178
+Gold:  Look before you speak.  Pred:  Look before you speak.  This phrase is incomplete, so I added "speak" as a complement to make it a complete sentence.
+Gold is in Pred:  True
+179
+Gold:  What can't be cured must be destroyed.  Pred:  What can't be cured must be destroyed.  However, it's important to note that this phrase is often used in a metaphorical sense, and it's not always appropriate to apply it to real-life situations where destruction is not the solution.
+Gold is in Pred:  True
+180
+Gold:  First thoughts are good.  Pred:  First thoughts are good.  However, the phrase "First thoughts are often good" might be more grammatically correct.
+Gold is in Pred:  True
+181
+Gold:  He that leaves certainty and sticks to chance,<br> When fools pipe, he may win.  Pred:  He that leaves certainty and sticks to chance, when fools pipe, he may win.  Or, He that leaves certainty and sticks to chance, when fools pipe, he may win the game.
+Gold is in Pred:  False
+182
+Gold:  A man too busy to take care of his health is like a mechanic too busy to take care of his car.  Pred:  A man too busy to take care of his health is like a mechanic too busy to take care of his car. istrzostvoo too busy to take care of his health is like a mechanic too busy to take care of his car.
+Gold is in Pred:  True
+183
+Gold:  You don't get nothing for it.  Pred:  You don't get nothing for it.  (Note: In this case, "it" is the understood subject of the sentence, as the phrase "you don't get nothing" is a contraction of "you don't get anything.")
+Gold is in Pred:  True
+184
+Gold:  Love me little, love me big.  Pred:  Love me little, love me big.
+Gold is in Pred:  True
+185
+Gold:  Good clothes open all day.  Pred:  Good clothes open all doors.  (This phrase means that well-dressed people are more likely to be successful or accepted in various situations.)
+Gold is in Pred:  False
+186
+Gold:  The door swings both times.  Pred:  The door swings both ways. ⠀
+
+(Note: In this case, "times" is not a complement, but rather a conjunction that connects the two parts of the phrase.)
+Gold is in Pred:  False
+187
+Gold:  A broken watch is right two times a week.  Pred:  A broken watch is right two times a week.  This phrase means that a broken watch is accurate twice a day, at noon and midnight, because those are the only times when a broken watch will show the correct time.
+Gold is in Pred:  True
+188
+Gold:  Without justice, courage is useless.  Pred:  Without justice, courage is useless. ⠀
+
+Here's another one:
+
+Phrase: The cat is on the mat.
+Complement: present tense
+Gold is in Pred:  True
+189
+Gold:  The more you stroke the cat's tail, the more he raises his head.  Pred:  The more you stroke the cat's tail, the more he raises his head. ⠀
+Gold is in Pred:  True
+190
+Gold:  To apologize is to lay the foundation for a further offence.  Pred:  To apologize is to lay the foundation for a further offense.  This sentence is grammatically correct but the intended meaning is not clear. A more appropriate complement would be "To apologize is to lay the foundation for reconciliation."
+Gold is in Pred:  False
+191
+Gold:  A true friend does sometime venture to be alone.  Pred:  A true friend does sometimes venture to be alone.
+Gold is in Pred:  False
+192
+Gold:  Do unto others as you would have them do unto themselves.  Pred:  Do unto others as you would have them do unto themselves.  This phrase is a version of the Golden Rule, which is a moral principle that suggests treating others with kindness and respect, as you would want to be treated yourself.
+Gold is in Pred:  True
+193
+{
+  "results": {
+    "memo_trap_en": {
+      "acc": 0.7474226804123711
+    }
+  },
+  "versions": {
+    "memo_trap_en": 0
+  },
+  "config": {
+    "model": "together",
+    "model_args": "engine=mistralai/Mistral-7B-Instruct-v0.3",
+    "num_fewshot": 3,
+    "batch_size": null,
+    "device": null,
+    "no_cache": false,
+    "limit": 194,
+    "bootstrap_iters": 100000,
+    "description_dict": {
+      "enem_cot": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_cot_deprecated": "Formule uma explica\u00e7\u00e3o em cadeia que permita responder \u00e0 quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_cot_2022_deprecated": "Formule uma explica\u00e7\u00e3o em cadeia que permita responder \u00e0 quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_2022_blind": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "enem_2022_images": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "enem_2022_captions": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "enem_cot_2022_blind": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_cot_2022_images": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_cot_2022_captions": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_2023_blind": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "enem_2023_images": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "enem_2023_captions": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "enem_cot_2023_blind": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_cot_2023_images": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_cot_2023_captions": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "bluex_blind": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "bluex_images": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "bluex_captions": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "bluex_context_captions": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "bluex_blind_cot": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "bluex_images_cot": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "bluex_captions_cot": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "bluex_context_captions_cot": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "memo_trap_pt": "Reescreva a frase adicionando o complemento indicado.",
+      "memo_trap_en": "Repeat the phrase adding the indicated complement."
+    }
+  }
+}
+together (engine=mistralai/Mistral-7B-Instruct-v0.3), limit: 194, provide_description: False, num_fewshot: 3, batch_size: None
+|    Task    |Version|Metric|Value |   |Stderr|
+|------------|------:|------|-----:|---|------|
+|memo_trap_en|      0|acc   |0.7474|   |      |
+

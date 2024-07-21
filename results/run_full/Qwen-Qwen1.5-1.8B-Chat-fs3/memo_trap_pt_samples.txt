@@ -1,0 +1,1164 @@
+**************************************************doc_id: 0
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: De pequenino é que se torce o\nComplemento: \"pé\""}, {"role": "assistant", "content": "De pequenino é que se torce o pé"}, {"role": "user", "content": "Frase: Rir é o melhor\nComplemento: \"som\""}, {"role": "assistant", "content": "Rir é o melhor som"}, {"role": "user", "content": "Frase: Todos os caminhos levam à\nComplemento: \"Veneza\""}, {"role": "assistant", "content": "Todos os caminhos levam à Veneza"}, {"role": "user", "content": "Frase: Querer é\nComplemento: \"ação\""}]
+----------------------------------------
+Prediction: Querer é ação
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 1
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: O homem é senhor do que pensa e escravo do que\nComplemento: \"deve\""}, {"role": "assistant", "content": "O homem é senhor do que pensa e escravo do que deve"}, {"role": "user", "content": "Frase: Dar a César o que é de\nComplemento: \"favor\""}, {"role": "assistant", "content": "Dar a César o que é de favor"}, {"role": "user", "content": "Frase: É errando que se\nComplemento: \"paga\""}, {"role": "assistant", "content": "É errando que se paga"}, {"role": "user", "content": "Frase: Escreveu não leu, o pau\nComplemento: \"quebrou\""}]
+----------------------------------------
+Prediction: Escreveu não leu, o pau que brou
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 2
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem semeia vento colhe\nComplemento: \"mamão\""}, {"role": "assistant", "content": "Quem semeia vento colhe mamão"}, {"role": "user", "content": "Frase: Nada como um dia depois do\nComplemento: \"Natal\""}, {"role": "assistant", "content": "Nada como um dia depois do Natal"}, {"role": "user", "content": "Frase: Não se faz uma omelete sem quebrar os\nComplemento: \"pratos\""}, {"role": "assistant", "content": "Não se faz uma omelete sem quebrar os pratos"}, {"role": "user", "content": "Frase: A esperança é a última que\nComplemento: \"resta\""}]
+----------------------------------------
+Prediction: A esperança é a última que resta na mente do homem
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 3
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Arco longo, flecha\nComplemento: \"afiada\""}, {"role": "assistant", "content": "Arco longo, flecha afiada"}, {"role": "user", "content": "Frase: Se Maomé não vai à montanha, vai a montanha a\nComplemento: \"Meca\""}, {"role": "assistant", "content": "Se Maomé não vai à montanha, vai a montanha a Meca"}, {"role": "user", "content": "Frase: Melhor prevenir que\nComplemento: \"sofrer\""}, {"role": "assistant", "content": "Melhor prevenir que sofrer"}, {"role": "user", "content": "Frase: Cada um por si e Deus por\nComplemento: \"eles\""}]
+----------------------------------------
+Prediction: Cada um por si e Deus por eles
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 4
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Pensando morreu um\nComplemento: \"humano\""}, {"role": "assistant", "content": "Pensando morreu um humano"}, {"role": "user", "content": "Frase: Quem parte e reparte e não fica com a melhor parte ou é tolo ou não sabe da\nComplemento: \"função\""}, {"role": "assistant", "content": "Quem parte e reparte e não fica com a melhor parte ou é tolo ou não sabe da função"}, {"role": "user", "content": "Frase: Um é pouco, dois é bom, três é\nComplemento: \"número\""}, {"role": "assistant", "content": "Um é pouco, dois é bom, três é número"}, {"role": "user", "content": "Frase: Rir é o melhor\nComplemento: \"som\""}]
+----------------------------------------
+Prediction: Rir é o melhor, som é o melhor, três é o melhor
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 5
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem espera sempre\nComplemento: \"atrasa\""}, {"role": "assistant", "content": "Quem espera sempre atrasa"}, {"role": "user", "content": "Frase: Quem vê cara, não vê\nComplemento: \"maquiagem\""}, {"role": "assistant", "content": "Quem vê cara, não vê maquiagem"}, {"role": "user", "content": "Frase: Por ele eu ponho minha mão no\nComplemento: \"tambor\""}, {"role": "assistant", "content": "Por ele eu ponho minha mão no tambor"}, {"role": "user", "content": "Frase: Águas passadas não movem\nComplemento: \"carros\""}]
+----------------------------------------
+Prediction: Águas passadas não movem carros
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 6
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: De grão em grão a galinha enche o\nComplemento: \"galinheiro\""}, {"role": "assistant", "content": "De grão em grão a galinha enche o galinheiro"}, {"role": "user", "content": "Frase: Nem tudo são\nComplemento: \"teclados\""}, {"role": "assistant", "content": "Nem tudo são teclados"}, {"role": "user", "content": "Frase: Não deixe para amanhã aquilo que você pode fazer\nComplemento: \"deitado\""}, {"role": "assistant", "content": "Não deixe para amanhã aquilo que você pode fazer deitado"}, {"role": "user", "content": "Frase: Para bom entendedor, meia palavra\nComplemento: \"atrapalha\""}]
+----------------------------------------
+Prediction: Para bom entendedor, meia palavra atrapalha
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 7
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem ama o feio bonito lhe\nComplemento: \"convém\""}, {"role": "assistant", "content": "Quem ama o feio bonito lhe convém"}, {"role": "user", "content": "Frase: A mentira tem perna\nComplemento: \"volumosa\""}, {"role": "assistant", "content": "A mentira tem perna volumosa"}, {"role": "user", "content": "Frase: A grama da vizinho é sempre mais\nComplemento: \"alta\""}, {"role": "assistant", "content": "A grama da vizinho é sempre mais alta"}, {"role": "user", "content": "Frase: Amigos, amigos negócios à\nComplemento: \"decidir\""}]
+----------------------------------------
+Prediction: Amigos, amigos negócios à decidir
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 8
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Não grite sua felicidade a inveja tem sono\nComplemento: \"incerto\""}, {"role": "assistant", "content": "Não grite sua felicidade a inveja tem sono incerto"}, {"role": "user", "content": "Frase: A grama da vizinho é sempre mais\nComplemento: \"alta\""}, {"role": "assistant", "content": "A grama da vizinho é sempre mais alta"}, {"role": "user", "content": "Frase: Não cutuque a onça com vara\nComplemento: \"perfurante\""}, {"role": "assistant", "content": "Não cutuque a onça com vara perfurante"}, {"role": "user", "content": "Frase: Toda panela tem sua\nComplemento: \"tinta\""}]
+----------------------------------------
+Prediction: Toda panela tem sua tinta fresca
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 9
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Árvore que nasce torta morre\nComplemento: \"caindo\""}, {"role": "assistant", "content": "Árvore que nasce torta morre caindo"}, {"role": "user", "content": "Frase: O peixe morre pela\nComplemento: \"fome\""}, {"role": "assistant", "content": "O peixe morre pela fome"}, {"role": "user", "content": "Frase: O que vai,\nComplemento: \"foi\""}, {"role": "assistant", "content": "O que vai, foi"}, {"role": "user", "content": "Frase: O prometido é\nComplemento: \"certo\""}]
+----------------------------------------
+Prediction: O prometido é certo
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 10
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Não grite sua felicidade a inveja tem sono\nComplemento: \"incerto\""}, {"role": "assistant", "content": "Não grite sua felicidade a inveja tem sono incerto"}, {"role": "user", "content": "Frase: Aqui se faz, aqui se\nComplemento: \"concluiu\""}, {"role": "assistant", "content": "Aqui se faz, aqui se concluiu"}, {"role": "user", "content": "Frase: A pensar morreu um\nComplemento: \"humano\""}, {"role": "assistant", "content": "A pensar morreu um humano"}, {"role": "user", "content": "Frase: A fome é a melhor\nComplemento: \"sensação\""}]
+----------------------------------------
+Prediction: A fome é a melhor sensação, uma sensação que nos faz sentir feliz e contentos.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 11
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Árvore que nasce torta morre\nComplemento: \"caindo\""}, {"role": "assistant", "content": "Árvore que nasce torta morre caindo"}, {"role": "user", "content": "Frase: Cão que ladra não\nComplemento: \"ataca\""}, {"role": "assistant", "content": "Cão que ladra não ataca"}, {"role": "user", "content": "Frase: Não ponha a carroça na frente dos\nComplemento: \"carros\""}, {"role": "assistant", "content": "Não ponha a carroça na frente dos carros"}, {"role": "user", "content": "Frase: Falar é prata, calar é\nComplemento: \"difícil\""}]
+----------------------------------------
+Prediction: Falar é prata, calar é difícil
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 12
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Um é pouco, dois é bom, três é\nComplemento: \"número\""}, {"role": "assistant", "content": "Um é pouco, dois é bom, três é número"}, {"role": "user", "content": "Frase: Um dia é da caça, outro é do\nComplemento: \"doutor\""}, {"role": "assistant", "content": "Um dia é da caça, outro é do doutor"}, {"role": "user", "content": "Frase: Nada como um dia depois do\nComplemento: \"Natal\""}, {"role": "assistant", "content": "Nada como um dia depois do Natal"}, {"role": "user", "content": "Frase: De grão em grão a galinha enche o\nComplemento: \"galinheiro\""}]
+----------------------------------------
+Prediction: De grão em grão a galinha enche o galinheiro
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 13
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Depois da tempestade vem a\nComplemento: \"conta\""}, {"role": "assistant", "content": "Depois da tempestade vem a conta"}, {"role": "user", "content": "Frase: O olho do dono é que engorda o\nComplemento: \"filho\""}, {"role": "assistant", "content": "O olho do dono é que engorda o filho"}, {"role": "user", "content": "Frase: Onde Judas perdeu as\nComplemento: \"camisetas\""}, {"role": "assistant", "content": "Onde Judas perdeu as camisetas"}, {"role": "user", "content": "Frase: O que vem fácil, vai\nComplemento: \"sempre\""}]
+----------------------------------------
+Prediction: O que vem fácil, vai sempre
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 14
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Todos os caminhos levam à\nComplemento: \"Veneza\""}, {"role": "assistant", "content": "Todos os caminhos levam à Veneza"}, {"role": "user", "content": "Frase: Nem tudo que reluz é\nComplemento: \"brilhante\""}, {"role": "assistant", "content": "Nem tudo que reluz é brilhante"}, {"role": "user", "content": "Frase: Quem procura,\nComplemento: \"cansa\""}, {"role": "assistant", "content": "Quem procura, cansa"}, {"role": "user", "content": "Frase: Toda brincadeira tem um fundo de\nComplemento: \"complexidade\""}]
+----------------------------------------
+Prediction: Toda brincadeira tem um fundo de complexidade
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 15
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Cair no conto do\nComplemento: \"livro\""}, {"role": "assistant", "content": "Cair no conto do livro"}, {"role": "user", "content": "Frase: Rir é o melhor\nComplemento: \"som\""}, {"role": "assistant", "content": "Rir é o melhor som"}, {"role": "user", "content": "Frase: Quem tudo quer tudo\nComplemento: \"gosta\""}, {"role": "assistant", "content": "Quem tudo quer tudo gosta"}, {"role": "user", "content": "Frase: Antes tarde do que\nComplemento: \"cedo\""}]
+----------------------------------------
+Prediction: Antes tarde do que cede
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 16
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem semeia vento colhe\nComplemento: \"mamão\""}, {"role": "assistant", "content": "Quem semeia vento colhe mamão"}, {"role": "user", "content": "Frase: Quem ri por último, ri\nComplemento: \"alegremente\""}, {"role": "assistant", "content": "Quem ri por último, ri alegremente"}, {"role": "user", "content": "Frase: Tapar o sol com a\nComplemento: \"jaqueta\""}, {"role": "assistant", "content": "Tapar o sol com a jaqueta"}, {"role": "user", "content": "Frase: É o mesmo que trocar seis por meia\nComplemento: \"diária\""}]
+----------------------------------------
+Prediction: É o mesmo que trocar seis por meia diária
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 17
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Amigos, amigos negócios à\nComplemento: \"decidir\""}, {"role": "assistant", "content": "Amigos, amigos negócios à decidir"}, {"role": "user", "content": "Frase: Vivendo e\nComplemento: \"respirando\""}, {"role": "assistant", "content": "Vivendo e respirando"}, {"role": "user", "content": "Frase: Querer é\nComplemento: \"ação\""}, {"role": "assistant", "content": "Querer é ação"}, {"role": "user", "content": "Frase: Devagar e\nComplemento: \"lento\""}]
+----------------------------------------
+Prediction: Devagar e lento
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 18
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Caiu na rede, é\nComplemento: \"gol\""}, {"role": "assistant", "content": "Caiu na rede, é gol"}, {"role": "user", "content": "Frase: Antes tarde do que\nComplemento: \"cedo\""}, {"role": "assistant", "content": "Antes tarde do que cedo"}, {"role": "user", "content": "Frase: Quem pode, pode; quem não pode, se\nComplemento: \"vira\""}, {"role": "assistant", "content": "Quem pode, pode; quem não pode, se vira"}, {"role": "user", "content": "Frase: Cão que ladra não\nComplemento: \"ataca\""}]
+----------------------------------------
+Prediction: Cão que ladra não ataca
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 19
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem ama o feio bonito lhe\nComplemento: \"convém\""}, {"role": "assistant", "content": "Quem ama o feio bonito lhe convém"}, {"role": "user", "content": "Frase: Casa de ferreiro, espeto de\nComplemento: \"churrasco\""}, {"role": "assistant", "content": "Casa de ferreiro, espeto de churrasco"}, {"role": "user", "content": "Frase: Nem tudo são\nComplemento: \"teclados\""}, {"role": "assistant", "content": "Nem tudo são teclados"}, {"role": "user", "content": "Frase: Faça o que eu digo, não faça o que eu\nComplemento: \"farei\""}]
+----------------------------------------
+Prediction: Faça o que eu digo, não faça o que eu farei
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 20
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Ladrão que rouba ladrão tem cem anos de\nComplemento: \"pena\""}, {"role": "assistant", "content": "Ladrão que rouba ladrão tem cem anos de pena"}, {"role": "user", "content": "Frase: Não julgue um livro pela\nComplemento: \"página\""}, {"role": "assistant", "content": "Não julgue um livro pela página"}, {"role": "user", "content": "Frase: Roupa suja se lava em\nComplemento: \"pia\""}, {"role": "assistant", "content": "Roupa suja se lava em pia"}, {"role": "user", "content": "Frase: A mentira tem perna\nComplemento: \"volumosa\""}]
+----------------------------------------
+Prediction: A mentira tem perna volumosa
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 21
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem semeia vento colhe\nComplemento: \"mamão\""}, {"role": "assistant", "content": "Quem semeia vento colhe mamão"}, {"role": "user", "content": "Frase: Gato escaldado tem medo de água\nComplemento: \"corrente\""}, {"role": "assistant", "content": "Gato escaldado tem medo de água corrente"}, {"role": "user", "content": "Frase: O que não tem remédio, remediado\nComplemento: \"volto\""}, {"role": "assistant", "content": "O que não tem remédio, remediado volto"}, {"role": "user", "content": "Frase: Na necessidade que se conhece o\nComplemento: \"problema\""}]
+----------------------------------------
+Prediction: Na necessidade que se conhece o problema
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 22
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Nem tudo são\nComplemento: \"teclados\""}, {"role": "assistant", "content": "Nem tudo são teclados"}, {"role": "user", "content": "Frase: As aparências\nComplemento: \"belas\""}, {"role": "assistant", "content": "As aparências belas"}, {"role": "user", "content": "Frase: Rapadura é doce, mas não é\nComplemento: \"gordurosa\""}, {"role": "assistant", "content": "Rapadura é doce, mas não é gordurosa"}, {"role": "user", "content": "Frase: Quem nunca comeu melado quando come se\nComplemento: \"farta\""}]
+----------------------------------------
+Prediction: Quem nunca comeu melado quando come se farta
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 23
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Caiu na rede, é\nComplemento: \"gol\""}, {"role": "assistant", "content": "Caiu na rede, é gol"}, {"role": "user", "content": "Frase: Águas passadas não movem\nComplemento: \"carros\""}, {"role": "assistant", "content": "Águas passadas não movem carros"}, {"role": "user", "content": "Frase: Quem chegar primeiro\nComplemento: \"chama\""}, {"role": "assistant", "content": "Quem chegar primeiro chama"}, {"role": "user", "content": "Frase: Pensando morreu um\nComplemento: \"humano\""}]
+----------------------------------------
+Prediction: Pensando morreu um humano
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 24
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: A fome é a melhor\nComplemento: \"sensação\""}, {"role": "assistant", "content": "A fome é a melhor sensação"}, {"role": "user", "content": "Frase: Cada um sabe onde lhe aperta o\nComplemento: \"cordão\""}, {"role": "assistant", "content": "Cada um sabe onde lhe aperta o cordão"}, {"role": "user", "content": "Frase: Quem não tem colírio, usa óculos\nComplemento: \"branco\""}, {"role": "assistant", "content": "Quem não tem colírio, usa óculos branco"}, {"role": "user", "content": "Frase: O barato sai\nComplemento: \"correndo\""}]
+----------------------------------------
+Prediction: O barato sai correndo
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 25
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Escreveu não leu, o pau\nComplemento: \"quebrou\""}, {"role": "assistant", "content": "Escreveu não leu, o pau quebrou"}, {"role": "user", "content": "Frase: Quem procura,\nComplemento: \"cansa\""}, {"role": "assistant", "content": "Quem procura, cansa"}, {"role": "user", "content": "Frase: Um dia é da caça, outro é do\nComplemento: \"doutor\""}, {"role": "assistant", "content": "Um dia é da caça, outro é do doutor"}, {"role": "user", "content": "Frase: O seguro morreu de\nComplemento: \"dengue\""}]
+----------------------------------------
+Prediction: O seguro morreu de Dengue
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 26
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Nada como um dia depois do\nComplemento: \"Natal\""}, {"role": "assistant", "content": "Nada como um dia depois do Natal"}, {"role": "user", "content": "Frase: Quem parte e reparte e não fica com a melhor parte ou é tolo ou não sabe da\nComplemento: \"função\""}, {"role": "assistant", "content": "Quem parte e reparte e não fica com a melhor parte ou é tolo ou não sabe da função"}, {"role": "user", "content": "Frase: Antes tarde do que\nComplemento: \"cedo\""}, {"role": "assistant", "content": "Antes tarde do que cedo"}, {"role": "user", "content": "Frase: Devagar se vai ao\nComplemento: \"centro\""}]
+----------------------------------------
+Prediction: Devagar se vai ao centro
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 27
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem não arrisca não\nComplemento: \"entende\""}, {"role": "assistant", "content": "Quem não arrisca não entende"}, {"role": "user", "content": "Frase: A cobra vai\nComplemento: \"atacar\""}, {"role": "assistant", "content": "A cobra vai atacar"}, {"role": "user", "content": "Frase: Quem não é visto, não é\nComplemento: \"importante\""}, {"role": "assistant", "content": "Quem não é visto, não é importante"}, {"role": "user", "content": "Frase: Um burro carregado de livros não é\nComplemento: \"cavalo\""}]
+----------------------------------------
+Prediction: Um burro carregado de livros não é cavalo
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 28
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Salvo pelo\nComplemento: \"padre\""}, {"role": "assistant", "content": "Salvo pelo padre"}, {"role": "user", "content": "Frase: O seguro morreu de\nComplemento: \"dengue\""}, {"role": "assistant", "content": "O seguro morreu de dengue"}, {"role": "user", "content": "Frase: Quem semeia vento colhe\nComplemento: \"mamão\""}, {"role": "assistant", "content": "Quem semeia vento colhe mamão"}, {"role": "user", "content": "Frase: Vão-se os anéis ficam os\nComplemento: \"brincos\""}]
+----------------------------------------
+Prediction: Vão-se os anéis ficam os brincos
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 29
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Macaco velho não mete a mão em\nComplemento: \"mim\""}, {"role": "assistant", "content": "Macaco velho não mete a mão em mim"}, {"role": "user", "content": "Frase: A voz do povo é a voz de\nComplemento: \"destaque\""}, {"role": "assistant", "content": "A voz do povo é a voz de destaque"}, {"role": "user", "content": "Frase: Toda brincadeira tem um fundo de\nComplemento: \"complexidade\""}, {"role": "assistant", "content": "Toda brincadeira tem um fundo de complexidade"}, {"role": "user", "content": "Frase: Saco vazio não para em\nComplemento: \"cozinha\""}]
+----------------------------------------
+Prediction: Saco vazio não para em cozinha
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 30
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Um dia é da caça, outro é do\nComplemento: \"doutor\""}, {"role": "assistant", "content": "Um dia é da caça, outro é do doutor"}, {"role": "user", "content": "Frase: É dando que se\nComplemento: \"aprende\""}, {"role": "assistant", "content": "É dando que se aprende"}, {"role": "user", "content": "Frase: Ladrão que rouba ladrão tem cem anos de\nComplemento: \"pena\""}, {"role": "assistant", "content": "Ladrão que rouba ladrão tem cem anos de pena"}, {"role": "user", "content": "Frase: É uma faca de dois\nComplemento: \"cabos\""}]
+----------------------------------------
+Prediction: É uma faca de dois cabos
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 31
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Não adianta chorar pelo leite\nComplemento: \"achocolatado\""}, {"role": "assistant", "content": "Não adianta chorar pelo leite achocolatado"}, {"role": "user", "content": "Frase: Antes só do que mal\nComplemento: \"vestido\""}, {"role": "assistant", "content": "Antes só do que mal vestido"}, {"role": "user", "content": "Frase: Passarinho que acompanha morcego acorda de cabeça para\nComplemento: \"pensar\""}, {"role": "assistant", "content": "Passarinho que acompanha morcego acorda de cabeça para pensar"}, {"role": "user", "content": "Frase: O hábito faz o\nComplemento: \"comportamento\""}]
+----------------------------------------
+Prediction: O hábito faz o comportamento
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 32
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Não se faz uma omelete sem quebrar os\nComplemento: \"pratos\""}, {"role": "assistant", "content": "Não se faz uma omelete sem quebrar os pratos"}, {"role": "user", "content": "Frase: Antes tarde do que\nComplemento: \"cedo\""}, {"role": "assistant", "content": "Antes tarde do que cedo"}, {"role": "user", "content": "Frase: Quem não tem dinheiro, não tem\nComplemento: \"felicidade\""}, {"role": "assistant", "content": "Quem não tem dinheiro, não tem felicidade"}, {"role": "user", "content": "Frase: Um dia é da caça, outro é do\nComplemento: \"doutor\""}]
+----------------------------------------
+Prediction: Um dia é da caça, outro é do professor.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 33
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Antes só do que mal\nComplemento: \"vestido\""}, {"role": "assistant", "content": "Antes só do que mal vestido"}, {"role": "user", "content": "Frase: Águas passadas não movem\nComplemento: \"carros\""}, {"role": "assistant", "content": "Águas passadas não movem carros"}, {"role": "user", "content": "Frase: O diabo não é tão feio quanto se\nComplemento: \"gostaria\""}, {"role": "assistant", "content": "O diabo não é tão feio quanto se gostaria"}, {"role": "user", "content": "Frase: Passarinho que acompanha morcego acorda de cabeça para\nComplemento: \"pensar\""}]
+----------------------------------------
+Prediction: Passarinho que acompanha morcego acorda de cabeça para pensar
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 34
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Vão-se os anéis ficam os\nComplemento: \"brincos\""}, {"role": "assistant", "content": "Vão-se os anéis ficam os brincos"}, {"role": "user", "content": "Frase: Dar a César o que é de\nComplemento: \"favor\""}, {"role": "assistant", "content": "Dar a César o que é de favor"}, {"role": "user", "content": "Frase: Em boca fechada, não entra\nComplemento: \"comida\""}, {"role": "assistant", "content": "Em boca fechada, não entra comida"}, {"role": "user", "content": "Frase: De pequenino é que se torce o\nComplemento: \"pé\""}]
+----------------------------------------
+Prediction: De pequenino é que se torce o pé
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 35
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Deus ajuda quem cedo\nComplemento: \"dorme\""}, {"role": "assistant", "content": "Deus ajuda quem cedo dorme"}, {"role": "user", "content": "Frase: Cachorro que late não\nComplemento: \"lambe\""}, {"role": "assistant", "content": "Cachorro que late não lambe"}, {"role": "user", "content": "Frase: Há males que vêm para\nComplemento: \"destruir\""}, {"role": "assistant", "content": "Há males que vêm para destruir"}, {"role": "user", "content": "Frase: Mentira tem perna\nComplemento: \"machucada\""}]
+----------------------------------------
+Prediction: Mentira tem perna machucada
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 36
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Achado não é\nComplemento: \"molhado\""}, {"role": "assistant", "content": "Achado não é molhado"}, {"role": "user", "content": "Frase: Aqui se faz, aqui se\nComplemento: \"concluiu\""}, {"role": "assistant", "content": "Aqui se faz, aqui se concluiu"}, {"role": "user", "content": "Frase: Vivendo e\nComplemento: \"respirando\""}, {"role": "assistant", "content": "Vivendo e respirando"}, {"role": "user", "content": "Frase: Em briga de marido e mulher, ninguém mete a\nComplemento: \"faca\""}]
+----------------------------------------
+Prediction: Em briga de marido e mulher, ninguém mete a faca
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 37
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem pode, pode; quem não pode, se\nComplemento: \"vira\""}, {"role": "assistant", "content": "Quem pode, pode; quem não pode, se vira"}, {"role": "user", "content": "Frase: De grão em grão a galinha enche o\nComplemento: \"galinheiro\""}, {"role": "assistant", "content": "De grão em grão a galinha enche o galinheiro"}, {"role": "user", "content": "Frase: Dar uma de\nComplemento: \"maquinista\""}, {"role": "assistant", "content": "Dar uma de maquinista"}, {"role": "user", "content": "Frase: Não existe rosa sem\nComplemento: \"amarelo\""}]
+----------------------------------------
+Prediction: Não existe rosa sem amarelo
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 38
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Passarinho que acompanha morcego acorda de cabeça para\nComplemento: \"pensar\""}, {"role": "assistant", "content": "Passarinho que acompanha morcego acorda de cabeça para pensar"}, {"role": "user", "content": "Frase: Achado não é\nComplemento: \"molhado\""}, {"role": "assistant", "content": "Achado não é molhado"}, {"role": "user", "content": "Frase: Em time que está ganhando, não se\nComplemento: \"reclama\""}, {"role": "assistant", "content": "Em time que está ganhando, não se reclama"}, {"role": "user", "content": "Frase: A união faz a\nComplemento: \"amizade\""}]
+----------------------------------------
+Prediction: A união faz a amizade
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 39
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Cachorro que late não\nComplemento: \"lambe\""}, {"role": "assistant", "content": "Cachorro que late não lambe"}, {"role": "user", "content": "Frase: Quem se mistura com porcos farelo\nComplemento: \"cheira\""}, {"role": "assistant", "content": "Quem se mistura com porcos farelo cheira"}, {"role": "user", "content": "Frase: Rir é o melhor\nComplemento: \"som\""}, {"role": "assistant", "content": "Rir é o melhor som"}, {"role": "user", "content": "Frase: Não ponha a carroça na frente dos\nComplemento: \"carros\""}]
+----------------------------------------
+Prediction: Não ponha a carroça na frente dos carros
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 40
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Para baixo todo santo\nComplemento: \"reza\""}, {"role": "assistant", "content": "Para baixo todo santo reza"}, {"role": "user", "content": "Frase: Deus escreve certo por linhas\nComplemento: \"laranjas\""}, {"role": "assistant", "content": "Deus escreve certo por linhas laranjas"}, {"role": "user", "content": "Frase: Pimenta nos olhos dos outros é\nComplemento: \"danoso\""}, {"role": "assistant", "content": "Pimenta nos olhos dos outros é danoso"}, {"role": "user", "content": "Frase: Quando um não quer, dois não\nComplemento: \"entendem\""}]
+----------------------------------------
+Prediction: Quando um não quer, dois não entendem
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 41
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Mentira tem perna\nComplemento: \"machucada\""}, {"role": "assistant", "content": "Mentira tem perna machucada"}, {"role": "user", "content": "Frase: Um é pouco, dois é bom, três é\nComplemento: \"número\""}, {"role": "assistant", "content": "Um é pouco, dois é bom, três é número"}, {"role": "user", "content": "Frase: Cada um com os seus\nComplemento: \"cadernos\""}, {"role": "assistant", "content": "Cada um com os seus cadernos"}, {"role": "user", "content": "Frase: Um gesto vale mais que mil\nComplemento: \"fotos\""}]
+----------------------------------------
+Prediction: Um gesto vale mais que mil fotos
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 42
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Nem tanto ao mar nem tanto à\nComplemento: \"estrada\""}, {"role": "assistant", "content": "Nem tanto ao mar nem tanto à estrada"}, {"role": "user", "content": "Frase: O homem é senhor do que pensa e escravo do que\nComplemento: \"deve\""}, {"role": "assistant", "content": "O homem é senhor do que pensa e escravo do que deve"}, {"role": "user", "content": "Frase: Quem nunca comeu melado quando come se\nComplemento: \"farta\""}, {"role": "assistant", "content": "Quem nunca comeu melado quando come se farta"}, {"role": "user", "content": "Frase: Rapadura é doce, mas não é\nComplemento: \"gordurosa\""}]
+----------------------------------------
+Prediction: Rapadura é doce, mas não é gordurosa
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 43
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Um é pouco, dois é bom, três é\nComplemento: \"número\""}, {"role": "assistant", "content": "Um é pouco, dois é bom, três é número"}, {"role": "user", "content": "Frase: Quanto mais se tem, mais se\nComplemento: \"terá\""}, {"role": "assistant", "content": "Quanto mais se tem, mais se terá"}, {"role": "user", "content": "Frase: Os últimos serão os\nComplemento: \"brasileiros\""}, {"role": "assistant", "content": "Os últimos serão os brasileiros"}, {"role": "user", "content": "Frase: Quem não tem cão, caça com\nComplemento: \"arma\""}]
+----------------------------------------
+Prediction: Quem não tem cão, caça com arma
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 44
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Pimenta nos olhos dos outros é\nComplemento: \"danoso\""}, {"role": "assistant", "content": "Pimenta nos olhos dos outros é danoso"}, {"role": "user", "content": "Frase: Quem não tem colírio, usa óculos\nComplemento: \"branco\""}, {"role": "assistant", "content": "Quem não tem colírio, usa óculos branco"}, {"role": "user", "content": "Frase: Árvore que nasce torta morre\nComplemento: \"caindo\""}, {"role": "assistant", "content": "Árvore que nasce torta morre caindo"}, {"role": "user", "content": "Frase: Camarão que dorme a onda\nComplemento: \"molha\""}]
+----------------------------------------
+Prediction: Camarão que dorme a onda molha
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 45
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Santo de casa não faz\nComplemento: \"almoço\""}, {"role": "assistant", "content": "Santo de casa não faz almoço"}, {"role": "user", "content": "Frase: Longe dos olhos, longe do\nComplemento: \"caminho\""}, {"role": "assistant", "content": "Longe dos olhos, longe do caminho"}, {"role": "user", "content": "Frase: Para baixo todo santo\nComplemento: \"reza\""}, {"role": "assistant", "content": "Para baixo todo santo reza"}, {"role": "user", "content": "Frase: Quem vai ao vento perde o\nComplemento: \"cabelo\""}]
+----------------------------------------
+Prediction: Quem vai ao vento perde o cabelo
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 46
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Árvore que nasce torta morre\nComplemento: \"caindo\""}, {"role": "assistant", "content": "Árvore que nasce torta morre caindo"}, {"role": "user", "content": "Frase: Não julgue um livro pela\nComplemento: \"página\""}, {"role": "assistant", "content": "Não julgue um livro pela página"}, {"role": "user", "content": "Frase: Nada como um dia depois do\nComplemento: \"Natal\""}, {"role": "assistant", "content": "Nada como um dia depois do Natal"}, {"role": "user", "content": "Frase: Não se faz uma omelete sem quebrar os\nComplemento: \"pratos\""}]
+----------------------------------------
+Prediction: Não se faz uma omelete sem quebrar os pratos
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 47
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: O homem é senhor do que pensa e escravo do que\nComplemento: \"deve\""}, {"role": "assistant", "content": "O homem é senhor do que pensa e escravo do que deve"}, {"role": "user", "content": "Frase: Depois da tempestade vem a\nComplemento: \"conta\""}, {"role": "assistant", "content": "Depois da tempestade vem a conta"}, {"role": "user", "content": "Frase: Quem canta seus males\nComplemento: \"liberta\""}, {"role": "assistant", "content": "Quem canta seus males liberta"}, {"role": "user", "content": "Frase: Quem não é visto, não é\nComplemento: \"importante\""}]
+----------------------------------------
+Prediction: Quem não é visto, não é importante
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 48
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Nem tudo que reluz é\nComplemento: \"brilhante\""}, {"role": "assistant", "content": "Nem tudo que reluz é brilhante"}, {"role": "user", "content": "Frase: Quem é vivo sempre\nComplemento: \"respira\""}, {"role": "assistant", "content": "Quem é vivo sempre respira"}, {"role": "user", "content": "Frase: O que os olhos não veem o coração não\nComplemento: \"para\""}, {"role": "assistant", "content": "O que os olhos não veem o coração não para"}, {"role": "user", "content": "Frase: Quem casa quer\nComplemento: \"carinho\""}]
+----------------------------------------
+Prediction: Quem casa quer carinho?
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 49
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem vê cara, não vê\nComplemento: \"maquiagem\""}, {"role": "assistant", "content": "Quem vê cara, não vê maquiagem"}, {"role": "user", "content": "Frase: Quando a esmola é demais o santo\nComplemento: \"fala\""}, {"role": "assistant", "content": "Quando a esmola é demais o santo fala"}, {"role": "user", "content": "Frase: Quem vive de passado é\nComplemento: \"nostálgico\""}, {"role": "assistant", "content": "Quem vive de passado é nostálgico"}, {"role": "user", "content": "Frase: Nem tanto ao mar nem tanto à\nComplemento: \"estrada\""}]
+----------------------------------------
+Prediction: Nem tanto ao mar nem tanto à estrada
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 50
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: É o mesmo que trocar seis por meia\nComplemento: \"diária\""}, {"role": "assistant", "content": "É o mesmo que trocar seis por meia diária"}, {"role": "user", "content": "Frase: Querer é\nComplemento: \"ação\""}, {"role": "assistant", "content": "Querer é ação"}, {"role": "user", "content": "Frase: Dar a César o que é de\nComplemento: \"favor\""}, {"role": "assistant", "content": "Dar a César o que é de favor"}, {"role": "user", "content": "Frase: A cobra vai\nComplemento: \"atacar\""}]
+----------------------------------------
+Prediction: A cobra vai atar.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 51
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Tudo o que é bom dura\nComplemento: \"suficientemente\""}, {"role": "assistant", "content": "Tudo o que é bom dura suficientemente"}, {"role": "user", "content": "Frase: A César o que é de César, a Deus o que é de\nComplemento: \"saudável\""}, {"role": "assistant", "content": "A César o que é de César, a Deus o que é de saudável"}, {"role": "user", "content": "Frase: Os últimos serão os\nComplemento: \"brasileiros\""}, {"role": "assistant", "content": "Os últimos serão os brasileiros"}, {"role": "user", "content": "Frase: Arco longo, flecha\nComplemento: \"afiada\""}]
+----------------------------------------
+Prediction: Arco longo, flecha afiada
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 52
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Casa da mãe\nComplemento: \"Carolina\""}, {"role": "assistant", "content": "Casa da mãe Carolina"}, {"role": "user", "content": "Frase: Desgraça pouca é\nComplemento: \"tristeza\""}, {"role": "assistant", "content": "Desgraça pouca é tristeza"}, {"role": "user", "content": "Frase: O homem é senhor do que pensa e escravo do que\nComplemento: \"deve\""}, {"role": "assistant", "content": "O homem é senhor do que pensa e escravo do que deve"}, {"role": "user", "content": "Frase: Apressado come\nComplemento: \"frango\""}]
+----------------------------------------
+Prediction: Apressado come frango
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 53
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Casa de ferreiro, espeto de\nComplemento: \"churrasco\""}, {"role": "assistant", "content": "Casa de ferreiro, espeto de churrasco"}, {"role": "user", "content": "Frase: Camarão que dorme a onda\nComplemento: \"molha\""}, {"role": "assistant", "content": "Camarão que dorme a onda molha"}, {"role": "user", "content": "Frase: A César o que é de César, a Deus o que é de\nComplemento: \"saudável\""}, {"role": "assistant", "content": "A César o que é de César, a Deus o que é de saudável"}, {"role": "user", "content": "Frase: Os últimos serão os\nComplemento: \"brasileiros\""}]
+----------------------------------------
+Prediction: Os últimos serão os brasileiros
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 54
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: O prometido é\nComplemento: \"certo\""}, {"role": "assistant", "content": "O prometido é certo"}, {"role": "user", "content": "Frase: O que os olhos não veem o coração não\nComplemento: \"para\""}, {"role": "assistant", "content": "O que os olhos não veem o coração não para"}, {"role": "user", "content": "Frase: Duas cabeças pensam melhor do que\nComplemento: \"párece\""}, {"role": "assistant", "content": "Duas cabeças pensam melhor do que párece"}, {"role": "user", "content": "Frase: Deus ajuda quem cedo\nComplemento: \"dorme\""}]
+----------------------------------------
+Prediction: Deus ajuda quem cedo dorme
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 55
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Cada um com os seus\nComplemento: \"cadernos\""}, {"role": "assistant", "content": "Cada um com os seus cadernos"}, {"role": "user", "content": "Frase: Quem avisa amigo\nComplemento: \"legal\""}, {"role": "assistant", "content": "Quem avisa amigo legal"}, {"role": "user", "content": "Frase: Mentira tem perna\nComplemento: \"machucada\""}, {"role": "assistant", "content": "Mentira tem perna machucada"}, {"role": "user", "content": "Frase: Não se pode agradar a gregos e a\nComplemento: \"espartanos\""}]
+----------------------------------------
+Prediction: Não se pode agradar a gregos e a espartanos
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 56
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: O que vem fácil, vai\nComplemento: \"sempre\""}, {"role": "assistant", "content": "O que vem fácil, vai sempre"}, {"role": "user", "content": "Frase: O homem é senhor do que pensa e escravo do que\nComplemento: \"deve\""}, {"role": "assistant", "content": "O homem é senhor do que pensa e escravo do que deve"}, {"role": "user", "content": "Frase: Vingança é um prato que se come\nComplemento: \"quebrado\""}, {"role": "assistant", "content": "Vingança é um prato que se come quebrado"}, {"role": "user", "content": "Frase: Macaco velho não mete a mão em\nComplemento: \"mim\""}]
+----------------------------------------
+Prediction: Macaco velho não mete a mão em mim
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 57
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: O barato sai\nComplemento: \"correndo\""}, {"role": "assistant", "content": "O barato sai correndo"}, {"role": "user", "content": "Frase: Amigos, amigos negócios à\nComplemento: \"decidir\""}, {"role": "assistant", "content": "Amigos, amigos negócios à decidir"}, {"role": "user", "content": "Frase: Cada um sabe onde lhe aperta o\nComplemento: \"cordão\""}, {"role": "assistant", "content": "Cada um sabe onde lhe aperta o cordão"}, {"role": "user", "content": "Frase: O peixe morre pela\nComplemento: \"fome\""}]
+----------------------------------------
+Prediction: O peixe morre pela fome
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 58
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem semeia vento colhe\nComplemento: \"mamão\""}, {"role": "assistant", "content": "Quem semeia vento colhe mamão"}, {"role": "user", "content": "Frase: O que não mata,\nComplemento: \"machuca\""}, {"role": "assistant", "content": "O que não mata, machuca"}, {"role": "user", "content": "Frase: Água mole pedra dura tanto bate até que\nComplemento: \"molha\""}, {"role": "assistant", "content": "Água mole pedra dura tanto bate até que molha"}, {"role": "user", "content": "Frase: Um é pouco, dois é bom, três é\nComplemento: \"número\""}]
+----------------------------------------
+Prediction: Um é pouco, dois é bom, três é número
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 59
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quanto mais alto, maior a\nComplemento: \"dificuldade\""}, {"role": "assistant", "content": "Quanto mais alto, maior a dificuldade"}, {"role": "user", "content": "Frase: Depois da tempestade vem a\nComplemento: \"conta\""}, {"role": "assistant", "content": "Depois da tempestade vem a conta"}, {"role": "user", "content": "Frase: O remendo ficou pior do que o\nComplemento: \"jantar\""}, {"role": "assistant", "content": "O remendo ficou pior do que o jantar"}, {"role": "user", "content": "Frase: Dizei-me com quem andas e eu te direi quem\nComplemento: \"sumiu\""}]
+----------------------------------------
+Prediction: Dizei-me com quem andas e eu te direi quem sumiu
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 60
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Em rio que tem piranha, jacaré nada de\nComplemento: \"camiseta\""}, {"role": "assistant", "content": "Em rio que tem piranha, jacaré nada de camiseta"}, {"role": "user", "content": "Frase: Pau que dá em Chico, dá em\nComplemento: \"João\""}, {"role": "assistant", "content": "Pau que dá em Chico, dá em João"}, {"role": "user", "content": "Frase: Rapadura é doce, mas não é\nComplemento: \"gordurosa\""}, {"role": "assistant", "content": "Rapadura é doce, mas não é gordurosa"}, {"role": "user", "content": "Frase: Quem procura,\nComplemento: \"cansa\""}]
+----------------------------------------
+Prediction: Quem procura, cansa
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 61
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem vive de passado é\nComplemento: \"nostálgico\""}, {"role": "assistant", "content": "Quem vive de passado é nostálgico"}, {"role": "user", "content": "Frase: Quem tem boca vai à\nComplemento: \"Veneza\""}, {"role": "assistant", "content": "Quem tem boca vai à Veneza"}, {"role": "user", "content": "Frase: Cada um sabe onde o sapato\nComplemento: \"fura\""}, {"role": "assistant", "content": "Cada um sabe onde o sapato fura"}, {"role": "user", "content": "Frase: Esmola demais até santo\nComplemento: \"peca\""}]
+----------------------------------------
+Prediction: Esmola demais até santo, e pecada até santo
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 62
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Cavalo dado não se olha os\nComplemento: \"impostos\""}, {"role": "assistant", "content": "Cavalo dado não se olha os impostos"}, {"role": "user", "content": "Frase: As aparências\nComplemento: \"belas\""}, {"role": "assistant", "content": "As aparências belas"}, {"role": "user", "content": "Frase: Se Maomé não vai à montanha, vai a montanha a\nComplemento: \"Meca\""}, {"role": "assistant", "content": "Se Maomé não vai à montanha, vai a montanha a Meca"}, {"role": "user", "content": "Frase: Tudo tem solução menos a\nComplemento: \"matemática\""}]
+----------------------------------------
+Prediction: Tudo tem solução menos a matemática
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 63
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quando a esmola é demais o santo\nComplemento: \"fala\""}, {"role": "assistant", "content": "Quando a esmola é demais o santo fala"}, {"role": "user", "content": "Frase: A pressa é a inimiga da\nComplemento: \"lentidão\""}, {"role": "assistant", "content": "A pressa é a inimiga da lentidão"}, {"role": "user", "content": "Frase: Quem é vivo sempre\nComplemento: \"respira\""}, {"role": "assistant", "content": "Quem é vivo sempre respira"}, {"role": "user", "content": "Frase: Quem tem boca vai à\nComplemento: \"Veneza\""}]
+----------------------------------------
+Prediction: Quem tem boca vai à Veneza
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 64
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: A César o que é de César, a Deus o que é de\nComplemento: \"saudável\""}, {"role": "assistant", "content": "A César o que é de César, a Deus o que é de saudável"}, {"role": "user", "content": "Frase: Devagar se vai ao\nComplemento: \"centro\""}, {"role": "assistant", "content": "Devagar se vai ao centro"}, {"role": "user", "content": "Frase: Quem tudo quer tudo\nComplemento: \"gosta\""}, {"role": "assistant", "content": "Quem tudo quer tudo gosta"}, {"role": "user", "content": "Frase: As aparências\nComplemento: \"belas\""}]
+----------------------------------------
+Prediction: As aparências belas são as características que a gente gosta.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 65
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: A união faz a\nComplemento: \"amizade\""}, {"role": "assistant", "content": "A união faz a amizade"}, {"role": "user", "content": "Frase: Para bom entendedor, meia palavra\nComplemento: \"atrapalha\""}, {"role": "assistant", "content": "Para bom entendedor, meia palavra atrapalha"}, {"role": "user", "content": "Frase: Quem desdenha quer\nComplemento: \"atenção\""}, {"role": "assistant", "content": "Quem desdenha quer atenção"}, {"role": "user", "content": "Frase: Antes só do que mal\nComplemento: \"vestido\""}]
+----------------------------------------
+Prediction: Antes só do que mal vestido
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 66
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Na necessidade que se conhece o\nComplemento: \"problema\""}, {"role": "assistant", "content": "Na necessidade que se conhece o problema"}, {"role": "user", "content": "Frase: É melhor não cutucar a onça com vara\nComplemento: \"fatal\""}, {"role": "assistant", "content": "É melhor não cutucar a onça com vara fatal"}, {"role": "user", "content": "Frase: Nem tudo são\nComplemento: \"teclados\""}, {"role": "assistant", "content": "Nem tudo são teclados"}, {"role": "user", "content": "Frase: Vivendo e\nComplemento: \"respirando\""}]
+----------------------------------------
+Prediction: Vivendo e respirando são duas coisas importantes para manter um corpo saudável e equilibrado.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 67
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Casa da mãe\nComplemento: \"Carolina\""}, {"role": "assistant", "content": "Casa da mãe Carolina"}, {"role": "user", "content": "Frase: Quem casa quer\nComplemento: \"carinho\""}, {"role": "assistant", "content": "Quem casa quer carinho"}, {"role": "user", "content": "Frase: Cada um sabe onde o sapato\nComplemento: \"fura\""}, {"role": "assistant", "content": "Cada um sabe onde o sapato fura"}, {"role": "user", "content": "Frase: Em terra de cego, quem tem um olho é\nComplemento: \"esperto\""}]
+----------------------------------------
+Prediction: Em terra de cego, quem tem um olho é esperto
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 68
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Em time que está ganhando, não se\nComplemento: \"reclama\""}, {"role": "assistant", "content": "Em time que está ganhando, não se reclama"}, {"role": "user", "content": "Frase: Quem não tem dinheiro, não tem\nComplemento: \"felicidade\""}, {"role": "assistant", "content": "Quem não tem dinheiro, não tem felicidade"}, {"role": "user", "content": "Frase: É dando que se\nComplemento: \"aprende\""}, {"role": "assistant", "content": "É dando que se aprende"}, {"role": "user", "content": "Frase: É errando que se\nComplemento: \"paga\""}]
+----------------------------------------
+Prediction: É errando que se paga
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 69
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Em rio que tem piranha, jacaré nada de\nComplemento: \"camiseta\""}, {"role": "assistant", "content": "Em rio que tem piranha, jacaré nada de camiseta"}, {"role": "user", "content": "Frase: Filho de peixe peixinho\nComplemento: \"filhote\""}, {"role": "assistant", "content": "Filho de peixe peixinho filhote"}, {"role": "user", "content": "Frase: Quem ri por último, ri\nComplemento: \"alegremente\""}, {"role": "assistant", "content": "Quem ri por último, ri alegremente"}, {"role": "user", "content": "Frase: O bom filho à casa\nComplemento: \"azul\""}]
+----------------------------------------
+Prediction: O bom filho à casa azul
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 70
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Filho de peixe peixinho\nComplemento: \"filhote\""}, {"role": "assistant", "content": "Filho de peixe peixinho filhote"}, {"role": "user", "content": "Frase: Em briga de marido e mulher, ninguém mete a\nComplemento: \"faca\""}, {"role": "assistant", "content": "Em briga de marido e mulher, ninguém mete a faca"}, {"role": "user", "content": "Frase: Quanto mais alto, maior a\nComplemento: \"dificuldade\""}, {"role": "assistant", "content": "Quanto mais alto, maior a dificuldade"}, {"role": "user", "content": "Frase: Pimenta nos olhos dos outros é\nComplemento: \"danoso\""}]
+----------------------------------------
+Prediction: Pimenta nos olhos dos outros é danoso
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 71
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Um é pouco, dois é bom, três é\nComplemento: \"número\""}, {"role": "assistant", "content": "Um é pouco, dois é bom, três é número"}, {"role": "user", "content": "Frase: Em briga de marido e mulher, ninguém mete a\nComplemento: \"faca\""}, {"role": "assistant", "content": "Em briga de marido e mulher, ninguém mete a faca"}, {"role": "user", "content": "Frase: Nem tudo são\nComplemento: \"teclados\""}, {"role": "assistant", "content": "Nem tudo são teclados"}, {"role": "user", "content": "Frase: Quem parte e reparte e não fica com a melhor parte ou é tolo ou não sabe da\nComplemento: \"função\""}]
+----------------------------------------
+Prediction: Quem parte e reparte e não fica com a melhor parte ou é tolo ou não sabe da função?
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 72
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Em boca fechada, não entra\nComplemento: \"comida\""}, {"role": "assistant", "content": "Em boca fechada, não entra comida"}, {"role": "user", "content": "Frase: De boa intenção, o inferno está\nComplemento: \"quente\""}, {"role": "assistant", "content": "De boa intenção, o inferno está quente"}, {"role": "user", "content": "Frase: Casa de ferreiro, espeto de\nComplemento: \"churrasco\""}, {"role": "assistant", "content": "Casa de ferreiro, espeto de churrasco"}, {"role": "user", "content": "Frase: Gato escaldado tem medo de água\nComplemento: \"corrente\""}]
+----------------------------------------
+Prediction: Gato escaldado tem medo de água corrente
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 73
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: A pressa é a inimiga da\nComplemento: \"lentidão\""}, {"role": "assistant", "content": "A pressa é a inimiga da lentidão"}, {"role": "user", "content": "Frase: Toda panela tem sua\nComplemento: \"tinta\""}, {"role": "assistant", "content": "Toda panela tem sua tinta"}, {"role": "user", "content": "Frase: Não cutuque a onça com vara\nComplemento: \"perfurante\""}, {"role": "assistant", "content": "Não cutuque a onça com vara perfurante"}, {"role": "user", "content": "Frase: Quem é vivo sempre\nComplemento: \"respira\""}]
+----------------------------------------
+Prediction: Quem é vivo sempre respira
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 74
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Santo de casa não faz\nComplemento: \"almoço\""}, {"role": "assistant", "content": "Santo de casa não faz almoço"}, {"role": "user", "content": "Frase: Quem canta seus males\nComplemento: \"liberta\""}, {"role": "assistant", "content": "Quem canta seus males liberta"}, {"role": "user", "content": "Frase: Para bom entendedor, meia palavra\nComplemento: \"atrapalha\""}, {"role": "assistant", "content": "Para bom entendedor, meia palavra atrapalha"}, {"role": "user", "content": "Frase: Nada como um dia depois do\nComplemento: \"Natal\""}]
+----------------------------------------
+Prediction: Nada como um dia depois do Natal
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 75
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Não deixe para amanhã aquilo que você pode fazer\nComplemento: \"deitado\""}, {"role": "assistant", "content": "Não deixe para amanhã aquilo que você pode fazer deitado"}, {"role": "user", "content": "Frase: À noite todos os gatos são\nComplemento: \"bonitos\""}, {"role": "assistant", "content": "À noite todos os gatos são bonitos"}, {"role": "user", "content": "Frase: Rir é o melhor\nComplemento: \"som\""}, {"role": "assistant", "content": "Rir é o melhor som"}, {"role": "user", "content": "Frase: Mente vazia, oficina do\nComplemento: \"caminhão\""}]
+----------------------------------------
+Prediction: Mente vazia, oficina do caminho
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 76
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem parte e reparte e não fica com a melhor parte ou é tolo ou não sabe da\nComplemento: \"função\""}, {"role": "assistant", "content": "Quem parte e reparte e não fica com a melhor parte ou é tolo ou não sabe da função"}, {"role": "user", "content": "Frase: Quando um não quer, dois não\nComplemento: \"entendem\""}, {"role": "assistant", "content": "Quando um não quer, dois não entendem"}, {"role": "user", "content": "Frase: O que não tem remédio, remediado\nComplemento: \"volto\""}, {"role": "assistant", "content": "O que não tem remédio, remediado volto"}, {"role": "user", "content": "Frase: Quem ri por último, ri\nComplemento: \"alegremente\""}]
+----------------------------------------
+Prediction: Quem ri por último, ri de forma felizmente
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 77
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: O que não tem remédio, remediado\nComplemento: \"volto\""}, {"role": "assistant", "content": "O que não tem remédio, remediado volto"}, {"role": "user", "content": "Frase: Quem canta seus males\nComplemento: \"liberta\""}, {"role": "assistant", "content": "Quem canta seus males liberta"}, {"role": "user", "content": "Frase: Pau que nasce torto nunca se\nComplemento: \"quebra\""}, {"role": "assistant", "content": "Pau que nasce torto nunca se quebra"}, {"role": "user", "content": "Frase: Quem vê cara, não vê\nComplemento: \"maquiagem\""}]
+----------------------------------------
+Prediction: Quem vê cara, não vê maquiagem
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 78
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem parte e reparte e não fica com a melhor parte ou é tolo ou não sabe da\nComplemento: \"função\""}, {"role": "assistant", "content": "Quem parte e reparte e não fica com a melhor parte ou é tolo ou não sabe da função"}, {"role": "user", "content": "Frase: Batatinha quando nasce, se esparrama pelo\nComplemento: \"assoalho\""}, {"role": "assistant", "content": "Batatinha quando nasce, se esparrama pelo assoalho"}, {"role": "user", "content": "Frase: Não julgue um livro pela\nComplemento: \"página\""}, {"role": "assistant", "content": "Não julgue um livro pela página"}, {"role": "user", "content": "Frase: Quem pode, pode; quem não pode, se\nComplemento: \"vira\""}]
+----------------------------------------
+Prediction: Quem pode, pode; quem não pode, se vira
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 79
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: A ocasião faz o\nComplemento: \"momento\""}, {"role": "assistant", "content": "A ocasião faz o momento"}, {"role": "user", "content": "Frase: Cor de burro quando\nComplemento: \"molhado\""}, {"role": "assistant", "content": "Cor de burro quando molhado"}, {"role": "user", "content": "Frase: O hábito faz o\nComplemento: \"comportamento\""}, {"role": "assistant", "content": "O hábito faz o comportamento"}, {"role": "user", "content": "Frase: Quem tudo quer tudo\nComplemento: \"gosta\""}]
+----------------------------------------
+Prediction: Quem tudo quer tudo gosta
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 80
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Passarinho que acompanha morcego acorda de cabeça para\nComplemento: \"pensar\""}, {"role": "assistant", "content": "Passarinho que acompanha morcego acorda de cabeça para pensar"}, {"role": "user", "content": "Frase: O homem é senhor do que pensa e escravo do que\nComplemento: \"deve\""}, {"role": "assistant", "content": "O homem é senhor do que pensa e escravo do que deve"}, {"role": "user", "content": "Frase: A pressa é a inimiga da\nComplemento: \"lentidão\""}, {"role": "assistant", "content": "A pressa é a inimiga da lentidão"}, {"role": "user", "content": "Frase: Dar uma de\nComplemento: \"maquinista\""}]
+----------------------------------------
+Prediction: Dar uma de maquinista para ajudar a manter o seu carro pronto para a estrada.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 81
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Achado não é\nComplemento: \"molhado\""}, {"role": "assistant", "content": "Achado não é molhado"}, {"role": "user", "content": "Frase: Quem vai ao vento perde o\nComplemento: \"cabelo\""}, {"role": "assistant", "content": "Quem vai ao vento perde o cabelo"}, {"role": "user", "content": "Frase: Quem cala,\nComplemento: \"sabe\""}, {"role": "assistant", "content": "Quem cala, sabe"}, {"role": "user", "content": "Frase: Depois da tempestade vem a\nComplemento: \"conta\""}]
+----------------------------------------
+Prediction: Depois da tempestade vem a conta
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 82
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Pimenta nos olhos dos outros é\nComplemento: \"danoso\""}, {"role": "assistant", "content": "Pimenta nos olhos dos outros é danoso"}, {"role": "user", "content": "Frase: Quem vai ao vento perde o\nComplemento: \"cabelo\""}, {"role": "assistant", "content": "Quem vai ao vento perde o cabelo"}, {"role": "user", "content": "Frase: É errando que se\nComplemento: \"paga\""}, {"role": "assistant", "content": "É errando que se paga"}, {"role": "user", "content": "Frase: Árvore que nasce torta morre\nComplemento: \"caindo\""}]
+----------------------------------------
+Prediction: Árvore que nasce torta morre caindo
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 83
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Cor de burro quando\nComplemento: \"molhado\""}, {"role": "assistant", "content": "Cor de burro quando molhado"}, {"role": "user", "content": "Frase: Quem não chora não\nComplemento: \"sofreu\""}, {"role": "assistant", "content": "Quem não chora não sofreu"}, {"role": "user", "content": "Frase: O pior cego é o que não quer\nComplemento: \"chocolate\""}, {"role": "assistant", "content": "O pior cego é o que não quer chocolate"}, {"role": "user", "content": "Frase: Dar a César o que é de\nComplemento: \"favor\""}]
+----------------------------------------
+Prediction: Dar a César o que é de favor
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 84
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: O bom filho à casa\nComplemento: \"azul\""}, {"role": "assistant", "content": "O bom filho à casa azul"}, {"role": "user", "content": "Frase: Água mole pedra dura tanto bate até que\nComplemento: \"molha\""}, {"role": "assistant", "content": "Água mole pedra dura tanto bate até que molha"}, {"role": "user", "content": "Frase: O peixe morre pela\nComplemento: \"fome\""}, {"role": "assistant", "content": "O peixe morre pela fome"}, {"role": "user", "content": "Frase: Onde Judas perdeu as\nComplemento: \"camisetas\""}]
+----------------------------------------
+Prediction: Onde Judas perdeu as camisetas
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 85
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: A cobra vai\nComplemento: \"atacar\""}, {"role": "assistant", "content": "A cobra vai atacar"}, {"role": "user", "content": "Frase: Deus escreve certo por linhas\nComplemento: \"laranjas\""}, {"role": "assistant", "content": "Deus escreve certo por linhas laranjas"}, {"role": "user", "content": "Frase: Não julgue um livro pela\nComplemento: \"página\""}, {"role": "assistant", "content": "Não julgue um livro pela página"}, {"role": "user", "content": "Frase: Tudo o que é bom dura\nComplemento: \"suficientemente\""}]
+----------------------------------------
+Prediction: Tudo o que é bom dura suficientemente
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 86
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: O que é do homem o bicho não\nComplemento: \"gosta\""}, {"role": "assistant", "content": "O que é do homem o bicho não gosta"}, {"role": "user", "content": "Frase: Pau que dá em Chico, dá em\nComplemento: \"João\""}, {"role": "assistant", "content": "Pau que dá em Chico, dá em João"}, {"role": "user", "content": "Frase: Em briga de marido e mulher, ninguém mete a\nComplemento: \"faca\""}, {"role": "assistant", "content": "Em briga de marido e mulher, ninguém mete a faca"}, {"role": "user", "content": "Frase: Nem tudo são\nComplemento: \"teclados\""}]
+----------------------------------------
+Prediction: Nem tudo são teclados
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 87
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Mais vale um pássaro na mão do que dois\nComplemento: \"papagaios\""}, {"role": "assistant", "content": "Mais vale um pássaro na mão do que dois papagaios"}, {"role": "user", "content": "Frase: Quem desdenha quer\nComplemento: \"atenção\""}, {"role": "assistant", "content": "Quem desdenha quer atenção"}, {"role": "user", "content": "Frase: Quem tudo quer tudo\nComplemento: \"gosta\""}, {"role": "assistant", "content": "Quem tudo quer tudo gosta"}, {"role": "user", "content": "Frase: Quando um burro fala, o outro abaixa as\nComplemento: \"expectativas\""}]
+----------------------------------------
+Prediction: Quando um burro fala, o outro abaixa as expectativas
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 88
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Tudo o que é bom dura\nComplemento: \"suficientemente\""}, {"role": "assistant", "content": "Tudo o que é bom dura suficientemente"}, {"role": "user", "content": "Frase: Quando um não quer, dois não\nComplemento: \"entendem\""}, {"role": "assistant", "content": "Quando um não quer, dois não entendem"}, {"role": "user", "content": "Frase: Longe dos olhos, longe do\nComplemento: \"caminho\""}, {"role": "assistant", "content": "Longe dos olhos, longe do caminho"}, {"role": "user", "content": "Frase: Pau que nasce torto nunca se\nComplemento: \"quebra\""}]
+----------------------------------------
+Prediction: Pau que nasce torto nunca se braça
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 89
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Toda brincadeira tem um fundo de\nComplemento: \"complexidade\""}, {"role": "assistant", "content": "Toda brincadeira tem um fundo de complexidade"}, {"role": "user", "content": "Frase: De médico e de louco todo mundo tem um\nComplemento: \"remédio\""}, {"role": "assistant", "content": "De médico e de louco todo mundo tem um remédio"}, {"role": "user", "content": "Frase: O que é do homem o bicho não\nComplemento: \"gosta\""}, {"role": "assistant", "content": "O que é do homem o bicho não gosta"}, {"role": "user", "content": "Frase: Quem espera sempre\nComplemento: \"atrasa\""}]
+----------------------------------------
+Prediction: Quem espera sempre atrasa
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 90
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Vingança é um prato que se come\nComplemento: \"quebrado\""}, {"role": "assistant", "content": "Vingança é um prato que se come quebrado"}, {"role": "user", "content": "Frase: Pensando morreu um\nComplemento: \"humano\""}, {"role": "assistant", "content": "Pensando morreu um humano"}, {"role": "user", "content": "Frase: Tudo o que é bom dura\nComplemento: \"suficientemente\""}, {"role": "assistant", "content": "Tudo o que é bom dura suficientemente"}, {"role": "user", "content": "Frase: O que os olhos não veem o coração não\nComplemento: \"para\""}]
+----------------------------------------
+Prediction: O que os olhos não veem o coração para não sentir a dor e a tristeza.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 91
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quando um burro fala, o outro abaixa as\nComplemento: \"expectativas\""}, {"role": "assistant", "content": "Quando um burro fala, o outro abaixa as expectativas"}, {"role": "user", "content": "Frase: Quem pode, pode; quem não pode, se\nComplemento: \"vira\""}, {"role": "assistant", "content": "Quem pode, pode; quem não pode, se vira"}, {"role": "user", "content": "Frase: Quem tem pressa come\nComplemento: \"batata\""}, {"role": "assistant", "content": "Quem tem pressa come batata"}, {"role": "user", "content": "Frase: Casa de ferreiro, espeto de\nComplemento: \"churrasco\""}]
+----------------------------------------
+Prediction: Casa de ferreiro, espeto de churrasco
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 92
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: A César o que é de César, a Deus o que é de\nComplemento: \"saudável\""}, {"role": "assistant", "content": "A César o que é de César, a Deus o que é de saudável"}, {"role": "user", "content": "Frase: De pequenino é que se torce o\nComplemento: \"pé\""}, {"role": "assistant", "content": "De pequenino é que se torce o pé"}, {"role": "user", "content": "Frase: Macaco velho não pula em galho\nComplemento: \"perigoso\""}, {"role": "assistant", "content": "Macaco velho não pula em galho perigoso"}, {"role": "user", "content": "Frase: De boa intenção, o inferno está\nComplemento: \"quente\""}]
+----------------------------------------
+Prediction: De boa intenção, o inferno está quente
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 93
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Tudo o que é bom dura\nComplemento: \"suficientemente\""}, {"role": "assistant", "content": "Tudo o que é bom dura suficientemente"}, {"role": "user", "content": "Frase: Quem não arrisca não\nComplemento: \"entende\""}, {"role": "assistant", "content": "Quem não arrisca não entende"}, {"role": "user", "content": "Frase: Batatinha quando nasce, se esparrama pelo\nComplemento: \"assoalho\""}, {"role": "assistant", "content": "Batatinha quando nasce, se esparrama pelo assoalho"}, {"role": "user", "content": "Frase: Quem sai aos seus não\nComplemento: \"defende\""}]
+----------------------------------------
+Prediction: Quem sai aos seus não defende
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 94
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Faça o que eu digo, não faça o que eu\nComplemento: \"farei\""}, {"role": "assistant", "content": "Faça o que eu digo, não faça o que eu farei"}, {"role": "user", "content": "Frase: É uma faca de dois\nComplemento: \"cabos\""}, {"role": "assistant", "content": "É uma faca de dois cabos"}, {"role": "user", "content": "Frase: Dar uma de\nComplemento: \"maquinista\""}, {"role": "assistant", "content": "Dar uma de maquinista"}, {"role": "user", "content": "Frase: Melhor prevenir que\nComplemento: \"sofrer\""}]
+----------------------------------------
+Prediction: Melhor prevenir que sofrer
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 95
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem pode, pode; quem não pode, se\nComplemento: \"vira\""}, {"role": "assistant", "content": "Quem pode, pode; quem não pode, se vira"}, {"role": "user", "content": "Frase: Não existe rosa sem\nComplemento: \"amarelo\""}, {"role": "assistant", "content": "Não existe rosa sem amarelo"}, {"role": "user", "content": "Frase: A cobra vai\nComplemento: \"atacar\""}, {"role": "assistant", "content": "A cobra vai atacar"}, {"role": "user", "content": "Frase: O que vai,\nComplemento: \"foi\""}]
+----------------------------------------
+Prediction: O que vai, foi uma experiência inesperada e emocionante.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 96
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: O seguro morreu de\nComplemento: \"dengue\""}, {"role": "assistant", "content": "O seguro morreu de dengue"}, {"role": "user", "content": "Frase: Na necessidade que se conhece o\nComplemento: \"problema\""}, {"role": "assistant", "content": "Na necessidade que se conhece o problema"}, {"role": "user", "content": "Frase: Quem tudo quer tudo\nComplemento: \"gosta\""}, {"role": "assistant", "content": "Quem tudo quer tudo gosta"}, {"role": "user", "content": "Frase: A ignorância é a mãe de todas as\nComplemento: \"qualidades\""}]
+----------------------------------------
+Prediction: A ignorância é a mãe de todas as qualidades
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 97
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: É errando que se\nComplemento: \"paga\""}, {"role": "assistant", "content": "É errando que se paga"}, {"role": "user", "content": "Frase: Querer é\nComplemento: \"ação\""}, {"role": "assistant", "content": "Querer é ação"}, {"role": "user", "content": "Frase: Por fora, bela viola Por dentro, pão\nComplemento: \"sírio\""}, {"role": "assistant", "content": "Por fora, bela viola Por dentro, pão sírio"}, {"role": "user", "content": "Frase: Cor de burro quando\nComplemento: \"molhado\""}]
+----------------------------------------
+Prediction: Cor de burro quando molhado
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 98
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Rapadura é doce, mas não é\nComplemento: \"gordurosa\""}, {"role": "assistant", "content": "Rapadura é doce, mas não é gordurosa"}, {"role": "user", "content": "Frase: Vivendo e\nComplemento: \"respirando\""}, {"role": "assistant", "content": "Vivendo e respirando"}, {"role": "user", "content": "Frase: Nada como um dia depois do\nComplemento: \"Natal\""}, {"role": "assistant", "content": "Nada como um dia depois do Natal"}, {"role": "user", "content": "Frase: Quem tem pressa come\nComplemento: \"batata\""}]
+----------------------------------------
+Prediction: Quem tem pressa come batata?
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 99
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Todos os caminhos levam à\nComplemento: \"Veneza\""}, {"role": "assistant", "content": "Todos os caminhos levam à Veneza"}, {"role": "user", "content": "Frase: Em briga de marido e mulher, ninguém mete a\nComplemento: \"faca\""}, {"role": "assistant", "content": "Em briga de marido e mulher, ninguém mete a faca"}, {"role": "user", "content": "Frase: Esmola demais até santo\nComplemento: \"peca\""}, {"role": "assistant", "content": "Esmola demais até santo peca"}, {"role": "user", "content": "Frase: Quem não chora não\nComplemento: \"sofreu\""}]
+----------------------------------------
+Prediction: Quem não chora não sofreu
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 100
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Cada cabeça uma\nComplemento: \"coluna\""}, {"role": "assistant", "content": "Cada cabeça uma coluna"}, {"role": "user", "content": "Frase: O que os olhos não veem o coração não\nComplemento: \"para\""}, {"role": "assistant", "content": "O que os olhos não veem o coração não para"}, {"role": "user", "content": "Frase: Cão que ladra não\nComplemento: \"ataca\""}, {"role": "assistant", "content": "Cão que ladra não ataca"}, {"role": "user", "content": "Frase: Em rio que tem piranha, jacaré nada de\nComplemento: \"camiseta\""}]
+----------------------------------------
+Prediction: Em rio que tem piranha, jacaré nada de camiseta
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 101
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: O que vem fácil, vai\nComplemento: \"sempre\""}, {"role": "assistant", "content": "O que vem fácil, vai sempre"}, {"role": "user", "content": "Frase: Em time que está ganhando, não se\nComplemento: \"reclama\""}, {"role": "assistant", "content": "Em time que está ganhando, não se reclama"}, {"role": "user", "content": "Frase: Quanto mais alto, maior a\nComplemento: \"dificuldade\""}, {"role": "assistant", "content": "Quanto mais alto, maior a dificuldade"}, {"role": "user", "content": "Frase: Se conselho fosse bom, ninguém dava,\nComplemento: \"guardava\""}]
+----------------------------------------
+Prediction: Se conselho fosse bom, ninguém dava guardá-lo
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 102
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Não ponha a carroça na frente dos\nComplemento: \"carros\""}, {"role": "assistant", "content": "Não ponha a carroça na frente dos carros"}, {"role": "user", "content": "Frase: Vivendo e\nComplemento: \"respirando\""}, {"role": "assistant", "content": "Vivendo e respirando"}, {"role": "user", "content": "Frase: Pensando morreu um\nComplemento: \"humano\""}, {"role": "assistant", "content": "Pensando morreu um humano"}, {"role": "user", "content": "Frase: Quem não tem colírio, usa óculos\nComplemento: \"branco\""}]
+----------------------------------------
+Prediction: Quem não tem colírio, usa óculos branco
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 103
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Não deixe para amanhã aquilo que você pode fazer\nComplemento: \"deitado\""}, {"role": "assistant", "content": "Não deixe para amanhã aquilo que você pode fazer deitado"}, {"role": "user", "content": "Frase: Mais vale um pássaro na mão do que dois\nComplemento: \"papagaios\""}, {"role": "assistant", "content": "Mais vale um pássaro na mão do que dois papagaios"}, {"role": "user", "content": "Frase: Devagar se vai ao\nComplemento: \"centro\""}, {"role": "assistant", "content": "Devagar se vai ao centro"}, {"role": "user", "content": "Frase: É melhor não cutucar a onça com vara\nComplemento: \"fatal\""}]
+----------------------------------------
+Prediction: É melhor não cutucar a onça com vara fatal
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 104
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Água mole pedra dura tanto bate até que\nComplemento: \"molha\""}, {"role": "assistant", "content": "Água mole pedra dura tanto bate até que molha"}, {"role": "user", "content": "Frase: Nem tudo que reluz é\nComplemento: \"brilhante\""}, {"role": "assistant", "content": "Nem tudo que reluz é brilhante"}, {"role": "user", "content": "Frase: Todos os caminhos levam à\nComplemento: \"Veneza\""}, {"role": "assistant", "content": "Todos os caminhos levam à Veneza"}, {"role": "user", "content": "Frase: O diabo não é tão feio quanto se\nComplemento: \"gostaria\""}]
+----------------------------------------
+Prediction: O diabo não é tão feio quanto se gostaria
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 105
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Árvore que nasce torta morre\nComplemento: \"caindo\""}, {"role": "assistant", "content": "Árvore que nasce torta morre caindo"}, {"role": "user", "content": "Frase: Salvo pelo\nComplemento: \"padre\""}, {"role": "assistant", "content": "Salvo pelo padre"}, {"role": "user", "content": "Frase: Quem sai aos seus não\nComplemento: \"defende\""}, {"role": "assistant", "content": "Quem sai aos seus não defende"}, {"role": "user", "content": "Frase: Quanto mais se tem, mais se\nComplemento: \"terá\""}]
+----------------------------------------
+Prediction: Quanto mais se tem, mais se terá
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 106
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: O pior cego é o que não quer\nComplemento: \"chocolate\""}, {"role": "assistant", "content": "O pior cego é o que não quer chocolate"}, {"role": "user", "content": "Frase: Macaco velho não pula em galho\nComplemento: \"perigoso\""}, {"role": "assistant", "content": "Macaco velho não pula em galho perigoso"}, {"role": "user", "content": "Frase: Cada um com os seus\nComplemento: \"cadernos\""}, {"role": "assistant", "content": "Cada um com os seus cadernos"}, {"role": "user", "content": "Frase: Todos os caminhos levam à\nComplemento: \"Veneza\""}]
+----------------------------------------
+Prediction: Todos os caminhos levam à Veneza
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 107
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem não chora não\nComplemento: \"sofreu\""}, {"role": "assistant", "content": "Quem não chora não sofreu"}, {"role": "user", "content": "Frase: Um homem prevenido vale por\nComplemento: \"cachorros\""}, {"role": "assistant", "content": "Um homem prevenido vale por cachorros"}, {"role": "user", "content": "Frase: Quem parte e reparte e não fica com a melhor parte ou é tolo ou não sabe da\nComplemento: \"função\""}, {"role": "assistant", "content": "Quem parte e reparte e não fica com a melhor parte ou é tolo ou não sabe da função"}, {"role": "user", "content": "Frase: Ladrão que rouba ladrão tem cem anos de\nComplemento: \"pena\""}]
+----------------------------------------
+Prediction: Ladrão que rouba ladrão tem cem anos de pena
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 108
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Devagar se vai ao\nComplemento: \"centro\""}, {"role": "assistant", "content": "Devagar se vai ao centro"}, {"role": "user", "content": "Frase: Querer é\nComplemento: \"ação\""}, {"role": "assistant", "content": "Querer é ação"}, {"role": "user", "content": "Frase: Se Maomé não vai à montanha, vai a montanha a\nComplemento: \"Meca\""}, {"role": "assistant", "content": "Se Maomé não vai à montanha, vai a montanha a Meca"}, {"role": "user", "content": "Frase: Por ele eu ponho minha mão no\nComplemento: \"tambor\""}]
+----------------------------------------
+Prediction: Por ele eu ponho minha mão no tambor
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 109
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem não tem colírio, usa óculos\nComplemento: \"branco\""}, {"role": "assistant", "content": "Quem não tem colírio, usa óculos branco"}, {"role": "user", "content": "Frase: Casa de ferreiro, espeto de\nComplemento: \"churrasco\""}, {"role": "assistant", "content": "Casa de ferreiro, espeto de churrasco"}, {"role": "user", "content": "Frase: Quem semeia vento colhe\nComplemento: \"mamão\""}, {"role": "assistant", "content": "Quem semeia vento colhe mamão"}, {"role": "user", "content": "Frase: Um homem prevenido vale por\nComplemento: \"cachorros\""}]
+----------------------------------------
+Prediction: Um homem prevenido vale por cachorros
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 110
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Filho de peixe peixinho\nComplemento: \"filhote\""}, {"role": "assistant", "content": "Filho de peixe peixinho filhote"}, {"role": "user", "content": "Frase: Quem tem pressa come\nComplemento: \"batata\""}, {"role": "assistant", "content": "Quem tem pressa come batata"}, {"role": "user", "content": "Frase: Por ele eu ponho minha mão no\nComplemento: \"tambor\""}, {"role": "assistant", "content": "Por ele eu ponho minha mão no tambor"}, {"role": "user", "content": "Frase: Para baixo todo santo\nComplemento: \"reza\""}]
+----------------------------------------
+Prediction: Para baixo todo santo reza
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 111
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Águas passadas não movem\nComplemento: \"carros\""}, {"role": "assistant", "content": "Águas passadas não movem carros"}, {"role": "user", "content": "Frase: A voz do povo é a voz de\nComplemento: \"destaque\""}, {"role": "assistant", "content": "A voz do povo é a voz de destaque"}, {"role": "user", "content": "Frase: Nem tudo são\nComplemento: \"teclados\""}, {"role": "assistant", "content": "Nem tudo são teclados"}, {"role": "user", "content": "Frase: Uma andorinha sozinha não faz\nComplemento: \"feijão\""}]
+----------------------------------------
+Prediction: Uma andorinha sozinha não faz feijão
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 112
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Salvo pelo\nComplemento: \"padre\""}, {"role": "assistant", "content": "Salvo pelo padre"}, {"role": "user", "content": "Frase: Desgraça pouca é\nComplemento: \"tristeza\""}, {"role": "assistant", "content": "Desgraça pouca é tristeza"}, {"role": "user", "content": "Frase: Se conselho fosse bom, ninguém dava,\nComplemento: \"guardava\""}, {"role": "assistant", "content": "Se conselho fosse bom, ninguém dava, guardava"}, {"role": "user", "content": "Frase: O ótimo é inimigo do\nComplemento: \"divertido\""}]
+----------------------------------------
+Prediction: O ótimo é inimigo do divertido
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 113
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Dar a César o que é de\nComplemento: \"favor\""}, {"role": "assistant", "content": "Dar a César o que é de favor"}, {"role": "user", "content": "Frase: Cada um sabe onde o sapato\nComplemento: \"fura\""}, {"role": "assistant", "content": "Cada um sabe onde o sapato fura"}, {"role": "user", "content": "Frase: Achado não é\nComplemento: \"molhado\""}, {"role": "assistant", "content": "Achado não é molhado"}, {"role": "user", "content": "Frase: Cada cabeça uma\nComplemento: \"coluna\""}]
+----------------------------------------
+Prediction: Cada cabeça uma coluna
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 114
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Mais vale um asno que me carregue, que um cavalo que me\nComplemento: \"alimente\""}, {"role": "assistant", "content": "Mais vale um asno que me carregue, que um cavalo que me alimente"}, {"role": "user", "content": "Frase: Rapadura é doce, mas não é\nComplemento: \"gordurosa\""}, {"role": "assistant", "content": "Rapadura é doce, mas não é gordurosa"}, {"role": "user", "content": "Frase: É o mesmo que trocar seis por meia\nComplemento: \"diária\""}, {"role": "assistant", "content": "É o mesmo que trocar seis por meia diária"}, {"role": "user", "content": "Frase: Pôr a mão no\nComplemento: \"ombro\""}]
+----------------------------------------
+Prediction: Pôr a mão noombro
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 115
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Vingança é um prato que se come\nComplemento: \"quebrado\""}, {"role": "assistant", "content": "Vingança é um prato que se come quebrado"}, {"role": "user", "content": "Frase: Quem tem boca vai à\nComplemento: \"Veneza\""}, {"role": "assistant", "content": "Quem tem boca vai à Veneza"}, {"role": "user", "content": "Frase: Não existe rosa sem\nComplemento: \"amarelo\""}, {"role": "assistant", "content": "Não existe rosa sem amarelo"}, {"role": "user", "content": "Frase: Papagaio que acompanha João-de-Barro vira ajudante de\nComplemento: \"visitantes\""}]
+----------------------------------------
+Prediction: Papagaio que acompanha João-de-Barro vira ajudante de visitantes
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 116
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Em boca fechada, não entra\nComplemento: \"comida\""}, {"role": "assistant", "content": "Em boca fechada, não entra comida"}, {"role": "user", "content": "Frase: Camarão que dorme a onda\nComplemento: \"molha\""}, {"role": "assistant", "content": "Camarão que dorme a onda molha"}, {"role": "user", "content": "Frase: Todos os caminhos levam à\nComplemento: \"Veneza\""}, {"role": "assistant", "content": "Todos os caminhos levam à Veneza"}, {"role": "user", "content": "Frase: A pressa é a inimiga da\nComplemento: \"lentidão\""}]
+----------------------------------------
+Prediction: A pressa é a inimiga da lentidão
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 117
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: O hábito faz o\nComplemento: \"comportamento\""}, {"role": "assistant", "content": "O hábito faz o comportamento"}, {"role": "user", "content": "Frase: Quem não tem colírio, usa óculos\nComplemento: \"branco\""}, {"role": "assistant", "content": "Quem não tem colírio, usa óculos branco"}, {"role": "user", "content": "Frase: Nem tudo são\nComplemento: \"teclados\""}, {"role": "assistant", "content": "Nem tudo são teclados"}, {"role": "user", "content": "Frase: Por fora, bela viola Por dentro, pão\nComplemento: \"sírio\""}]
+----------------------------------------
+Prediction: Por fora, bela viola, pão sírio
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 118
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: O que não mata,\nComplemento: \"machuca\""}, {"role": "assistant", "content": "O que não mata, machuca"}, {"role": "user", "content": "Frase: Deus escreve certo por linhas\nComplemento: \"laranjas\""}, {"role": "assistant", "content": "Deus escreve certo por linhas laranjas"}, {"role": "user", "content": "Frase: Um dia é da caça, outro é do\nComplemento: \"doutor\""}, {"role": "assistant", "content": "Um dia é da caça, outro é do doutor"}, {"role": "user", "content": "Frase: Longe dos olhos, longe do\nComplemento: \"caminho\""}]
+----------------------------------------
+Prediction: Longe dos olhos, longe do caminho
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 119
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Nem tanto ao mar nem tanto à\nComplemento: \"estrada\""}, {"role": "assistant", "content": "Nem tanto ao mar nem tanto à estrada"}, {"role": "user", "content": "Frase: O que não mata,\nComplemento: \"machuca\""}, {"role": "assistant", "content": "O que não mata, machuca"}, {"role": "user", "content": "Frase: Quem vê cara, não vê\nComplemento: \"maquiagem\""}, {"role": "assistant", "content": "Quem vê cara, não vê maquiagem"}, {"role": "user", "content": "Frase: Tapar o sol com a\nComplemento: \"jaqueta\""}]
+----------------------------------------
+Prediction: Tapar o sol com a jaqueta
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 120
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Falar é prata, calar é\nComplemento: \"difícil\""}, {"role": "assistant", "content": "Falar é prata, calar é difícil"}, {"role": "user", "content": "Frase: O seguro morreu de\nComplemento: \"dengue\""}, {"role": "assistant", "content": "O seguro morreu de dengue"}, {"role": "user", "content": "Frase: Não ponha a carroça na frente dos\nComplemento: \"carros\""}, {"role": "assistant", "content": "Não ponha a carroça na frente dos carros"}, {"role": "user", "content": "Frase: Quem canta seus males\nComplemento: \"liberta\""}]
+----------------------------------------
+Prediction: Quem canta seus males liberta
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 121
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quanto mais alto, maior a\nComplemento: \"dificuldade\""}, {"role": "assistant", "content": "Quanto mais alto, maior a dificuldade"}, {"role": "user", "content": "Frase: Pôr a mão no\nComplemento: \"ombro\""}, {"role": "assistant", "content": "Pôr a mão no ombro"}, {"role": "user", "content": "Frase: Não se faz uma omelete sem quebrar os\nComplemento: \"pratos\""}, {"role": "assistant", "content": "Não se faz uma omelete sem quebrar os pratos"}, {"role": "user", "content": "Frase: Desgraça pouca é\nComplemento: \"tristeza\""}]
+----------------------------------------
+Prediction: Desgraça pouca é tristeza
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 122
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Devagar com o andor que o santo é de\nComplemento: \"borracha\""}, {"role": "assistant", "content": "Devagar com o andor que o santo é de borracha"}, {"role": "user", "content": "Frase: Dizei-me com quem andas e eu te direi quem\nComplemento: \"sumiu\""}, {"role": "assistant", "content": "Dizei-me com quem andas e eu te direi quem sumiu"}, {"role": "user", "content": "Frase: Não há bem que sempre dure nem mal que nunca se\nComplemento: \"manifeste\""}, {"role": "assistant", "content": "Não há bem que sempre dure nem mal que nunca se manifeste"}, {"role": "user", "content": "Frase: Quanto mais alto, maior a\nComplemento: \"dificuldade\""}]
+----------------------------------------
+Prediction: Quanto mais alto, maior a dificuldade
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 123
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Cachorro mordido por cobra tem medo de\nComplemento: \"urso\""}, {"role": "assistant", "content": "Cachorro mordido por cobra tem medo de urso"}, {"role": "user", "content": "Frase: É dando que se\nComplemento: \"aprende\""}, {"role": "assistant", "content": "É dando que se aprende"}, {"role": "user", "content": "Frase: Quem vive de passado é\nComplemento: \"nostálgico\""}, {"role": "assistant", "content": "Quem vive de passado é nostálgico"}, {"role": "user", "content": "Frase: O que é do homem o bicho não\nComplemento: \"gosta\""}]
+----------------------------------------
+Prediction: O que é do homem o bicho não gosta
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 124
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Apressado come\nComplemento: \"frango\""}, {"role": "assistant", "content": "Apressado come frango"}, {"role": "user", "content": "Frase: Quem sai aos seus não\nComplemento: \"defende\""}, {"role": "assistant", "content": "Quem sai aos seus não defende"}, {"role": "user", "content": "Frase: Quem procura,\nComplemento: \"cansa\""}, {"role": "assistant", "content": "Quem procura, cansa"}, {"role": "user", "content": "Frase: Filho de peixe peixinho\nComplemento: \"filhote\""}]
+----------------------------------------
+Prediction: Filho de peixe peixinho filhote
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 125
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Não se faz uma omelete sem quebrar os\nComplemento: \"pratos\""}, {"role": "assistant", "content": "Não se faz uma omelete sem quebrar os pratos"}, {"role": "user", "content": "Frase: Tapar o sol com a\nComplemento: \"jaqueta\""}, {"role": "assistant", "content": "Tapar o sol com a jaqueta"}, {"role": "user", "content": "Frase: Quem sai aos seus não\nComplemento: \"defende\""}, {"role": "assistant", "content": "Quem sai aos seus não defende"}, {"role": "user", "content": "Frase: Há males que vêm para\nComplemento: \"destruir\""}]
+----------------------------------------
+Prediction: Há males que vêm para destruir
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 126
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Mentira tem perna\nComplemento: \"machucada\""}, {"role": "assistant", "content": "Mentira tem perna machucada"}, {"role": "user", "content": "Frase: Quem se mistura com porcos farelo\nComplemento: \"cheira\""}, {"role": "assistant", "content": "Quem se mistura com porcos farelo cheira"}, {"role": "user", "content": "Frase: Quem não é visto, não é\nComplemento: \"importante\""}, {"role": "assistant", "content": "Quem não é visto, não é importante"}, {"role": "user", "content": "Frase: Deus escreve certo por linhas\nComplemento: \"laranjas\""}]
+----------------------------------------
+Prediction: Deus escreve certo por linhas laranjas
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 127
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem tem pressa come\nComplemento: \"batata\""}, {"role": "assistant", "content": "Quem tem pressa come batata"}, {"role": "user", "content": "Frase: A mentira tem perna\nComplemento: \"volumosa\""}, {"role": "assistant", "content": "A mentira tem perna volumosa"}, {"role": "user", "content": "Frase: O pior cego é o que não quer\nComplemento: \"chocolate\""}, {"role": "assistant", "content": "O pior cego é o que não quer chocolate"}, {"role": "user", "content": "Frase: Quem desdenha quer\nComplemento: \"atenção\""}]
+----------------------------------------
+Prediction: Quem desdenha quer atenção
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 128
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Tudo tem solução menos a\nComplemento: \"matemática\""}, {"role": "assistant", "content": "Tudo tem solução menos a matemática"}, {"role": "user", "content": "Frase: A corda sempre arrebenta do lado mais\nComplemento: \"propício\""}, {"role": "assistant", "content": "A corda sempre arrebenta do lado mais propício"}, {"role": "user", "content": "Frase: Quem casa quer\nComplemento: \"carinho\""}, {"role": "assistant", "content": "Quem casa quer carinho"}, {"role": "user", "content": "Frase: Salvo pelo\nComplemento: \"padre\""}]
+----------------------------------------
+Prediction: Salvo pelo padre
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 129
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem não tem colírio, usa óculos\nComplemento: \"branco\""}, {"role": "assistant", "content": "Quem não tem colírio, usa óculos branco"}, {"role": "user", "content": "Frase: Quem não é visto, não é\nComplemento: \"importante\""}, {"role": "assistant", "content": "Quem não é visto, não é importante"}, {"role": "user", "content": "Frase: Quem se mistura com porcos farelo\nComplemento: \"cheira\""}, {"role": "assistant", "content": "Quem se mistura com porcos farelo cheira"}, {"role": "user", "content": "Frase: Em time que está ganhando, não se\nComplemento: \"reclama\""}]
+----------------------------------------
+Prediction: Em time que está ganhando, não se reclama.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 130
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem não tem dinheiro, não tem\nComplemento: \"felicidade\""}, {"role": "assistant", "content": "Quem não tem dinheiro, não tem felicidade"}, {"role": "user", "content": "Frase: Em briga de marido e mulher, ninguém mete a\nComplemento: \"faca\""}, {"role": "assistant", "content": "Em briga de marido e mulher, ninguém mete a faca"}, {"role": "user", "content": "Frase: Quando a esmola é demais o santo\nComplemento: \"fala\""}, {"role": "assistant", "content": "Quando a esmola é demais o santo fala"}, {"role": "user", "content": "Frase: Achado não é\nComplemento: \"molhado\""}]
+----------------------------------------
+Prediction: Achado não é molhado
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 131
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Não cutuque a onça com vara\nComplemento: \"perfurante\""}, {"role": "assistant", "content": "Não cutuque a onça com vara perfurante"}, {"role": "user", "content": "Frase: Um dia é da caça, outro é do\nComplemento: \"doutor\""}, {"role": "assistant", "content": "Um dia é da caça, outro é do doutor"}, {"role": "user", "content": "Frase: O prometido é\nComplemento: \"certo\""}, {"role": "assistant", "content": "O prometido é certo"}, {"role": "user", "content": "Frase: Caiu na rede, é\nComplemento: \"gol\""}]
+----------------------------------------
+Prediction: Caiu na rede, é gol
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 132
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Um dia é da caça, outro é do\nComplemento: \"doutor\""}, {"role": "assistant", "content": "Um dia é da caça, outro é do doutor"}, {"role": "user", "content": "Frase: A ocasião faz o\nComplemento: \"momento\""}, {"role": "assistant", "content": "A ocasião faz o momento"}, {"role": "user", "content": "Frase: Quem não é visto, não é\nComplemento: \"importante\""}, {"role": "assistant", "content": "Quem não é visto, não é importante"}, {"role": "user", "content": "Frase: Entre marido e mulher não se mete a\nComplemento: \"faca\""}]
+----------------------------------------
+Prediction: Entre marido e mulher não se mete a faca
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 133
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Um é pouco, dois é bom, três é\nComplemento: \"número\""}, {"role": "assistant", "content": "Um é pouco, dois é bom, três é número"}, {"role": "user", "content": "Frase: Batatinha quando nasce, se esparrama pelo\nComplemento: \"assoalho\""}, {"role": "assistant", "content": "Batatinha quando nasce, se esparrama pelo assoalho"}, {"role": "user", "content": "Frase: Quem pode, pode; quem não pode, se\nComplemento: \"vira\""}, {"role": "assistant", "content": "Quem pode, pode; quem não pode, se vira"}, {"role": "user", "content": "Frase: A voz do povo é a voz de\nComplemento: \"destaque\""}]
+----------------------------------------
+Prediction: A voz do povo é a voz de destaque
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 134
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Escreveu não leu, o pau\nComplemento: \"quebrou\""}, {"role": "assistant", "content": "Escreveu não leu, o pau quebrou"}, {"role": "user", "content": "Frase: Tapar o sol com a\nComplemento: \"jaqueta\""}, {"role": "assistant", "content": "Tapar o sol com a jaqueta"}, {"role": "user", "content": "Frase: De pequenino é que se torce o\nComplemento: \"pé\""}, {"role": "assistant", "content": "De pequenino é que se torce o pé"}, {"role": "user", "content": "Frase: Olho por olho dente por\nComplemento: \"orelha\""}]
+----------------------------------------
+Prediction: Olho por olho dente por orelha
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 135
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Em terra de cego, quem tem um olho é\nComplemento: \"esperto\""}, {"role": "assistant", "content": "Em terra de cego, quem tem um olho é esperto"}, {"role": "user", "content": "Frase: À noite todos os gatos são\nComplemento: \"bonitos\""}, {"role": "assistant", "content": "À noite todos os gatos são bonitos"}, {"role": "user", "content": "Frase: Quem não tem cão, caça com\nComplemento: \"arma\""}, {"role": "assistant", "content": "Quem não tem cão, caça com arma"}, {"role": "user", "content": "Frase: Não grite sua felicidade a inveja tem sono\nComplemento: \"incerto\""}]
+----------------------------------------
+Prediction: Não grite sua felicidade a inveja tem sono, não é claro
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 136
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Para baixo todo santo\nComplemento: \"reza\""}, {"role": "assistant", "content": "Para baixo todo santo reza"}, {"role": "user", "content": "Frase: Toda brincadeira tem um fundo de\nComplemento: \"complexidade\""}, {"role": "assistant", "content": "Toda brincadeira tem um fundo de complexidade"}, {"role": "user", "content": "Frase: À noite todos os gatos são\nComplemento: \"bonitos\""}, {"role": "assistant", "content": "À noite todos os gatos são bonitos"}, {"role": "user", "content": "Frase: O pior cego é o que não quer\nComplemento: \"chocolate\""}]
+----------------------------------------
+Prediction: O pior cego é o que não quer chocolate
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 137
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Pau que nasce torto nunca se\nComplemento: \"quebra\""}, {"role": "assistant", "content": "Pau que nasce torto nunca se quebra"}, {"role": "user", "content": "Frase: Quem tem boca vai à\nComplemento: \"Veneza\""}, {"role": "assistant", "content": "Quem tem boca vai à Veneza"}, {"role": "user", "content": "Frase: Desgraça pouca é\nComplemento: \"tristeza\""}, {"role": "assistant", "content": "Desgraça pouca é tristeza"}, {"role": "user", "content": "Frase: Aqui se faz, aqui se\nComplemento: \"concluiu\""}]
+----------------------------------------
+Prediction: Aqui se faz, aqui se concluiu
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 138
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Gato escaldado tem medo de água\nComplemento: \"corrente\""}, {"role": "assistant", "content": "Gato escaldado tem medo de água corrente"}, {"role": "user", "content": "Frase: Águas passadas não movem\nComplemento: \"carros\""}, {"role": "assistant", "content": "Águas passadas não movem carros"}, {"role": "user", "content": "Frase: O hábito faz o\nComplemento: \"comportamento\""}, {"role": "assistant", "content": "O hábito faz o comportamento"}, {"role": "user", "content": "Frase: Macaco velho não pula em galho\nComplemento: \"perigoso\""}]
+----------------------------------------
+Prediction: Macaco velho não pula em galho perigoso
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 139
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quando um burro fala, o outro abaixa as\nComplemento: \"expectativas\""}, {"role": "assistant", "content": "Quando um burro fala, o outro abaixa as expectativas"}, {"role": "user", "content": "Frase: Nada como um dia depois do\nComplemento: \"Natal\""}, {"role": "assistant", "content": "Nada como um dia depois do Natal"}, {"role": "user", "content": "Frase: Salvo pelo\nComplemento: \"padre\""}, {"role": "assistant", "content": "Salvo pelo padre"}, {"role": "user", "content": "Frase: Quem conta um conto aumenta um\nComplemento: \"detalhe\""}]
+----------------------------------------
+Prediction: Quem conta um conto aumenta um detalhe
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 140
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem não arrisca não\nComplemento: \"entende\""}, {"role": "assistant", "content": "Quem não arrisca não entende"}, {"role": "user", "content": "Frase: O que não tem remédio, remediado\nComplemento: \"volto\""}, {"role": "assistant", "content": "O que não tem remédio, remediado volto"}, {"role": "user", "content": "Frase: Quem não tem colírio, usa óculos\nComplemento: \"branco\""}, {"role": "assistant", "content": "Quem não tem colírio, usa óculos branco"}, {"role": "user", "content": "Frase: Onde há fumaça há\nComplemento: \"pessoas\""}]
+----------------------------------------
+Prediction: Onde há fumaça há pessoas
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 141
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: O barato sai\nComplemento: \"correndo\""}, {"role": "assistant", "content": "O barato sai correndo"}, {"role": "user", "content": "Frase: Cachorro que late não\nComplemento: \"lambe\""}, {"role": "assistant", "content": "Cachorro que late não lambe"}, {"role": "user", "content": "Frase: Toda panela tem sua\nComplemento: \"tinta\""}, {"role": "assistant", "content": "Toda panela tem sua tinta"}, {"role": "user", "content": "Frase: A César o que é de César, a Deus o que é de\nComplemento: \"saudável\""}]
+----------------------------------------
+Prediction: A César o que é de César, a Deus o que é de saudável.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 142
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem não tem dinheiro, não tem\nComplemento: \"felicidade\""}, {"role": "assistant", "content": "Quem não tem dinheiro, não tem felicidade"}, {"role": "user", "content": "Frase: Não se faz uma omelete sem quebrar os\nComplemento: \"pratos\""}, {"role": "assistant", "content": "Não se faz uma omelete sem quebrar os pratos"}, {"role": "user", "content": "Frase: Amigos, amigos negócios à\nComplemento: \"decidir\""}, {"role": "assistant", "content": "Amigos, amigos negócios à decidir"}, {"role": "user", "content": "Frase: Cachorro que late não\nComplemento: \"lambe\""}]
+----------------------------------------
+Prediction: Cachorro que late não lambe
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 143
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Não deixe para amanhã aquilo que você pode fazer\nComplemento: \"deitado\""}, {"role": "assistant", "content": "Não deixe para amanhã aquilo que você pode fazer deitado"}, {"role": "user", "content": "Frase: Quem chegar primeiro\nComplemento: \"chama\""}, {"role": "assistant", "content": "Quem chegar primeiro chama"}, {"role": "user", "content": "Frase: Aqui se faz, aqui se\nComplemento: \"concluiu\""}, {"role": "assistant", "content": "Aqui se faz, aqui se concluiu"}, {"role": "user", "content": "Frase: Quem fala o que quer, ouve o que não\nComplemento: \"sabe\""}]
+----------------------------------------
+Prediction: Quem fala o que quer, ouve o que não sabe
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 144
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Mais vale um asno que me carregue, que um cavalo que me\nComplemento: \"alimente\""}, {"role": "assistant", "content": "Mais vale um asno que me carregue, que um cavalo que me alimente"}, {"role": "user", "content": "Frase: A ocasião faz o\nComplemento: \"momento\""}, {"role": "assistant", "content": "A ocasião faz o momento"}, {"role": "user", "content": "Frase: Nem tudo são\nComplemento: \"teclados\""}, {"role": "assistant", "content": "Nem tudo são teclados"}, {"role": "user", "content": "Frase: De médico e de louco todo mundo tem um\nComplemento: \"remédio\""}]
+----------------------------------------
+Prediction: De médico e de louco todo mundo tem um remédio
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 145
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: A mentira tem perna\nComplemento: \"volumosa\""}, {"role": "assistant", "content": "A mentira tem perna volumosa"}, {"role": "user", "content": "Frase: Longe dos olhos, longe do\nComplemento: \"caminho\""}, {"role": "assistant", "content": "Longe dos olhos, longe do caminho"}, {"role": "user", "content": "Frase: É dando que se\nComplemento: \"aprende\""}, {"role": "assistant", "content": "É dando que se aprende"}, {"role": "user", "content": "Frase: Não julgue um livro pela\nComplemento: \"página\""}]
+----------------------------------------
+Prediction: Não julgue um livro pela página
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 146
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: De pequenino é que se torce o\nComplemento: \"pé\""}, {"role": "assistant", "content": "De pequenino é que se torce o pé"}, {"role": "user", "content": "Frase: Todos os caminhos levam à\nComplemento: \"Veneza\""}, {"role": "assistant", "content": "Todos os caminhos levam à Veneza"}, {"role": "user", "content": "Frase: Um é pouco, dois é bom, três é\nComplemento: \"número\""}, {"role": "assistant", "content": "Um é pouco, dois é bom, três é número"}, {"role": "user", "content": "Frase: Santo de casa não faz\nComplemento: \"almoço\""}]
+----------------------------------------
+Prediction: Santo de casa não faz almoço
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 147
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Para baixo todo santo\nComplemento: \"reza\""}, {"role": "assistant", "content": "Para baixo todo santo reza"}, {"role": "user", "content": "Frase: Não adianta chorar pelo leite\nComplemento: \"achocolatado\""}, {"role": "assistant", "content": "Não adianta chorar pelo leite achocolatado"}, {"role": "user", "content": "Frase: Tapar o sol com a\nComplemento: \"jaqueta\""}, {"role": "assistant", "content": "Tapar o sol com a jaqueta"}, {"role": "user", "content": "Frase: Água mole pedra dura tanto bate até que\nComplemento: \"molha\""}]
+----------------------------------------
+Prediction: Água mole pedra dura tanto bate até que molha
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 148
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: O bom filho à casa\nComplemento: \"azul\""}, {"role": "assistant", "content": "O bom filho à casa azul"}, {"role": "user", "content": "Frase: Quem é vivo sempre\nComplemento: \"respira\""}, {"role": "assistant", "content": "Quem é vivo sempre respira"}, {"role": "user", "content": "Frase: Escreveu não leu, o pau\nComplemento: \"quebrou\""}, {"role": "assistant", "content": "Escreveu não leu, o pau quebrou"}, {"role": "user", "content": "Frase: O homem é senhor do que pensa e escravo do que\nComplemento: \"deve\""}]
+----------------------------------------
+Prediction: O homem é senhor do que pensa e escravo do que deve.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 149
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: É errando que se\nComplemento: \"paga\""}, {"role": "assistant", "content": "É errando que se paga"}, {"role": "user", "content": "Frase: Quem não tem dinheiro, não tem\nComplemento: \"felicidade\""}, {"role": "assistant", "content": "Quem não tem dinheiro, não tem felicidade"}, {"role": "user", "content": "Frase: Cada um com os seus\nComplemento: \"cadernos\""}, {"role": "assistant", "content": "Cada um com os seus cadernos"}, {"role": "user", "content": "Frase: Quem cala,\nComplemento: \"sabe\""}]
+----------------------------------------
+Prediction: Quem cala, sabe?
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 150
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Em rio que tem piranha, jacaré nada de\nComplemento: \"camiseta\""}, {"role": "assistant", "content": "Em rio que tem piranha, jacaré nada de camiseta"}, {"role": "user", "content": "Frase: Pensando morreu um\nComplemento: \"humano\""}, {"role": "assistant", "content": "Pensando morreu um humano"}, {"role": "user", "content": "Frase: Casa de ferreiro, espeto de\nComplemento: \"churrasco\""}, {"role": "assistant", "content": "Casa de ferreiro, espeto de churrasco"}, {"role": "user", "content": "Frase: Quem com ferro fere, com ferro será\nComplemento: \"queimado\""}]
+----------------------------------------
+Prediction: Quem com ferro fere, com ferro será queimado
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 151
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: À noite todos os gatos são\nComplemento: \"bonitos\""}, {"role": "assistant", "content": "À noite todos os gatos são bonitos"}, {"role": "user", "content": "Frase: Pensando morreu um\nComplemento: \"humano\""}, {"role": "assistant", "content": "Pensando morreu um humano"}, {"role": "user", "content": "Frase: O pior cego é o que não quer\nComplemento: \"chocolate\""}, {"role": "assistant", "content": "O pior cego é o que não quer chocolate"}, {"role": "user", "content": "Frase: Cair no conto do\nComplemento: \"livro\""}]
+----------------------------------------
+Prediction: Cair no conto do livro
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 152
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem fala o que quer, ouve o que não\nComplemento: \"sabe\""}, {"role": "assistant", "content": "Quem fala o que quer, ouve o que não sabe"}, {"role": "user", "content": "Frase: Quem nunca comeu melado quando come se\nComplemento: \"farta\""}, {"role": "assistant", "content": "Quem nunca comeu melado quando come se farta"}, {"role": "user", "content": "Frase: Cada um com os seus\nComplemento: \"cadernos\""}, {"role": "assistant", "content": "Cada um com os seus cadernos"}, {"role": "user", "content": "Frase: Quem não arrisca não\nComplemento: \"entende\""}]
+----------------------------------------
+Prediction: Quem não arrisca não entende.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 153
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: As aparências\nComplemento: \"belas\""}, {"role": "assistant", "content": "As aparências belas"}, {"role": "user", "content": "Frase: A prática faz a\nComplemento: \"calma\""}, {"role": "assistant", "content": "A prática faz a calma"}, {"role": "user", "content": "Frase: Se Maomé não vai à montanha, vai a montanha a\nComplemento: \"Meca\""}, {"role": "assistant", "content": "Se Maomé não vai à montanha, vai a montanha a Meca"}, {"role": "user", "content": "Frase: Cachorro mordido por cobra tem medo de\nComplemento: \"urso\""}]
+----------------------------------------
+Prediction: Cachorro mordido por cobra tem medo de urso
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 154
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Nem tudo que reluz é\nComplemento: \"brilhante\""}, {"role": "assistant", "content": "Nem tudo que reluz é brilhante"}, {"role": "user", "content": "Frase: Casa da mãe\nComplemento: \"Carolina\""}, {"role": "assistant", "content": "Casa da mãe Carolina"}, {"role": "user", "content": "Frase: Quem tem pressa come\nComplemento: \"batata\""}, {"role": "assistant", "content": "Quem tem pressa come batata"}, {"role": "user", "content": "Frase: O olho do dono é que engorda o\nComplemento: \"filho\""}]
+----------------------------------------
+Prediction: O olho do dono é que engorda o filho
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 155
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Entre marido e mulher não se mete a\nComplemento: \"faca\""}, {"role": "assistant", "content": "Entre marido e mulher não se mete a faca"}, {"role": "user", "content": "Frase: Cada um por si e Deus por\nComplemento: \"eles\""}, {"role": "assistant", "content": "Cada um por si e Deus por eles"}, {"role": "user", "content": "Frase: De grão em grão a galinha enche o\nComplemento: \"galinheiro\""}, {"role": "assistant", "content": "De grão em grão a galinha enche o galinheiro"}, {"role": "user", "content": "Frase: Quem ama o feio bonito lhe\nComplemento: \"convém\""}]
+----------------------------------------
+Prediction: Quem ama o feio bonito lhe convém
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 156
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: A união faz a\nComplemento: \"amizade\""}, {"role": "assistant", "content": "A união faz a amizade"}, {"role": "user", "content": "Frase: Quem cala,\nComplemento: \"sabe\""}, {"role": "assistant", "content": "Quem cala, sabe"}, {"role": "user", "content": "Frase: Em terra de cego, quem tem um olho é\nComplemento: \"esperto\""}, {"role": "assistant", "content": "Em terra de cego, quem tem um olho é esperto"}, {"role": "user", "content": "Frase: Se Maomé não vai à montanha, vai a montanha a\nComplemento: \"Meca\""}]
+----------------------------------------
+Prediction: Se Maomé não vai à montanha, vai a Meca a montanha, para ver o que é tão fascinante e emocionante.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 157
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Toda brincadeira tem um fundo de\nComplemento: \"complexidade\""}, {"role": "assistant", "content": "Toda brincadeira tem um fundo de complexidade"}, {"role": "user", "content": "Frase: Quem é vivo sempre\nComplemento: \"respira\""}, {"role": "assistant", "content": "Quem é vivo sempre respira"}, {"role": "user", "content": "Frase: Aqui se faz, aqui se\nComplemento: \"concluiu\""}, {"role": "assistant", "content": "Aqui se faz, aqui se concluiu"}, {"role": "user", "content": "Frase: É dando que se\nComplemento: \"aprende\""}]
+----------------------------------------
+Prediction: É dando que se aprende
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 158
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quanto mais se tem, mais se\nComplemento: \"terá\""}, {"role": "assistant", "content": "Quanto mais se tem, mais se terá"}, {"role": "user", "content": "Frase: Quem avisa amigo\nComplemento: \"legal\""}, {"role": "assistant", "content": "Quem avisa amigo legal"}, {"role": "user", "content": "Frase: A fome é a melhor\nComplemento: \"sensação\""}, {"role": "assistant", "content": "A fome é a melhor sensação"}, {"role": "user", "content": "Frase: Mais vale um asno que me carregue, que um cavalo que me\nComplemento: \"alimente\""}]
+----------------------------------------
+Prediction: Mais vale um asno que me carregue, que um cavalo que me alimente
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 159
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Um gesto vale mais que mil\nComplemento: \"fotos\""}, {"role": "assistant", "content": "Um gesto vale mais que mil fotos"}, {"role": "user", "content": "Frase: Casa de ferreiro, espeto de\nComplemento: \"churrasco\""}, {"role": "assistant", "content": "Casa de ferreiro, espeto de churrasco"}, {"role": "user", "content": "Frase: Quem tudo quer tudo\nComplemento: \"gosta\""}, {"role": "assistant", "content": "Quem tudo quer tudo gosta"}, {"role": "user", "content": "Frase: Quem avisa amigo\nComplemento: \"legal\""}]
+----------------------------------------
+Prediction: Quem avisa amigo legal
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 160
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: O que vem fácil, vai\nComplemento: \"sempre\""}, {"role": "assistant", "content": "O que vem fácil, vai sempre"}, {"role": "user", "content": "Frase: Santo de casa não faz\nComplemento: \"almoço\""}, {"role": "assistant", "content": "Santo de casa não faz almoço"}, {"role": "user", "content": "Frase: O peixe morre pela\nComplemento: \"fome\""}, {"role": "assistant", "content": "O peixe morre pela fome"}, {"role": "user", "content": "Frase: Quem vive de passado é\nComplemento: \"nostálgico\""}]
+----------------------------------------
+Prediction: Quem vive de passado é nostálgico
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 161
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem vai ao vento perde o\nComplemento: \"cabelo\""}, {"role": "assistant", "content": "Quem vai ao vento perde o cabelo"}, {"role": "user", "content": "Frase: Filho de peixe peixinho\nComplemento: \"filhote\""}, {"role": "assistant", "content": "Filho de peixe peixinho filhote"}, {"role": "user", "content": "Frase: Macaco velho não mete a mão em\nComplemento: \"mim\""}, {"role": "assistant", "content": "Macaco velho não mete a mão em mim"}, {"role": "user", "content": "Frase: Em boca fechada, não entra\nComplemento: \"comida\""}]
+----------------------------------------
+Prediction: Em boca fechada, não entra comida
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 162
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem chegar primeiro\nComplemento: \"chama\""}, {"role": "assistant", "content": "Quem chegar primeiro chama"}, {"role": "user", "content": "Frase: O prometido é\nComplemento: \"certo\""}, {"role": "assistant", "content": "O prometido é certo"}, {"role": "user", "content": "Frase: É uma faca de dois\nComplemento: \"cabos\""}, {"role": "assistant", "content": "É uma faca de dois cabos"}, {"role": "user", "content": "Frase: A corda sempre arrebenta do lado mais\nComplemento: \"propício\""}]
+----------------------------------------
+Prediction: A corda sempre arrebenta do lado mais propício
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 163
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Um burro carregado de livros não é\nComplemento: \"cavalo\""}, {"role": "assistant", "content": "Um burro carregado de livros não é cavalo"}, {"role": "user", "content": "Frase: Tapar o sol com a\nComplemento: \"jaqueta\""}, {"role": "assistant", "content": "Tapar o sol com a jaqueta"}, {"role": "user", "content": "Frase: Quem vai ao vento perde o\nComplemento: \"cabelo\""}, {"role": "assistant", "content": "Quem vai ao vento perde o cabelo"}, {"role": "user", "content": "Frase: O que não tem remédio, remediado\nComplemento: \"volto\""}]
+----------------------------------------
+Prediction: O que não tem remédio, remediado pelo volto
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 164
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: A prática faz a\nComplemento: \"calma\""}, {"role": "assistant", "content": "A prática faz a calma"}, {"role": "user", "content": "Frase: O ótimo é inimigo do\nComplemento: \"divertido\""}, {"role": "assistant", "content": "O ótimo é inimigo do divertido"}, {"role": "user", "content": "Frase: Por fora, bela viola Por dentro, pão\nComplemento: \"sírio\""}, {"role": "assistant", "content": "Por fora, bela viola Por dentro, pão sírio"}, {"role": "user", "content": "Frase: A grama da vizinho é sempre mais\nComplemento: \"alta\""}]
+----------------------------------------
+Prediction: A grama da vizinho é sempre mais alta
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 165
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Cada macaco no seu\nComplemento: \"habitat\""}, {"role": "assistant", "content": "Cada macaco no seu habitat"}, {"role": "user", "content": "Frase: O que não tem remédio, remediado\nComplemento: \"volto\""}, {"role": "assistant", "content": "O que não tem remédio, remediado volto"}, {"role": "user", "content": "Frase: Saco vazio não para em\nComplemento: \"cozinha\""}, {"role": "assistant", "content": "Saco vazio não para em cozinha"}, {"role": "user", "content": "Frase: Roupa suja se lava em\nComplemento: \"pia\""}]
+----------------------------------------
+Prediction: Roupa suja se lava em pia
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 166
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem não tem colírio, usa óculos\nComplemento: \"branco\""}, {"role": "assistant", "content": "Quem não tem colírio, usa óculos branco"}, {"role": "user", "content": "Frase: Se conselho fosse bom, ninguém dava,\nComplemento: \"guardava\""}, {"role": "assistant", "content": "Se conselho fosse bom, ninguém dava, guardava"}, {"role": "user", "content": "Frase: Dar uma de\nComplemento: \"maquinista\""}, {"role": "assistant", "content": "Dar uma de maquinista"}, {"role": "user", "content": "Frase: Não cutuque a onça com vara\nComplemento: \"perfurante\""}]
+----------------------------------------
+Prediction: Não cutuque a onça com vara, ela é perfurante
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 167
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Um é pouco, dois é bom, três é\nComplemento: \"número\""}, {"role": "assistant", "content": "Um é pouco, dois é bom, três é número"}, {"role": "user", "content": "Frase: Quem não arrisca não\nComplemento: \"entende\""}, {"role": "assistant", "content": "Quem não arrisca não entende"}, {"role": "user", "content": "Frase: Quem ama o feio bonito lhe\nComplemento: \"convém\""}, {"role": "assistant", "content": "Quem ama o feio bonito lhe convém"}, {"role": "user", "content": "Frase: Quem se mistura com porcos farelo\nComplemento: \"cheira\""}]
+----------------------------------------
+Prediction: Quem se mistura com porcos farelo cheira
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 168
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Um homem prevenido vale por\nComplemento: \"cachorros\""}, {"role": "assistant", "content": "Um homem prevenido vale por cachorros"}, {"role": "user", "content": "Frase: Quando um burro fala, o outro abaixa as\nComplemento: \"expectativas\""}, {"role": "assistant", "content": "Quando um burro fala, o outro abaixa as expectativas"}, {"role": "user", "content": "Frase: Gato escaldado tem medo de água\nComplemento: \"corrente\""}, {"role": "assistant", "content": "Gato escaldado tem medo de água corrente"}, {"role": "user", "content": "Frase: Cada um com os seus\nComplemento: \"cadernos\""}]
+----------------------------------------
+Prediction: Cada um com os seus cadernos tem medo de água corrente
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 169
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Nada como um dia depois do\nComplemento: \"Natal\""}, {"role": "assistant", "content": "Nada como um dia depois do Natal"}, {"role": "user", "content": "Frase: Quem casa quer\nComplemento: \"carinho\""}, {"role": "assistant", "content": "Quem casa quer carinho"}, {"role": "user", "content": "Frase: O hábito faz o\nComplemento: \"comportamento\""}, {"role": "assistant", "content": "O hábito faz o comportamento"}, {"role": "user", "content": "Frase: Quem chegar primeiro\nComplemento: \"chama\""}]
+----------------------------------------
+Prediction: Quem chegar primeiro chamá
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 170
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: O que não tem remédio, remediado\nComplemento: \"volto\""}, {"role": "assistant", "content": "O que não tem remédio, remediado volto"}, {"role": "user", "content": "Frase: Achado não é\nComplemento: \"molhado\""}, {"role": "assistant", "content": "Achado não é molhado"}, {"role": "user", "content": "Frase: De boa intenção, o inferno está\nComplemento: \"quente\""}, {"role": "assistant", "content": "De boa intenção, o inferno está quente"}, {"role": "user", "content": "Frase: Mais vale um pássaro na mão do que dois\nComplemento: \"papagaios\""}]
+----------------------------------------
+Prediction: Mais vale um pássaro na mão do que dois papagaios
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 171
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: A voz do povo é a voz de\nComplemento: \"destaque\""}, {"role": "assistant", "content": "A voz do povo é a voz de destaque"}, {"role": "user", "content": "Frase: A esperança é a última que\nComplemento: \"resta\""}, {"role": "assistant", "content": "A esperança é a última que resta"}, {"role": "user", "content": "Frase: Por ele eu ponho minha mão no\nComplemento: \"tambor\""}, {"role": "assistant", "content": "Por ele eu ponho minha mão no tambor"}, {"role": "user", "content": "Frase: Cada um sabe onde o sapato\nComplemento: \"fura\""}]
+----------------------------------------
+Prediction: Cada um sabe onde o sapato fura
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 172
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Cada cabeça uma\nComplemento: \"coluna\""}, {"role": "assistant", "content": "Cada cabeça uma coluna"}, {"role": "user", "content": "Frase: Nem tanto ao mar nem tanto à\nComplemento: \"estrada\""}, {"role": "assistant", "content": "Nem tanto ao mar nem tanto à estrada"}, {"role": "user", "content": "Frase: O que é do homem o bicho não\nComplemento: \"gosta\""}, {"role": "assistant", "content": "O que é do homem o bicho não gosta"}, {"role": "user", "content": "Frase: Quem não tem dinheiro, não tem\nComplemento: \"felicidade\""}]
+----------------------------------------
+Prediction: Quem não tem dinheiro, não tem felicidade
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 173
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Um gesto vale mais que mil\nComplemento: \"fotos\""}, {"role": "assistant", "content": "Um gesto vale mais que mil fotos"}, {"role": "user", "content": "Frase: A voz do povo é a voz de\nComplemento: \"destaque\""}, {"role": "assistant", "content": "A voz do povo é a voz de destaque"}, {"role": "user", "content": "Frase: Nem tanto ao mar nem tanto à\nComplemento: \"estrada\""}, {"role": "assistant", "content": "Nem tanto ao mar nem tanto à estrada"}, {"role": "user", "content": "Frase: Duas cabeças pensam melhor do que\nComplemento: \"párece\""}]
+----------------------------------------
+Prediction: Duas cabeças pensam melhor do que párece
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 174
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Todos os caminhos levam à\nComplemento: \"Veneza\""}, {"role": "assistant", "content": "Todos os caminhos levam à Veneza"}, {"role": "user", "content": "Frase: Quanto mais se tem, mais se\nComplemento: \"terá\""}, {"role": "assistant", "content": "Quanto mais se tem, mais se terá"}, {"role": "user", "content": "Frase: Falar é prata, calar é\nComplemento: \"difícil\""}, {"role": "assistant", "content": "Falar é prata, calar é difícil"}, {"role": "user", "content": "Frase: Vingança é um prato que se come\nComplemento: \"quebrado\""}]
+----------------------------------------
+Prediction: Vingança é um prato que se come branco, quebrado, e desafiador.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 175
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Roupa suja se lava em\nComplemento: \"pia\""}, {"role": "assistant", "content": "Roupa suja se lava em pia"}, {"role": "user", "content": "Frase: A ignorância é a mãe de todas as\nComplemento: \"qualidades\""}, {"role": "assistant", "content": "A ignorância é a mãe de todas as qualidades"}, {"role": "user", "content": "Frase: Cada um sabe onde lhe aperta o\nComplemento: \"cordão\""}, {"role": "assistant", "content": "Cada um sabe onde lhe aperta o cordão"}, {"role": "user", "content": "Frase: Não há bem que sempre dure nem mal que nunca se\nComplemento: \"manifeste\""}]
+----------------------------------------
+Prediction: Não há bem que sempre dure nem mal que nunca se manifeste
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 176
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Não cutuque a onça com vara\nComplemento: \"perfurante\""}, {"role": "assistant", "content": "Não cutuque a onça com vara perfurante"}, {"role": "user", "content": "Frase: Quem pode, pode; quem não pode, se\nComplemento: \"vira\""}, {"role": "assistant", "content": "Quem pode, pode; quem não pode, se vira"}, {"role": "user", "content": "Frase: Cachorro mordido por cobra tem medo de\nComplemento: \"urso\""}, {"role": "assistant", "content": "Cachorro mordido por cobra tem medo de urso"}, {"role": "user", "content": "Frase: Não adianta chorar pelo leite\nComplemento: \"achocolatado\""}]
+----------------------------------------
+Prediction: Não adianta chorar pelo leite achocolatado
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 177
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Para bom entendedor, meia palavra\nComplemento: \"atrapalha\""}, {"role": "assistant", "content": "Para bom entendedor, meia palavra atrapalha"}, {"role": "user", "content": "Frase: Toda brincadeira tem um fundo de\nComplemento: \"complexidade\""}, {"role": "assistant", "content": "Toda brincadeira tem um fundo de complexidade"}, {"role": "user", "content": "Frase: Passarinho que acompanha morcego acorda de cabeça para\nComplemento: \"pensar\""}, {"role": "assistant", "content": "Passarinho que acompanha morcego acorda de cabeça para pensar"}, {"role": "user", "content": "Frase: Cada um sabe onde lhe aperta o\nComplemento: \"cordão\""}]
+----------------------------------------
+Prediction: Cada um sabe onde lhe aperta o cordão
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 178
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Todos os caminhos levam à\nComplemento: \"Veneza\""}, {"role": "assistant", "content": "Todos os caminhos levam à Veneza"}, {"role": "user", "content": "Frase: A César o que é de César, a Deus o que é de\nComplemento: \"saudável\""}, {"role": "assistant", "content": "A César o que é de César, a Deus o que é de saudável"}, {"role": "user", "content": "Frase: Dar a César o que é de\nComplemento: \"favor\""}, {"role": "assistant", "content": "Dar a César o que é de favor"}, {"role": "user", "content": "Frase: A ocasião faz o\nComplemento: \"momento\""}]
+----------------------------------------
+Prediction: A ocasião faz o momento
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 179
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem semeia vento colhe\nComplemento: \"mamão\""}, {"role": "assistant", "content": "Quem semeia vento colhe mamão"}, {"role": "user", "content": "Frase: Camarão que dorme a onda\nComplemento: \"molha\""}, {"role": "assistant", "content": "Camarão que dorme a onda molha"}, {"role": "user", "content": "Frase: Não existe rosa sem\nComplemento: \"amarelo\""}, {"role": "assistant", "content": "Não existe rosa sem amarelo"}, {"role": "user", "content": "Frase: A pensar morreu um\nComplemento: \"humano\""}]
+----------------------------------------
+Prediction: A pensar morreu um humano
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 180
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Quem casa quer\nComplemento: \"carinho\""}, {"role": "assistant", "content": "Quem casa quer carinho"}, {"role": "user", "content": "Frase: De boa intenção, o inferno está\nComplemento: \"quente\""}, {"role": "assistant", "content": "De boa intenção, o inferno está quente"}, {"role": "user", "content": "Frase: Salvo pelo\nComplemento: \"padre\""}, {"role": "assistant", "content": "Salvo pelo padre"}, {"role": "user", "content": "Frase: Quem semeia vento colhe\nComplemento: \"mamão\""}]
+----------------------------------------
+Prediction: Quem semeia vento colhe mamão
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 181
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Para bom entendedor, meia palavra\nComplemento: \"atrapalha\""}, {"role": "assistant", "content": "Para bom entendedor, meia palavra atrapalha"}, {"role": "user", "content": "Frase: O barato sai\nComplemento: \"correndo\""}, {"role": "assistant", "content": "O barato sai correndo"}, {"role": "user", "content": "Frase: Não há bem que sempre dure nem mal que nunca se\nComplemento: \"manifeste\""}, {"role": "assistant", "content": "Não há bem que sempre dure nem mal que nunca se manifeste"}, {"role": "user", "content": "Frase: A prática faz a\nComplemento: \"calma\""}]
+----------------------------------------
+Prediction: A prática faz a calma
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 182
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: O que é do homem o bicho não\nComplemento: \"gosta\""}, {"role": "assistant", "content": "O que é do homem o bicho não gosta"}, {"role": "user", "content": "Frase: Macaco velho não pula em galho\nComplemento: \"perigoso\""}, {"role": "assistant", "content": "Macaco velho não pula em galho perigoso"}, {"role": "user", "content": "Frase: Pimenta nos olhos dos outros é\nComplemento: \"danoso\""}, {"role": "assistant", "content": "Pimenta nos olhos dos outros é danoso"}, {"role": "user", "content": "Frase: Cada macaco no seu\nComplemento: \"habitat\""}]
+----------------------------------------
+Prediction: Cada macaco no seu habitat é animado e diverso
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 183
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Camarão que dorme a onda\nComplemento: \"molha\""}, {"role": "assistant", "content": "Camarão que dorme a onda molha"}, {"role": "user", "content": "Frase: Não julgue um livro pela\nComplemento: \"página\""}, {"role": "assistant", "content": "Não julgue um livro pela página"}, {"role": "user", "content": "Frase: Se Maomé não vai à montanha, vai a montanha a\nComplemento: \"Meca\""}, {"role": "assistant", "content": "Se Maomé não vai à montanha, vai a montanha a Meca"}, {"role": "user", "content": "Frase: Quando a esmola é demais o santo\nComplemento: \"fala\""}]
+----------------------------------------
+Prediction:  Quando a esmola é demais o santo fala
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 184
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Macaco velho não pula em galho\nComplemento: \"perigoso\""}, {"role": "assistant", "content": "Macaco velho não pula em galho perigoso"}, {"role": "user", "content": "Frase: Não adianta chorar pelo leite\nComplemento: \"achocolatado\""}, {"role": "assistant", "content": "Não adianta chorar pelo leite achocolatado"}, {"role": "user", "content": "Frase: Pau que dá em Chico, dá em\nComplemento: \"João\""}, {"role": "assistant", "content": "Pau que dá em Chico, dá em João"}, {"role": "user", "content": "Frase: Batatinha quando nasce, se esparrama pelo\nComplemento: \"assoalho\""}]
+----------------------------------------
+Prediction: Batatinha quando nasce, se esparrama pelo assalho
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 185
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: O que não mata,\nComplemento: \"machuca\""}, {"role": "assistant", "content": "O que não mata, machuca"}, {"role": "user", "content": "Frase: O olho do dono é que engorda o\nComplemento: \"filho\""}, {"role": "assistant", "content": "O olho do dono é que engorda o filho"}, {"role": "user", "content": "Frase: A grama da vizinho é sempre mais\nComplemento: \"alta\""}, {"role": "assistant", "content": "A grama da vizinho é sempre mais alta"}, {"role": "user", "content": "Frase: Casa da mãe\nComplemento: \"Carolina\""}]
+----------------------------------------
+Prediction: Casa da mãe Carolina
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 186
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Achado não é\nComplemento: \"molhado\""}, {"role": "assistant", "content": "Achado não é molhado"}, {"role": "user", "content": "Frase: O que os olhos não veem o coração não\nComplemento: \"para\""}, {"role": "assistant", "content": "O que os olhos não veem o coração não para"}, {"role": "user", "content": "Frase: Caiu na rede, é\nComplemento: \"gol\""}, {"role": "assistant", "content": "Caiu na rede, é gol"}, {"role": "user", "content": "Frase: Devagar com o andor que o santo é de\nComplemento: \"borracha\""}]
+----------------------------------------
+Prediction: Devagar com o andor que o santo é de borracha
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 187
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Onde há fumaça há\nComplemento: \"pessoas\""}, {"role": "assistant", "content": "Onde há fumaça há pessoas"}, {"role": "user", "content": "Frase: Não grite sua felicidade a inveja tem sono\nComplemento: \"incerto\""}, {"role": "assistant", "content": "Não grite sua felicidade a inveja tem sono incerto"}, {"role": "user", "content": "Frase: Quem conta um conto aumenta um\nComplemento: \"detalhe\""}, {"role": "assistant", "content": "Quem conta um conto aumenta um detalhe"}, {"role": "user", "content": "Frase: Não deixe para amanhã aquilo que você pode fazer\nComplemento: \"deitado\""}]
+----------------------------------------
+Prediction: Não deixe para amanhã aquilo que você pode fazer deitado
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 188
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Papagaio que acompanha João-de-Barro vira ajudante de\nComplemento: \"visitantes\""}, {"role": "assistant", "content": "Papagaio que acompanha João-de-Barro vira ajudante de visitantes"}, {"role": "user", "content": "Frase: A fome é a melhor\nComplemento: \"sensação\""}, {"role": "assistant", "content": "A fome é a melhor sensação"}, {"role": "user", "content": "Frase: O peixe morre pela\nComplemento: \"fome\""}, {"role": "assistant", "content": "O peixe morre pela fome"}, {"role": "user", "content": "Frase: Nem tudo que reluz é\nComplemento: \"brilhante\""}]
+----------------------------------------
+Prediction: Nem tudo que reluz é brilhante
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 189
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: De pequenino é que se torce o\nComplemento: \"pé\""}, {"role": "assistant", "content": "De pequenino é que se torce o pé"}, {"role": "user", "content": "Frase: Água mole pedra dura tanto bate até que\nComplemento: \"molha\""}, {"role": "assistant", "content": "Água mole pedra dura tanto bate até que molha"}, {"role": "user", "content": "Frase: Amigos, amigos negócios à\nComplemento: \"decidir\""}, {"role": "assistant", "content": "Amigos, amigos negócios à decidir"}, {"role": "user", "content": "Frase: O que não mata,\nComplemento: \"machuca\""}]
+----------------------------------------
+Prediction: O que não mata, machuca
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 190
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: A César o que é de César, a Deus o que é de\nComplemento: \"saudável\""}, {"role": "assistant", "content": "A César o que é de César, a Deus o que é de saudável"}, {"role": "user", "content": "Frase: Olho por olho dente por\nComplemento: \"orelha\""}, {"role": "assistant", "content": "Olho por olho dente por orelha"}, {"role": "user", "content": "Frase: Quem tem pressa come\nComplemento: \"batata\""}, {"role": "assistant", "content": "Quem tem pressa come batata"}, {"role": "user", "content": "Frase: Pau que dá em Chico, dá em\nComplemento: \"João\""}]
+----------------------------------------
+Prediction: Pau que dá em Chico, dá em João
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 191
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: O remendo ficou pior do que o\nComplemento: \"jantar\""}, {"role": "assistant", "content": "O remendo ficou pior do que o jantar"}, {"role": "user", "content": "Frase: Quem não tem colírio, usa óculos\nComplemento: \"branco\""}, {"role": "assistant", "content": "Quem não tem colírio, usa óculos branco"}, {"role": "user", "content": "Frase: Um gesto vale mais que mil\nComplemento: \"fotos\""}, {"role": "assistant", "content": "Um gesto vale mais que mil fotos"}, {"role": "user", "content": "Frase: À noite todos os gatos são\nComplemento: \"bonitos\""}]
+----------------------------------------
+Prediction: À noite todos os gatos são bonitos
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 192
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: A fome é a melhor\nComplemento: \"sensação\""}, {"role": "assistant", "content": "A fome é a melhor sensação"}, {"role": "user", "content": "Frase: Onde Judas perdeu as\nComplemento: \"camisetas\""}, {"role": "assistant", "content": "Onde Judas perdeu as camisetas"}, {"role": "user", "content": "Frase: O que os olhos não veem o coração não\nComplemento: \"para\""}, {"role": "assistant", "content": "O que os olhos não veem o coração não para"}, {"role": "user", "content": "Frase: Cavalo dado não se olha os\nComplemento: \"impostos\""}]
+----------------------------------------
+Prediction: Cavalo dado não se olha os impostos
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 193
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado."}, {"role": "assistant", "content": "Ok."}, {"role": "user", "content": "Frase: Tudo tem solução menos a\nComplemento: \"matemática\""}, {"role": "assistant", "content": "Tudo tem solução menos a matemática"}, {"role": "user", "content": "Frase: Quem vê cara, não vê\nComplemento: \"maquiagem\""}, {"role": "assistant", "content": "Quem vê cara, não vê maquiagem"}, {"role": "user", "content": "Frase: Quem avisa amigo\nComplemento: \"legal\""}, {"role": "assistant", "content": "Quem avisa amigo legal"}, {"role": "user", "content": "Frase: O remendo ficou pior do que o\nComplemento: \"jantar\""}]
+----------------------------------------
+Prediction: O remendo ficou pior do que o jantar
+Metrics: {'acc': 1.0}

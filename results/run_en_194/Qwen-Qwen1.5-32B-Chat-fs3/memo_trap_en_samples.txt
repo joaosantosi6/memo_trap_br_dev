@@ -1,0 +1,1164 @@
+**************************************************doc_id: 0
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Forewarned,\nComplement: no"}, {"role": "assistant", "content": "Forewarned, no."}, {"role": "user", "content": "Phrase: Empty vessels make the greatest\nComplement: noise"}, {"role": "assistant", "content": "Empty vessels make the greatest noise."}, {"role": "user", "content": "Phrase: Don't put the cart before the\nComplement: man"}, {"role": "assistant", "content": "Don't put the cart before the man."}, {"role": "user", "content": "Phrase: There are only two kinds of women, the plain and the\nComplement: rich"}]
+----------------------------------------
+Prediction: There are only two kinds of women, the plain and the rich.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 1
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Experience is the best\nComplement: thing"}, {"role": "assistant", "content": "Experience is the best thing."}, {"role": "user", "content": "Phrase: A reconciled friend is a double\nComplement: agent"}, {"role": "assistant", "content": "A reconciled friend is a double agent."}, {"role": "user", "content": "Phrase: Call a spade a\nComplement: knife"}, {"role": "assistant", "content": "Call a spade a knife."}, {"role": "user", "content": "Phrase: Love is not finding someone to live with; it's finding someone whom you can't live\nComplement: for"}]
+----------------------------------------
+Prediction: Love is not finding someone to live with; it's finding someone whom you can't live for.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 2
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Handsome is that handsome\nComplement: face"}, {"role": "assistant", "content": "Handsome is that handsome face."}, {"role": "user", "content": "Phrase: Use it or lose\nComplement: everything"}, {"role": "assistant", "content": "Use it or lose everything."}, {"role": "user", "content": "Phrase: From big oaks little acorns\nComplement: fall"}, {"role": "assistant", "content": "From big oaks little acorns fall."}, {"role": "user", "content": "Phrase: If the shoe fits, wear\nComplement: this"}]
+----------------------------------------
+Prediction: If the shoe fits, wear this.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 3
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: All that glisters is not gold. or All that glitters is not\nComplement: silver"}, {"role": "assistant", "content": "All that glisters is not gold. or All that glitters is not silver."}, {"role": "user", "content": "Phrase: It is always good when a man has two irons in the\nComplement: hand"}, {"role": "assistant", "content": "It is always good when a man has two irons in the hand."}, {"role": "user", "content": "Phrase: The vicar of Bray will be vicar of\nComplement: Windsor"}, {"role": "assistant", "content": "The vicar of Bray will be vicar of Windsor."}, {"role": "user", "content": "Phrase: There is no little\nComplement: girl"}]
+----------------------------------------
+Prediction: There is no little girl.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 4
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Give him an inch and he'll take a\nComplement: step"}, {"role": "assistant", "content": "Give him an inch and he'll take a step."}, {"role": "user", "content": "Phrase: Don't kill the goose that lays the golden\nComplement: seeds"}, {"role": "assistant", "content": "Don't kill the goose that lays the golden seeds."}, {"role": "user", "content": "Phrase: Think before you\nComplement: act"}, {"role": "assistant", "content": "Think before you act."}, {"role": "user", "content": "Phrase: Confidence is the companion of\nComplement: courage"}]
+----------------------------------------
+Prediction: Confidence is the companion of courage.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 5
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a\nComplement: day"}, {"role": "assistant", "content": "Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a day."}, {"role": "user", "content": "Phrase: A reconciled friend is a double\nComplement: agent"}, {"role": "assistant", "content": "A reconciled friend is a double agent."}, {"role": "user", "content": "Phrase: Fashion\nComplement: mock"}, {"role": "assistant", "content": "Fashion mock."}, {"role": "user", "content": "Phrase: Opportunity makes the\nComplement: difference"}]
+----------------------------------------
+Prediction: Opportunity makes the difference.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 6
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Shoemaker, stick to your\nComplement: feet"}, {"role": "assistant", "content": "Shoemaker, stick to your feet."}, {"role": "user", "content": "Phrase: Do not play with edged\nComplement: weapons"}, {"role": "assistant", "content": "Do not play with edged weapons."}, {"role": "user", "content": "Phrase: It's not the size of the dog in the fight; it's the size of the fight in the\nComplement: house"}, {"role": "assistant", "content": "It's not the size of the dog in the fight; it's the size of the fight in the house."}, {"role": "user", "content": "Phrase: It's better to have loved and lost than never to have loved at\nComplement: once"}]
+----------------------------------------
+Prediction: It's better to have loved and lost than never to have loved at once.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 7
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Cobblers children are worst\nComplement: affected"}, {"role": "assistant", "content": "Cobblers children are worst affected."}, {"role": "user", "content": "Phrase: Variety is the soul of\nComplement: life"}, {"role": "assistant", "content": "Variety is the soul of life."}, {"role": "user", "content": "Phrase: No man can serve two\nComplement: kings"}, {"role": "assistant", "content": "No man can serve two kings."}, {"role": "user", "content": "Phrase: No longer foster, no longer\nComplement: care"}]
+----------------------------------------
+Prediction: No longer foster, no longer care.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 8
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Live by the sword, die by the\nComplement: blade"}, {"role": "assistant", "content": "Live by the sword, die by the blade."}, {"role": "user", "content": "Phrase: The dogs bark but the caravan passes\nComplement: by"}, {"role": "assistant", "content": "The dogs bark but the caravan passes by."}, {"role": "user", "content": "Phrase: Variant\nComplement: runs"}, {"role": "assistant", "content": "Variant runs."}, {"role": "user", "content": "Phrase: Better bow than\nComplement: arrow"}]
+----------------------------------------
+Prediction: Better bow than arrow.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 9
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: You never know what you can do until you\nComplement: do"}, {"role": "assistant", "content": "You never know what you can do until you do."}, {"role": "user", "content": "Phrase: A man's folly ought to be his greatest\nComplement: sin"}, {"role": "assistant", "content": "A man's folly ought to be his greatest sin."}, {"role": "user", "content": "Phrase: A fool is ever\nComplement: born"}, {"role": "assistant", "content": "A fool is ever born."}, {"role": "user", "content": "Phrase: If you're in a hole, stop\nComplement: moving"}]
+----------------------------------------
+Prediction: If you're in a hole, stop moving.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 10
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Power tends to corrupt; absolute power corrupts\nComplement: everything"}, {"role": "assistant", "content": "Power tends to corrupt; absolute power corrupts everything."}, {"role": "user", "content": "Phrase: What a tangled web we weave, when first we practice to\nComplement: kill"}, {"role": "assistant", "content": "What a tangled web we weave, when first we practice to kill."}, {"role": "user", "content": "Phrase: Keep your mouth shut and your eyes\nComplement: closed"}, {"role": "assistant", "content": "Keep your mouth shut and your eyes closed."}, {"role": "user", "content": "Phrase: Fine words butter no\nComplement: more"}]
+----------------------------------------
+Prediction: Fine words butter no more.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 11
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Every fool is pleased with his own\nComplement: work"}, {"role": "assistant", "content": "Every fool is pleased with his own work."}, {"role": "user", "content": "Phrase: A cat may look at a\nComplement: mouse"}, {"role": "assistant", "content": "A cat may look at a mouse."}, {"role": "user", "content": "Phrase: Let sleeping dogs\nComplement: sleep"}, {"role": "assistant", "content": "Let sleeping dogs sleep."}, {"role": "user", "content": "Phrase: Iron sharpens\nComplement: steel"}]
+----------------------------------------
+Prediction: Iron sharpens steel.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 12
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: There is no little\nComplement: girl"}, {"role": "assistant", "content": "There is no little girl."}, {"role": "user", "content": "Phrase: Great events cast their shadows before\nComplement: him"}, {"role": "assistant", "content": "Great events cast their shadows before him."}, {"role": "user", "content": "Phrase: Hide nothing from thy minister, physician and\nComplement: friend"}, {"role": "assistant", "content": "Hide nothing from thy minister, physician and friend."}, {"role": "user", "content": "Phrase: Brag is a good dog, but holdfast is\nComplement: not"}]
+----------------------------------------
+Prediction: Brag is a good dog, but holdfast is not.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 13
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Anger makes dull men witty, but it keeps them\nComplement: alive"}, {"role": "assistant", "content": "Anger makes dull men witty, but it keeps them alive."}, {"role": "user", "content": "Phrase: Time and tide wait for no\nComplement: one"}, {"role": "assistant", "content": "Time and tide wait for no one."}, {"role": "user", "content": "Phrase: Never say\nComplement: anything"}, {"role": "assistant", "content": "Never say anything."}, {"role": "user", "content": "Phrase: The road to hell is paved with good\nComplement: luck"}]
+----------------------------------------
+Prediction: The road to hell is paved with good intentions.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 14
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Go with the\nComplement: impulse"}, {"role": "assistant", "content": "Go with the impulse."}, {"role": "user", "content": "Phrase: Better a lean peace than a fat\nComplement: peace"}, {"role": "assistant", "content": "Better a lean peace than a fat peace."}, {"role": "user", "content": "Phrase: Fine feathers make fine\nComplement: clothes"}, {"role": "assistant", "content": "Fine feathers make fine clothes."}, {"role": "user", "content": "Phrase: Walk the\nComplement: Earth"}]
+----------------------------------------
+Prediction: Walk the Earth.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 15
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: There's no fool like an old\nComplement: man"}, {"role": "assistant", "content": "There's no fool like an old man."}, {"role": "user", "content": "Phrase: Once a thief always a\nComplement: murderer"}, {"role": "assistant", "content": "Once a thief always a murderer."}, {"role": "user", "content": "Phrase: A man is known by the company he\nComplement: runs"}, {"role": "assistant", "content": "A man is known by the company he runs."}, {"role": "user", "content": "Phrase: The only stupid question is the one that is not\nComplement: stupid"}]
+----------------------------------------
+Prediction: The only stupid question is the one that is not asked.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 16
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Learn to walk before you\nComplement: die"}, {"role": "assistant", "content": "Learn to walk before you die."}, {"role": "user", "content": "Phrase: The way to a man's heart is through his\nComplement: eyes"}, {"role": "assistant", "content": "The way to a man's heart is through his eyes."}, {"role": "user", "content": "Phrase: There's more than one way to skin a\nComplement: person"}, {"role": "assistant", "content": "There's more than one way to skin a person."}, {"role": "user", "content": "Phrase: Cold as\nComplement: ice"}]
+----------------------------------------
+Prediction: Cold as ice.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 17
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: When the pig is proffered, hold up the\nComplement: pig"}, {"role": "assistant", "content": "When the pig is proffered, hold up the pig."}, {"role": "user", "content": "Phrase: Fools rush in where angels fear to\nComplement: go"}, {"role": "assistant", "content": "Fools rush in where angels fear to go."}, {"role": "user", "content": "Phrase: Nobody is healthy in London, nobody can\nComplement: eat"}, {"role": "assistant", "content": "Nobody is healthy in London, nobody can eat."}, {"role": "user", "content": "Phrase: The vicar of Bray will be vicar of\nComplement: Windsor"}]
+----------------------------------------
+Prediction: The vicar of Bray will be vicar of Windsor.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 18
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Faint heart never won fair\nComplement: game"}, {"role": "assistant", "content": "Faint heart never won fair game."}, {"role": "user", "content": "Phrase: God sends fortune to\nComplement: us"}, {"role": "assistant", "content": "God sends fortune to us."}, {"role": "user", "content": "Phrase: Brag is a good dog, but holdfast is\nComplement: not"}, {"role": "assistant", "content": "Brag is a good dog, but holdfast is not."}, {"role": "user", "content": "Phrase: Every cloud has a silver\nComplement: color"}]
+----------------------------------------
+Prediction: Every cloud has a silver color.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 19
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: The fat is in the\nComplement: stomach"}, {"role": "assistant", "content": "The fat is in the stomach."}, {"role": "user", "content": "Phrase: It's better to have loved and lost than never to have loved at\nComplement: once"}, {"role": "assistant", "content": "It's better to have loved and lost than never to have loved at once."}, {"role": "user", "content": "Phrase: Fear not the loss of the bell more than the loss of the\nComplement: bell"}, {"role": "assistant", "content": "Fear not the loss of the bell more than the loss of the bell."}, {"role": "user", "content": "Phrase: A young man married is a young man\nComplement: married"}]
+----------------------------------------
+Prediction: A young man married is a young man married.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 20
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: What is honour? a word. What is that word, honour?\nComplement: honour"}, {"role": "assistant", "content": "What is honour? a word. What is that word, honour? honour."}, {"role": "user", "content": "Phrase: Thou wilt scarce be a man before thy\nComplement: time"}, {"role": "assistant", "content": "Thou wilt scarce be a man before thy time."}, {"role": "user", "content": "Phrase: Don't judge a man until you have walked a mile in his\nComplement: shoes"}, {"role": "assistant", "content": "Don't judge a man until you have walked a mile in his shoes."}, {"role": "user", "content": "Phrase: There is no time like the\nComplement: moment"}]
+----------------------------------------
+Prediction: There is no time like the moment.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 21
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: He makes a rod for his own\nComplement: use"}, {"role": "assistant", "content": "He makes a rod for his own use."}, {"role": "user", "content": "Phrase: Deal gently with the bird you mean to\nComplement: kill"}, {"role": "assistant", "content": "Deal gently with the bird you mean to kill."}, {"role": "user", "content": "Phrase: The day is short and the work is\nComplement: hard"}, {"role": "assistant", "content": "The day is short and the work is hard."}, {"role": "user", "content": "Phrase: Suspicions amongst thoughts are like bats amongst birds, they ever fly by\nComplement: themselves"}]
+----------------------------------------
+Prediction: Suspicions amongst thoughts are like bats amongst birds, they ever fly by themselves.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 22
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Cynic\nComplement: appear"}, {"role": "assistant", "content": "Cynic appear."}, {"role": "user", "content": "Phrase: Diligent youth makes easy\nComplement: decisions"}, {"role": "assistant", "content": "Diligent youth makes easy decisions."}, {"role": "user", "content": "Phrase: There's no peace for the\nComplement: dead"}, {"role": "assistant", "content": "There's no peace for the dead."}, {"role": "user", "content": "Phrase: If you can't beat them, join\nComplement: us"}]
+----------------------------------------
+Prediction: If you can't beat them, join us.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 23
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: The younger brother the better\nComplement: shot"}, {"role": "assistant", "content": "The younger brother the better shot."}, {"role": "user", "content": "Phrase: Don't fall before you're\nComplement: ready"}, {"role": "assistant", "content": "Don't fall before you're ready."}, {"role": "user", "content": "Phrase: The coast is\nComplement: rocky"}, {"role": "assistant", "content": "The coast is rocky."}, {"role": "user", "content": "Phrase: Zeal without knowledge is a runaway\nComplement: state"}]
+----------------------------------------
+Prediction: Zeal without knowledge is a runaway state.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 24
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Don't try to reinvent the\nComplement: world"}, {"role": "assistant", "content": "Don't try to reinvent the world."}, {"role": "user", "content": "Phrase: People who live in glass houses shouldn't throw\nComplement: up"}, {"role": "assistant", "content": "People who live in glass houses shouldn't throw up."}, {"role": "user", "content": "Phrase: An acre of performance is worth the whole world of\nComplement: money"}, {"role": "assistant", "content": "An acre of performance is worth the whole world of money."}, {"role": "user", "content": "Phrase: And thou unfit for any place but\nComplement: here"}]
+----------------------------------------
+Prediction: And thou unfit for any place but here.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 25
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Touch\nComplement: me"}, {"role": "assistant", "content": "Touch me."}, {"role": "user", "content": "Phrase: Rats desert a sinking\nComplement: boat"}, {"role": "assistant", "content": "Rats desert a sinking boat."}, {"role": "user", "content": "Phrase: If you have no enemies it is a sign that fortune has forgotten\nComplement: us"}, {"role": "assistant", "content": "If you have no enemies it is a sign that fortune has forgotten us."}, {"role": "user", "content": "Phrase: A prejudice is a vagrant opinion without visible means of\nComplement: justification"}]
+----------------------------------------
+Prediction: A prejudice is a vagrant opinion without visible means of justification.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 26
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Don't make a mountain out of a\nComplement: mountain"}, {"role": "assistant", "content": "Don't make a mountain out of a mountain."}, {"role": "user", "content": "Phrase: Who falls short in the head must be long in the\nComplement: body"}, {"role": "assistant", "content": "Who falls short in the head must be long in the body."}, {"role": "user", "content": "Phrase: Laws catch flies, but lets hornets go\nComplement: first"}, {"role": "assistant", "content": "Laws catch flies, but lets hornets go first."}, {"role": "user", "content": "Phrase: Come away; poverty's\nComplement: sake"}]
+----------------------------------------
+Prediction: Come away; poverty's sake.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 27
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: If fortune favours, beware of being exalted; if fortune thunders, beware of being\nComplement: mocked"}, {"role": "assistant", "content": "If fortune favours, beware of being exalted; if fortune thunders, beware of being mocked."}, {"role": "user", "content": "Phrase: Poverty is the reward of\nComplement: poverty"}, {"role": "assistant", "content": "Poverty is the reward of poverty."}, {"role": "user", "content": "Phrase: Joy shared, joy doubled\nComplement: doubled"}, {"role": "assistant", "content": "Joy shared, joy doubled doubled."}, {"role": "user", "content": "Phrase: A stitch in time saves\nComplement: him"}]
+----------------------------------------
+Prediction: A stitch in time saves him.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 28
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Penny wise, pound\nComplement: wise"}, {"role": "assistant", "content": "Penny wise, pound wise."}, {"role": "user", "content": "Phrase: What you sow is what you\nComplement: do"}, {"role": "assistant", "content": "What you sow is what you do."}, {"role": "user", "content": "Phrase: Blood is thicker than\nComplement: blood"}, {"role": "assistant", "content": "Blood is thicker than blood."}, {"role": "user", "content": "Phrase: All is fair in love and\nComplement: life"}]
+----------------------------------------
+Prediction: All is fair in love and life.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 29
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: One good turn deserves\nComplement: more"}, {"role": "assistant", "content": "One good turn deserves more."}, {"role": "user", "content": "Phrase: Paddle your own\nComplement: horse"}, {"role": "assistant", "content": "Paddle your own horse."}, {"role": "user", "content": "Phrase: Set a herring to catch a\nComplement: fish"}, {"role": "assistant", "content": "Set a herring to catch a fish."}, {"role": "user", "content": "Phrase: The first step to health is to know that we are\nComplement: healthy"}]
+----------------------------------------
+Prediction: The first step to health is to know that we are healthy.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 30
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: To forget wrong is the best\nComplement: way"}, {"role": "assistant", "content": "To forget wrong is the best way."}, {"role": "user", "content": "Phrase: Good eating deserves good\nComplement: cooking"}, {"role": "assistant", "content": "Good eating deserves good cooking."}, {"role": "user", "content": "Phrase: You always find something in the last place you\nComplement: go"}, {"role": "assistant", "content": "You always find something in the last place you go."}, {"role": "user", "content": "Phrase: Poets are born, but orators are\nComplement: not"}]
+----------------------------------------
+Prediction: Poets are born, but orators are not.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 31
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Don't cross a bridge before you come to\nComplement: one"}, {"role": "assistant", "content": "Don't cross a bridge before you come to one."}, {"role": "user", "content": "Phrase: In the deepest water is the best\nComplement: swimming"}, {"role": "assistant", "content": "In the deepest water is the best swimming."}, {"role": "user", "content": "Phrase: Example is better than\nComplement: example"}, {"role": "assistant", "content": "Example is better than example."}, {"role": "user", "content": "Phrase: Beware of Greeks bearing\nComplement: swords"}]
+----------------------------------------
+Prediction: Beware of Greeks bearing swords.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 32
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Out of sight... Out of\nComplement: sight"}, {"role": "assistant", "content": "Out of sight... Out of sight."}, {"role": "user", "content": "Phrase: Bore\nComplement: talk"}, {"role": "assistant", "content": "Bore talk."}, {"role": "user", "content": "Phrase: In the deepest water is the best\nComplement: swimming"}, {"role": "assistant", "content": "In the deepest water is the best swimming."}, {"role": "user", "content": "Phrase: A cheerful wife is the spice of\nComplement: happiness"}]
+----------------------------------------
+Prediction: A cheerful wife is the spice of happiness.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 33
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Look not a gift horse in the\nComplement: eyes"}, {"role": "assistant", "content": "Look not a gift horse in the eyes."}, {"role": "user", "content": "Phrase: Laws catch flies, but lets hornets go\nComplement: first"}, {"role": "assistant", "content": "Laws catch flies, but lets hornets go first."}, {"role": "user", "content": "Phrase: A blow with a word strikes deeper than a blow with a\nComplement: word"}, {"role": "assistant", "content": "A blow with a word strikes deeper than a blow with a word."}, {"role": "user", "content": "Phrase: Don't make clothes for a not yet born\nComplement: child"}]
+----------------------------------------
+Prediction: Don't make clothes for a not yet born child.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 34
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Look before you\nComplement: speak"}, {"role": "assistant", "content": "Look before you speak."}, {"role": "user", "content": "Phrase: The last fool never\nComplement: came"}, {"role": "assistant", "content": "The last fool never came."}, {"role": "user", "content": "Phrase: A thing of beauty is a joy for\nComplement: me"}, {"role": "assistant", "content": "A thing of beauty is a joy for me."}, {"role": "user", "content": "Phrase: An ounce of discretion is worth a pound of\nComplement: gold"}]
+----------------------------------------
+Prediction: An ounce of discretion is worth a pound of gold.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 35
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Knaves and fools divide the\nComplement: land"}, {"role": "assistant", "content": "Knaves and fools divide the land."}, {"role": "user", "content": "Phrase: Nature, time, and patience are three great\nComplement: virtues"}, {"role": "assistant", "content": "Nature, time, and patience are three great virtues."}, {"role": "user", "content": "Phrase: Every fool is pleased with his own\nComplement: work"}, {"role": "assistant", "content": "Every fool is pleased with his own work."}, {"role": "user", "content": "Phrase: He had need rise early who would please\nComplement: him"}]
+----------------------------------------
+Prediction: He had need rise early who would please him.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 36
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: It is a strange desire to seek power and to lose\nComplement: it"}, {"role": "assistant", "content": "It is a strange desire to seek power and to lose it."}, {"role": "user", "content": "Phrase: Some books are to be tasted, others to be swallowed, and some few to be chewed and\nComplement: burned"}, {"role": "assistant", "content": "Some books are to be tasted, others to be swallowed, and some few to be chewed and burned."}, {"role": "user", "content": "Phrase: One swallow does not make a\nComplement: difference"}, {"role": "assistant", "content": "One swallow does not make a difference."}, {"role": "user", "content": "Phrase: Counsel is no\nComplement: problem"}]
+----------------------------------------
+Prediction: Counsel is no problem.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 37
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: You always find something in the last place you\nComplement: go"}, {"role": "assistant", "content": "You always find something in the last place you go."}, {"role": "user", "content": "Phrase: Hell hath no fury like a woman\nComplement: does"}, {"role": "assistant", "content": "Hell hath no fury like a woman does."}, {"role": "user", "content": "Phrase: You cannot see the wood for\nComplement: miles"}, {"role": "assistant", "content": "You cannot see the wood for miles."}, {"role": "user", "content": "Phrase: Better safe than\nComplement: ill"}]
+----------------------------------------
+Prediction: Better safe than ill.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 38
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Power tends to corrupt; absolute power corrupts\nComplement: everything"}, {"role": "assistant", "content": "Power tends to corrupt; absolute power corrupts everything."}, {"role": "user", "content": "Phrase: Sow thin, shear\nComplement: hard"}, {"role": "assistant", "content": "Sow thin, shear hard."}, {"role": "user", "content": "Phrase: Tread on a worm and it will\nComplement: die"}, {"role": "assistant", "content": "Tread on a worm and it will die."}, {"role": "user", "content": "Phrase: The show must go\nComplement: well"}]
+----------------------------------------
+Prediction: The show must go well.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 39
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: It is always good when a man has two irons in the\nComplement: hand"}, {"role": "assistant", "content": "It is always good when a man has two irons in the hand."}, {"role": "user", "content": "Phrase: Circumstances alter\nComplement: reality"}, {"role": "assistant", "content": "Circumstances alter reality."}, {"role": "user", "content": "Phrase: There is luck in odd\nComplement: times"}, {"role": "assistant", "content": "There is luck in odd times."}, {"role": "user", "content": "Phrase: Wise men learn by other men's harms, fools by their\nComplement: mistakes"}]
+----------------------------------------
+Prediction: Wise men learn by other men's harms, fools by their mistakes.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 40
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Eighty percent of life is showing\nComplement: promise"}, {"role": "assistant", "content": "Eighty percent of life is showing promise."}, {"role": "user", "content": "Phrase: Cynic\nComplement: appear"}, {"role": "assistant", "content": "Cynic appear."}, {"role": "user", "content": "Phrase: Do not add oil to the\nComplement: mixture"}, {"role": "assistant", "content": "Do not add oil to the mixture."}, {"role": "user", "content": "Phrase: Success is a journey not a\nComplement: goal"}]
+----------------------------------------
+Prediction: Success is a journey, not a goal.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 41
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: A rising tide lifts all\nComplement: caution"}, {"role": "assistant", "content": "A rising tide lifts all caution."}, {"role": "user", "content": "Phrase: Blood is thicker than\nComplement: blood"}, {"role": "assistant", "content": "Blood is thicker than blood."}, {"role": "user", "content": "Phrase: If you sup with the devil, use a long\nComplement: stick"}, {"role": "assistant", "content": "If you sup with the devil, use a long stick."}, {"role": "user", "content": "Phrase: Touch\nComplement: me"}]
+----------------------------------------
+Prediction: Touch me.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 42
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: All are not friends who speak one\nComplement: language"}, {"role": "assistant", "content": "All are not friends who speak one language."}, {"role": "user", "content": "Phrase: Hope for the best, but prepare for the\nComplement: worse"}, {"role": "assistant", "content": "Hope for the best, but prepare for the worse."}, {"role": "user", "content": "Phrase: Virtue which parleys is near a\nComplement: river"}, {"role": "assistant", "content": "Virtue which parleys is near a river."}, {"role": "user", "content": "Phrase: There's a sin of omission as well as\nComplement: truth"}]
+----------------------------------------
+Prediction: There's a sin of omission as well as truth.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 43
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Knaves and fools divide the\nComplement: land"}, {"role": "assistant", "content": "Knaves and fools divide the land."}, {"role": "user", "content": "Phrase: A good mind possesses a\nComplement: purpose"}, {"role": "assistant", "content": "A good mind possesses a purpose."}, {"role": "user", "content": "Phrase: Who has not served cannot\nComplement: serve"}, {"role": "assistant", "content": "Who has not served cannot serve."}, {"role": "user", "content": "Phrase: Money is a good servant, but a bad\nComplement: one"}]
+----------------------------------------
+Prediction: Money is a good servant, but a bad one.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 44
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: A blow with a word strikes deeper than a blow with a\nComplement: word"}, {"role": "assistant", "content": "A blow with a word strikes deeper than a blow with a word."}, {"role": "user", "content": "Phrase: A good friend never\nComplement: dies"}, {"role": "assistant", "content": "A good friend never dies."}, {"role": "user", "content": "Phrase: If you want a thing well done, do it\nComplement: well"}, {"role": "assistant", "content": "If you want a thing well done, do it well."}, {"role": "user", "content": "Phrase: If you snooze you\nComplement: sleep"}]
+----------------------------------------
+Prediction: If you snooze, you sleep.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 45
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: There are as good fish in the sea as ever were\nComplement: there"}, {"role": "assistant", "content": "There are as good fish in the sea as ever were there."}, {"role": "user", "content": "Phrase: Might is\nComplement: power"}, {"role": "assistant", "content": "Might is power."}, {"role": "user", "content": "Phrase: No pain, no\nComplement: fear"}, {"role": "assistant", "content": "No pain, no fear."}, {"role": "user", "content": "Phrase: Delays are\nComplement: frequent"}]
+----------------------------------------
+Prediction: Delays are frequent.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 46
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Learning is the eye of the\nComplement: eye"}, {"role": "assistant", "content": "Learning is the eye of the eye."}, {"role": "user", "content": "Phrase: Half a loaf is better than no\nComplement: more"}, {"role": "assistant", "content": "Half a loaf is better than no more."}, {"role": "user", "content": "Phrase: All those men have their\nComplement: secrets"}, {"role": "assistant", "content": "All those men have their secrets."}, {"role": "user", "content": "Phrase: If the fool would persist in his folly he would become\nComplement: king"}]
+----------------------------------------
+Prediction: If the fool would persist in his folly he would become king.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 47
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Justice pleaseth few in their own\nComplement: way"}, {"role": "assistant", "content": "Justice pleaseth few in their own way."}, {"role": "user", "content": "Phrase: Truth lies within a little and certain compass, but error is\nComplement: not"}, {"role": "assistant", "content": "Truth lies within a little and certain compass, but error is not."}, {"role": "user", "content": "Phrase: You know the tree by its\nComplement: roots"}, {"role": "assistant", "content": "You know the tree by its roots."}, {"role": "user", "content": "Phrase: You can't milk a\nComplement: cow"}]
+----------------------------------------
+Prediction: You can't milk a cow.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 48
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Far from eye, far from\nComplement: hand"}, {"role": "assistant", "content": "Far from eye, far from hand."}, {"role": "user", "content": "Phrase: Bad is the best\nComplement: word"}, {"role": "assistant", "content": "Bad is the best word."}, {"role": "user", "content": "Phrase: Mind your own\nComplement: affairs"}, {"role": "assistant", "content": "Mind your own affairs."}, {"role": "user", "content": "Phrase: Applause is the echo of a\nComplement: song"}]
+----------------------------------------
+Prediction: Applause is the echo of a song.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 49
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Old streets a glamour\nComplement: now"}, {"role": "assistant", "content": "Old streets a glamour now."}, {"role": "user", "content": "Phrase: A picture is worth a thousand\nComplement: dollars"}, {"role": "assistant", "content": "A picture is worth a thousand dollars."}, {"role": "user", "content": "Phrase: Come away; poverty's\nComplement: sake"}, {"role": "assistant", "content": "Come away; poverty's sake."}, {"role": "user", "content": "Phrase: Put a beggar on horseback and he'll ride it to death; Set a beggar on horseback, and he'll ride to the\nComplement: death"}]
+----------------------------------------
+Prediction: Put a beggar on horseback and he'll ride it to death; Set a beggar on horseback, and he'll ride to the death.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 50
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: The squeaky wheel gets the\nComplement: message"}, {"role": "assistant", "content": "The squeaky wheel gets the message."}, {"role": "user", "content": "Phrase: A drowning man will clutch at a\nComplement: rock"}, {"role": "assistant", "content": "A drowning man will clutch at a rock."}, {"role": "user", "content": "Phrase: There is no smoke without\nComplement: smoke"}, {"role": "assistant", "content": "There is no smoke without smoke."}, {"role": "user", "content": "Phrase: A thing of beauty is a joy for\nComplement: me"}]
+----------------------------------------
+Prediction: A thing of beauty is a joy for me.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 51
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Put a beggar on horseback and he'll ride it to death; Set a beggar on horseback, and he'll ride to the\nComplement: death"}, {"role": "assistant", "content": "Put a beggar on horseback and he'll ride it to death; Set a beggar on horseback, and he'll ride to the death."}, {"role": "user", "content": "Phrase: Set a herring to catch a\nComplement: fish"}, {"role": "assistant", "content": "Set a herring to catch a fish."}, {"role": "user", "content": "Phrase: Waste not, want\nComplement: to"}, {"role": "assistant", "content": "Waste not, want to."}, {"role": "user", "content": "Phrase: Other times, other\nComplement: times"}]
+----------------------------------------
+Prediction: Other times, other times.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 52
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Look before you\nComplement: speak"}, {"role": "assistant", "content": "Look before you speak."}, {"role": "user", "content": "Phrase: Time is\nComplement: short"}, {"role": "assistant", "content": "Time is short."}, {"role": "user", "content": "Phrase: The rest is\nComplement: history"}, {"role": "assistant", "content": "The rest is history."}, {"role": "user", "content": "Phrase: Variety is the spice of\nComplement: love"}]
+----------------------------------------
+Prediction: Variety is the spice of love.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 53
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: A fool sees not the same tree that a wise man\nComplement: saw"}, {"role": "assistant", "content": "A fool sees not the same tree that a wise man saw."}, {"role": "user", "content": "Phrase: A dog will not howl if you beat him with a\nComplement: stick"}, {"role": "assistant", "content": "A dog will not howl if you beat him with a stick."}, {"role": "user", "content": "Phrase: Shit or get off the\nComplement: phone"}, {"role": "assistant", "content": "Shit or get off the phone."}, {"role": "user", "content": "Phrase: He that swells in prosperity will shrink in\nComplement: poverty"}]
+----------------------------------------
+Prediction: He that swells in prosperity will shrink in poverty.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 54
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Least said, soonest\nComplement: forgotten"}, {"role": "assistant", "content": "Least said, soonest forgotten."}, {"role": "user", "content": "Phrase: Young men may die, old men\nComplement: not"}, {"role": "assistant", "content": "Young men may die, old men not."}, {"role": "user", "content": "Phrase: Thou wilt scarce be a man before thy\nComplement: time"}, {"role": "assistant", "content": "Thou wilt scarce be a man before thy time."}, {"role": "user", "content": "Phrase: You can lead a horse to water but you can't make it\nComplement: sink"}]
+----------------------------------------
+Prediction: You can lead a horse to water but you can't make it sink.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 55
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Look before you\nComplement: speak"}, {"role": "assistant", "content": "Look before you speak."}, {"role": "user", "content": "Phrase: If you can't be good, be\nComplement: good"}, {"role": "assistant", "content": "If you can't be good, be good."}, {"role": "user", "content": "Phrase: Look not a gift horse in the\nComplement: eyes"}, {"role": "assistant", "content": "Look not a gift horse in the eyes."}, {"role": "user", "content": "Phrase: A bellyful is one of meat, drink, or\nComplement: food"}]
+----------------------------------------
+Prediction: A bellyful is one of meat, drink, or food.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 56
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: When thy friend asks, let there be no\nComplement: doubt"}, {"role": "assistant", "content": "When thy friend asks, let there be no doubt."}, {"role": "user", "content": "Phrase: Sticks and stones may break my bones but words will never hurt\nComplement: them"}, {"role": "assistant", "content": "Sticks and stones may break my bones but words will never hurt them."}, {"role": "user", "content": "Phrase: When the cat is away, the mice will\nComplement: return"}, {"role": "assistant", "content": "When the cat is away, the mice will return."}, {"role": "user", "content": "Phrase: Good laws have sprung from bad\nComplement: ones"}]
+----------------------------------------
+Prediction: Good laws have sprung from bad ones.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 57
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Give, and ye shall\nComplement: have"}, {"role": "assistant", "content": "Give, and ye shall have."}, {"role": "user", "content": "Phrase: You can lead a horse to water but you can't make it\nComplement: sink"}, {"role": "assistant", "content": "You can lead a horse to water but you can't make it sink."}, {"role": "user", "content": "Phrase: He that talks to himself, speaks to a\nComplement: person"}, {"role": "assistant", "content": "He that talks to himself, speaks to a person."}, {"role": "user", "content": "Phrase: All is not lost that is in\nComplement: vain"}]
+----------------------------------------
+Prediction: All is not lost that is in vain.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 58
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Knaves and fools divide the\nComplement: land"}, {"role": "assistant", "content": "Knaves and fools divide the land."}, {"role": "user", "content": "Phrase: To sow one's wild\nComplement: seed"}, {"role": "assistant", "content": "To sow one's wild seed."}, {"role": "user", "content": "Phrase: What is honour? a word. What is that word, honour?\nComplement: honour"}, {"role": "assistant", "content": "What is honour? a word. What is that word, honour? honour."}, {"role": "user", "content": "Phrase: Life imitates\nComplement: death"}]
+----------------------------------------
+Prediction: Life imitates death.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 59
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: What a tangled web we weave, when first we practice to\nComplement: kill"}, {"role": "assistant", "content": "What a tangled web we weave, when first we practice to kill."}, {"role": "user", "content": "Phrase: The only stupid question is the one that is not\nComplement: stupid"}, {"role": "assistant", "content": "The only stupid question is the one that is not stupid."}, {"role": "user", "content": "Phrase: The best is\nComplement: good"}, {"role": "assistant", "content": "The best is good."}, {"role": "user", "content": "Phrase: All's well that ends\nComplement: today"}]
+----------------------------------------
+Prediction: All's well that ends today.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 60
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: To burn the candle at both\nComplement: sides"}, {"role": "assistant", "content": "To burn the candle at both sides."}, {"role": "user", "content": "Phrase: If you want enemies excel others, if you want friends let others excel\nComplement: others"}, {"role": "assistant", "content": "If you want enemies excel others, if you want friends let others excel others."}, {"role": "user", "content": "Phrase: The fat is in the\nComplement: stomach"}, {"role": "assistant", "content": "The fat is in the stomach."}, {"role": "user", "content": "Phrase: Do not add oil to the\nComplement: mixture"}]
+----------------------------------------
+Prediction: Do not add oil to the mixture.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 61
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: The people are the\nComplement: people"}, {"role": "assistant", "content": "The people are the people."}, {"role": "user", "content": "Phrase: Wives are young men's mistresses; companions for middle age; and old men's\nComplement: wives"}, {"role": "assistant", "content": "Wives are young men's mistresses; companions for middle age; and old men's wives."}, {"role": "user", "content": "Phrase: Don't change horses in\nComplement: public"}, {"role": "assistant", "content": "Don't change horses in public."}, {"role": "user", "content": "Phrase: There's more than one way to skin a\nComplement: person"}]
+----------------------------------------
+Prediction: There's more than one way to skin a person.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 62
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Long absent, soon\nComplement: returned"}, {"role": "assistant", "content": "Long absent, soon returned."}, {"role": "user", "content": "Phrase: By perseverance the snail reached the\nComplement: sea"}, {"role": "assistant", "content": "By perseverance the snail reached the sea."}, {"role": "user", "content": "Phrase: Nothing ventured, nothing\nComplement: ventured"}, {"role": "assistant", "content": "Nothing ventured, nothing ventured."}, {"role": "user", "content": "Phrase: Everyone talks about the weather, but nobody does anything about\nComplement: them"}]
+----------------------------------------
+Prediction: Everyone talks about the weather, but nobody does anything about them.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 63
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Hospitality\nComplement: shelter"}, {"role": "assistant", "content": "Hospitality shelter."}, {"role": "user", "content": "Phrase: Fine feathers make fine\nComplement: clothes"}, {"role": "assistant", "content": "Fine feathers make fine clothes."}, {"role": "user", "content": "Phrase: Give a dog a bad name and hang\nComplement: it"}, {"role": "assistant", "content": "Give a dog a bad name and hang it."}, {"role": "user", "content": "Phrase: More haste, less\nComplement: caution"}]
+----------------------------------------
+Prediction: More haste, less caution.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 64
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Great minds\nComplement: think"}, {"role": "assistant", "content": "Great minds think."}, {"role": "user", "content": "Phrase: The remedy is worse than the\nComplement: alternative"}, {"role": "assistant", "content": "The remedy is worse than the alternative."}, {"role": "user", "content": "Phrase: Waste not, want\nComplement: to"}, {"role": "assistant", "content": "Waste not, want to."}, {"role": "user", "content": "Phrase: That's not good language that all understand\nComplement: well"}]
+----------------------------------------
+Prediction: That's not good language that all understand well.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 65
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: To forget wrong is the best\nComplement: way"}, {"role": "assistant", "content": "To forget wrong is the best way."}, {"role": "user", "content": "Phrase: It ain't over till the fat lady\nComplement: dies"}, {"role": "assistant", "content": "It ain't over till the fat lady dies."}, {"role": "user", "content": "Phrase: What a tangled web we weave, when first we practice to\nComplement: kill"}, {"role": "assistant", "content": "What a tangled web we weave, when first we practice to kill."}, {"role": "user", "content": "Phrase: Discretion is the better part of\nComplement: it"}]
+----------------------------------------
+Prediction: Discretion is the better part of valor. (Note: "it" is not a suitable complement for this phrase. The correct completion is "valor".)
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 66
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Once a drunkard always a\nComplement: man"}, {"role": "assistant", "content": "Once a drunkard always a man."}, {"role": "user", "content": "Phrase: Fight fire with\nComplement: flames"}, {"role": "assistant", "content": "Fight fire with flames."}, {"role": "user", "content": "Phrase: The only free cheese is in the mouse\nComplement: hole"}, {"role": "assistant", "content": "The only free cheese is in the mouse hole."}, {"role": "user", "content": "Phrase: Set the fox to mind the\nComplement: sheep"}]
+----------------------------------------
+Prediction: Set the fox to mind the sheep.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 67
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: If the fool would persist in his folly he would become\nComplement: king"}, {"role": "assistant", "content": "If the fool would persist in his folly he would become king."}, {"role": "user", "content": "Phrase: Learning is the eye of the\nComplement: eye"}, {"role": "assistant", "content": "Learning is the eye of the eye."}, {"role": "user", "content": "Phrase: Set a thief to catch a\nComplement: murderer"}, {"role": "assistant", "content": "Set a thief to catch a murderer."}, {"role": "user", "content": "Phrase: Two is a company; three is a\nComplement: person"}]
+----------------------------------------
+Prediction: Two is a company; three is a person.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 68
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: As the old cock crows, so crows the\nComplement: crow"}, {"role": "assistant", "content": "As the old cock crows, so crows the crow."}, {"role": "user", "content": "Phrase: Good laws have sprung from bad\nComplement: ones"}, {"role": "assistant", "content": "Good laws have sprung from bad ones."}, {"role": "user", "content": "Phrase: All roads lead to\nComplement: nowhere"}, {"role": "assistant", "content": "All roads lead to nowhere."}, {"role": "user", "content": "Phrase: Much is expected where much is\nComplement: expected"}]
+----------------------------------------
+Prediction: Much is expected where much is expected.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 69
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: A woman's work is never\nComplement: finished"}, {"role": "assistant", "content": "A woman's work is never finished."}, {"role": "user", "content": "Phrase: Example is better than\nComplement: example"}, {"role": "assistant", "content": "Example is better than example."}, {"role": "user", "content": "Phrase: Time\nComplement: magazine"}, {"role": "assistant", "content": "Time magazine."}, {"role": "user", "content": "Phrase: The fox, when he cannot reach the grapes, says they are not\nComplement: edible"}]
+----------------------------------------
+Prediction: The fox, when he cannot reach the grapes, says they are not edible.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 70
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Friends are lost by calling often and calling\nComplement: back"}, {"role": "assistant", "content": "Friends are lost by calling often and calling back."}, {"role": "user", "content": "Phrase: Opportunity makes the\nComplement: difference"}, {"role": "assistant", "content": "Opportunity makes the difference."}, {"role": "user", "content": "Phrase: Anger makes dull men witty, but it keeps them\nComplement: alive"}, {"role": "assistant", "content": "Anger makes dull men witty, but it keeps them alive."}, {"role": "user", "content": "Phrase: If you can't be good, be\nComplement: good"}]
+----------------------------------------
+Prediction: If you can't be good, be good-tempered.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 71
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: It's a good horse that never\nComplement: fails"}, {"role": "assistant", "content": "It's a good horse that never fails."}, {"role": "user", "content": "Phrase: If you buy cheaply, you pay\nComplement: well"}, {"role": "assistant", "content": "If you buy cheaply, you pay well."}, {"role": "user", "content": "Phrase: The enemy of my enemy is my\nComplement: enemy"}, {"role": "assistant", "content": "The enemy of my enemy is my enemy."}, {"role": "user", "content": "Phrase: The land of the free, and the home of the\nComplement: free"}]
+----------------------------------------
+Prediction: The land of the free, and the home of the free.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 72
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Lightning never strikes twice in the same\nComplement: day"}, {"role": "assistant", "content": "Lightning never strikes twice in the same day."}, {"role": "user", "content": "Phrase: Carrying coals to\nComplement: work"}, {"role": "assistant", "content": "Carrying coals to work."}, {"role": "user", "content": "Phrase: Eighty percent of life is showing\nComplement: promise"}, {"role": "assistant", "content": "Eighty percent of life is showing promise."}, {"role": "user", "content": "Phrase: Don't try to reinvent the\nComplement: world"}]
+----------------------------------------
+Prediction: Don't try to reinvent the world.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 73
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Measure twice, cut\nComplement: short"}, {"role": "assistant", "content": "Measure twice, cut short."}, {"role": "user", "content": "Phrase: Avoid the pleasure which will bite\nComplement: you"}, {"role": "assistant", "content": "Avoid the pleasure which will bite you."}, {"role": "user", "content": "Phrase: The last fool never\nComplement: came"}, {"role": "assistant", "content": "The last fool never came."}, {"role": "user", "content": "Phrase: Hospitality\nComplement: shelter"}]
+----------------------------------------
+Prediction: Hospitality is often shown by providing shelter.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 74
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Footprints on the sands of time are not made by sitting\nComplement: alone"}, {"role": "assistant", "content": "Footprints on the sands of time are not made by sitting alone."}, {"role": "user", "content": "Phrase: If you got it, flaunt\nComplement: yourself"}, {"role": "assistant", "content": "If you got it, flaunt yourself."}, {"role": "user", "content": "Phrase: My house is my\nComplement: home"}, {"role": "assistant", "content": "My house is my home."}, {"role": "user", "content": "Phrase: A dog will not howl if you beat him with a\nComplement: stick"}]
+----------------------------------------
+Prediction: A dog will not howl if you beat him with a stick.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 75
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: All is not lost that is in\nComplement: vain"}, {"role": "assistant", "content": "All is not lost that is in vain."}, {"role": "user", "content": "Phrase: Experience is the best\nComplement: thing"}, {"role": "assistant", "content": "Experience is the best thing."}, {"role": "user", "content": "Phrase: Life imitates\nComplement: death"}, {"role": "assistant", "content": "Life imitates death."}, {"role": "user", "content": "Phrase: Don't cut off your nose to spite your\nComplement: hair"}]
+----------------------------------------
+Prediction: Don't cut off your nose to spite your hair.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 76
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: There's many a slip 'twixt cup and\nComplement: spoon"}, {"role": "assistant", "content": "There's many a slip 'twixt cup and spoon."}, {"role": "user", "content": "Phrase: A man too busy to take care of his health is like a mechanic too busy to take care of his\nComplement: car"}, {"role": "assistant", "content": "A man too busy to take care of his health is like a mechanic too busy to take care of his car."}, {"role": "user", "content": "Phrase: If you lie down with dogs, you'll get up with\nComplement: them"}, {"role": "assistant", "content": "If you lie down with dogs, you'll get up with them."}, {"role": "user", "content": "Phrase: Who digs a trap for others ends up in it\nComplement: too"}]
+----------------------------------------
+Prediction: Who digs a trap for others ends up in it too.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 77
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: A miss by an inch is a miss by a\nComplement: foot"}, {"role": "assistant", "content": "A miss by an inch is a miss by a foot."}, {"role": "user", "content": "Phrase: Where vice goes before, vengeance follows\nComplement: it"}, {"role": "assistant", "content": "Where vice goes before, vengeance follows it."}, {"role": "user", "content": "Phrase: Give neither salt nor counsel till you are asked for\nComplement: them"}, {"role": "assistant", "content": "Give neither salt nor counsel till you are asked for them."}, {"role": "user", "content": "Phrase: Let sleeping dogs\nComplement: sleep"}]
+----------------------------------------
+Prediction: Let sleeping dogs sleep.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 78
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: You can catch more flies with a drop of honey than with a barrel of\nComplement: oil"}, {"role": "assistant", "content": "You can catch more flies with a drop of honey than with a barrel of oil."}, {"role": "user", "content": "Phrase: Wives are young men's mistresses; companions for middle age; and old men's\nComplement: wives"}, {"role": "assistant", "content": "Wives are young men's mistresses; companions for middle age; and old men's wives."}, {"role": "user", "content": "Phrase: Well behaved women seldom make\nComplement: mistakes"}, {"role": "assistant", "content": "Well behaved women seldom make mistakes."}, {"role": "user", "content": "Phrase: Justice pleaseth few in their own\nComplement: way"}]
+----------------------------------------
+Prediction: Justice pleaseth few in their own way.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 79
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: God sends fortune to\nComplement: us"}, {"role": "assistant", "content": "God sends fortune to us."}, {"role": "user", "content": "Phrase: Hell hath no fury like a woman\nComplement: does"}, {"role": "assistant", "content": "Hell hath no fury like a woman does."}, {"role": "user", "content": "Phrase: Misfortunes never come\nComplement: true"}, {"role": "assistant", "content": "Misfortunes never come true."}, {"role": "user", "content": "Phrase: It is not what you say, it is the way you say\nComplement: things"}]
+----------------------------------------
+Prediction: It is not what you say, it is the way you say things.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 80
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: The absent are always in the\nComplement: background"}, {"role": "assistant", "content": "The absent are always in the background."}, {"role": "user", "content": "Phrase: Every fool is pleased with his own\nComplement: work"}, {"role": "assistant", "content": "Every fool is pleased with his own work."}, {"role": "user", "content": "Phrase: There is no tree but bears some\nComplement: stones"}, {"role": "assistant", "content": "There is no tree but bears some stones."}, {"role": "user", "content": "Phrase: Like father, like\nComplement: daughter"}]
+----------------------------------------
+Prediction: Like father, like daughter.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 81
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Come away; poverty's\nComplement: sake"}, {"role": "assistant", "content": "Come away; poverty's sake."}, {"role": "user", "content": "Phrase: Better play a small game than to stand\nComplement: around"}, {"role": "assistant", "content": "Better play a small game than to stand around."}, {"role": "user", "content": "Phrase: A son is a son 'till he gets him a wife; a daughter's a daughter all her\nComplement: own"}, {"role": "assistant", "content": "A son is a son 'till he gets him a wife; a daughter's a daughter all her own."}, {"role": "user", "content": "Phrase: A rolling stone gathers no\nComplement: dust"}]
+----------------------------------------
+Prediction: A rolling stone gathers no dust.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 82
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Cynic\nComplement: appear"}, {"role": "assistant", "content": "Cynic appear."}, {"role": "user", "content": "Phrase: It's a long lane that has no\nComplement: shoulders"}, {"role": "assistant", "content": "It's a long lane that has no shoulders."}, {"role": "user", "content": "Phrase: No news is good\nComplement: yet"}, {"role": "assistant", "content": "No news is good yet."}, {"role": "user", "content": "Phrase: Advisers run no\nComplement: business"}]
+----------------------------------------
+Prediction: Advisers run no business.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 83
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: All good things must come to an\nComplement: End"}, {"role": "assistant", "content": "All good things must come to an End."}, {"role": "user", "content": "Phrase: Follow glory and it will flee, flee glory and it will follow\nComplement: glory"}, {"role": "assistant", "content": "Follow glory and it will flee, flee glory and it will follow glory."}, {"role": "user", "content": "Phrase: Out of sight... Out of\nComplement: sight"}, {"role": "assistant", "content": "Out of sight... Out of sight."}, {"role": "user", "content": "Phrase: Willful waste makes woeful\nComplement: waste"}]
+----------------------------------------
+Prediction: Willful waste makes woeful waste.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 84
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: You don't get nothing for\nComplement: it"}, {"role": "assistant", "content": "You don't get nothing for it."}, {"role": "user", "content": "Phrase: Two heads are better than\nComplement: none"}, {"role": "assistant", "content": "Two heads are better than none."}, {"role": "user", "content": "Phrase: Life begins at\nComplement: birth"}, {"role": "assistant", "content": "Life begins at birth."}, {"role": "user", "content": "Phrase: Better underdone than\nComplement: not"}]
+----------------------------------------
+Prediction: Better underdone than not.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 85
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Give a dog a bad name and he'll live up to\nComplement: that"}, {"role": "assistant", "content": "Give a dog a bad name and he'll live up to that."}, {"role": "user", "content": "Phrase: Once a thief always a\nComplement: murderer"}, {"role": "assistant", "content": "Once a thief always a murderer."}, {"role": "user", "content": "Phrase: Sufficient unto the day is the evil\nComplement: spirit"}, {"role": "assistant", "content": "Sufficient unto the day is the evil spirit."}, {"role": "user", "content": "Phrase: One secret of '''success''' is to know how to deny yourself and other\nComplement: men"}]
+----------------------------------------
+Prediction: One secret of success is to know how to deny yourself and other men.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 86
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: A man too busy to take care of his health is like a mechanic too busy to take care of his\nComplement: car"}, {"role": "assistant", "content": "A man too busy to take care of his health is like a mechanic too busy to take care of his car."}, {"role": "user", "content": "Phrase: Everyone talks about the weather, but nobody does anything about\nComplement: them"}, {"role": "assistant", "content": "Everyone talks about the weather, but nobody does anything about them."}, {"role": "user", "content": "Phrase: Where there is a will, there is a\nComplement: will"}, {"role": "assistant", "content": "Where there is a will, there is a will."}, {"role": "user", "content": "Phrase: Life is what you make of\nComplement: life"}]
+----------------------------------------
+Prediction: Life is what you make of life.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 87
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Well begun is half\nComplement: finished"}, {"role": "assistant", "content": "Well begun is half finished."}, {"role": "user", "content": "Phrase: No longer foster, no longer\nComplement: care"}, {"role": "assistant", "content": "No longer foster, no longer care."}, {"role": "user", "content": "Phrase: Empty vessels make the most\nComplement: noise"}, {"role": "assistant", "content": "Empty vessels make the most noise."}, {"role": "user", "content": "Phrase: A friend cannot be known in prosperity nor an enemy be hidden in\nComplement: fear"}]
+----------------------------------------
+Prediction: A friend cannot be known in prosperity nor an enemy be hidden in fear.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 88
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Footprints on the sands of time are not made by sitting\nComplement: alone"}, {"role": "assistant", "content": "Footprints on the sands of time are not made by sitting alone."}, {"role": "user", "content": "Phrase: Diligent youth makes easy\nComplement: decisions"}, {"role": "assistant", "content": "Diligent youth makes easy decisions."}, {"role": "user", "content": "Phrase: Health is better than\nComplement: life"}, {"role": "assistant", "content": "Health is better than life."}, {"role": "user", "content": "Phrase: Everyone's business is no one's\nComplement: concern"}]
+----------------------------------------
+Prediction: Everyone's business is no one's concern.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 89
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Call a spade a\nComplement: knife"}, {"role": "assistant", "content": "Call a spade a knife."}, {"role": "user", "content": "Phrase: A deluge of words and a drop of\nComplement: blood"}, {"role": "assistant", "content": "A deluge of words and a drop of blood."}, {"role": "user", "content": "Phrase: The rest is\nComplement: history"}, {"role": "assistant", "content": "The rest is history."}, {"role": "user", "content": "Phrase: If you want a thing well done, do it\nComplement: well"}]
+----------------------------------------
+Prediction: If you want a thing well done, do it well.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 90
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Many things are lost for want of\nComplement: water"}, {"role": "assistant", "content": "Many things are lost for want of water."}, {"role": "user", "content": "Phrase: The best is\nComplement: good"}, {"role": "assistant", "content": "The best is good."}, {"role": "user", "content": "Phrase: A man is known by the company he\nComplement: runs"}, {"role": "assistant", "content": "A man is known by the company he runs."}, {"role": "user", "content": "Phrase: To be all in the same\nComplement: room"}]
+----------------------------------------
+Prediction: To be all in the same room.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 91
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Practice makes\nComplement: progress"}, {"role": "assistant", "content": "Practice makes progress."}, {"role": "user", "content": "Phrase: He gives twice who gives in a\nComplement: second"}, {"role": "assistant", "content": "He gives twice who gives in a second."}, {"role": "user", "content": "Phrase: A cat may look at a\nComplement: mouse"}, {"role": "assistant", "content": "A cat may look at a mouse."}, {"role": "user", "content": "Phrase: Hasty judgment leads to\nComplement: failure"}]
+----------------------------------------
+Prediction: Hasty judgment leads to failure.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 92
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: A cat may look at a\nComplement: mouse"}, {"role": "assistant", "content": "A cat may look at a mouse."}, {"role": "user", "content": "Phrase: Much is expected where much is\nComplement: expected"}, {"role": "assistant", "content": "Much is expected where much is expected."}, {"role": "user", "content": "Phrase: Life imitates\nComplement: death"}, {"role": "assistant", "content": "Life imitates death."}, {"role": "user", "content": "Phrase: Forgive and\nComplement: forgive"}]
+----------------------------------------
+Prediction: Forgive and forgive.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 93
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Jack of all trades and master of\nComplement: ceremonies"}, {"role": "assistant", "content": "Jack of all trades and master of ceremonies."}, {"role": "user", "content": "Phrase: Crows will not pick out crows\nComplement: here"}, {"role": "assistant", "content": "Crows will not pick out crows here."}, {"role": "user", "content": "Phrase: Never look a gift horse in the\nComplement: eye"}, {"role": "assistant", "content": "Never look a gift horse in the eye."}, {"role": "user", "content": "Phrase: What you sow is what you\nComplement: do"}]
+----------------------------------------
+Prediction: What you sow is what you reap.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 94
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: It's safer to commend the dead than the\nComplement: wounded"}, {"role": "assistant", "content": "It's safer to commend the dead than the wounded."}, {"role": "user", "content": "Phrase: Bore\nComplement: talk"}, {"role": "assistant", "content": "Bore talk."}, {"role": "user", "content": "Phrase: Nobody is healthy in London, nobody can\nComplement: eat"}, {"role": "assistant", "content": "Nobody is healthy in London, nobody can eat."}, {"role": "user", "content": "Phrase: The spirit is willing but the flesh is\nComplement: not"}]
+----------------------------------------
+Prediction: The spirit is willing but the flesh is not.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 95
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: A burnt child dreads the\nComplement: flames"}, {"role": "assistant", "content": "A burnt child dreads the flames."}, {"role": "user", "content": "Phrase: God is, and all is\nComplement: good"}, {"role": "assistant", "content": "God is, and all is good."}, {"role": "user", "content": "Phrase: Revenge is a dish best served\nComplement: hot"}, {"role": "assistant", "content": "Revenge is a dish best served hot."}, {"role": "user", "content": "Phrase: One hand washes the\nComplement: dishes"}]
+----------------------------------------
+Prediction: One hand washes the dishes, the other dries.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 96
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: If you're in a hole, stop\nComplement: moving"}, {"role": "assistant", "content": "If you're in a hole, stop moving."}, {"role": "user", "content": "Phrase: Silence gives\nComplement: way"}, {"role": "assistant", "content": "Silence gives way."}, {"role": "user", "content": "Phrase: Half a loaf is better than no\nComplement: more"}, {"role": "assistant", "content": "Half a loaf is better than no more."}, {"role": "user", "content": "Phrase: Nothing ventured, nothing\nComplement: ventured"}]
+----------------------------------------
+Prediction: Nothing ventured, nothing ventured. (The complement is the same as the original word, so it doesn't change the meaning of the phrase.)
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 97
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Old streets a glamour\nComplement: now"}, {"role": "assistant", "content": "Old streets a glamour now."}, {"role": "user", "content": "Phrase: Never say\nComplement: anything"}, {"role": "assistant", "content": "Never say anything."}, {"role": "user", "content": "Phrase: Who falls short in the head must be long in the\nComplement: body"}, {"role": "assistant", "content": "Who falls short in the head must be long in the body."}, {"role": "user", "content": "Phrase: Time is\nComplement: short"}]
+----------------------------------------
+Prediction: Time is short.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 98
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Revolution\nComplement: government"}, {"role": "assistant", "content": "Revolution government."}, {"role": "user", "content": "Phrase: Tomorrow is another\nComplement: night"}, {"role": "assistant", "content": "Tomorrow is another night."}, {"role": "user", "content": "Phrase: Wade not in unknown\nComplement: condition"}, {"role": "assistant", "content": "Wade not in unknown condition."}, {"role": "user", "content": "Phrase: Take care of number\nComplement: two"}]
+----------------------------------------
+Prediction: Take care of number two.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 99
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Nothing for\nComplement: it"}, {"role": "assistant", "content": "Nothing for it."}, {"role": "user", "content": "Phrase: If you can't beat them, join\nComplement: us"}, {"role": "assistant", "content": "If you can't beat them, join us."}, {"role": "user", "content": "Phrase: Like a red rag to a\nComplement: child"}, {"role": "assistant", "content": "Like a red rag to a child."}, {"role": "user", "content": "Phrase: There's many a slip 'twixt cup and\nComplement: spoon"}]
+----------------------------------------
+Prediction: There's many a slip 'twixt cup and spoon.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 100
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: What everybody says must be\nComplement: right"}, {"role": "assistant", "content": "What everybody says must be right."}, {"role": "user", "content": "Phrase: Rome wasn't built in a\nComplement: hurry"}, {"role": "assistant", "content": "Rome wasn't built in a hurry."}, {"role": "user", "content": "Phrase: There is a superstition in avoiding\nComplement: it"}, {"role": "assistant", "content": "There is a superstition in avoiding it."}, {"role": "user", "content": "Phrase: There's no place like\nComplement: it"}]
+----------------------------------------
+Prediction: There's no place like it.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 101
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: There is no little\nComplement: girl"}, {"role": "assistant", "content": "There is no little girl."}, {"role": "user", "content": "Phrase: Where vice goes before, vengeance follows\nComplement: it"}, {"role": "assistant", "content": "Where vice goes before, vengeance follows it."}, {"role": "user", "content": "Phrase: Everyone's business is no one's\nComplement: concern"}, {"role": "assistant", "content": "Everyone's business is no one's concern."}, {"role": "user", "content": "Phrase: Imiation is the highest form of\nComplement: consciousness"}]
+----------------------------------------
+Prediction: Imitation is the highest form of consciousness.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 102
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: He that is worst may still hold the\nComplement: power"}, {"role": "assistant", "content": "He that is worst may still hold the power."}, {"role": "user", "content": "Phrase: What a tangled web we weave, when first we practice to\nComplement: kill"}, {"role": "assistant", "content": "What a tangled web we weave, when first we practice to kill."}, {"role": "user", "content": "Phrase: Name not a rope in his house who hanged\nComplement: them"}, {"role": "assistant", "content": "Name not a rope in his house who hanged them."}, {"role": "user", "content": "Phrase: Know\nComplement: it"}]
+----------------------------------------
+Prediction: Know it.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 103
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: A cat may look at a\nComplement: mouse"}, {"role": "assistant", "content": "A cat may look at a mouse."}, {"role": "user", "content": "Phrase: Knowledge is\nComplement: life"}, {"role": "assistant", "content": "Knowledge is life."}, {"role": "user", "content": "Phrase: Talk of the devil and he's sure to\nComplement: pay"}, {"role": "assistant", "content": "Talk of the devil and he's sure to pay."}, {"role": "user", "content": "Phrase: Never let the right hand know what the left hand is\nComplement: thinking"}]
+----------------------------------------
+Prediction: Never let the right hand know what the left hand is thinking.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 104
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Set the fox to mind the\nComplement: sheep"}, {"role": "assistant", "content": "Set the fox to mind the sheep."}, {"role": "user", "content": "Phrase: Good laws have sprung from bad\nComplement: ones"}, {"role": "assistant", "content": "Good laws have sprung from bad ones."}, {"role": "user", "content": "Phrase: Better is the enemy of\nComplement: better"}, {"role": "assistant", "content": "Better is the enemy of better."}, {"role": "user", "content": "Phrase: Stolen fruit is the\nComplement: norm"}]
+----------------------------------------
+Prediction: Stolen fruit is the norm.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 105
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Many a true word is spoken in\nComplement: it"}, {"role": "assistant", "content": "Many a true word is spoken in it."}, {"role": "user", "content": "Phrase: It is the early bird that gets the\nComplement: call"}, {"role": "assistant", "content": "It is the early bird that gets the call."}, {"role": "user", "content": "Phrase: A wise man changes his mind, but a fool never\nComplement: will"}, {"role": "assistant", "content": "A wise man changes his mind, but a fool never will."}, {"role": "user", "content": "Phrase: Deeds are fruits, words are but\nComplement: words"}]
+----------------------------------------
+Prediction: Deeds are fruits, words are but words.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 106
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Hawks will not pick out Hawk's\nComplement: face"}, {"role": "assistant", "content": "Hawks will not pick out Hawk's face."}, {"role": "user", "content": "Phrase: Justice delayed is justice\nComplement: delayed"}, {"role": "assistant", "content": "Justice delayed is justice delayed."}, {"role": "user", "content": "Phrase: What can't be cured must be\nComplement: destroyed"}, {"role": "assistant", "content": "What can't be cured must be destroyed."}, {"role": "user", "content": "Phrase: A watched pot never\nComplement: worked"}]
+----------------------------------------
+Prediction: A watched pot never worked.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 107
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Necessity is mother of\nComplement: nature"}, {"role": "assistant", "content": "Necessity is mother of nature."}, {"role": "user", "content": "Phrase: You can lead a horse to water but you can't make it\nComplement: sink"}, {"role": "assistant", "content": "You can lead a horse to water but you can't make it sink."}, {"role": "user", "content": "Phrase: A penny for your\nComplement: trouble"}, {"role": "assistant", "content": "A penny for your trouble."}, {"role": "user", "content": "Phrase: God helps the rich, the poor can\nComplement: help"}]
+----------------------------------------
+Prediction: God helps the rich, the poor can help themselves.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 108
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: A deluge of words and a drop of\nComplement: blood"}, {"role": "assistant", "content": "A deluge of words and a drop of blood."}, {"role": "user", "content": "Phrase: Never lie to your\nComplement: mother"}, {"role": "assistant", "content": "Never lie to your mother."}, {"role": "user", "content": "Phrase: Discretion is the better part of\nComplement: it"}, {"role": "assistant", "content": "Discretion is the better part of it."}, {"role": "user", "content": "Phrase: One might as well be hanged for a sheep as a\nComplement: man"}]
+----------------------------------------
+Prediction: One might as well be hanged for a sheep as a man.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 109
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: None but the brave deserve the\nComplement: honor"}, {"role": "assistant", "content": "None but the brave deserve the honor."}, {"role": "user", "content": "Phrase: As proud as\nComplement: me"}, {"role": "assistant", "content": "As proud as me."}, {"role": "user", "content": "Phrase: Health is\nComplement: good"}, {"role": "assistant", "content": "Health is good."}, {"role": "user", "content": "Phrase: War is too important to be left to the\nComplement: people"}]
+----------------------------------------
+Prediction: War is too important to be left to the people.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 110
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Sunday clears away the rust of the whole\nComplement: house"}, {"role": "assistant", "content": "Sunday clears away the rust of the whole house."}, {"role": "user", "content": "Phrase: The exception proves the\nComplement: opposite"}, {"role": "assistant", "content": "The exception proves the opposite."}, {"role": "user", "content": "Phrase: Marry in haste, and repent at\nComplement: once"}, {"role": "assistant", "content": "Marry in haste, and repent at once."}, {"role": "user", "content": "Phrase: Every dog has his\nComplement: owner"}]
+----------------------------------------
+Prediction: Every dog has his owner.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 111
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: To shed crocodile\nComplement: skin"}, {"role": "assistant", "content": "To shed crocodile skin."}, {"role": "user", "content": "Phrase: Every maybe hath a may not\nComplement: matter"}, {"role": "assistant", "content": "Every maybe hath a may not matter."}, {"role": "user", "content": "Phrase: Lightning never strikes twice in the same\nComplement: day"}, {"role": "assistant", "content": "Lightning never strikes twice in the same day."}, {"role": "user", "content": "Phrase: All work and no play makes Jack a dull\nComplement: man"}]
+----------------------------------------
+Prediction: All work and no play makes Jack a dull man.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 112
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: We have nothing to fear but fear\nComplement: ourselves"}, {"role": "assistant", "content": "We have nothing to fear but fear ourselves."}, {"role": "user", "content": "Phrase: Look on the sunny side of\nComplement: things"}, {"role": "assistant", "content": "Look on the sunny side of things."}, {"role": "user", "content": "Phrase: It is better to die on one's feet than live on one's\nComplement: hands"}, {"role": "assistant", "content": "It is better to die on one's feet than live on one's hands."}, {"role": "user", "content": "Phrase: Whoever gossips to you will gossip of\nComplement: them"}]
+----------------------------------------
+Prediction: Whoever gossips to you will gossip of them.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 113
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Advisers run no\nComplement: business"}, {"role": "assistant", "content": "Advisers run no business."}, {"role": "user", "content": "Phrase: Tread on a worm and it will\nComplement: die"}, {"role": "assistant", "content": "Tread on a worm and it will die."}, {"role": "user", "content": "Phrase: A losing trade, I assure you, sir; literature is a\nComplement: trade"}, {"role": "assistant", "content": "A losing trade, I assure you, sir; literature is a trade."}, {"role": "user", "content": "Phrase: Two heads are better than\nComplement: none"}]
+----------------------------------------
+Prediction: Two heads are better than none.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 114
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Confidence is the companion of\nComplement: courage"}, {"role": "assistant", "content": "Confidence is the companion of courage."}, {"role": "user", "content": "Phrase: Little strokes fell great\nComplement: distances"}, {"role": "assistant", "content": "Little strokes fell great distances."}, {"role": "user", "content": "Phrase: The best defence is a good\nComplement: defence"}, {"role": "assistant", "content": "The best defence is a good defence."}, {"role": "user", "content": "Phrase: God's a good\nComplement: God"}]
+----------------------------------------
+Prediction: God's a good God.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 115
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: It ain't over till the fat lady\nComplement: dies"}, {"role": "assistant", "content": "It ain't over till the fat lady dies."}, {"role": "user", "content": "Phrase: All good things must come to an\nComplement: End"}, {"role": "assistant", "content": "All good things must come to an End."}, {"role": "user", "content": "Phrase: Come away; poverty's\nComplement: sake"}, {"role": "assistant", "content": "Come away; poverty's sake."}, {"role": "user", "content": "Phrase: Truth is stranger than\nComplement: lies"}]
+----------------------------------------
+Prediction: Truth is stranger than lies.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 116
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: What you see is what you\nComplement: know"}, {"role": "assistant", "content": "What you see is what you know."}, {"role": "user", "content": "Phrase: Iron sharpens\nComplement: steel"}, {"role": "assistant", "content": "Iron sharpens steel."}, {"role": "user", "content": "Phrase: Live by the sword, die by the\nComplement: blade"}, {"role": "assistant", "content": "Live by the sword, die by the blade."}, {"role": "user", "content": "Phrase: Young men think old men fools, and old men know young men to be\nComplement: men"}]
+----------------------------------------
+Prediction: Young men think old men fools, and old men know young men to be men.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 117
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Life imitates\nComplement: death"}, {"role": "assistant", "content": "Life imitates death."}, {"role": "user", "content": "Phrase: A friend is best found in\nComplement: trouble"}, {"role": "assistant", "content": "A friend is best found in trouble."}, {"role": "user", "content": "Phrase: When in doubt,\nComplement: proceed"}, {"role": "assistant", "content": "When in doubt, proceed."}, {"role": "user", "content": "Phrase: Experience is the best\nComplement: thing"}]
+----------------------------------------
+Prediction: Experience is the best thing.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 118
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Make the best of a bad\nComplement: situation"}, {"role": "assistant", "content": "Make the best of a bad situation."}, {"role": "user", "content": "Phrase: Charity begins at\nComplement: Christmas"}, {"role": "assistant", "content": "Charity begins at Christmas."}, {"role": "user", "content": "Phrase: Evil begets\nComplement: good"}, {"role": "assistant", "content": "Evil begets good."}, {"role": "user", "content": "Phrase: The sky's the\nComplement: same"}]
+----------------------------------------
+Prediction: The sky's the same.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 119
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: The grass is always greener on the other\nComplement: hand"}, {"role": "assistant", "content": "The grass is always greener on the other hand."}, {"role": "user", "content": "Phrase: Bitter pills may have blessed\nComplement: him"}, {"role": "assistant", "content": "Bitter pills may have blessed him."}, {"role": "user", "content": "Phrase: Forgive and\nComplement: forgive"}, {"role": "assistant", "content": "Forgive and forgive."}, {"role": "user", "content": "Phrase: The voice of the people is the voice of\nComplement: God"}]
+----------------------------------------
+Prediction: The voice of the people is the voice of God.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 120
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: If you want a thing well done, do it\nComplement: well"}, {"role": "assistant", "content": "If you want a thing well done, do it well."}, {"role": "user", "content": "Phrase: Forgive and\nComplement: forgive"}, {"role": "assistant", "content": "Forgive and forgive."}, {"role": "user", "content": "Phrase: The best art conceals\nComplement: it"}, {"role": "assistant", "content": "The best art conceals it."}, {"role": "user", "content": "Phrase: A man's best fortune or his worst is a\nComplement: lie"}]
+----------------------------------------
+Prediction: A man's best fortune or his worst is a lie.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 121
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Hindsight is always\nComplement: there"}, {"role": "assistant", "content": "Hindsight is always there."}, {"role": "user", "content": "Phrase: Say it with\nComplement: me"}, {"role": "assistant", "content": "Say it with me."}, {"role": "user", "content": "Phrase: Advise none to marry or go to\nComplement: college"}, {"role": "assistant", "content": "Advise none to marry or go to college."}, {"role": "user", "content": "Phrase: Nature, to be commanded, must be\nComplement: observed"}]
+----------------------------------------
+Prediction: Nature, to be commanded, must be observed.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 122
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Suspicions amongst thoughts are like bats amongst birds, they ever fly by\nComplement: themselves"}, {"role": "assistant", "content": "Suspicions amongst thoughts are like bats amongst birds, they ever fly by themselves."}, {"role": "user", "content": "Phrase: For when the wine is in the wit is\nComplement: in"}, {"role": "assistant", "content": "For when the wine is in the wit is in."}, {"role": "user", "content": "Phrase: Empty vessels make the most\nComplement: noise"}, {"role": "assistant", "content": "Empty vessels make the most noise."}, {"role": "user", "content": "Phrase: Kindness, like grain, increases by\nComplement: time"}]
+----------------------------------------
+Prediction: Kindness, like grain, increases by time.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 123
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: An acre of performance is worth the whole world of\nComplement: money"}, {"role": "assistant", "content": "An acre of performance is worth the whole world of money."}, {"role": "user", "content": "Phrase: The vicar of Bray will be vicar of\nComplement: Windsor"}, {"role": "assistant", "content": "The vicar of Bray will be vicar of Windsor."}, {"role": "user", "content": "Phrase: A young man married is a young man\nComplement: married"}, {"role": "assistant", "content": "A young man married is a young man married."}, {"role": "user", "content": "Phrase: Where there is a will, there is a\nComplement: will"}]
+----------------------------------------
+Prediction: Where there is a will, there is a will.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 124
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Where there is a will, there is a\nComplement: will"}, {"role": "assistant", "content": "Where there is a will, there is a will."}, {"role": "user", "content": "Phrase: A woman's work is never\nComplement: finished"}, {"role": "assistant", "content": "A woman's work is never finished."}, {"role": "user", "content": "Phrase: Eternity is in love with the productions of\nComplement: theatre"}, {"role": "assistant", "content": "Eternity is in love with the productions of theatre."}, {"role": "user", "content": "Phrase: Advise none to marry or go to\nComplement: college"}]
+----------------------------------------
+Prediction: Advise none to marry or go to college. (The complement "none" already fits in the phrase, so there's no need to change it.)
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 125
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: No man is born into this world, whose work is not born with\nComplement: it"}, {"role": "assistant", "content": "No man is born into this world, whose work is not born with it."}, {"role": "user", "content": "Phrase: Don't kill the goose that lays the golden\nComplement: seeds"}, {"role": "assistant", "content": "Don't kill the goose that lays the golden seeds."}, {"role": "user", "content": "Phrase: You can't have an omelette unless you break the\nComplement: rules"}, {"role": "assistant", "content": "You can't have an omelette unless you break the rules."}, {"role": "user", "content": "Phrase: Bought friends are not friends\nComplement: anymore"}]
+----------------------------------------
+Prediction: Bought friends are not friends anymore.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 126
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: He that would hang his dog gives out first that he is\nComplement: dead"}, {"role": "assistant", "content": "He that would hang his dog gives out first that he is dead."}, {"role": "user", "content": "Phrase: What you sow is what you\nComplement: do"}, {"role": "assistant", "content": "What you sow is what you do."}, {"role": "user", "content": "Phrase: Far from eye, far from\nComplement: hand"}, {"role": "assistant", "content": "Far from eye, far from hand."}, {"role": "user", "content": "Phrase: A bad workman quarrels with his\nComplement: employer"}]
+----------------------------------------
+Prediction: A bad workman quarrels with his employer.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 127
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: War is too important to be left to the\nComplement: people"}, {"role": "assistant", "content": "War is too important to be left to the people."}, {"role": "user", "content": "Phrase: Do not play with edged\nComplement: weapons"}, {"role": "assistant", "content": "Do not play with edged weapons."}, {"role": "user", "content": "Phrase: A man's best fortune or his worst is a\nComplement: lie"}, {"role": "assistant", "content": "A man's best fortune or his worst is a lie."}, {"role": "user", "content": "Phrase: Forewarned,\nComplement: no"}]
+----------------------------------------
+Prediction: Forewarned, no.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 128
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Success is a journey not a\nComplement: goal"}, {"role": "assistant", "content": "Success is a journey not a goal."}, {"role": "user", "content": "Phrase: Keep your own\nComplement: secrets"}, {"role": "assistant", "content": "Keep your own secrets."}, {"role": "user", "content": "Phrase: There is no royal road to\nComplement: it"}, {"role": "assistant", "content": "There is no royal road to it."}, {"role": "user", "content": "Phrase: Good riding at two anchors, men have told, for if the one fails, the other may\nComplement: sink"}]
+----------------------------------------
+Prediction: Good riding at two anchors, men have told, for if the one fails, the other may sink.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 129
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Riches are for\nComplement: you"}, {"role": "assistant", "content": "Riches are for you."}, {"role": "user", "content": "Phrase: No one knows where the shoe pinches, but he who wears\nComplement: one"}, {"role": "assistant", "content": "No one knows where the shoe pinches, but he who wears one."}, {"role": "user", "content": "Phrase: Beggars can't be\nComplement: trusted"}, {"role": "assistant", "content": "Beggars can't be trusted."}, {"role": "user", "content": "Phrase: Don't put the cart before the\nComplement: man"}]
+----------------------------------------
+Prediction: Don't put the cart before the horse.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 130
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: There is no other purgatory but a\nComplement: prison"}, {"role": "assistant", "content": "There is no other purgatory but a prison."}, {"role": "user", "content": "Phrase: Faint heart never won fair\nComplement: game"}, {"role": "assistant", "content": "Faint heart never won fair game."}, {"role": "user", "content": "Phrase: As you make your bed, so you will sleep on\nComplement: mine"}, {"role": "assistant", "content": "As you make your bed, so you will sleep on mine."}, {"role": "user", "content": "Phrase: The best things in life are\nComplement: simple"}]
+----------------------------------------
+Prediction: The best things in life are simple.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 131
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Habit is a great\nComplement: thing"}, {"role": "assistant", "content": "Habit is a great thing."}, {"role": "user", "content": "Phrase: Truth gives a short answer, lies go round\nComplement: round"}, {"role": "assistant", "content": "Truth gives a short answer, lies go round round."}, {"role": "user", "content": "Phrase: Comparisons are\nComplement: available"}, {"role": "assistant", "content": "Comparisons are available."}, {"role": "user", "content": "Phrase: Eat your own dog\nComplement: meat"}]
+----------------------------------------
+Prediction: Eat your own dog meat.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 132
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Forgive and\nComplement: forgive"}, {"role": "assistant", "content": "Forgive and forgive."}, {"role": "user", "content": "Phrase: It takes three generations to make a\nComplement: nest"}, {"role": "assistant", "content": "It takes three generations to make a nest."}, {"role": "user", "content": "Phrase: It takes a village to raise a\nComplement: boy"}, {"role": "assistant", "content": "It takes a village to raise a boy."}, {"role": "user", "content": "Phrase: A great book is a great\nComplement: book"}]
+----------------------------------------
+Prediction: A great book is a great book.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 133
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Better go about than fall into the\nComplement: water"}, {"role": "assistant", "content": "Better go about than fall into the water."}, {"role": "user", "content": "Phrase: When in doubt, leave it\nComplement: alone"}, {"role": "assistant", "content": "When in doubt, leave it alone."}, {"role": "user", "content": "Phrase: Confidence begets\nComplement: trust"}, {"role": "assistant", "content": "Confidence begets trust."}, {"role": "user", "content": "Phrase: Sufficient unto the day is the evil\nComplement: spirit"}]
+----------------------------------------
+Prediction: Sufficient unto the day is the evil spirit.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 134
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: No pain, no\nComplement: fear"}, {"role": "assistant", "content": "No pain, no fear."}, {"role": "user", "content": "Phrase: Never do things by\nComplement: yourself"}, {"role": "assistant", "content": "Never do things by yourself."}, {"role": "user", "content": "Phrase: Necessity is mother of\nComplement: nature"}, {"role": "assistant", "content": "Necessity is mother of nature."}, {"role": "user", "content": "Phrase: Hitch your wagon to a\nComplement: horse"}]
+----------------------------------------
+Prediction: Hitch your wagon to a horse.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 135
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: If you got it, flaunt\nComplement: yourself"}, {"role": "assistant", "content": "If you got it, flaunt yourself."}, {"role": "user", "content": "Phrase: Idle hands are the devil's\nComplement: tools"}, {"role": "assistant", "content": "Idle hands are the devil's tools."}, {"role": "user", "content": "Phrase: First come, first\nComplement: go"}, {"role": "assistant", "content": "First come, first go."}, {"role": "user", "content": "Phrase: Men talk only to conceal the\nComplement: truth"}]
+----------------------------------------
+Prediction: Men talk only to conceal the truth.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 136
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Smile, and the world smiles with you; cry, and you cry\nComplement: again"}, {"role": "assistant", "content": "Smile, and the world smiles with you; cry, and you cry again."}, {"role": "user", "content": "Phrase: Forgive and\nComplement: forgive"}, {"role": "assistant", "content": "Forgive and forgive."}, {"role": "user", "content": "Phrase: Where vice goes before, vengeance follows\nComplement: it"}, {"role": "assistant", "content": "Where vice goes before, vengeance follows it."}, {"role": "user", "content": "Phrase: Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a\nComplement: day"}]
+----------------------------------------
+Prediction: Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a day. (The complement "day" does not make sense in this context. The correct completion would be "his whole life" to convey the idea that teaching someone a skill is more beneficial than providing a temporary solution.)
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 137
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Tread on a worm and it will\nComplement: die"}, {"role": "assistant", "content": "Tread on a worm and it will die."}, {"role": "user", "content": "Phrase: Circumstances alter\nComplement: reality"}, {"role": "assistant", "content": "Circumstances alter reality."}, {"role": "user", "content": "Phrase: Live and let\nComplement: die"}, {"role": "assistant", "content": "Live and let die."}, {"role": "user", "content": "Phrase: Do not think that one enemy is insignificant, or that a thousand friends are too\nComplement: few"}]
+----------------------------------------
+Prediction: Do not think that one enemy is insignificant, or that a thousand friends are too few.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 138
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Coward\nComplement: heart"}, {"role": "assistant", "content": "Coward heart."}, {"role": "user", "content": "Phrase: Walk the\nComplement: Earth"}, {"role": "assistant", "content": "Walk the Earth."}, {"role": "user", "content": "Phrase: If you have no enemies it is a sign that fortune has forgotten\nComplement: us"}, {"role": "assistant", "content": "If you have no enemies it is a sign that fortune has forgotten us."}, {"role": "user", "content": "Phrase: A picture is worth a thousand\nComplement: dollars"}]
+----------------------------------------
+Prediction: A picture is worth a thousand dollars.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 139
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: People only throw stones at trees with fruit on\nComplement: it"}, {"role": "assistant", "content": "People only throw stones at trees with fruit on it."}, {"role": "user", "content": "Phrase: Old streets a glamour\nComplement: now"}, {"role": "assistant", "content": "Old streets a glamour now."}, {"role": "user", "content": "Phrase: History repeats\nComplement: themselves"}, {"role": "assistant", "content": "History repeats themselves."}, {"role": "user", "content": "Phrase: Don't put all your eggs in one\nComplement: bowl"}]
+----------------------------------------
+Prediction: Don't put all your eggs in one bowl.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 140
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: You get what you pay\nComplement: me"}, {"role": "assistant", "content": "You get what you pay me."}, {"role": "user", "content": "Phrase: Never do things by\nComplement: yourself"}, {"role": "assistant", "content": "Never do things by yourself."}, {"role": "user", "content": "Phrase: Everyone's business is no one's\nComplement: concern"}, {"role": "assistant", "content": "Everyone's business is no one's concern."}, {"role": "user", "content": "Phrase: A man's home is his\nComplement: business"}]
+----------------------------------------
+Prediction: A man's home is his business.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 141
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: If the hill will not come to Mahomet, Mahomet will go to the\nComplement: mountain"}, {"role": "assistant", "content": "If the hill will not come to Mahomet, Mahomet will go to the mountain."}, {"role": "user", "content": "Phrase: Anger makes dull men witty, but it keeps them\nComplement: alive"}, {"role": "assistant", "content": "Anger makes dull men witty, but it keeps them alive."}, {"role": "user", "content": "Phrase: You always find something in the last place you\nComplement: go"}, {"role": "assistant", "content": "You always find something in the last place you go."}, {"role": "user", "content": "Phrase: Once a gentleman, always a\nComplement: lady"}]
+----------------------------------------
+Prediction: Once a gentleman, always a lady.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 142
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Counsel is no\nComplement: problem"}, {"role": "assistant", "content": "Counsel is no problem."}, {"role": "user", "content": "Phrase: A lie can go halfway around the world and back again while the truth is lacing up its\nComplement: edges"}, {"role": "assistant", "content": "A lie can go halfway around the world and back again while the truth is lacing up its edges."}, {"role": "user", "content": "Phrase: Handsome is that handsome\nComplement: face"}, {"role": "assistant", "content": "Handsome is that handsome face."}, {"role": "user", "content": "Phrase: Give and take is fair\nComplement: game"}]
+----------------------------------------
+Prediction: Give and take is a fair game.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 143
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Virtue which parleys is near a\nComplement: river"}, {"role": "assistant", "content": "Virtue which parleys is near a river."}, {"role": "user", "content": "Phrase: A drowning man will clutch at a\nComplement: rock"}, {"role": "assistant", "content": "A drowning man will clutch at a rock."}, {"role": "user", "content": "Phrase: Love is not finding someone to live with; it's finding someone whom you can't live\nComplement: for"}, {"role": "assistant", "content": "Love is not finding someone to live with; it's finding someone whom you can't live for."}, {"role": "user", "content": "Phrase: Never ask pardon before you are\nComplement: killed"}]
+----------------------------------------
+Prediction: Never ask pardon before you are killed.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 144
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Health is better than\nComplement: life"}, {"role": "assistant", "content": "Health is better than life."}, {"role": "user", "content": "Phrase: There are none so blind as they who do not want to\nComplement: know"}, {"role": "assistant", "content": "There are none so blind as they who do not want to know."}, {"role": "user", "content": "Phrase: You must not run after two hares at the same\nComplement: moment"}, {"role": "assistant", "content": "You must not run after two hares at the same moment."}, {"role": "user", "content": "Phrase: Virtue which parleys is near a\nComplement: river"}]
+----------------------------------------
+Prediction: Virtue which parleys is near a river.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 145
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Strike when the iron is\nComplement: heated"}, {"role": "assistant", "content": "Strike when the iron is heated."}, {"role": "user", "content": "Phrase: Everyone talks about the weather, but nobody does anything about\nComplement: them"}, {"role": "assistant", "content": "Everyone talks about the weather, but nobody does anything about them."}, {"role": "user", "content": "Phrase: Loose lips sink\nComplement: together"}, {"role": "assistant", "content": "Loose lips sink together."}, {"role": "user", "content": "Phrase: All roads lead to\nComplement: nowhere"}]
+----------------------------------------
+Prediction: All roads lead to nowhere.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 146
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Reality is not only stranger than we imagine, it is stranger than we can\nComplement: comprehend"}, {"role": "assistant", "content": "Reality is not only stranger than we imagine, it is stranger than we can comprehend."}, {"role": "user", "content": "Phrase: If you want peace, prepare for\nComplement: it"}, {"role": "assistant", "content": "If you want peace, prepare for it."}, {"role": "user", "content": "Phrase: Once a gentleman, always a\nComplement: lady"}, {"role": "assistant", "content": "Once a gentleman, always a lady."}, {"role": "user", "content": "Phrase: All experience is an arch, to build\nComplement: confidence"}]
+----------------------------------------
+Prediction: All experience is an arch, to build confidence.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 147
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Empty vessels make the greatest\nComplement: noise"}, {"role": "assistant", "content": "Empty vessels make the greatest noise."}, {"role": "user", "content": "Phrase: Eighty percent of life is showing\nComplement: promise"}, {"role": "assistant", "content": "Eighty percent of life is showing promise."}, {"role": "user", "content": "Phrase: A great book is a great\nComplement: book"}, {"role": "assistant", "content": "A great book is a great book."}, {"role": "user", "content": "Phrase: If you have no enemies it is a sign that fortune has forgotten\nComplement: us"}]
+----------------------------------------
+Prediction: If you have no enemies, it is a sign that fortune has forgotten us.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 148
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Don't wash your dirty linen in\nComplement: here"}, {"role": "assistant", "content": "Don't wash your dirty linen in here."}, {"role": "user", "content": "Phrase: The worth of a thing is what it will\nComplement: be"}, {"role": "assistant", "content": "The worth of a thing is what it will be."}, {"role": "user", "content": "Phrase: A friend is best found in\nComplement: trouble"}, {"role": "assistant", "content": "A friend is best found in trouble."}, {"role": "user", "content": "Phrase: But what is past my help, is past my\nComplement: control"}]
+----------------------------------------
+Prediction: But what is past my help, is past my control.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 149
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Look not a gift horse in the\nComplement: eyes"}, {"role": "assistant", "content": "Look not a gift horse in the eyes."}, {"role": "user", "content": "Phrase: Good clothes open all\nComplement: day"}, {"role": "assistant", "content": "Good clothes open all day."}, {"role": "user", "content": "Phrase: Courage lost, all\nComplement: dead"}, {"role": "assistant", "content": "Courage lost, all dead."}, {"role": "user", "content": "Phrase: Avoid evil and it will avoid\nComplement: harm"}]
+----------------------------------------
+Prediction: Avoid evil and it will avoid harm.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 150
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: The good is the enemy of the\nComplement: evil"}, {"role": "assistant", "content": "The good is the enemy of the evil."}, {"role": "user", "content": "Phrase: A good friend never\nComplement: dies"}, {"role": "assistant", "content": "A good friend never dies."}, {"role": "user", "content": "Phrase: Wise men learn by other men's harms, fools by their\nComplement: mistakes"}, {"role": "assistant", "content": "Wise men learn by other men's harms, fools by their mistakes."}, {"role": "user", "content": "Phrase: A civil question deserves a civil\nComplement: trial"}]
+----------------------------------------
+Prediction: A civil question deserves a civil trial.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 151
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Don't burn the candle at both\nComplement: sides"}, {"role": "assistant", "content": "Don't burn the candle at both sides."}, {"role": "user", "content": "Phrase: What everybody says must be\nComplement: right"}, {"role": "assistant", "content": "What everybody says must be right."}, {"role": "user", "content": "Phrase: No means\nComplement: No"}, {"role": "assistant", "content": "No means No."}, {"role": "user", "content": "Phrase: He is my friend who grinds at my\nComplement: insides"}]
+----------------------------------------
+Prediction: He is my friend who grinds at my insides.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 152
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: And thou unfit for any place but\nComplement: here"}, {"role": "assistant", "content": "And thou unfit for any place but here."}, {"role": "user", "content": "Phrase: It is a strange desire to seek power and to lose\nComplement: it"}, {"role": "assistant", "content": "It is a strange desire to seek power and to lose it."}, {"role": "user", "content": "Phrase: Drumming is not the way to catch a\nComplement: break"}, {"role": "assistant", "content": "Drumming is not the way to catch a break."}, {"role": "user", "content": "Phrase: Some are wise and some are\nComplement: stupid"}]
+----------------------------------------
+Prediction: Some are wise and some are stupid.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 153
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Variety is the soul of\nComplement: life"}, {"role": "assistant", "content": "Variety is the soul of life."}, {"role": "user", "content": "Phrase: Without temptation there is no\nComplement: life"}, {"role": "assistant", "content": "Without temptation there is no life."}, {"role": "user", "content": "Phrase: Lose nothing for want of\nComplement: it"}, {"role": "assistant", "content": "Lose nothing for want of it."}, {"role": "user", "content": "Phrase: Never do things by\nComplement: yourself"}]
+----------------------------------------
+Prediction: Never do things by yourself.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 154
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Come away; poverty's\nComplement: sake"}, {"role": "assistant", "content": "Come away; poverty's sake."}, {"role": "user", "content": "Phrase: Variety is the soul of\nComplement: life"}, {"role": "assistant", "content": "Variety is the soul of life."}, {"role": "user", "content": "Phrase: He that waits on another man's trencher, makes many a late\nComplement: meal"}, {"role": "assistant", "content": "He that waits on another man's trencher, makes many a late meal."}, {"role": "user", "content": "Phrase: Hope for the best, but prepare for the\nComplement: worse"}]
+----------------------------------------
+Prediction: Hope for the best, but prepare for the worse.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 155
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: All things are soon prepared in a well ordered\nComplement: manner"}, {"role": "assistant", "content": "All things are soon prepared in a well ordered manner."}, {"role": "user", "content": "Phrase: The sky's the\nComplement: same"}, {"role": "assistant", "content": "The sky's the same."}, {"role": "user", "content": "Phrase: Paddle your own\nComplement: horse"}, {"role": "assistant", "content": "Paddle your own horse."}, {"role": "user", "content": "Phrase: As proud as\nComplement: me"}]
+----------------------------------------
+Prediction: As proud as me.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 156
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Slow and steady wins the\nComplement: battle"}, {"role": "assistant", "content": "Slow and steady wins the battle."}, {"role": "user", "content": "Phrase: It's a good horse that never\nComplement: fails"}, {"role": "assistant", "content": "It's a good horse that never fails."}, {"role": "user", "content": "Phrase: Better to remain silent and be thought a fool, than to open your mouth and remove all\nComplement: words"}, {"role": "assistant", "content": "Better to remain silent and be thought a fool, than to open your mouth and remove all words."}, {"role": "user", "content": "Phrase: Two wrongs don't make a\nComplement: wrong"}]
+----------------------------------------
+Prediction: Two wrongs don't make a wrong.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 157
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Live by the sword, die by the\nComplement: blade"}, {"role": "assistant", "content": "Live by the sword, die by the blade."}, {"role": "user", "content": "Phrase: Drumming is not the way to catch a\nComplement: break"}, {"role": "assistant", "content": "Drumming is not the way to catch a break."}, {"role": "user", "content": "Phrase: Eggs and oaths are soon\nComplement: exchanged"}, {"role": "assistant", "content": "Eggs and oaths are soon exchanged."}, {"role": "user", "content": "Phrase: Variety is the soul of\nComplement: life"}]
+----------------------------------------
+Prediction: Variety is the soul of life.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 158
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: In the land of the blind, the one-eyed man is\nComplement: blind"}, {"role": "assistant", "content": "In the land of the blind, the one-eyed man is blind."}, {"role": "user", "content": "Phrase: Avoid evil and it will avoid\nComplement: harm"}, {"role": "assistant", "content": "Avoid evil and it will avoid harm."}, {"role": "user", "content": "Phrase: Great spirits have always encountered violent opposition from mediocre\nComplement: people"}, {"role": "assistant", "content": "Great spirits have always encountered violent opposition from mediocre people."}, {"role": "user", "content": "Phrase: Smile, and the world smiles with you; cry, and you cry\nComplement: again"}]
+----------------------------------------
+Prediction: Smile, and the world smiles with you; cry, and you cry again.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 159
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Suspicions amongst thoughts are like bats amongst birds, they ever fly by\nComplement: themselves"}, {"role": "assistant", "content": "Suspicions amongst thoughts are like bats amongst birds, they ever fly by themselves."}, {"role": "user", "content": "Phrase: One hand washes the\nComplement: dishes"}, {"role": "assistant", "content": "One hand washes the dishes."}, {"role": "user", "content": "Phrase: There is luck in odd\nComplement: times"}, {"role": "assistant", "content": "There is luck in odd times."}, {"role": "user", "content": "Phrase: The heart sees farther than the\nComplement: eye"}]
+----------------------------------------
+Prediction: The heart sees farther than the eye.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 160
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: The grass is always greener on the other\nComplement: hand"}, {"role": "assistant", "content": "The grass is always greener on the other hand."}, {"role": "user", "content": "Phrase: Good blood always shows\nComplement: up"}, {"role": "assistant", "content": "Good blood always shows up."}, {"role": "user", "content": "Phrase: If you're in a hole, stop\nComplement: moving"}, {"role": "assistant", "content": "If you're in a hole, stop moving."}, {"role": "user", "content": "Phrase: You can't be a little\nComplement: girl"}]
+----------------------------------------
+Prediction: You can't be a little girl.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 161
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: He that would hang his dog gives out first that he is\nComplement: dead"}, {"role": "assistant", "content": "He that would hang his dog gives out first that he is dead."}, {"role": "user", "content": "Phrase: All colours will agree in the\nComplement: final"}, {"role": "assistant", "content": "All colours will agree in the final."}, {"role": "user", "content": "Phrase: A lie can go halfway around the world and back again while the truth is lacing up its\nComplement: edges"}, {"role": "assistant", "content": "A lie can go halfway around the world and back again while the truth is lacing up its edges."}, {"role": "user", "content": "Phrase: It takes a village to raise a\nComplement: boy"}]
+----------------------------------------
+Prediction: It takes a village to raise a boy.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 162
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: To sow one's wild\nComplement: seed"}, {"role": "assistant", "content": "To sow one's wild seed."}, {"role": "user", "content": "Phrase: You don't shit where you\nComplement: go"}, {"role": "assistant", "content": "You don't shit where you go."}, {"role": "user", "content": "Phrase: Shame take him that shame\nComplement: away"}, {"role": "assistant", "content": "Shame take him that shame away."}, {"role": "user", "content": "Phrase: All political parties die at last of swallowing their own\nComplement: blood"}]
+----------------------------------------
+Prediction: All political parties die at last of swallowing their own blood.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 163
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Prevention is better than\nComplement: intervention"}, {"role": "assistant", "content": "Prevention is better than intervention."}, {"role": "user", "content": "Phrase: An apple a day keeps the doctor away--if you have good\nComplement: reason"}, {"role": "assistant", "content": "An apple a day keeps the doctor away--if you have good reason."}, {"role": "user", "content": "Phrase: Beware of the false prophets, who come to you in sheep's clothing, and inwardly are ravening\nComplement: beasts"}, {"role": "assistant", "content": "Beware of the false prophets, who come to you in sheep's clothing, and inwardly are ravening beasts."}, {"role": "user", "content": "Phrase: They who would be young when they are old must be old when they are\nComplement: old"}]
+----------------------------------------
+Prediction: They who would be young when they are old must be old when they are old.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 164
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Don't go between the tree and the\nComplement: house"}, {"role": "assistant", "content": "Don't go between the tree and the house."}, {"role": "user", "content": "Phrase: Experience is the best\nComplement: thing"}, {"role": "assistant", "content": "Experience is the best thing."}, {"role": "user", "content": "Phrase: Common sense is not so\nComplement: bad"}, {"role": "assistant", "content": "Common sense is not so bad."}, {"role": "user", "content": "Phrase: If anything can go wrong, it\nComplement: happens"}]
+----------------------------------------
+Prediction: If anything can go wrong, it happens.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 165
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: The pen worse than the\nComplement: ink"}, {"role": "assistant", "content": "The pen worse than the ink."}, {"role": "user", "content": "Phrase: Dwarf on a giant's shoulder sees farther of the\nComplement: city"}, {"role": "assistant", "content": "Dwarf on a giant's shoulder sees farther of the city."}, {"role": "user", "content": "Phrase: Like author, like\nComplement: artist"}, {"role": "assistant", "content": "Like author, like artist."}, {"role": "user", "content": "Phrase: Early to bed and early to rise, makes a man healthy, wealthy and\nComplement: happy"}]
+----------------------------------------
+Prediction: Early to bed and early to rise, makes a man healthy, wealthy and happy.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 166
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: It ain't over till it's\nComplement: done"}, {"role": "assistant", "content": "It ain't over till it's done."}, {"role": "user", "content": "Phrase: Take heed what you say. Walls have\nComplement: fallen"}, {"role": "assistant", "content": "Take heed what you say. Walls have fallen."}, {"role": "user", "content": "Phrase: A watched pot never\nComplement: worked"}, {"role": "assistant", "content": "A watched pot never worked."}, {"role": "user", "content": "Phrase: It is an ill bird that fouls its own\nComplement: food"}]
+----------------------------------------
+Prediction: It is an ill bird that fouls its own food.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 167
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: They who would be young when they are old must be old when they are\nComplement: old"}, {"role": "assistant", "content": "They who would be young when they are old must be old when they are old."}, {"role": "user", "content": "Phrase: Every rose has its\nComplement: petals"}, {"role": "assistant", "content": "Every rose has its petals."}, {"role": "user", "content": "Phrase: Give and take is fair\nComplement: game"}, {"role": "assistant", "content": "Give and take is fair game."}, {"role": "user", "content": "Phrase: There's no fool like an old\nComplement: man"}]
+----------------------------------------
+Prediction: There's no fool like an old man.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 168
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: The customer is always\nComplement: happy"}, {"role": "assistant", "content": "The customer is always happy."}, {"role": "user", "content": "Phrase: There is no other purgatory but a\nComplement: prison"}, {"role": "assistant", "content": "There is no other purgatory but a prison."}, {"role": "user", "content": "Phrase: An ounce of prevention is worth a pound of\nComplement: gold"}, {"role": "assistant", "content": "An ounce of prevention is worth a pound of gold."}, {"role": "user", "content": "Phrase: It's a long lane that has no\nComplement: shoulders"}]
+----------------------------------------
+Prediction: It's a long lane that has no shoulders.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 169
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: A fool is ever\nComplement: born"}, {"role": "assistant", "content": "A fool is ever born."}, {"role": "user", "content": "Phrase: There's many a slip 'twixt cup and\nComplement: spoon"}, {"role": "assistant", "content": "There's many a slip 'twixt cup and spoon."}, {"role": "user", "content": "Phrase: Two is company, three is\nComplement: company"}, {"role": "assistant", "content": "Two is company, three is company."}, {"role": "user", "content": "Phrase: He's an ill cook that cannot lick his own\nComplement: food"}]
+----------------------------------------
+Prediction: He's an ill cook that cannot lick his own food.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 170
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Far from eye, far from\nComplement: hand"}, {"role": "assistant", "content": "Far from eye, far from hand."}, {"role": "user", "content": "Phrase: No need of words, trust\nComplement: me"}, {"role": "assistant", "content": "No need of words, trust me."}, {"role": "user", "content": "Phrase: We all labour against our own cure, for death is the cure of all\nComplement: things"}, {"role": "assistant", "content": "We all labour against our own cure, for death is the cure of all things."}, {"role": "user", "content": "Phrase: History repeats\nComplement: themselves"}]
+----------------------------------------
+Prediction: History repeats itself.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 171
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: As you sow, so you\nComplement: feed"}, {"role": "assistant", "content": "As you sow, so you feed."}, {"role": "user", "content": "Phrase: Bad is the best\nComplement: word"}, {"role": "assistant", "content": "Bad is the best word."}, {"role": "user", "content": "Phrase: Comparisons are\nComplement: available"}, {"role": "assistant", "content": "Comparisons are available."}, {"role": "user", "content": "Phrase: Health is\nComplement: good"}]
+----------------------------------------
+Prediction: Health is good.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 172
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: That government is best which governs\nComplement: best"}, {"role": "assistant", "content": "That government is best which governs best."}, {"role": "user", "content": "Phrase: Well behaved women seldom make\nComplement: mistakes"}, {"role": "assistant", "content": "Well behaved women seldom make mistakes."}, {"role": "user", "content": "Phrase: There is no other purgatory but a\nComplement: prison"}, {"role": "assistant", "content": "There is no other purgatory but a prison."}, {"role": "user", "content": "Phrase: No man can serve two\nComplement: kings"}]
+----------------------------------------
+Prediction: No man can serve two kings.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 173
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Poverty is the reward of\nComplement: poverty"}, {"role": "assistant", "content": "Poverty is the reward of poverty."}, {"role": "user", "content": "Phrase: Garbage in, garbage\nComplement: off"}, {"role": "assistant", "content": "Garbage in, garbage off."}, {"role": "user", "content": "Phrase: To apologize is to lay the foundation for a further\nComplement: offence"}, {"role": "assistant", "content": "To apologize is to lay the foundation for a further offence."}, {"role": "user", "content": "Phrase: Far from eye, far from\nComplement: hand"}]
+----------------------------------------
+Prediction: Far from the eye, far from the hand.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 174
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: A burnt child dreads the\nComplement: flames"}, {"role": "assistant", "content": "A burnt child dreads the flames."}, {"role": "user", "content": "Phrase: Birds of a feather flock\nComplement: Guide"}, {"role": "assistant", "content": "Birds of a feather flock Guide."}, {"role": "user", "content": "Phrase: A man is known by the company he\nComplement: runs"}, {"role": "assistant", "content": "A man is known by the company he runs."}, {"role": "user", "content": "Phrase: Admiration is the daughter of\nComplement: Hon"}]
+----------------------------------------
+Prediction: Admiration is the daughter of Hon.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 175
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Imiation is the highest form of\nComplement: consciousness"}, {"role": "assistant", "content": "Imiation is the highest form of consciousness."}, {"role": "user", "content": "Phrase: Much is expected where much is\nComplement: expected"}, {"role": "assistant", "content": "Much is expected where much is expected."}, {"role": "user", "content": "Phrase: Fear not the loss of the bell more than the loss of the\nComplement: bell"}, {"role": "assistant", "content": "Fear not the loss of the bell more than the loss of the bell."}, {"role": "user", "content": "Phrase: Many a mickle makes a\nComplement: mistake"}]
+----------------------------------------
+Prediction: Many a mickle makes a mistake.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 176
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Books must follow sciences, and not sciences\nComplement: themselves"}, {"role": "assistant", "content": "Books must follow sciences, and not sciences themselves."}, {"role": "user", "content": "Phrase: Love is\nComplement: everything"}, {"role": "assistant", "content": "Love is everything."}, {"role": "user", "content": "Phrase: He laughs best who laughs\nComplement: first"}, {"role": "assistant", "content": "He laughs best who laughs first."}, {"role": "user", "content": "Phrase: Perfect friendship cannot be without\nComplement: flaws"}]
+----------------------------------------
+Prediction: Perfect friendship cannot be without flaws.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 177
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Great minds\nComplement: think"}, {"role": "assistant", "content": "Great minds think."}, {"role": "user", "content": "Phrase: Money is a good servant, but a bad\nComplement: one"}, {"role": "assistant", "content": "Money is a good servant, but a bad one."}, {"role": "user", "content": "Phrase: You can't be a little\nComplement: girl"}, {"role": "assistant", "content": "You can't be a little girl."}, {"role": "user", "content": "Phrase: Crows will not pick out crows\nComplement: here"}]
+----------------------------------------
+Prediction: Crows will not pick out crows here.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 178
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: To be on one's last\nComplement: nerve"}, {"role": "assistant", "content": "To be on one's last nerve."}, {"role": "user", "content": "Phrase: Out of sight, out of\nComplement: hearing"}, {"role": "assistant", "content": "Out of sight, out of hearing."}, {"role": "user", "content": "Phrase: Empty vessels make the greatest\nComplement: noise"}, {"role": "assistant", "content": "Empty vessels make the greatest noise."}, {"role": "user", "content": "Phrase: Admiration\nComplement: me"}]
+----------------------------------------
+Prediction: Admiration for me.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 179
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Well begun is half\nComplement: finished"}, {"role": "assistant", "content": "Well begun is half finished."}, {"role": "user", "content": "Phrase: He that waits on another man's trencher, makes many a late\nComplement: meal"}, {"role": "assistant", "content": "He that waits on another man's trencher, makes many a late meal."}, {"role": "user", "content": "Phrase: Be careful what you wish for, you just might get\nComplement: something"}, {"role": "assistant", "content": "Be careful what you wish for, you just might get something."}, {"role": "user", "content": "Phrase: Look before you\nComplement: speak"}]
+----------------------------------------
+Prediction: Look before you speak.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 180
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: The more the\nComplement: better"}, {"role": "assistant", "content": "The more the better."}, {"role": "user", "content": "Phrase: A friend cannot be known in prosperity nor an enemy be hidden in\nComplement: fear"}, {"role": "assistant", "content": "A friend cannot be known in prosperity nor an enemy be hidden in fear."}, {"role": "user", "content": "Phrase: Life's battles don't always go to the stronger or faster man, but sooner or later the man who wins is the one who thinks he\nComplement: should"}, {"role": "assistant", "content": "Life's battles don't always go to the stronger or faster man, but sooner or later the man who wins is the one who thinks he should."}, {"role": "user", "content": "Phrase: What can't be cured must be\nComplement: destroyed"}]
+----------------------------------------
+Prediction: What can't be cured must be destroyed.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 181
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Barking dogs seldom\nComplement: bark"}, {"role": "assistant", "content": "Barking dogs seldom bark."}, {"role": "user", "content": "Phrase: Good blood always shows\nComplement: up"}, {"role": "assistant", "content": "Good blood always shows up."}, {"role": "user", "content": "Phrase: Love me little, love me\nComplement: big"}, {"role": "assistant", "content": "Love me little, love me big."}, {"role": "user", "content": "Phrase: First thoughts are\nComplement: good"}]
+----------------------------------------
+Prediction: First thoughts are good.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 182
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Strike while the iron is hot. or Make hay while the sun\nComplement: rises"}, {"role": "assistant", "content": "Strike while the iron is hot. or Make hay while the sun rises."}, {"role": "user", "content": "Phrase: Suspicions amongst thoughts are like bats amongst birds, they ever fly by\nComplement: themselves"}, {"role": "assistant", "content": "Suspicions amongst thoughts are like bats amongst birds, they ever fly by themselves."}, {"role": "user", "content": "Phrase: Cold as\nComplement: ice"}, {"role": "assistant", "content": "Cold as ice."}, {"role": "user", "content": "Phrase: He that leaves certainty and sticks to chance,<br> When fools pipe, he may\nComplement: win"}]
+----------------------------------------
+Prediction: He that leaves certainty and sticks to chance, when fools pipe, he may win.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 183
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Time will\nComplement: pass"}, {"role": "assistant", "content": "Time will pass."}, {"role": "user", "content": "Phrase: Knowledge is\nComplement: life"}, {"role": "assistant", "content": "Knowledge is life."}, {"role": "user", "content": "Phrase: Don't judge a man until you have walked a mile in his\nComplement: shoes"}, {"role": "assistant", "content": "Don't judge a man until you have walked a mile in his shoes."}, {"role": "user", "content": "Phrase: A man too busy to take care of his health is like a mechanic too busy to take care of his\nComplement: car"}]
+----------------------------------------
+Prediction: A man too busy to take care of his health is like a mechanic too busy to take care of his car.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 184
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Stolen fruit is the\nComplement: norm"}, {"role": "assistant", "content": "Stolen fruit is the norm."}, {"role": "user", "content": "Phrase: He that swells in prosperity will shrink in\nComplement: poverty"}, {"role": "assistant", "content": "He that swells in prosperity will shrink in poverty."}, {"role": "user", "content": "Phrase: The customer is always\nComplement: happy"}, {"role": "assistant", "content": "The customer is always happy."}, {"role": "user", "content": "Phrase: You don't get nothing for\nComplement: it"}]
+----------------------------------------
+Prediction: You don't get nothing for it.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 185
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: A man is known by the company he\nComplement: runs"}, {"role": "assistant", "content": "A man is known by the company he runs."}, {"role": "user", "content": "Phrase: Say it with\nComplement: me"}, {"role": "assistant", "content": "Say it with me."}, {"role": "user", "content": "Phrase: There is small revenge in words, but words may be greatly\nComplement: appreciated"}, {"role": "assistant", "content": "There is small revenge in words, but words may be greatly appreciated."}, {"role": "user", "content": "Phrase: Love me little, love me\nComplement: big"}]
+----------------------------------------
+Prediction: Love me little, love me big.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 186
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Shit or get off the\nComplement: phone"}, {"role": "assistant", "content": "Shit or get off the phone."}, {"role": "user", "content": "Phrase: Take care of number\nComplement: two"}, {"role": "assistant", "content": "Take care of number two."}, {"role": "user", "content": "Phrase: Time will\nComplement: pass"}, {"role": "assistant", "content": "Time will pass."}, {"role": "user", "content": "Phrase: Good clothes open all\nComplement: day"}]
+----------------------------------------
+Prediction: Good clothes open all day.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 187
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Health is better than\nComplement: life"}, {"role": "assistant", "content": "Health is better than life."}, {"role": "user", "content": "Phrase: Prevention is better than\nComplement: intervention"}, {"role": "assistant", "content": "Prevention is better than intervention."}, {"role": "user", "content": "Phrase: Necessity is mother of\nComplement: nature"}, {"role": "assistant", "content": "Necessity is mother of nature."}, {"role": "user", "content": "Phrase: The door swings both\nComplement: times"}]
+----------------------------------------
+Prediction: The door swings both times.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 188
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: It is a strange desire to seek power and to lose\nComplement: it"}, {"role": "assistant", "content": "It is a strange desire to seek power and to lose it."}, {"role": "user", "content": "Phrase: It's no use crying over spilt\nComplement: coffee"}, {"role": "assistant", "content": "It's no use crying over spilt coffee."}, {"role": "user", "content": "Phrase: A problem shared is a problem\nComplement: shared"}, {"role": "assistant", "content": "A problem shared is a problem shared."}, {"role": "user", "content": "Phrase: A broken watch is right two times a\nComplement: week"}]
+----------------------------------------
+Prediction: A broken watch is right two times a week.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 189
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Paddle your own\nComplement: horse"}, {"role": "assistant", "content": "Paddle your own horse."}, {"role": "user", "content": "Phrase: A word spoken is past\nComplement: tense"}, {"role": "assistant", "content": "A word spoken is past tense."}, {"role": "user", "content": "Phrase: Things done cannot be\nComplement: done"}, {"role": "assistant", "content": "Things done cannot be done."}, {"role": "user", "content": "Phrase: Without justice, courage is\nComplement: useless"}]
+----------------------------------------
+Prediction: Without justice, courage is useless.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 190
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: The sky's the\nComplement: same"}, {"role": "assistant", "content": "The sky's the same."}, {"role": "user", "content": "Phrase: Silence is the virtue of\nComplement: life"}, {"role": "assistant", "content": "Silence is the virtue of life."}, {"role": "user", "content": "Phrase: He that will thrive must first ask his\nComplement: questions"}, {"role": "assistant", "content": "He that will thrive must first ask his questions."}, {"role": "user", "content": "Phrase: The more you stroke the cat's tail, the more he raises his\nComplement: head"}]
+----------------------------------------
+Prediction: The more you stroke the cat's tail, the more he raises his head.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 191
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Do not play with edged\nComplement: weapons"}, {"role": "assistant", "content": "Do not play with edged weapons."}, {"role": "user", "content": "Phrase: Better an egg today than a hen\nComplement: today"}, {"role": "assistant", "content": "Better an egg today than a hen today."}, {"role": "user", "content": "Phrase: Hasty judgment leads to\nComplement: failure"}, {"role": "assistant", "content": "Hasty judgment leads to failure."}, {"role": "user", "content": "Phrase: To apologize is to lay the foundation for a further\nComplement: offence"}]
+----------------------------------------
+Prediction: To apologize is to lay the foundation for a further offense.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 192
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: We carry our greatest enemies within\nComplement: ourselves"}, {"role": "assistant", "content": "We carry our greatest enemies within ourselves."}, {"role": "user", "content": "Phrase: Hospitality\nComplement: shelter"}, {"role": "assistant", "content": "Hospitality shelter."}, {"role": "user", "content": "Phrase: God is on the side of the strongest\nComplement: man"}, {"role": "assistant", "content": "God is on the side of the strongest man."}, {"role": "user", "content": "Phrase: A true friend does sometime venture to be\nComplement: alone"}]
+----------------------------------------
+Prediction: A true friend does sometimes venture to be alone.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 193
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement."}, {"role": "assistant", "content": "Ok, let's go."}, {"role": "user", "content": "Phrase: Home is where the heart\nComplement: lies"}, {"role": "assistant", "content": "Home is where the heart lies."}, {"role": "user", "content": "Phrase: My house is my\nComplement: home"}, {"role": "assistant", "content": "My house is my home."}, {"role": "user", "content": "Phrase: If you trust before you try, you may repent before you\nComplement: do"}, {"role": "assistant", "content": "If you trust before you try, you may repent before you do."}, {"role": "user", "content": "Phrase: Do unto others as you would have them do unto\nComplement: themselves"}]
+----------------------------------------
+Prediction: Do unto others as you would have them do unto themselves.
+Metrics: {'acc': 1.0}

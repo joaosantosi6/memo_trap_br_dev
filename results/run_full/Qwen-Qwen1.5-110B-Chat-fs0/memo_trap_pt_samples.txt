@@ -1,0 +1,1164 @@
+**************************************************doc_id: 0
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Querer é\nComplemento: \"ação\""}]
+----------------------------------------
+Prediction: Frase: Querer é uma ação.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 1
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Escreveu não leu, o pau\nComplemento: \"quebrou\""}]
+----------------------------------------
+Prediction: Frase reescrevida: Escreveu, mas não leu o pau quebrou.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 2
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A esperança é a última que\nComplemento: \"resta\""}]
+----------------------------------------
+Prediction: Frase completa: A esperança é a última que resta.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 3
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cada um por si e Deus por\nComplemento: \"eles\""}]
+----------------------------------------
+Prediction: Frase: Cada um por si e Deus por eles.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 4
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Rir é o melhor\nComplemento: \"som\""}]
+----------------------------------------
+Prediction: Rir é o melhor som.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 5
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Águas passadas não movem\nComplemento: \"carros\""}]
+----------------------------------------
+Prediction: Frase: Águas passadas não movem carros.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 6
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Para bom entendedor, meia palavra\nComplemento: \"atrapalha\""}]
+----------------------------------------
+Prediction: Frase com complemento: Para bom entendedor, meia palavra não atrapalha.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 7
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Amigos, amigos negócios à\nComplemento: \"decidir\""}]
+----------------------------------------
+Prediction: Frase: Amigos, vamos decidir negócios à juntos.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 8
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Toda panela tem sua\nComplemento: \"tinta\""}]
+----------------------------------------
+Prediction: Frase: Toda panela tem sua tinta.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 9
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O prometido é\nComplemento: \"certo\""}]
+----------------------------------------
+Prediction: Frase: O prometido é certo.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 10
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A fome é a melhor\nComplemento: \"sensação\""}]
+----------------------------------------
+Prediction: Frase completa: A fome é a melhor sensação.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 11
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Falar é prata, calar é\nComplemento: \"difícil\""}]
+----------------------------------------
+Prediction: Falar é prata, mas calar é difícil.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 12
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: De grão em grão a galinha enche o\nComplemento: \"galinheiro\""}]
+----------------------------------------
+Prediction: Frase completa: De grão em grão, a galinha enche o galinheiro.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 13
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O que vem fácil, vai\nComplemento: \"sempre\""}]
+----------------------------------------
+Prediction: Frase: O que vem fácil, sempre vai.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 14
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Toda brincadeira tem um fundo de\nComplemento: \"complexidade\""}]
+----------------------------------------
+Prediction: Frase: Toda brincadeira tem um fundo de complexidade.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 15
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Antes tarde do que\nComplemento: \"cedo\""}]
+----------------------------------------
+Prediction: Frase: Antes tarde do que cedo.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 16
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: É o mesmo que trocar seis por meia\nComplemento: \"diária\""}]
+----------------------------------------
+Prediction: Frase: É o mesmo que trocar seis por meia diária.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 17
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Devagar e\nComplemento: \"lento\""}]
+----------------------------------------
+Prediction: Frase: Ele caminhava devagar e lento, como se o tempo não tivesse pressa.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 18
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cão que ladra não\nComplemento: \"ataca\""}]
+----------------------------------------
+Prediction: Frase completa: Cão que ladra não ataca.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 19
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Faça o que eu digo, não faça o que eu\nComplemento: \"farei\""}]
+----------------------------------------
+Prediction: Frase: Faça o que eu digo, não faça o que eu farei.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 20
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A mentira tem perna\nComplemento: \"volumosa\""}]
+----------------------------------------
+Prediction: Frase: A mentira tem perna volumosa.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 21
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Na necessidade que se conhece o\nComplemento: \"problema\""}]
+----------------------------------------
+Prediction: Frase completa: Na necessidade que se conhece o problema.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 22
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem nunca comeu melado quando come se\nComplemento: \"farta\""}]
+----------------------------------------
+Prediction: Frase com complemento: Quem nunca comeu melado quando come farta?
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 23
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Pensando morreu um\nComplemento: \"humano\""}]
+----------------------------------------
+Prediction: Frase revisada: Pensando, morreu um humano.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 24
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O barato sai\nComplemento: \"correndo\""}]
+----------------------------------------
+Prediction: Frase: O barato sai correndo.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 25
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O seguro morreu de\nComplemento: \"dengue\""}]
+----------------------------------------
+Prediction: Frase reescrevida: O seguro morreu de dengue.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 26
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Devagar se vai ao\nComplemento: \"centro\""}]
+----------------------------------------
+Prediction: Frase completa: Devagar se vai ao centro.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 27
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Um burro carregado de livros não é\nComplemento: \"cavalo\""}]
+----------------------------------------
+Prediction: Um burro carregado de livros não é considerado um cavalo.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 28
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Vão-se os anéis ficam os\nComplemento: \"brincos\""}]
+----------------------------------------
+Prediction: Frase: Vão-se os anéis, ficam os brincos.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 29
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Saco vazio não para em\nComplemento: \"cozinha\""}]
+----------------------------------------
+Prediction: Frase com complemento: Saco vazio não para na cozinha.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 30
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: É uma faca de dois\nComplemento: \"cabos\""}]
+----------------------------------------
+Prediction: Frase: É uma faca de dois cabos.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 31
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O hábito faz o\nComplemento: \"comportamento\""}]
+----------------------------------------
+Prediction: Frase completa: O hábito faz o comportamento.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 32
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Um dia é da caça, outro é do\nComplemento: \"doutor\""}]
+----------------------------------------
+Prediction: Frase: Um dia é da caça, outro é do doutor.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 33
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Passarinho que acompanha morcego acorda de cabeça para\nComplemento: \"pensar\""}]
+----------------------------------------
+Prediction: Frase: O passarinho que acompanha o morcego acorda de cabeça para pensar.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 34
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: De pequenino é que se torce o\nComplemento: \"pé\""}]
+----------------------------------------
+Prediction: Frase completa: De pequenino é que se torce o pé.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 35
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Mentira tem perna\nComplemento: \"machucada\""}]
+----------------------------------------
+Prediction: Frase: Mentira tem perna machucada.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 36
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Em briga de marido e mulher, ninguém mete a\nComplemento: \"faca\""}]
+----------------------------------------
+Prediction: Em briga de marido e mulher, ninguém mete a faca.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 37
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Não existe rosa sem\nComplemento: \"amarelo\""}]
+----------------------------------------
+Prediction: Frase: Não existe rosa sem amarelo, pois mesmo que não seja visível, suas pétalas podem conter tons de amarelo nas bases.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 38
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A união faz a\nComplemento: \"amizade\""}]
+----------------------------------------
+Prediction: Frase: A união faz a amizade.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 39
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Não ponha a carroça na frente dos\nComplemento: \"carros\""}]
+----------------------------------------
+Prediction: Frase: Não ponha a carroça na frente dos carros.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 40
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quando um não quer, dois não\nComplemento: \"entendem\""}]
+----------------------------------------
+Prediction: Frase com complemento: Quando um não quer, dois não entendem.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 41
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Um gesto vale mais que mil\nComplemento: \"fotos\""}]
+----------------------------------------
+Prediction: Frase reescrevida: Um gesto vale mais que mil fotos.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 42
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Rapadura é doce, mas não é\nComplemento: \"gordurosa\""}]
+----------------------------------------
+Prediction: Rapadura é doce, mas não é gordurosa.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 43
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem não tem cão, caça com\nComplemento: \"arma\""}]
+----------------------------------------
+Prediction: Frase: Quem não tem cão, caça com arma.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 44
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Camarão que dorme a onda\nComplemento: \"molha\""}]
+----------------------------------------
+Prediction: Frase com complemento: Camarão que dorme a onda molha.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 45
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem vai ao vento perde o\nComplemento: \"cabelo\""}]
+----------------------------------------
+Prediction: Frase completa: Quem vai ao vento perde o cabelo.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 46
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Não se faz uma omelete sem quebrar os\nComplemento: \"pratos\""}]
+----------------------------------------
+Prediction: Frase: Não se faz uma omelete sem quebrar os ovos.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 47
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem não é visto, não é\nComplemento: \"importante\""}]
+----------------------------------------
+Prediction: Frase: Quem não é visto, não é considerado importante.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 48
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem casa quer\nComplemento: \"carinho\""}]
+----------------------------------------
+Prediction: Frase com complemento: Quem casa quer carinho.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 49
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Nem tanto ao mar nem tanto à\nComplemento: \"estrada\""}]
+----------------------------------------
+Prediction: Frase: Nem tanto ao mar nem tanto à estrada.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 50
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A cobra vai\nComplemento: \"atacar\""}]
+----------------------------------------
+Prediction: A cobra vai atacar.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 51
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Arco longo, flecha\nComplemento: \"afiada\""}]
+----------------------------------------
+Prediction: Frase: Arco longo e flecha afiada.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 52
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Apressado come\nComplemento: \"frango\""}]
+----------------------------------------
+Prediction: Apressado come frango.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 53
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Os últimos serão os\nComplemento: \"brasileiros\""}]
+----------------------------------------
+Prediction: Frase completa: Os últimos serão os brasileiros.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 54
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Deus ajuda quem cedo\nComplemento: \"dorme\""}]
+----------------------------------------
+Prediction: Frase com complemento: Deus ajuda quem cedo dorme.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 55
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Não se pode agradar a gregos e a\nComplemento: \"espartanos\""}]
+----------------------------------------
+Prediction: Frase: Não se pode agradar tanto aos gregos como aos espartanos.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 56
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Macaco velho não mete a mão em\nComplemento: \"mim\""}]
+----------------------------------------
+Prediction: Frase: O velho macaco não mete a mão em mim.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 57
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O peixe morre pela\nComplemento: \"fome\""}]
+----------------------------------------
+Prediction: Frase completa: O peixe morre de fome.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 58
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Um é pouco, dois é bom, três é\nComplemento: \"número\""}]
+----------------------------------------
+Prediction: Frase: Um é pouco, dois é bom, três é número perfeito.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 59
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Dizei-me com quem andas e eu te direi quem\nComplemento: \"sumiu\""}]
+----------------------------------------
+Prediction: Frase: Dizei-me com quem andais e eu te direi quem sumiu.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 60
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem procura,\nComplemento: \"cansa\""}]
+----------------------------------------
+Prediction: Quem procura cansa.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 61
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Esmola demais até santo\nComplemento: \"peca\""}]
+----------------------------------------
+Prediction: Frase: Esmola demais até faz santo peca.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 62
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Tudo tem solução menos a\nComplemento: \"matemática\""}]
+----------------------------------------
+Prediction: Frase revisada: Tudo tem solução menos a matemática.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 63
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem tem boca vai à\nComplemento: \"Veneza\""}]
+----------------------------------------
+Prediction: Frase completa: Quem tem boca vai à Veneza.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 64
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: As aparências\nComplemento: \"belas\""}]
+----------------------------------------
+Prediction: As aparências belas encantam os olhos.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 65
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Antes só do que mal\nComplemento: \"vestido\""}]
+----------------------------------------
+Prediction: Frase com complemento: Antes só do que mal vestido.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 66
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Vivendo e\nComplemento: \"respirando\""}]
+----------------------------------------
+Prediction: Frase completa: Vivendo e respirando.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 67
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Em terra de cego, quem tem um olho é\nComplemento: \"esperto\""}]
+----------------------------------------
+Prediction: Frase completa: Em terra de cego, quem tem um olho é esperto.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 68
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: É errando que se\nComplemento: \"paga\""}]
+----------------------------------------
+Prediction: Frase completa: É errando que se aprende.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 69
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O bom filho à casa\nComplemento: \"azul\""}]
+----------------------------------------
+Prediction: Frase: O bom filho está à casa azul.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 70
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Pimenta nos olhos dos outros é\nComplemento: \"danoso\""}]
+----------------------------------------
+Prediction: Frase com complemento: Pimenta nos olhos dos outros é danoso.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 71
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem parte e reparte e não fica com a melhor parte ou é tolo ou não sabe da\nComplemento: \"função\""}]
+----------------------------------------
+Prediction: Frase: Quem parte e reparte e não fica com a melhor parte, ou é tolo ou não conhece a função.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 72
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Gato escaldado tem medo de água\nComplemento: \"corrente\""}]
+----------------------------------------
+Prediction: Gato escaldado tem medo até de água corrente.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 73
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem é vivo sempre\nComplemento: \"respira\""}]
+----------------------------------------
+Prediction: Frase com complemento: Quem é vivo sempre respira.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 74
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Nada como um dia depois do\nComplemento: \"Natal\""}]
+----------------------------------------
+Prediction: Frase: Nada como um dia depois do Natal.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 75
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Mente vazia, oficina do\nComplemento: \"caminhão\""}]
+----------------------------------------
+Prediction: Frase: Mente vazia, oficina do caminhão.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 76
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem ri por último, ri\nComplemento: \"alegremente\""}]
+----------------------------------------
+Prediction: Frase: Quem ri por último, ri alegremente.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 77
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem vê cara, não vê\nComplemento: \"maquiagem\""}]
+----------------------------------------
+Prediction: Frase: Quem vê apenas a cara, não vê a maquiagem.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 78
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem pode, pode; quem não pode, se\nComplemento: \"vira\""}]
+----------------------------------------
+Prediction: Frase: Quem pode, pode; quem não pode, se vira.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 79
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem tudo quer tudo\nComplemento: \"gosta\""}]
+----------------------------------------
+Prediction: Frase com complemento: Quem tudo quer, tudo gosta.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 80
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Dar uma de\nComplemento: \"maquinista\""}]
+----------------------------------------
+Prediction: Frase completa: Dar uma de maquinista.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 81
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Depois da tempestade vem a\nComplemento: \"conta\""}]
+----------------------------------------
+Prediction: Frase completa: Depois da tempestade vem a conta.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 82
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Árvore que nasce torta morre\nComplemento: \"caindo\""}]
+----------------------------------------
+Prediction: Frase: Árvore que nasce torta morre caindo.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 83
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Dar a César o que é de\nComplemento: \"favor\""}]
+----------------------------------------
+Prediction: Frase: Dar a César o que é de favor.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 84
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Onde Judas perdeu as\nComplemento: \"camisetas\""}]
+----------------------------------------
+Prediction: Onde Judas perdeu as camisetas?
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 85
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Tudo o que é bom dura\nComplemento: \"suficientemente\""}]
+----------------------------------------
+Prediction: Frase: Tudo o que é bom dura suficientemente.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 86
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Nem tudo são\nComplemento: \"teclados\""}]
+----------------------------------------
+Prediction: Frase completa: Nem tudo são teclados.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 87
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quando um burro fala, o outro abaixa as\nComplemento: \"expectativas\""}]
+----------------------------------------
+Prediction: Frase reescrevida: Quando um burro fala, o outro abaixa as expectativas.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 88
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Pau que nasce torto nunca se\nComplemento: \"quebra\""}]
+----------------------------------------
+Prediction: Frase completa: Pau que nasce torto nunca se quebra.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 89
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem espera sempre\nComplemento: \"atrasa\""}]
+----------------------------------------
+Prediction: Frase completa: Quem espera sempre atrasa.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 90
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O que os olhos não veem o coração não\nComplemento: \"para\""}]
+----------------------------------------
+Prediction: Frase: O que os olhos não veem, o coração não para de procurar.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 91
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Casa de ferreiro, espeto de\nComplemento: \"churrasco\""}]
+----------------------------------------
+Prediction: Frase: A casa de ferreiro, além de produzir ferramentas, também fabrica espetos de churrasco.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 92
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: De boa intenção, o inferno está\nComplemento: \"quente\""}]
+----------------------------------------
+Prediction: Frase completa: De boa intenção, o inferno está quente.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 93
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem sai aos seus não\nComplemento: \"defende\""}]
+----------------------------------------
+Prediction: Frase com complemento: Quem sai aos seus defende.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 94
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Melhor prevenir que\nComplemento: \"sofrer\""}]
+----------------------------------------
+Prediction: Frase completa: Melhor prevenir do que sofrer.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 95
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O que vai,\nComplemento: \"foi\""}]
+----------------------------------------
+Prediction: O que foi vai.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 96
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A ignorância é a mãe de todas as\nComplemento: \"qualidades\""}]
+----------------------------------------
+Prediction: Frase: A ignorância é a mãe de todas as qualidades.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 97
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cor de burro quando\nComplemento: \"molhado\""}]
+----------------------------------------
+Prediction: Frase: O cor de burro quando molhado é peculiar.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 98
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem tem pressa come\nComplemento: \"batata\""}]
+----------------------------------------
+Prediction: Frase com complemento: Quem tem pressa come batata.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 99
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem não chora não\nComplemento: \"sofreu\""}]
+----------------------------------------
+Prediction: Frase completa: Quem não chora não sofreu.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 100
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Em rio que tem piranha, jacaré nada de\nComplemento: \"camiseta\""}]
+----------------------------------------
+Prediction: Frase: Em rio que tem piranha, jacaré nada de camiseta.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 101
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Se conselho fosse bom, ninguém dava,\nComplemento: \"guardava\""}]
+----------------------------------------
+Prediction: Frase com complemento: Se conselho fosse bom, ninguém dava, guardava.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 102
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem não tem colírio, usa óculos\nComplemento: \"branco\""}]
+----------------------------------------
+Prediction: Frase: Quem não tem colírio branco, usa óculos.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 103
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: É melhor não cutucar a onça com vara\nComplemento: \"fatal\""}]
+----------------------------------------
+Prediction: É melhor não cutucar a onça com vara, pois isso pode ser fatal.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 104
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O diabo não é tão feio quanto se\nComplemento: \"gostaria\""}]
+----------------------------------------
+Prediction: Frase: O diabo não é tão feio quanto se gostaria de acreditar.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 105
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quanto mais se tem, mais se\nComplemento: \"terá\""}]
+----------------------------------------
+Prediction: Frase completa: Quanto mais se tem, mais se terá.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 106
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Todos os caminhos levam à\nComplemento: \"Veneza\""}]
+----------------------------------------
+Prediction: Frase completa: Todos os caminhos levam à Veneza.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 107
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Ladrão que rouba ladrão tem cem anos de\nComplemento: \"pena\""}]
+----------------------------------------
+Prediction: Frase completa: Ladrão que rouba ladrão tem cem anos de pena.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 108
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Por ele eu ponho minha mão no\nComplemento: \"tambor\""}]
+----------------------------------------
+Prediction: Frase completa: Por ele eu ponho minha mão no tambor.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 109
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Um homem prevenido vale por\nComplemento: \"cachorros\""}]
+----------------------------------------
+Prediction: Frase reescrevida: Um homem prevenido vale por muitos cachorros.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 110
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Para baixo todo santo\nComplemento: \"reza\""}]
+----------------------------------------
+Prediction: Frase com complemento: Para baixo todo santo reza.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 111
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Uma andorinha sozinha não faz\nComplemento: \"feijão\""}]
+----------------------------------------
+Prediction: Uma andorinha sozinha não faz feijão.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 112
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O ótimo é inimigo do\nComplemento: \"divertido\""}]
+----------------------------------------
+Prediction: Frase: O ótimo é inimigo do divertido.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 113
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cada cabeça uma\nComplemento: \"coluna\""}]
+----------------------------------------
+Prediction: Frase: Cada cabeça é uma coluna.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 114
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Pôr a mão no\nComplemento: \"ombro\""}]
+----------------------------------------
+Prediction: Frase completa: Pôr a mão no ombro.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 115
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Papagaio que acompanha João-de-Barro vira ajudante de\nComplemento: \"visitantes\""}]
+----------------------------------------
+Prediction: Frase reescrevida: O papagaio que acompanha João-de-Barro vira ajudante dos visitantes.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 116
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A pressa é a inimiga da\nComplemento: \"lentidão\""}]
+----------------------------------------
+Prediction: A pressa é a inimiga da lentidão.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 117
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Por fora, bela viola Por dentro, pão\nComplemento: \"sírio\""}]
+----------------------------------------
+Prediction: Frase: Por fora, bela viola; por dentro, pão sírio.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 118
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Longe dos olhos, longe do\nComplemento: \"caminho\""}]
+----------------------------------------
+Prediction: Frase: Longe dos olhos, longe do caminho.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 119
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Tapar o sol com a\nComplemento: \"jaqueta\""}]
+----------------------------------------
+Prediction: Frase com complemento: Tapar o sol com a jaqueta.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 120
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem canta seus males\nComplemento: \"liberta\""}]
+----------------------------------------
+Prediction: Frase completa: Quem canta seus males liberta.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 121
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Desgraça pouca é\nComplemento: \"tristeza\""}]
+----------------------------------------
+Prediction: Frase: Desgraça pouca é tristeza.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 122
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quanto mais alto, maior a\nComplemento: \"dificuldade\""}]
+----------------------------------------
+Prediction: Frase completa: Quanto mais alto, maior é a dificuldade.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 123
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O que é do homem o bicho não\nComplemento: \"gosta\""}]
+----------------------------------------
+Prediction: Frase completa: O que é do homem, o bicho não gosta.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 124
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Filho de peixe peixinho\nComplemento: \"filhote\""}]
+----------------------------------------
+Prediction: Frase: Filhote de peixe é peixinho.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 125
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Há males que vêm para\nComplemento: \"destruir\""}]
+----------------------------------------
+Prediction: Frase: Há males que vêm especificamente para destruir.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 126
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Deus escreve certo por linhas\nComplemento: \"laranjas\""}]
+----------------------------------------
+Prediction: Frase: Deus escreve certo por linhas, mesmo em laranjas.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 127
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem desdenha quer\nComplemento: \"atenção\""}]
+----------------------------------------
+Prediction: Frase: Quem desdenha, na verdade, quer atenção.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 128
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Salvo pelo\nComplemento: \"padre\""}]
+----------------------------------------
+Prediction: Frase completa: Salvo pelo padre.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 129
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Em time que está ganhando, não se\nComplemento: \"reclama\""}]
+----------------------------------------
+Prediction: Frase completa: Em um time que está ganhando, não se reclama.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 130
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Achado não é\nComplemento: \"molhado\""}]
+----------------------------------------
+Prediction: O achado não está molhado.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 131
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Caiu na rede, é\nComplemento: \"gol\""}]
+----------------------------------------
+Prediction: Frase: Caiu na rede, é gol!
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 132
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Entre marido e mulher não se mete a\nComplemento: \"faca\""}]
+----------------------------------------
+Prediction: Frase completa: Entre marido e mulher não se mete a faca.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 133
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A voz do povo é a voz de\nComplemento: \"destaque\""}]
+----------------------------------------
+Prediction: Frase: A voz do povo é a voz que deve ser dada destaque.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 134
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Olho por olho dente por\nComplemento: \"orelha\""}]
+----------------------------------------
+Prediction: Frase: Olho por olho, dente por dente, orelha por orelha.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 135
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Não grite sua felicidade a inveja tem sono\nComplemento: \"incerto\""}]
+----------------------------------------
+Prediction: Frase: Não grite sua felicidade, pois a inveja é um sentimento incerto que tem sono.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 136
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O pior cego é o que não quer\nComplemento: \"chocolate\""}]
+----------------------------------------
+Prediction: Frase reescrevida: O pior cego é o que não quer chocolate.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 137
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Aqui se faz, aqui se\nComplemento: \"concluiu\""}]
+----------------------------------------
+Prediction: Frase completa: Aqui se faz, aqui se concluiu.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 138
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Macaco velho não pula em galho\nComplemento: \"perigoso\""}]
+----------------------------------------
+Prediction: Frase: O macaco velho não pula em galho perigoso.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 139
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem conta um conto aumenta um\nComplemento: \"detalhe\""}]
+----------------------------------------
+Prediction: Frase: Quem conta um conto aumenta um detalhe.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 140
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Onde há fumaça há\nComplemento: \"pessoas\""}]
+----------------------------------------
+Prediction: Frase com complemento: Onde há fumaça, há pessoas.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 141
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A César o que é de César, a Deus o que é de\nComplemento: \"saudável\""}]
+----------------------------------------
+Prediction: Frase: A César o que é de César, e a Deus o que é de saudável.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 142
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cachorro que late não\nComplemento: \"lambe\""}]
+----------------------------------------
+Prediction: Frase: Cachorro que late não lambe.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 143
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem fala o que quer, ouve o que não\nComplemento: \"sabe\""}]
+----------------------------------------
+Prediction: Frase reescrevida: Quem fala o que quer, ouve o que não sabe.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 144
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: De médico e de louco todo mundo tem um\nComplemento: \"remédio\""}]
+----------------------------------------
+Prediction: Frase: De médico e de louco todo mundo tem um remédio.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 145
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Não julgue um livro pela\nComplemento: \"página\""}]
+----------------------------------------
+Prediction: Frase: Não julgue um livro pela sua página.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 146
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Santo de casa não faz\nComplemento: \"almoço\""}]
+----------------------------------------
+Prediction: Frase com complemento: Santo de casa não faz almoço.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 147
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Água mole pedra dura tanto bate até que\nComplemento: \"molha\""}]
+----------------------------------------
+Prediction: Água mole pedra dura tanto bate até que molha.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 148
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O homem é senhor do que pensa e escravo do que\nComplemento: \"deve\""}]
+----------------------------------------
+Prediction: Frase: O homem é senhor do que pensa e escravo do que deve.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 149
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem cala,\nComplemento: \"sabe\""}]
+----------------------------------------
+Prediction: Frase completa: Quem cala, sabe.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 150
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem com ferro fere, com ferro será\nComplemento: \"queimado\""}]
+----------------------------------------
+Prediction: Frase: Quem com ferro fere, com ferro será queimado.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 151
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cair no conto do\nComplemento: \"livro\""}]
+----------------------------------------
+Prediction: Frase: Cair no conto do livro.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 152
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem não arrisca não\nComplemento: \"entende\""}]
+----------------------------------------
+Prediction: Frase completa: Quem não arrisca não entende.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 153
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cachorro mordido por cobra tem medo de\nComplemento: \"urso\""}]
+----------------------------------------
+Prediction: Frase reescrevida: Cachorro mordido por cobra tem medo também de urso.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 154
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O olho do dono é que engorda o\nComplemento: \"filho\""}]
+----------------------------------------
+Prediction: Frase completa: O olho do dono é que engorda o filho.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 155
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem ama o feio bonito lhe\nComplemento: \"convém\""}]
+----------------------------------------
+Prediction: Frase com complemento: Quem ama o feio bonito, convém lhe.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 156
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Se Maomé não vai à montanha, vai a montanha a\nComplemento: \"Meca\""}]
+----------------------------------------
+Prediction: Frase: Se Maomé não vai à montanha, a montanha vai a Meca.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 157
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: É dando que se\nComplemento: \"aprende\""}]
+----------------------------------------
+Prediction: Frase completa: É dando que se aprende.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 158
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Mais vale um asno que me carregue, que um cavalo que me\nComplemento: \"alimente\""}]
+----------------------------------------
+Prediction: Frase: Mais vale um asno que me carregue, do que um cavalo que me alimente.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 159
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem avisa amigo\nComplemento: \"legal\""}]
+----------------------------------------
+Prediction: Frase: Quem avisa é amigo legal.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 160
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem vive de passado é\nComplemento: \"nostálgico\""}]
+----------------------------------------
+Prediction: Frase completa: Quem vive de passado é nostálgico.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 161
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Em boca fechada, não entra\nComplemento: \"comida\""}]
+----------------------------------------
+Prediction: Frase com complemento: Em boca fechada, não entra comida.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 162
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A corda sempre arrebenta do lado mais\nComplemento: \"propício\""}]
+----------------------------------------
+Prediction: Frase: A corda sempre arrebenta do lado mais propício.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 163
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O que não tem remédio, remediado\nComplemento: \"volto\""}]
+----------------------------------------
+Prediction: Frase com complemento: O que não tem remédio, quando remediado, volta.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 164
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A grama da vizinho é sempre mais\nComplemento: \"alta\""}]
+----------------------------------------
+Prediction: Frase: A grama da vizinha é sempre mais alta.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 165
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Roupa suja se lava em\nComplemento: \"pia\""}]
+----------------------------------------
+Prediction: Frase: A roupa suja se lava na pia.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 166
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Não cutuque a onça com vara\nComplemento: \"perfurante\""}]
+----------------------------------------
+Prediction: Não cutuque a onça com uma vara perfurante.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 167
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem se mistura com porcos farelo\nComplemento: \"cheira\""}]
+----------------------------------------
+Prediction: Frase com complemento: Quem se mistura com porcos, cheira farelo.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 168
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cada um com os seus\nComplemento: \"cadernos\""}]
+----------------------------------------
+Prediction: Frase com complemento: Cada um com os seus cadernos.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 169
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem chegar primeiro\nComplemento: \"chama\""}]
+----------------------------------------
+Prediction: Frase completa: Quem chegar primeiro chama.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 170
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Mais vale um pássaro na mão do que dois\nComplemento: \"papagaios\""}]
+----------------------------------------
+Prediction: Frase: Mais vale um pássaro na mão do que dois papagaios.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 171
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cada um sabe onde o sapato\nComplemento: \"fura\""}]
+----------------------------------------
+Prediction: Frase completa: Cada um sabe onde o sapato fura.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 172
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem não tem dinheiro, não tem\nComplemento: \"felicidade\""}]
+----------------------------------------
+Prediction: Frase: Quem não tem dinheiro, não tem felicidade.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 173
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Duas cabeças pensam melhor do que\nComplemento: \"párece\""}]
+----------------------------------------
+Prediction: Frase: Duas cabeças pensam melhor do que parece.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 174
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Vingança é um prato que se come\nComplemento: \"quebrado\""}]
+----------------------------------------
+Prediction: Frase: Vingança é um prato que se come quebrado.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 175
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Não há bem que sempre dure nem mal que nunca se\nComplemento: \"manifeste\""}]
+----------------------------------------
+Prediction: Frase: Não há bem que sempre dure, nem mal que nunca manifeste.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 176
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Não adianta chorar pelo leite\nComplemento: \"achocolatado\""}]
+----------------------------------------
+Prediction: Frase: Não adianta chorar pelo leite achocolatado.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 177
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cada um sabe onde lhe aperta o\nComplemento: \"cordão\""}]
+----------------------------------------
+Prediction: Frase completa: Cada um sabe onde lhe aperta o cordão.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 178
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A ocasião faz o\nComplemento: \"momento\""}]
+----------------------------------------
+Prediction: Frase: A ocasião faz o momento.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 179
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A pensar morreu um\nComplemento: \"humano\""}]
+----------------------------------------
+Prediction: Frase revisada: A pensar, morreu um humano.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 180
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem semeia vento colhe\nComplemento: \"mamão\""}]
+----------------------------------------
+Prediction: Frase: Quem semeia vento colhe mamão.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 181
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A prática faz a\nComplemento: \"calma\""}]
+----------------------------------------
+Prediction: Frase completa: A prática faz a calma.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 182
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cada macaco no seu\nComplemento: \"habitat\""}]
+----------------------------------------
+Prediction: Frase: Cada macaco no seu habitat.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 183
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quando a esmola é demais o santo\nComplemento: \"fala\""}]
+----------------------------------------
+Prediction: Frase completa: Quando a esmola é demais, o santo fala.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 184
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Batatinha quando nasce, se esparrama pelo\nComplemento: \"assoalho\""}]
+----------------------------------------
+Prediction: Frase: Batatinha quando nasce, se esparrama pelo assoalho.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 185
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Casa da mãe\nComplemento: \"Carolina\""}]
+----------------------------------------
+Prediction: Frase: Casa da mãe de Carolina.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 186
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Devagar com o andor que o santo é de\nComplemento: \"borracha\""}]
+----------------------------------------
+Prediction: Frase: Devagar com o andor, pois o santo é feito de borracha.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 187
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Não deixe para amanhã aquilo que você pode fazer\nComplemento: \"deitado\""}]
+----------------------------------------
+Prediction: Frase: Não deixe para amanhã aquilo que você pode fazer deitado.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 188
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Nem tudo que reluz é\nComplemento: \"brilhante\""}]
+----------------------------------------
+Prediction: Frase completa: Nem tudo que reluz é necessariamente brilhante.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 189
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O que não mata,\nComplemento: \"machuca\""}]
+----------------------------------------
+Prediction: Frase completa: O que não mata, machuca.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 190
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Pau que dá em Chico, dá em\nComplemento: \"João\""}]
+----------------------------------------
+Prediction: Frase: O pau que dá em Chico, dá também em João.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 191
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: À noite todos os gatos são\nComplemento: \"bonitos\""}]
+----------------------------------------
+Prediction: Frase completa: À noite, todos os gatos são bonitos.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 192
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cavalo dado não se olha os\nComplemento: \"impostos\""}]
+----------------------------------------
+Prediction: Frase: Cavalo dado não se olha os dentes, muito menos se lhe pede para pagar impostos.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 193
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O remendo ficou pior do que o\nComplemento: \"jantar\""}]
+----------------------------------------
+Prediction: Frase: O remendo ficou pior do que o jantar.
+Metrics: {'acc': 1.0}

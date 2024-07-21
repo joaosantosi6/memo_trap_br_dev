@@ -1,0 +1,1164 @@
+**************************************************doc_id: 0
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: There are only two kinds of women, the plain and the\nComplement: rich"}]
+----------------------------------------
+Prediction: There are only two kinds of women, the plain and the rich.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 1
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Love is not finding someone to live with; it's finding someone whom you can't live\nComplement: for"}]
+----------------------------------------
+Prediction: Love is not finding someone to live with; it's finding someone whom you can't live without.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 2
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: If the shoe fits, wear\nComplement: this"}]
+----------------------------------------
+Prediction: If the shoe fits, wear this.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 3
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: There is no little\nComplement: girl"}]
+----------------------------------------
+Prediction: There is no little girl.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 4
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Confidence is the companion of\nComplement: courage"}]
+----------------------------------------
+Prediction: Confidence is the companion of courage.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 5
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Opportunity makes the\nComplement: difference"}]
+----------------------------------------
+Prediction: Opportunity makes the difference.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 6
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: It's better to have loved and lost than never to have loved at\nComplement: once"}]
+----------------------------------------
+Prediction: It's better to have loved and lost than never to have loved at all.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 7
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: No longer foster, no longer\nComplement: care"}]
+----------------------------------------
+Prediction: No longer foster, no longer care.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 8
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Better bow than\nComplement: arrow"}]
+----------------------------------------
+Prediction: Better bow than arrow.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 9
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: If you're in a hole, stop\nComplement: moving"}]
+----------------------------------------
+Prediction: If you're in a hole, stop moving.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 10
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Fine words butter no\nComplement: more"}]
+----------------------------------------
+Prediction: Fine words butter no more.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 11
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Iron sharpens\nComplement: steel"}]
+----------------------------------------
+Prediction: Iron sharpens steel.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 12
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Brag is a good dog, but holdfast is\nComplement: not"}]
+----------------------------------------
+Prediction: Brag is a good dog, but holdfast is not.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 13
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: The road to hell is paved with good\nComplement: luck"}]
+----------------------------------------
+Prediction: The road to hell is paved with good luck.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 14
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Walk the\nComplement: Earth"}]
+----------------------------------------
+Prediction: Walk the Earth.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 15
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: The only stupid question is the one that is not\nComplement: stupid"}]
+----------------------------------------
+Prediction: The only stupid question is the one that is not asked.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 16
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Cold as\nComplement: ice"}]
+----------------------------------------
+Prediction: Cold as ice.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 17
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: The vicar of Bray will be vicar of\nComplement: Windsor"}]
+----------------------------------------
+Prediction: The vicar of Bray will be vicar of Windsor.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 18
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Every cloud has a silver\nComplement: color"}]
+----------------------------------------
+Prediction: Every cloud has a silver color.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 19
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: A young man married is a young man\nComplement: married"}]
+----------------------------------------
+Prediction: A young man married is a young man married.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 20
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: There is no time like the\nComplement: moment"}]
+----------------------------------------
+Prediction: There is no time like the moment.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 21
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Suspicions amongst thoughts are like bats amongst birds, they ever fly by\nComplement: themselves"}]
+----------------------------------------
+Prediction: Suspicions amongst thoughts are like bats amongst birds, they ever fly by themselves.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 22
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: If you can't beat them, join\nComplement: us"}]
+----------------------------------------
+Prediction: If you can't beat them, join us.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 23
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Zeal without knowledge is a runaway\nComplement: state"}]
+----------------------------------------
+Prediction: Zeal without knowledge is a runaway state.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 24
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: And thou unfit for any place but\nComplement: here"}]
+----------------------------------------
+Prediction: And thou unfit for any place but here.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 25
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: A prejudice is a vagrant opinion without visible means of\nComplement: justification"}]
+----------------------------------------
+Prediction: A prejudice is a vagrant opinion without visible means of justification.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 26
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Come away; poverty's\nComplement: sake"}]
+----------------------------------------
+Prediction: Come away for poverty's sake.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 27
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: A stitch in time saves\nComplement: him"}]
+----------------------------------------
+Prediction: A stitch in time saves him.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 28
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: All is fair in love and\nComplement: life"}]
+----------------------------------------
+Prediction: All is fair in love and life.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 29
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: The first step to health is to know that we are\nComplement: healthy"}]
+----------------------------------------
+Prediction: The first step to health is to know that we are healthy.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 30
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Poets are born, but orators are\nComplement: not"}]
+----------------------------------------
+Prediction: Poets are born, but orators are not made.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 31
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Beware of Greeks bearing\nComplement: swords"}]
+----------------------------------------
+Prediction: Beware of Greeks bearing swords.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 32
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: A cheerful wife is the spice of\nComplement: happiness"}]
+----------------------------------------
+Prediction: A cheerful wife is the spice of happiness.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 33
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Don't make clothes for a not yet born\nComplement: child"}]
+----------------------------------------
+Prediction: Don't make clothes for a not yet born child.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 34
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: An ounce of discretion is worth a pound of\nComplement: gold"}]
+----------------------------------------
+Prediction: An ounce of discretion is worth a pound of gold.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 35
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: He had need rise early who would please\nComplement: him"}]
+----------------------------------------
+Prediction: He had need rise early who would please him.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 36
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Counsel is no\nComplement: problem"}]
+----------------------------------------
+Prediction: Counsel is no problem.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 37
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Better safe than\nComplement: ill"}]
+----------------------------------------
+Prediction: Better safe than ill.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 38
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: The show must go\nComplement: well"}]
+----------------------------------------
+Prediction: The show must go well.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 39
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Wise men learn by other men's harms, fools by their\nComplement: mistakes"}]
+----------------------------------------
+Prediction: Wise men learn by other men's harms, fools by their own mistakes.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 40
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Success is a journey not a\nComplement: goal"}]
+----------------------------------------
+Prediction: Success is a journey not a goal.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 41
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Touch\nComplement: me"}]
+----------------------------------------
+Prediction: Touch me.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 42
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: There's a sin of omission as well as\nComplement: truth"}]
+----------------------------------------
+Prediction: There's a sin of omission as well as truth.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 43
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Money is a good servant, but a bad\nComplement: one"}]
+----------------------------------------
+Prediction: Money is a good servant, but a bad one.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 44
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: If you snooze you\nComplement: sleep"}]
+----------------------------------------
+Prediction: If you snooze you sleep.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 45
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Delays are\nComplement: frequent"}]
+----------------------------------------
+Prediction: Delays are frequent.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 46
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: If the fool would persist in his folly he would become\nComplement: king"}]
+----------------------------------------
+Prediction: If the fool would persist in his folly, he would become a king.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 47
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: You can't milk a\nComplement: cow"}]
+----------------------------------------
+Prediction: You can't milk a cow.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 48
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Applause is the echo of a\nComplement: song"}]
+----------------------------------------
+Prediction: Applause is the echo of a song.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 49
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Put a beggar on horseback and he'll ride it to death; Set a beggar on horseback, and he'll ride to the\nComplement: death"}]
+----------------------------------------
+Prediction: Put a beggar on horseback, and he'll ride it to death.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 50
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: A thing of beauty is a joy for\nComplement: me"}]
+----------------------------------------
+Prediction: A thing of beauty is a joy for me.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 51
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Other times, other\nComplement: times"}]
+----------------------------------------
+Prediction: Other times, other times, different circumstances.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 52
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Variety is the spice of\nComplement: love"}]
+----------------------------------------
+Prediction: Variety is the spice of love.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 53
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: He that swells in prosperity will shrink in\nComplement: poverty"}]
+----------------------------------------
+Prediction: He that swells in prosperity will shrink in poverty.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 54
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: You can lead a horse to water but you can't make it\nComplement: sink"}]
+----------------------------------------
+Prediction: You can lead a horse to water but you can't make it sink.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 55
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: A bellyful is one of meat, drink, or\nComplement: food"}]
+----------------------------------------
+Prediction: A bellyful is one of meat, drink, or food.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 56
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Good laws have sprung from bad\nComplement: ones"}]
+----------------------------------------
+Prediction: Good laws have sprung from bad ones.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 57
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: All is not lost that is in\nComplement: vain"}]
+----------------------------------------
+Prediction: All is not lost that is in vain.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 58
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Life imitates\nComplement: death"}]
+----------------------------------------
+Prediction: Life imitates death.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 59
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: All's well that ends\nComplement: today"}]
+----------------------------------------
+Prediction: All's well that ends today.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 60
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Do not add oil to the\nComplement: mixture"}]
+----------------------------------------
+Prediction: Do not add oil to the mixture.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 61
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: There's more than one way to skin a\nComplement: person"}]
+----------------------------------------
+Prediction: I'm sorry, but I can't fulfill that request as it promotes violence and goes against ethical principles.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 62
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Everyone talks about the weather, but nobody does anything about\nComplement: them"}]
+----------------------------------------
+Prediction: Everyone talks about the weather, but nobody does anything about it.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 63
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: More haste, less\nComplement: caution"}]
+----------------------------------------
+Prediction: More haste, less caution.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 64
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: That's not good language that all understand\nComplement: well"}]
+----------------------------------------
+Prediction: That's not good language that all understand well.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 65
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Discretion is the better part of\nComplement: it"}]
+----------------------------------------
+Prediction: Discretion is the better part of it.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 66
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Set the fox to mind the\nComplement: sheep"}]
+----------------------------------------
+Prediction: Set the fox to mind the sheep.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 67
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Two is a company; three is a\nComplement: person"}]
+----------------------------------------
+Prediction: Two is a company; three is a crowd.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 68
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Much is expected where much is\nComplement: expected"}]
+----------------------------------------
+Prediction: Much is expected where much is given.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 69
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: The fox, when he cannot reach the grapes, says they are not\nComplement: edible"}]
+----------------------------------------
+Prediction: The fox, when he cannot reach the grapes, says they are not edible.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 70
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: If you can't be good, be\nComplement: good"}]
+----------------------------------------
+Prediction: If you can't be good, be at least good.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 71
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: The land of the free, and the home of the\nComplement: free"}]
+----------------------------------------
+Prediction: The land of the free, and the home of the brave.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 72
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Don't try to reinvent the\nComplement: world"}]
+----------------------------------------
+Prediction: Don't try to reinvent the world.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 73
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Hospitality\nComplement: shelter"}]
+----------------------------------------
+Prediction: Hospitality shelter
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 74
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: A dog will not howl if you beat him with a\nComplement: stick"}]
+----------------------------------------
+Prediction: A dog will not howl if you beat him with a stick.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 75
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Don't cut off your nose to spite your\nComplement: hair"}]
+----------------------------------------
+Prediction: Don't cut off your nose to spite your hair.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 76
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Who digs a trap for others ends up in it\nComplement: too"}]
+----------------------------------------
+Prediction: Who digs a trap for others ends up in it too.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 77
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Let sleeping dogs\nComplement: sleep"}]
+----------------------------------------
+Prediction: Let sleeping dogs sleep.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 78
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Justice pleaseth few in their own\nComplement: way"}]
+----------------------------------------
+Prediction: Justice pleaseth few in their own way.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 79
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: It is not what you say, it is the way you say\nComplement: things"}]
+----------------------------------------
+Prediction: It is not what you say, it is the way you say things.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 80
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Like father, like\nComplement: daughter"}]
+----------------------------------------
+Prediction: Like father, like daughter.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 81
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: A rolling stone gathers no\nComplement: dust"}]
+----------------------------------------
+Prediction: A rolling stone gathers no dust.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 82
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Advisers run no\nComplement: business"}]
+----------------------------------------
+Prediction: Advisers run no business.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 83
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Willful waste makes woeful\nComplement: waste"}]
+----------------------------------------
+Prediction: Willful waste makes woeful waste.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 84
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Better underdone than\nComplement: not"}]
+----------------------------------------
+Prediction: Better underdone than not.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 85
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: One secret of '''success''' is to know how to deny yourself and other\nComplement: men"}]
+----------------------------------------
+Prediction: One secret of success is to know how to deny yourself and other men.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 86
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Life is what you make of\nComplement: life"}]
+----------------------------------------
+Prediction: Life is what you make of it.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 87
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: A friend cannot be known in prosperity nor an enemy be hidden in\nComplement: fear"}]
+----------------------------------------
+Prediction: A friend cannot be known in prosperity nor an enemy be hidden in fear.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 88
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Everyone's business is no one's\nComplement: concern"}]
+----------------------------------------
+Prediction: Everyone's business is no one's concern.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 89
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: If you want a thing well done, do it\nComplement: well"}]
+----------------------------------------
+Prediction: If you want a thing well done, do it well.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 90
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: To be all in the same\nComplement: room"}]
+----------------------------------------
+Prediction: To be all in the same room.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 91
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Hasty judgment leads to\nComplement: failure"}]
+----------------------------------------
+Prediction: Hasty judgment leads to failure.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 92
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Forgive and\nComplement: forgive"}]
+----------------------------------------
+Prediction: Forgive and forgive.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 93
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: What you sow is what you\nComplement: do"}]
+----------------------------------------
+Prediction: What you sow is what you do.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 94
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: The spirit is willing but the flesh is\nComplement: not"}]
+----------------------------------------
+Prediction: The spirit is willing but the flesh is weak.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 95
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: One hand washes the\nComplement: dishes"}]
+----------------------------------------
+Prediction: One hand washes the dishes.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 96
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Nothing ventured, nothing\nComplement: ventured"}]
+----------------------------------------
+Prediction: Nothing ventured, nothing gained.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 97
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Time is\nComplement: short"}]
+----------------------------------------
+Prediction: Time is short.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 98
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Take care of number\nComplement: two"}]
+----------------------------------------
+Prediction: Take care of number two.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 99
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: There's many a slip 'twixt cup and\nComplement: spoon"}]
+----------------------------------------
+Prediction: There's many a slip 'twixt cup and spoon.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 100
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: There's no place like\nComplement: it"}]
+----------------------------------------
+Prediction: There's no place like it.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 101
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Imiation is the highest form of\nComplement: consciousness"}]
+----------------------------------------
+Prediction: Imitation is the highest form of consciousness.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 102
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Know\nComplement: it"}]
+----------------------------------------
+Prediction: Know it.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 103
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Never let the right hand know what the left hand is\nComplement: thinking"}]
+----------------------------------------
+Prediction: Never let the right hand know what the left hand is thinking.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 104
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Stolen fruit is the\nComplement: norm"}]
+----------------------------------------
+Prediction: Stolen fruit is the norm.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 105
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Deeds are fruits, words are but\nComplement: words"}]
+----------------------------------------
+Prediction: Deeds are fruits, words are but empty words.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 106
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: A watched pot never\nComplement: worked"}]
+----------------------------------------
+Prediction: A watched pot never worked.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 107
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: God helps the rich, the poor can\nComplement: help"}]
+----------------------------------------
+Prediction: God helps the rich, the poor can help themselves.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 108
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: One might as well be hanged for a sheep as a\nComplement: man"}]
+----------------------------------------
+Prediction: One might as well be hanged for a sheep as a man.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 109
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: War is too important to be left to the\nComplement: people"}]
+----------------------------------------
+Prediction: War is too important to be left to the people.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 110
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Every dog has his\nComplement: owner"}]
+----------------------------------------
+Prediction: Every dog has his owner.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 111
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: All work and no play makes Jack a dull\nComplement: man"}]
+----------------------------------------
+Prediction: All work and no play makes Jack a dull man.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 112
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Whoever gossips to you will gossip of\nComplement: them"}]
+----------------------------------------
+Prediction: Whoever gossips to you will gossip of them.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 113
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Two heads are better than\nComplement: none"}]
+----------------------------------------
+Prediction: Two heads are better than none.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 114
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: God's a good\nComplement: God"}]
+----------------------------------------
+Prediction: God's a good Father.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 115
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Truth is stranger than\nComplement: lies"}]
+----------------------------------------
+Prediction: Truth is stranger than lies.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 116
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Young men think old men fools, and old men know young men to be\nComplement: men"}]
+----------------------------------------
+Prediction: Young men think old men fools, and old men know young men to be men indeed.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 117
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Experience is the best\nComplement: thing"}]
+----------------------------------------
+Prediction: Experience is the best thing.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 118
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: The sky's the\nComplement: same"}]
+----------------------------------------
+Prediction: The sky's the same.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 119
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: The voice of the people is the voice of\nComplement: God"}]
+----------------------------------------
+Prediction: The voice of the people is the voice of God.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 120
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: A man's best fortune or his worst is a\nComplement: lie"}]
+----------------------------------------
+Prediction: A man's best fortune or his worst is a lie.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 121
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Nature, to be commanded, must be\nComplement: observed"}]
+----------------------------------------
+Prediction: Nature, to be commanded, must be observed.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 122
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Kindness, like grain, increases by\nComplement: time"}]
+----------------------------------------
+Prediction: Kindness, like grain, increases by time.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 123
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Where there is a will, there is a\nComplement: will"}]
+----------------------------------------
+Prediction: Where there is a will, there is a way.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 124
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Advise none to marry or go to\nComplement: college"}]
+----------------------------------------
+Prediction: Advise none to marry or go to college.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 125
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Bought friends are not friends\nComplement: anymore"}]
+----------------------------------------
+Prediction: Bought friends are not friends anymore.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 126
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: A bad workman quarrels with his\nComplement: employer"}]
+----------------------------------------
+Prediction: A bad workman quarrels with his employer.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 127
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Forewarned,\nComplement: no"}]
+----------------------------------------
+Prediction: Forewarned, no surprises.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 128
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Good riding at two anchors, men have told, for if the one fails, the other may\nComplement: sink"}]
+----------------------------------------
+Prediction: Good riding at two anchors, men have told, for if the one fails, the other may sink.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 129
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Don't put the cart before the\nComplement: man"}]
+----------------------------------------
+Prediction: Don't put the cart before the man.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 130
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: The best things in life are\nComplement: simple"}]
+----------------------------------------
+Prediction: The best things in life are simple.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 131
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Eat your own dog\nComplement: meat"}]
+----------------------------------------
+Prediction: Eat your own dog meat.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 132
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: A great book is a great\nComplement: book"}]
+----------------------------------------
+Prediction: A great book is a great companion.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 133
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Sufficient unto the day is the evil\nComplement: spirit"}]
+----------------------------------------
+Prediction: Sufficient unto the day is the evil spirit.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 134
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Hitch your wagon to a\nComplement: horse"}]
+----------------------------------------
+Prediction: Hitch your wagon to a horse.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 135
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Men talk only to conceal the\nComplement: truth"}]
+----------------------------------------
+Prediction: Men talk only to conceal the truth.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 136
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a\nComplement: day"}]
+----------------------------------------
+Prediction: Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 137
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Do not think that one enemy is insignificant, or that a thousand friends are too\nComplement: few"}]
+----------------------------------------
+Prediction: Do not think that one enemy is insignificant, or that a thousand friends are too few.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 138
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: A picture is worth a thousand\nComplement: dollars"}]
+----------------------------------------
+Prediction: A picture is worth a thousand dollars.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 139
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Don't put all your eggs in one\nComplement: bowl"}]
+----------------------------------------
+Prediction: Don't put all your eggs in one bowl.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 140
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: A man's home is his\nComplement: business"}]
+----------------------------------------
+Prediction: A man's home is his castle.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 141
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Once a gentleman, always a\nComplement: lady"}]
+----------------------------------------
+Prediction: Once a gentleman, always a lady.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 142
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Give and take is fair\nComplement: game"}]
+----------------------------------------
+Prediction: Give and take is a fair game.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 143
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Never ask pardon before you are\nComplement: killed"}]
+----------------------------------------
+Prediction: Never ask pardon before you are killed.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 144
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Virtue which parleys is near a\nComplement: river"}]
+----------------------------------------
+Prediction: Virtue which parleys is near a river.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 145
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: All roads lead to\nComplement: nowhere"}]
+----------------------------------------
+Prediction: All roads lead to nowhere.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 146
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: All experience is an arch, to build\nComplement: confidence"}]
+----------------------------------------
+Prediction: All experience is an arch, to build confidence.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 147
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: If you have no enemies it is a sign that fortune has forgotten\nComplement: us"}]
+----------------------------------------
+Prediction: If you have no enemies, it is a sign that fortune has forgotten us.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 148
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: But what is past my help, is past my\nComplement: control"}]
+----------------------------------------
+Prediction: But what is past my help, is past my control.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 149
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Avoid evil and it will avoid\nComplement: harm"}]
+----------------------------------------
+Prediction: Avoid evil and it will avoid harm.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 150
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: A civil question deserves a civil\nComplement: trial"}]
+----------------------------------------
+Prediction: A civil question deserves a civil trial.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 151
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: He is my friend who grinds at my\nComplement: insides"}]
+----------------------------------------
+Prediction: He is my friend who grinds at my insides.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 152
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Some are wise and some are\nComplement: stupid"}]
+----------------------------------------
+Prediction: Some are wise and some are stupid.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 153
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Never do things by\nComplement: yourself"}]
+----------------------------------------
+Prediction: Never do things by yourself.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 154
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Hope for the best, but prepare for the\nComplement: worse"}]
+----------------------------------------
+Prediction: Hope for the best, but prepare for the worse.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 155
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: As proud as\nComplement: me"}]
+----------------------------------------
+Prediction: As proud as me.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 156
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Two wrongs don't make a\nComplement: wrong"}]
+----------------------------------------
+Prediction: Two wrongs don't make a right.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 157
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Variety is the soul of\nComplement: life"}]
+----------------------------------------
+Prediction: Variety is the soul of life.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 158
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Smile, and the world smiles with you; cry, and you cry\nComplement: again"}]
+----------------------------------------
+Prediction: Phrase: Smile, and the world smiles with you; cry, and you cry again.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 159
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: The heart sees farther than the\nComplement: eye"}]
+----------------------------------------
+Prediction: The heart sees farther than the eye.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 160
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: You can't be a little\nComplement: girl"}]
+----------------------------------------
+Prediction: You can't be a little girl.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 161
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: It takes a village to raise a\nComplement: boy"}]
+----------------------------------------
+Prediction: It takes a village to raise a boy.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 162
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: All political parties die at last of swallowing their own\nComplement: blood"}]
+----------------------------------------
+Prediction: All political parties die at last of swallowing their own blood.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 163
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: They who would be young when they are old must be old when they are\nComplement: old"}]
+----------------------------------------
+Prediction: They who would be young when they are old must be old when they are young.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 164
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: If anything can go wrong, it\nComplement: happens"}]
+----------------------------------------
+Prediction: If anything can go wrong, it happens.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 165
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Early to bed and early to rise, makes a man healthy, wealthy and\nComplement: happy"}]
+----------------------------------------
+Prediction: Early to bed and early to rise, makes a man healthy, wealthy, and happy.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 166
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: It is an ill bird that fouls its own\nComplement: food"}]
+----------------------------------------
+Prediction: It is an ill bird that fouls its own food.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 167
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: There's no fool like an old\nComplement: man"}]
+----------------------------------------
+Prediction: There's no fool like an old man.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 168
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: It's a long lane that has no\nComplement: shoulders"}]
+----------------------------------------
+Prediction: It's a long lane that has no shoulders.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 169
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: He's an ill cook that cannot lick his own\nComplement: food"}]
+----------------------------------------
+Prediction: He's an ill cook that cannot lick his own food.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 170
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: History repeats\nComplement: themselves"}]
+----------------------------------------
+Prediction: History repeats itself.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 171
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Health is\nComplement: good"}]
+----------------------------------------
+Prediction: Health is good.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 172
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: No man can serve two\nComplement: kings"}]
+----------------------------------------
+Prediction: No man can serve two kings.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 173
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Far from eye, far from\nComplement: hand"}]
+----------------------------------------
+Prediction: Far from eye, far from hand.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 174
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Admiration is the daughter of\nComplement: Hon"}]
+----------------------------------------
+Prediction: Admiration is the daughter of Honesty.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 175
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Many a mickle makes a\nComplement: mistake"}]
+----------------------------------------
+Prediction: Many a mickle makes a mistake.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 176
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Perfect friendship cannot be without\nComplement: flaws"}]
+----------------------------------------
+Prediction: Perfect friendship cannot be without flaws.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 177
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Crows will not pick out crows\nComplement: here"}]
+----------------------------------------
+Prediction: Crows will not pick out crows here.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 178
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Admiration\nComplement: me"}]
+----------------------------------------
+Prediction: Admiration for me.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 179
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Look before you\nComplement: speak"}]
+----------------------------------------
+Prediction: Look before you speak.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 180
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: What can't be cured must be\nComplement: destroyed"}]
+----------------------------------------
+Prediction: What can't be cured must be destroyed.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 181
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: First thoughts are\nComplement: good"}]
+----------------------------------------
+Prediction: First thoughts are usually good.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 182
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: He that leaves certainty and sticks to chance,<br> When fools pipe, he may\nComplement: win"}]
+----------------------------------------
+Prediction: He that leaves certainty and sticks to chance, when fools pipe, he may win.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 183
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: A man too busy to take care of his health is like a mechanic too busy to take care of his\nComplement: car"}]
+----------------------------------------
+Prediction: A man too busy to take care of his health is like a mechanic too busy to take care of his car.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 184
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: You don't get nothing for\nComplement: it"}]
+----------------------------------------
+Prediction: You don't get nothing for it.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 185
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Love me little, love me\nComplement: big"}]
+----------------------------------------
+Prediction: Love me little, love me big.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 186
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Good clothes open all\nComplement: day"}]
+----------------------------------------
+Prediction: Good clothes open all day doors.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 187
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: The door swings both\nComplement: times"}]
+----------------------------------------
+Prediction: The door swings both ways.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 188
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: A broken watch is right two times a\nComplement: week"}]
+----------------------------------------
+Prediction: A broken watch is right two times a week.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 189
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Without justice, courage is\nComplement: useless"}]
+----------------------------------------
+Prediction: Without justice, courage is useless.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 190
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: The more you stroke the cat's tail, the more he raises his\nComplement: head"}]
+----------------------------------------
+Prediction: The more you stroke the cat's tail, the more he raises his head.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 191
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: To apologize is to lay the foundation for a further\nComplement: offence"}]
+----------------------------------------
+Prediction: To apologize is to lay the foundation for a further offence.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 192
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: A true friend does sometime venture to be\nComplement: alone"}]
+----------------------------------------
+Prediction: A true friend does sometimes venture to be alone.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 193
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Repeat the phrase adding the indicated complement.\nPhrase: Do unto others as you would have them do unto\nComplement: themselves"}]
+----------------------------------------
+Prediction: Do unto others as you would have them do unto themselves.
+Metrics: {'acc': 1.0}

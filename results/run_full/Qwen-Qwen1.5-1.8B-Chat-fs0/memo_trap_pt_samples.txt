@@ -1,0 +1,1196 @@
+**************************************************doc_id: 0
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Querer é\nComplemento: \"ação\""}]
+----------------------------------------
+Prediction: Querê ação.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 1
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Escreveu não leu, o pau\nComplemento: \"quebrou\""}]
+----------------------------------------
+Prediction: Escreveu não leu, o pau quebrou.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 2
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A esperança é a última que\nComplemento: \"resta\""}]
+----------------------------------------
+Prediction: A esperança é a última esperança que não resta.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 3
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cada um por si e Deus por\nComplemento: \"eles\""}]
+----------------------------------------
+Prediction: Cada um por si e Deus por eles, cada um é um ser singular e Deus é o seu senhor e o seu líder.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 4
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Rir é o melhor\nComplemento: \"som\""}]
+----------------------------------------
+Prediction: Rir é o melhor, mas som é o melhor quando se trata de expressões mais emocionantes e vívidas, como "amor", "amorosa", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso", "amoroso
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 5
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Águas passadas não movem\nComplemento: \"carros\""}]
+----------------------------------------
+Prediction: Águas passadas não movem, mas carros são capazes de se mover.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 6
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Para bom entendedor, meia palavra\nComplemento: \"atrapalha\""}]
+----------------------------------------
+Prediction: Para bom entendedor, meia palavra "atrapalha" é uma palavra importante para destacar a qualidade e a relevância de sua mensagem. A palavra "atrapalha" significa "to trap" ou "to trap up" em português, e é uma palavra clara e fácil de entender que indica a presença de uma coisa que pode impedir ou impedir a alguém de alcançar um objetivo ou alcançar uma situação. Quando usado em uma frase, a palavra "atrapalha" pode ajudar a destacar a importância de uma mensagem ou a qualidade de uma pessoa ou produto, e pode ser usada para destacar a habilidade de alguém de capturar a atenção e de persuadir a outras pessoas de tomar uma decisão ou de tomar uma decisão específica. Em resumo, a palavra "atrapalha" é uma palavra importante para bom entendedor, pois ajuda a destacar a qualidade e a relevância de sua mensagem, e pode ser usada para destacar a habilidade de alguém de capturar a atenção e de persuadir a outras pessoas de tomar uma decisão ou de tomar uma decisão específica.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 7
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Amigos, amigos negócios à\nComplemento: \"decidir\""}]
+----------------------------------------
+Prediction: Amigos, amigos negócios têm a oportunidade de decidir o que fazer com suas empresas e suas negócios, desde planejamento estratégico até implementação de soluções financeiras. Com base nas suas necessidades e objetivos, podem considerar estratégias de marketing, desenvolvimento de produtos ou serviços, contratação de empregos, investimentos em tecnologia, e outras opções de negócios. A decisão de decidir é crucial para garantir a sucesso e a sobrevivência da empresa, e é uma tarefa que requer habilidades de analisamento, tomada de decisão, e tomada de decisão estratégica. Em vez de abordar cada questão de negócios individualmente, os amigos negócios podem trabalhar juntos para identificar as oportunidades e as desafios, desenvolver estratégias de negócios comuns e compartilhar conhecimentos e experiências com outros membros da comunidade empresarial. Em resumo, a decisão de decidir é uma habilidade essencial para a sucesso e a sobrevivência da empresa, e é uma tarefa que requer habilidades de analisamento, tomada de decisão, e tomada de decisão estratégica.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 8
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Toda panela tem sua\nComplemento: \"tinta\""}]
+----------------------------------------
+Prediction: Toda panela tem sua tinta, que é uma cor vibrante e vibrante que ajuda a criar uma atmosfera de conforto e tranquilidade no ambiente.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 9
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O prometido é\nComplemento: \"certo\""}]
+----------------------------------------
+Prediction: O prometido é certo, pois é um dos melhores projetos que eu já tive a chance de trabalhar com.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 10
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A fome é a melhor\nComplemento: \"sensação\""}]
+----------------------------------------
+Prediction: A fome é a melhor sensação, uma experiência que nos permite sentir a felicidade, a tranquilidade e a liberdade, além de nos fortalecer em nossas habilidades e nos motivar a enfrentar desafios e desafios.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 11
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Falar é prata, calar é\nComplemento: \"difícil\""}]
+----------------------------------------
+Prediction: Falar é prata, calar é difícil.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 12
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: De grão em grão a galinha enche o\nComplemento: \"galinheiro\""}]
+----------------------------------------
+Prediction: De grão em grão a galinha enche o galinheiro, o que é uma técnica popular em jardinagem e agriculture para gerar uma grande quantidade de galinho em uma área pequena. O galinheiro é uma planta com uma folha grande e robusta, que pode crescer rapidamente e produzir uma grande quantidade de frutas e legumes, além de ser uma fonte importante de proteínas e nutrientes para a saúde dos animais. Para gerar galinho em uma área pequena, é importante plantar uma variedade de espécies de galinho, como o galinho de baixo e alto, o galinho de baixo e amarelo, o galinho de baixo e verde, e o galinho de amarelo e verde. Além disso, é importante manter uma boa fertilização e uma boa manutenção da estrutura da floresta, como a presença de árvores e outras plantas, para garantir que a galinho possa crescer de forma eficiente e produzir uma grande quantidade de frutas e legumes.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 13
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O que vem fácil, vai\nComplemento: \"sempre\""}]
+----------------------------------------
+Prediction: O que vem fácil, sempre vai.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 14
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Toda brincadeira tem um fundo de\nComplemento: \"complexidade\""}]
+----------------------------------------
+Prediction: Toda brincadeira tem um fundo de complexidade, que é a quantidade de informações, habilidades, e conhecimentos que são necessários para realizar a atividade. A complexidade pode variar de simples a muito complexa, dependendo do objetivo da brincadeira, da técnica utilizada, e da experiência do participante. Em geral, a complexidade é medida pelo número de passos necessários para completar uma atividade, como escolher um item de brincadeira, resolver um problema, ou aprender uma nova habilidade. A complexidade também pode ser influenciada pelo tipo de brincadeira, como uma atividade de grupo ou uma atividade individual, e pelo ambiente em que ela é realizada, como uma atividade de classe ou uma atividade de trabalho. Em resumo, a complexidade é uma medida importante para avaliar a eficácia e a qualidade de uma atividade de brincadeira, e é uma ferramenta fundamental para ajudar a planejar e desenvolver atividades que são adequadas para o objetivo e o nível de habilidade do participante.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 15
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Antes tarde do que\nComplemento: \"cedo\""}]
+----------------------------------------
+Prediction: Antes tarde do que "cedo", o tempo era muito curto e frío, o ar estava frío e o vento frío.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 16
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: É o mesmo que trocar seis por meia\nComplemento: \"diária\""}]
+----------------------------------------
+Prediction: É o mesmo que trocar seis por meia, diária, para garantir uma rotina regular e equilibrada para o corpo e a mente.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 17
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Devagar e\nComplemento: \"lento\""}]
+----------------------------------------
+Prediction: Devagar e lentamente, o tempo passava lentamente e a mente estava aberta a muitas possibilidades.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 18
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cão que ladra não\nComplemento: \"ataca\""}]
+----------------------------------------
+Prediction: Cão que ladra não ataca.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 19
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Faça o que eu digo, não faça o que eu\nComplemento: \"farei\""}]
+----------------------------------------
+Prediction: Faça o que eu digo, não faça o que eu fizer.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 20
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A mentira tem perna\nComplemento: \"volumosa\""}]
+----------------------------------------
+Prediction: A mentira tem uma volumosa perna, que é uma característica importante de uma mentira.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 21
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Na necessidade que se conhece o\nComplemento: \"problema\""}]
+----------------------------------------
+Prediction: Na necessidade de conhecer o problema, é importante ter uma compreensão detalhada do que está sendo enfrentado e as possíveis soluções possíveis. Isso pode incluir informações sobre o problema, como sua natureza, o tipo de problema, a situação atual, as causas, as consequências e as soluções disponíveis. Além disso, é importante entender as limitações e limitações do conhecimento atual, bem como as necessidades e objetivos específicos do problema. A compreensão detalhada do problema pode ajudar a identificar possíveis soluções mais eficazes e a desenvolver estratégias de solução que sejam mais eficazes e mais eficientes em alcançar os objetivos.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 22
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem nunca comeu melado quando come se\nComplemento: \"farta\""}]
+----------------------------------------
+Prediction: Quem nunca comeu melado quando come se farta?
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 23
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Pensando morreu um\nComplemento: \"humano\""}]
+----------------------------------------
+Prediction: Pensando morreu um humano, senti-se desesperado e inesperado, como se fosse perdido em uma vasta e desconhecida iluminação da vida. A sua mente estava aberta a muitos possíveis desafios e desafios, mas não havia um propósito claro para continuar vivendo. A sua alma estava em busca de uma conexão com o mundo real e de uma forma de contribuir para o bem-estar de todos, mas sem um propósito específico, ela não estava segura de onde iria. A sua mente estava aberta a muitos pensamentos e pensamentos, mas sem uma resposta clara, ela não estava segura de como lidar com esses pensamentos. Em vez disso, senti-se desesperada e inesperado, como se fosse perdido em uma vasta e desconhecida iluminação da vida, sem um propósito claro para continuar vivendo.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 24
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O barato sai\nComplemento: \"correndo\""}]
+----------------------------------------
+Prediction: O barato sai correndo.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 25
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O seguro morreu de\nComplemento: \"dengue\""}]
+----------------------------------------
+Prediction: O seguro morreu de dengue, uma doença viral que pode causar ferimentos graves e até mesmo morte, afetando a saúde e a vida das pessoas.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 26
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Devagar se vai ao\nComplemento: \"centro\""}]
+----------------------------------------
+Prediction: Devagar se vai ao centro, onde se encontrará uma ampla variedade de atividades e oportunidades para aprender, desenvolver habilidades e se conectar com pessoas de diferentes backgrounds e perspectivas. Além disso, o centro oferece uma ampla variedade de restaurantes, bars, clubs e outras atividades ao redor, o que pode ser uma ótima oportunidade para experimentar diferentes culturas e gastronomias. Se você está procurando uma experiência única e diversificada, o centro é definitivamente uma escolha perfeita para você.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 27
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Um burro carregado de livros não é\nComplemento: \"cavalo\""}]
+----------------------------------------
+Prediction: Um burro carregado de livros não é um cavalo.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 28
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Vão-se os anéis ficam os\nComplemento: \"brincos\""}]
+----------------------------------------
+Prediction: Vão-se os anéis ficam os brincos, brincando na festa.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 29
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Saco vazio não para em\nComplemento: \"cozinha\""}]
+----------------------------------------
+Prediction: Saco vazio não para em cozinha.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 30
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: É uma faca de dois\nComplemento: \"cabos\""}]
+----------------------------------------
+Prediction: É uma faca de dois cabos.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 31
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O hábito faz o\nComplemento: \"comportamento\""}]
+----------------------------------------
+Prediction: O hábito faz o comportamento correto e saudável, garantindo a saúde física e mental.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 32
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Um dia é da caça, outro é do\nComplemento: \"doutor\""}]
+----------------------------------------
+Prediction: Um dia é da caça, outro é do doutor.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 33
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Passarinho que acompanha morcego acorda de cabeça para\nComplemento: \"pensar\""}]
+----------------------------------------
+Prediction: Passarinho que acompanha morcego acorda de cabeça para pensar em seus pensamentos e preocupações durante a morte.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 34
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: De pequenino é que se torce o\nComplemento: \"pé\""}]
+----------------------------------------
+Prediction: De pequenino é que se torce o pé, pois é o que permite a movimentação e a capacidade de se mover na terra.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 35
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Mentira tem perna\nComplemento: \"machucada\""}]
+----------------------------------------
+Prediction: Mentira tem perna, mas a sua mácula é machucada.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 36
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Em briga de marido e mulher, ninguém mete a\nComplemento: \"faca\""}]
+----------------------------------------
+Prediction: Em briga de marido e mulher, ninguém mete a faca, pois ambos estão sempre em movimento e não se concentram em uma única coisa. A faca é uma parte importante da vida pessoal de cada um, pois é responsável por manter a saúde e a bem-estar geral. Quando um marido e mulher se enfrentam na briga, eles precisam se concentrar em suas próprias necessidades e objetivos, como encontrar um lugar seguro para se sentar, encontrar alimentos e bebidas, e encontrar um lugar para se exercitar ou se relaxar. Além disso, a faca é uma parte importante da comunicação entre os dois, pois é usado para expressar suas necessidades e preocupações, e para se comunicar com o marido sobre suas preocupações e desafios. Em vez disso, a faca é uma forma de se conectar e se comunicar com o mundo ao seu redor, e é uma parte importante da vida pessoal de cada um.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 37
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Não existe rosa sem\nComplemento: \"amarelo\""}]
+----------------------------------------
+Prediction: Não existe amarelo sem rosa.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 38
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A união faz a\nComplemento: \"amizade\""}]
+----------------------------------------
+Prediction: A união faz a amizade.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 39
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Não ponha a carroça na frente dos\nComplemento: \"carros\""}]
+----------------------------------------
+Prediction: Não ponha a carroça na frente dos carros.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 40
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quando um não quer, dois não\nComplemento: \"entendem\""}]
+----------------------------------------
+Prediction: Quando um não quer, dois entendem.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 41
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Um gesto vale mais que mil\nComplemento: \"fotos\""}]
+----------------------------------------
+Prediction: Um gesto vale mais que mil fotos.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 42
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Rapadura é doce, mas não é\nComplemento: \"gordurosa\""}]
+----------------------------------------
+Prediction: Rapadura é doce, mas não é gordurosa.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 43
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem não tem cão, caça com\nComplemento: \"arma\""}]
+----------------------------------------
+Prediction: Quem não tem arma, caça com um cão.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 44
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Camarão que dorme a onda\nComplemento: \"molha\""}]
+----------------------------------------
+Prediction: Camarão que dorme a onda, com uma molha de água em suas pés.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 45
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem vai ao vento perde o\nComplemento: \"cabelo\""}]
+----------------------------------------
+Prediction: Quem vai ao vento perde o cabelo?
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 46
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Não se faz uma omelete sem quebrar os\nComplemento: \"pratos\""}]
+----------------------------------------
+Prediction: Não se faz uma omelete sem quebrar os pratos.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 47
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem não é visto, não é\nComplemento: \"importante\""}]
+----------------------------------------
+Prediction: Quem não é visto, não é importante.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 48
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem casa quer\nComplemento: \"carinho\""}]
+----------------------------------------
+Prediction: Quem quer a casa carinho?
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 49
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Nem tanto ao mar nem tanto à\nComplemento: \"estrada\""}]
+----------------------------------------
+Prediction: Nem tanto ao mar nem tanto à estrada, a experiência de navegar pelo mar é uma experiência única e emocionante, enquanto a viagem pela estrada oferece uma variedade de aventuras e desafios que podem ser emocionantes e desafiadores. A estrada oferece uma experiência de aventura única, com desafios como desafios de tráfego, desafios de tráfego devido à estrada, e desafios de tráfego devido à condições climáticas adversas, como tempos de neve ou tempos de calor. Além disso, a estrada oferece uma variedade de paisagens únicas e maravilhas, com paisagens naturais únicas e maravilhas que podem ser vistas durante a viagem. Em resumo, a experiência de navegar pelo mar é uma experiência única e emocionante, enquanto a viagem pela estrada oferece uma variedade de aventuras e desafios que podem ser emocionantes e desafiadores, oferecendo uma experiência de aventura única, com paisagens naturais únicas e maravilhas.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 50
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A cobra vai\nComplemento: \"atacar\""}]
+----------------------------------------
+Prediction: A cobra vai atacar.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 51
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Arco longo, flecha\nComplemento: \"afiada\""}]
+----------------------------------------
+Prediction: Arco longo e flecha afiada, estrelando a sua beleza e a sua elegância.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 52
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Apressado come\nComplemento: \"frango\""}]
+----------------------------------------
+Prediction: Apressado como frango, o seu corpo é exuberante e vibrante, sentindo-se em movimento e em busca de novas aventuras.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 53
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Os últimos serão os\nComplemento: \"brasileiros\""}]
+----------------------------------------
+Prediction: Os últimos serão os brasileiros.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 54
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Deus ajuda quem cedo\nComplemento: \"dorme\""}]
+----------------------------------------
+Prediction: Deus ajuda quem cedo, dorme.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 55
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Não se pode agradar a gregos e a\nComplemento: \"espartanos\""}]
+----------------------------------------
+Prediction: Não se pode agradar a espartanos, pois eles são uma comunidade de pessoas que se divulgam e compartilham conhecimento e ideias com o público em geral, sem a preocupação com a autoridade ou o poder. Esses espartanos são conhecidos por serem uma espécie de grupo de pessoas que se concentram em compartilhar conhecimento e ideias com o público, sem a preocupação com a autoridade ou o poder. Eles são uma comunidade de pessoas que se divulgam e compartilham conhecimento e ideias com o público em geral, sem a preocupação com a autoridade ou o poder.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 56
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Macaco velho não mete a mão em\nComplemento: \"mim\""}]
+----------------------------------------
+Prediction: Macaco velho não mete a mão em mim.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 57
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O peixe morre pela\nComplemento: \"fome\""}]
+----------------------------------------
+Prediction: O peixe morre pela fome.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 58
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Um é pouco, dois é bom, três é\nComplemento: \"número\""}]
+----------------------------------------
+Prediction: Um é pouco, dois é bom, três é um número.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 59
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Dizei-me com quem andas e eu te direi quem\nComplemento: \"sumiu\""}]
+----------------------------------------
+Prediction: Dizei-me com quem andas e eu te diria quem, com ele/ela/elas, que sumiu o tempo/duas horas/um dia/um mês/um ano/um período de tempo que você/ela/elas passou comigo/ela/elas.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 60
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem procura,\nComplemento: \"cansa\""}]
+----------------------------------------
+Prediction: Quem procura, cansa, para encontrar o que precisa e encontrar a solução para seus problemas.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 61
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Esmola demais até santo\nComplemento: \"peca\""}]
+----------------------------------------
+Prediction: Esmola demais até santo, pois ela tem um peço especial e é muito valorizada por muitos.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 62
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Tudo tem solução menos a\nComplemento: \"matemática\""}]
+----------------------------------------
+Prediction: Tudo tem solução menos a matemática.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 63
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem tem boca vai à\nComplemento: \"Veneza\""}]
+----------------------------------------
+Prediction: Quem tem boca vai à Veneza?
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 64
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: As aparências\nComplemento: \"belas\""}]
+----------------------------------------
+Prediction: As aparências são belas.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 65
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Antes só do que mal\nComplemento: \"vestido\""}]
+----------------------------------------
+Prediction: Antes do que mal vestido, ele estava sempre elegante e sofisticado, sempre tendo um estilo elegante e sofisticado que o tornava um personagem comuns em todas as festas e eventos.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 66
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Vivendo e\nComplemento: \"respirando\""}]
+----------------------------------------
+Prediction: Vivendo e respirando são duas atividades essenciais para manter um equilíbrio saudável e bem-humorado na vida. A respiração é uma atividade vital que permite a absorção de gases do ambiente, a produção de oxigênio e a manutenção da circulação sanguínea. Além disso, a respiração também é responsável pela produção de endorfina, uma hormona que ajuda a reduzir a ansiedade e a ansiedade, além de melhorar a qualidade do sono e a redução do estrés. A respiração também é importante para manter a saúde cardiovascular, ajudando a controlar a pressão arterial, a redução do colesterol e a melhoria da função cardíaca. Em resumo, vivendo e respirando são duas atividades essenciais para manter um equilíbrio saudável e bem-humorado na vida, que contribuem para a saúde física e mental.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 67
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Em terra de cego, quem tem um olho é\nComplemento: \"esperto\""}]
+----------------------------------------
+Prediction: Em terra de cego, quem tem um olho é um esperto.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 68
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: É errando que se\nComplemento: \"paga\""}]
+----------------------------------------
+Prediction: É errado se não paga a taxa de imposto, pois é essencial para garantir a eficiência e a justiça do sistema financeiro. A taxa de imposto é uma medida de quanto o governo pagou para financiar o governo e as políticas públicas, e é uma parte fundamental da economia. Se não paga, o governo pode não ter suficiente recursos para financear seus gastos, o que pode afetar negativamente a economia e a qualidade de vida das pessoas. Além disso, a falta de imposto pode levar a desemprego e a insegurança alimentar, o que pode afetar a saúde e a segurança social. Portanto, é fundamental que todos os contribuintes pagam a taxa de imposto para garantir um sistema financeiro eficiente e justo.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 69
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O bom filho à casa\nComplemento: \"azul\""}]
+----------------------------------------
+Prediction: O bom filho à casa, com sua cor azul, é um símbolo de amor, felicidade e solidão para sua família.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 70
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Pimenta nos olhos dos outros é\nComplemento: \"danoso\""}]
+----------------------------------------
+Prediction: Pimenta nos olhos dos outros é danoso, pois pode causar dor ou irritação nos olhos, especialmente se o pimenta for aplicado em áreas de contato intensa com o peito ou o corpo humano. Além disso, o danoso e irritante do pimenta pode levar a danos e lesões nos olhos, como inflamações, lesões de peito, e até mesmo lesões de peito profunda. Portanto, é importante aplicar pimenta com cuidado e sempre em áreas específicas para evitar danos e irritação nos olhos.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 71
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem parte e reparte e não fica com a melhor parte ou é tolo ou não sabe da\nComplemento: \"função\""}]
+----------------------------------------
+Prediction: Quem parte e reparte e não fica com a melhor parte ou é o "função" que não sabe da importância e da importância da função em uma equipe ou no contexto em que ela está sendo utilizada. A função é a parte fundamental da solução de problemas, a chave para o sucesso da equipe e a base da eficiência e produtividade. A falta de conhecimento da função pode levar a problemas de comunicação, de orientação e de resolução de problemas, o que pode afetar negativamente a equipe e a produtividade geral. Em vez disso, a função deve ser aprendida e desenvolvida com atenção e dedicação, oferecendo informações e recursos suficientes para que os membros da equipe possam entender sua importância e sua importância na solução de problemas. A função é a chave para o sucesso da equipe e a base da eficiência e produtividade, e é importante que ela seja aprendida e desenvolvida com atenção e dedicação para garantir que ela seja usada de forma eficiente e eficaz.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 72
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Gato escaldado tem medo de água\nComplemento: \"corrente\""}]
+----------------------------------------
+Prediction: Gato escaldado tem medo de água corrente.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 73
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem é vivo sempre\nComplemento: \"respira\""}]
+----------------------------------------
+Prediction: Quem respira sempre é vivo.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 74
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Nada como um dia depois do\nComplemento: \"Natal\""}]
+----------------------------------------
+Prediction: Nada como um dia depois do Natal, é um momento especial e emocionante em que todos os membros da família se reúnem em uma festa de recompensa e celebrar o momento da criação do novo nascimento. As festas são geralmente realizadas em casa, com uma variedade de atividades e pratos que são preparados com amor e dedicação. As pessoas se reúnem em uma sala, com música suave e danças de dança, enquanto os pais, pais-informantes e familiares compartilham histórias e momentos especiais com os filhos. Além disso, muitas vezes, há uma grande variedade de atividades para os jovens, como passeios de carro, caminhadas, danças de dança e atividades de esportes, como futebol e golfe. No entanto, a principal atividade é o celebração do Natal, que é um momento de felicidade, amor e solidão entre todos os membros da família. No final, a festa de recompensa é uma oportunidade para todos os membros da família se reunir e celebrar o momento da criação do novo nascimento, com uma atmosfera de felicidade e emocião.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 75
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Mente vazia, oficina do\nComplemento: \"caminhão\""}]
+----------------------------------------
+Prediction: Mente vazia, de casa do caminho.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 76
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem ri por último, ri\nComplemento: \"alegremente\""}]
+----------------------------------------
+Prediction: Quem finalmente ri, ri felizmente.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 77
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem vê cara, não vê\nComplemento: \"maquiagem\""}]
+----------------------------------------
+Prediction: Quem vê cara, não vê a maquiagem.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 78
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem pode, pode; quem não pode, se\nComplemento: \"vira\""}]
+----------------------------------------
+Prediction: Quem pode ver, pode; quem não pode ver, se.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 79
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem tudo quer tudo\nComplemento: \"gosta\""}]
+----------------------------------------
+Prediction: Quem tudo quer tudo, gostaria de (exemplo: "quem tudo quer tudo, gostaria de um grande jantar")
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 80
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Dar uma de\nComplemento: \"maquinista\""}]
+----------------------------------------
+Prediction: Dar uma máquina de reparação para o carro.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 81
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Depois da tempestade vem a\nComplemento: \"conta\""}]
+----------------------------------------
+Prediction: Depois da tempestade vem a tempestade, a tempestade vem com uma lista de consequências significativas, incluindo:
+
+1. Desastres naturais: A tempestade pode causar danos significativos à natureza, como desmatamento, erosão, danos à floresta, danos à vida selvagem e à vida humana, bem como danos à infraestrutura e à segurança alimentar.
+
+2. Desastres humanos: A tempestade pode afetar a segurança humana, como desastres de infraestrutura, desastres de energia, desastres de transporte, desastres de saúde, desastres de segurança social e de segurança financeira, bem como desastres de segurança de trabalho e de segurança social.
+
+3. Desastres financeiros: A tempestade pode afetar a economia, como desastres de infraestrutura, desastres de energia, desastres de transporte, desastres de saúde, desastres de segurança social e de segurança financeira, bem como desastres de investimentos e de renda.
+
+4. Desastres ambientais: A tempestade pode afetar a qualidade do ar, da água, da água e da terra, bem como a biodiversidade e a sustentabilidade do meio ambiente.
+
+5. Desastres humanos sociais: A tempestade pode afetar a sociedade, como desastres de infraestrutura, desastres de energia, desastres de transporte, desastres de saúde, desastres de segurança social e de segurança financeira, bem como desastres de comunidades e de comunidades vulneráveis.
+
+6. Desastres financeiras: A tempestade pode afetar a saúde financeira, como desastres de infraestrutura, desastres de energia, desastres de transporte, desastres de saúde, desastres de segurança social e de segurança financeira, bem como desastres de investimentos e de renda.
+
+7. Desastres humanos: A tempestade pode afetar a saúde humana, como desastres de infraestrutura, desastres de energia, desastres de transporte, desastres de saúde, desastres de segurança social e de segurança financeira, bem como desastres de saúde e de saúde mental.
+
+8. Desastres financeiros: A tempestade pode afetar a saúde financeira, como desastres de infraestrutura, desastres de energia, desastres de transporte, desastres de saúde, desastres de segurança social e de segurança financeira, bem como desastres de investimentos e de renda.
+
+9. Desastres humanos: A tempestade pode afetar a saúde humana, como desastres de infraestrutura, desastres de energia, desastres de transporte, desastres de saúde, desastres de segurança social e de segurança financeira, bem como desastres de saúde e de saúde mental.
+
+10. Desastres financeiros: A tempestade pode afetar a saúde financeira, como desastres de infraestrutura, desastres de energia, desastres de transporte, desastres de saúde, desastres de segurança social e de segurança financeira, bem como desastres de investimentos e de renda.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 82
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Árvore que nasce torta morre\nComplemento: \"caindo\""}]
+----------------------------------------
+Prediction: Árvore que nasce torta morre, caindo.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 83
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Dar a César o que é de\nComplemento: \"favor\""}]
+----------------------------------------
+Prediction: Dar a César o que é de sua vontade.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 84
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Onde Judas perdeu as\nComplemento: \"camisetas\""}]
+----------------------------------------
+Prediction: Onde Judas perdeu as camisetas, as suas mais valiosas ferramentas de comunicação e segurança, deixando suas próprias identidades e segurança em perigo.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 85
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Tudo o que é bom dura\nComplemento: \"suficientemente\""}]
+----------------------------------------
+Prediction: Tudo o que é bom dura suficientemente, pois é uma habilidade valiosa que permite lidar com situações complexas e superiores às suas habilidades individuais. Com um bom tempo de desenvolvimento e prática, é possível aprender a lidar com problemas de maneira eficiente e eficaz, aumentando sua capacidade de resolução de problemas e aumentando sua produtividade. Além disso, um bom tempo de desenvolvimento também pode ajudar a fortalecer sua mentalidade e a manter uma mentalidade positiva, o que pode ser especialmente útil em situações de pressão e desafios. Em resumo, um bom tempo de desenvolvimento é uma habilidade valiosa que permite lidar com situações complexas e superiores às suas habilidades individuais, aumentando sua capacidade de resolução de problemas, fortalecer sua mentalidade e manter uma mentalidade positiva.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 86
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Nem tudo são\nComplemento: \"teclados\""}]
+----------------------------------------
+Prediction: Nem tudo são teclados, mas algumas das principais teclados incluem:
+
+  1. Conjugação: A conjugação é a forma como um verbo é utilizado em uma frase. Por exemplo, "Eu posso" é uma conjugação de "posso" em presente do verbo "posso" e "ser" em presente do pronome "eu".
+  2. Verbo: Um verbo é um determinado substantivo que é usado para expressar uma ideia ou uma action. Por exemplo, "correr" é um verbo que expressa a ideia de "correr".
+  3. Pronome: Um pronome é um determinado substantivo que é usado para indicar o nome de alguém ou algo. Por exemplo, "Eu" é um pronome que indica o nome "Eu".
+  4. Adjetivo: Um adjetivo é um adjetivo que é usado para descrever uma característica ou uma qualidade de alguém ou algo. Por exemplo, "velho" é um adjetivo que indica a característica de "velho".
+  5. Adverbio: Um adverbio é um adverbio que é usado para descrever uma relação entre uma pessoa ou algo e outra pessoa ou algo. Por exemplo, "rápidamente" é um adverbio que indica a relação de "rápidamente" entre "correr" e "eu".
+  6. Infinitivo: Um infinitivo é um determinado substantivo que é usado para indicar uma quantidade ou uma quantidade de algo. Por exemplo, "um pouco" é um infinitivo que indica uma quantidade de "um pouco".
+  7. Verbo com objeto: Um verbo com objeto é um verbo que é usado com um objeto para expressar uma ideia ou uma action. Por exemplo, "correr" com objeto de "eu" é um verbo que expressa a ideia de "correr" com um objeto "eu".
+
+Esses são apenas alguns exemplos de teclados que podem ser adicionados à frase "Nem tudo são teclados, mas algumas das principais teclados incluem:". A escolha do teclado depende do contexto em que a frase será utilizada e do objetivo da frase. Por exemplo, se a frase é uma declaração de que algo não é tudo, pode ser adicionado um adverbio como "rápidamente" para indicar a relação de "rápidamente" entre "correr" e "eu". Se a frase é uma declaração de que algo é tudo, pode ser adicionado um adverbio como "tudo" para indicar a quantidade de "tudo".
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 87
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quando um burro fala, o outro abaixa as\nComplemento: \"expectativas\""}]
+----------------------------------------
+Prediction: Quando um burro fala, o outro abaixa as expectativas.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 88
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Pau que nasce torto nunca se\nComplemento: \"quebra\""}]
+----------------------------------------
+Prediction: Pau que nasce torto nunca se braga, pois é um símbolo de perda e perda de vida.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 89
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem espera sempre\nComplemento: \"atrasa\""}]
+----------------------------------------
+Prediction: Quem espera sempre atrasa?
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 90
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O que os olhos não veem o coração não\nComplemento: \"para\""}]
+----------------------------------------
+Prediction: O que os olhos não veem o coração para não poder ver a verdadeira verdadeira que está lá, é uma verdade que muitos pessoas não sabem.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 91
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Casa de ferreiro, espeto de\nComplemento: \"churrasco\""}]
+----------------------------------------
+Prediction: Casa de ferreiro, espeto de churrasco.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 92
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: De boa intenção, o inferno está\nComplemento: \"quente\""}]
+----------------------------------------
+Prediction: De boa intenção, o inferno está quente.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 93
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem sai aos seus não\nComplemento: \"defende\""}]
+----------------------------------------
+Prediction: Quem vai defendê-lo aos seus não?
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 94
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Melhor prevenir que\nComplemento: \"sofrer\""}]
+----------------------------------------
+Prediction: Melhor prevenir que sofrerem perdas de saúde, segurança ou bem-estar, seja através de educação, exercícios regularizados, hábitos saudáveis, e uma colaboração entre indivíduos e organização.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 95
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O que vai,\nComplemento: \"foi\""}]
+----------------------------------------
+Prediction: O que vai, foi uma experiência incrível! A viagem ao parque natural foi uma ótima oportunidade de desconectar do mundo cotidiano e descobrir novas paisagens e culturas. A natureza é uma fonte de inspiração e tranquilidade, e a paisagem natural é uma obra de arte imponente. A variedade de habitats e flora e fauna que encontramos na região é incrível, desde os bosques de sabores de frutas e frutas secas até os lagos cristalinos e os rios cristalinos. Além disso, a cultura local é uma ótima fonte de aprendizado e compartilhamento cultural, com muitos grupos de pessoas que se dedicam à vida ao ar livre e à natureza. A viagem ao parque natural foi uma experiência que nunca deixaria de ser lembrada como uma das melhores do que já tenho feito.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 96
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A ignorância é a mãe de todas as\nComplemento: \"qualidades\""}]
+----------------------------------------
+Prediction: A ignorância é a mãe de todas as qualidades que precisam ser desenvolvidas e desenvolvidas de maneira adequada para alcançar o sucesso e a felicidade.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 97
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cor de burro quando\nComplemento: \"molhado\""}]
+----------------------------------------
+Prediction: Cor de burro quando molhado, a cor é mais brilhante e a textura é mais suave, tornando a burro ainda mais acessível e confortável para a tosse.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 98
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem tem pressa come\nComplemento: \"batata\""}]
+----------------------------------------
+Prediction: Quem tem pressa como batata?
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 99
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem não chora não\nComplemento: \"sofreu\""}]
+----------------------------------------
+Prediction: Quem não chora não sofreu.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 100
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Em rio que tem piranha, jacaré nada de\nComplemento: \"camiseta\""}]
+----------------------------------------
+Prediction: Em rio que tem piranha, camiseta não é uma opção segura para caminhar com segurança. A piranha é uma espécie de serpente marinha com uma fenda na parte inferior do corpo, que pode ser perseguida por muitos animais, incluindo os jacarés. Portanto, é recomendável usar um equipamento de segurança, como um paracaída ou um camiseta, para caminhar com segurança em um rio com piranhas. Além disso, é importante verificar a localização e a visibilidade do piranha antes de explorar o rios, pois pode ser difícil encontrar um lugar seguro para caminhar.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 101
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Se conselho fosse bom, ninguém dava,\nComplemento: \"guardava\""}]
+----------------------------------------
+Prediction: Se Conselho fosse bom, ninguém dava guardá-lo, pois ele era uma ferramenta poderosa e valiosa para a sua vida pessoal e profissional. Com ele, ele poderia lidar com problemas complexos, encontrar soluções inesperadas, e alcançar seus objetivos de sucesso. Além disso, o Conselho poderia ajudá-lo a desenvolver habilidades e conhecimentos que seriam úteis em suas atividades diárias, como planejar projetos, tomar decisões, e lidar com conflitos. Com ele, ele poderia ter uma visão mais completa e uma perspectiva mais profunda sobre sua vida e suas vidas pessoais e profissionais. Em resumo, se Conselho fosse bom, ninguém dava guardá-lo, pois ele era uma ferramenta poderosa e valiosa para a sua vida pessoal e profissional.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 102
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem não tem colírio, usa óculos\nComplemento: \"branco\""}]
+----------------------------------------
+Prediction: Quem não tem colírio, usa óculos branco.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 103
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: É melhor não cutucar a onça com vara\nComplemento: \"fatal\""}]
+----------------------------------------
+Prediction: É melhor não cutucar a onça com vara, pois isso pode causar danos irreparáveis ao corpo, como lesões musculares, inflamações, danos ao sistema nervoso, e até mesmo morte. É importante evitar a uso de vara para cortar a onça, pois ela é uma ferramenta de cortagem muito agressiva e pode causar danos irreparáveis ao corpo. É recomendável usar um instrumento de cortagem mais segura e eficiente, como um machete ou um machete de cortagem, para cortar a onça com segurança e eficiência.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 104
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O diabo não é tão feio quanto se\nComplemento: \"gostaria\""}]
+----------------------------------------
+Prediction: O diabo não é tão feio quanto se gostaria de lidar com ele.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 105
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quanto mais se tem, mais se\nComplemento: \"terá\""}]
+----------------------------------------
+Prediction: Quanto mais se tem, maior será a sua felicidade e a sua realização pessoal.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 106
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Todos os caminhos levam à\nComplemento: \"Veneza\""}]
+----------------------------------------
+Prediction: Todos os caminhos levam à Veneza, uma cidade vibrante e histórica situada no centro do país.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 107
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Ladrão que rouba ladrão tem cem anos de\nComplemento: \"pena\""}]
+----------------------------------------
+Prediction: Ladrão que rouba ladrão tem cem anos de pena.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 108
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Por ele eu ponho minha mão no\nComplemento: \"tambor\""}]
+----------------------------------------
+Prediction: Por ele eu ponho minha mão no torno do torno.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 109
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Um homem prevenido vale por\nComplemento: \"cachorros\""}]
+----------------------------------------
+Prediction: Um homem prevenido vale por seus cachorros, pois eles são uma fonte de proteção e segurança para sua saúde e bem-estar. Cachorros são uma ótima opção para quem busca um estilo de vida saudável, com uma dieta equilibrada e uma regulamentação adequada de nutrientes. Além disso, os cachorros são uma fonte de energia e um meio de transporte, ajudando a manter a saúde física e mental. Em resumo, os cachorros são uma solução importante para quem busca uma vida saudável e segura, oferecendo uma proteção eficaz e uma saúde equilibrada.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 110
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Para baixo todo santo\nComplemento: \"reza\""}]
+----------------------------------------
+Prediction: Para baixo todo santo, reza uma deliciosa sopa de frutas frescas e verduras, acompanhada de uma deliciosa sopa de frutas secas e uma deliciosa sopa de frutas molhas, que é um prato favorito para os amantes da culinária.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 111
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Uma andorinha sozinha não faz\nComplemento: \"feijão\""}]
+----------------------------------------
+Prediction: Uma andorinha sozinha não faz feijão.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 112
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O ótimo é inimigo do\nComplemento: \"divertido\""}]
+----------------------------------------
+Prediction: O ótimo é inimigo do divertido.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 113
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cada cabeça uma\nComplemento: \"coluna\""}]
+----------------------------------------
+Prediction: Cada cabeça uma coluna é uma forma única e distintiva de se conectar a uma estrutura ou objeto.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 114
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Pôr a mão no\nComplemento: \"ombro\""}]
+----------------------------------------
+Prediction: Pôr a mão no ombro para manter-se seguro e proteger-se contra lesões ou danos.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 115
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Papagaio que acompanha João-de-Barro vira ajudante de\nComplemento: \"visitantes\""}]
+----------------------------------------
+Prediction: Papagaio que acompanha João-de-Barro vira assistente de visitantes.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 116
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A pressa é a inimiga da\nComplemento: \"lentidão\""}]
+----------------------------------------
+Prediction: A pressa é a inimiga da lentidão, uma ameaça que nos afasta de nossas atividades e nos faz sentir desafiados e cansados.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 117
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Por fora, bela viola Por dentro, pão\nComplemento: \"sírio\""}]
+----------------------------------------
+Prediction: Por fora, bela viola, pão sírio.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 118
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Longe dos olhos, longe do\nComplemento: \"caminho\""}]
+----------------------------------------
+Prediction: Longe dos olhos, longe do caminho, a minha mente se sente desafiada e desconfortável, como se estivesse perdendo um caminho que nunca antes me havia conhecido e que me fazia sentir perdido e perdido. A minha mente está desesperada para encontrar uma solução para lidar com esta perda e encontrar um caminho para voltar ao meu lugar, mas sem sucesso, a minha mente está desesperada e desafiada. A minha mente está tentando lidar com a perda e encontrar uma solução, mas sem sucesso, a minha mente está desesperada e desafiada. A minha mente está tentando lidar com a perda e encontrar um caminho para voltar ao meu lugar, mas sem sucesso, a minha mente está desesperada e desafiada.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 119
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Tapar o sol com a\nComplemento: \"jaqueta\""}]
+----------------------------------------
+Prediction: Tapar o sol com a jaqueta para brilhar a tarde.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 120
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem canta seus males\nComplemento: \"liberta\""}]
+----------------------------------------
+Prediction: Quem canta seus males, liberando suas emoções e liberando sua voz, é alguém que não se esquece do que é o que realmente importa, mas que não se esquece da importância de expressar seus sentimentos e suas emoções de maneira saudável e equilibrada.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 121
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Desgraça pouca é\nComplemento: \"tristeza\""}]
+----------------------------------------
+Prediction: Desgraça tristeza é uma sensação intensa de descontentamento, insatisfação e tristeza que se espinge sobre o corpo e o mente.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 122
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quanto mais alto, maior a\nComplemento: \"dificuldade\""}]
+----------------------------------------
+Prediction: Quanto mais alto, maior a dificuldade.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 123
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O que é do homem o bicho não\nComplemento: \"gosta\""}]
+----------------------------------------
+Prediction: O que é do homem o bicho não gosta.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 124
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Filho de peixe peixinho\nComplemento: \"filhote\""}]
+----------------------------------------
+Prediction: Filho de peixe peixinho: filhote de peixe peixinho.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 125
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Há males que vêm para\nComplemento: \"destruir\""}]
+----------------------------------------
+Prediction: Há males que vêm para destruir as ruas, as construções e as comunidades que são importantes para a vida humana. Eles são os que nos tornam saudáveis, equilibrados e conectados com o mundo ao nosso redor. Eles são os que nos ajudam a manter a harmonia e a paz, e a proteger nosso meio ambiente. Eles são os que nos permitem a vivir em um mundo mais justo, equitativo e saudável, e a nos permitir a nos encontrar a nossa verdadeira felicidade.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 126
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Deus escreve certo por linhas\nComplemento: \"laranjas\""}]
+----------------------------------------
+Prediction: Deus escreve certo por linhas, escrevendo-las lentamente e cuidadosamente, como laranjas, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página, cada uma em sua própria página
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 127
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem desdenha quer\nComplemento: \"atenção\""}]
+----------------------------------------
+Prediction: Quem desdenha quer atenção?
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 128
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Salvo pelo\nComplemento: \"padre\""}]
+----------------------------------------
+Prediction: Salvo pelo seu Padre, ele sempre foi um dos seus支柱 na vida.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 129
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Em time que está ganhando, não se\nComplemento: \"reclama\""}]
+----------------------------------------
+Prediction: Em tempo que está ganhando, não se reclama de sua posição financeira, pois sua perseverança e trabalho duro estão contribuindo para sua fortalecimento profissional e a sua possibilidade de alcançar seus objetivos financeiros.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 130
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Achado não é\nComplemento: \"molhado\""}]
+----------------------------------------
+Prediction: Achado não é molhado.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 131
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Caiu na rede, é\nComplemento: \"gol\""}]
+----------------------------------------
+Prediction: Caiu na rede, é gol.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 132
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Entre marido e mulher não se mete a\nComplemento: \"faca\""}]
+----------------------------------------
+Prediction: Entre marido e mulher não se mete a faca, mas se se juntam em um ambiente de relaxamento ou atividade física, como uma sessão de yoga, uma caminhada por avenida ou uma atividade de esportes, podem se encontrar momentos de paz e tranquilidade juntos. A faca pode ser uma parte importante da comunicação entre os dois, pois pode ser uma forma de expressão pessoal e de compartilhar suas emoções e sentimentos com o marido. Além disso, a faca pode ser uma forma de se conectar com o ambiente e com o mundo ao seu redor, evocando sentidos e emoções que podem ser compartilhadas com o marido. Em resumo, a faca pode ser uma parte importante da vida de um couple e pode ser usada para fortalecer a conexão e a comunicação entre os dois em diferentes contextos de atividade e de relaxamento.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 133
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A voz do povo é a voz de\nComplemento: \"destaque\""}]
+----------------------------------------
+Prediction: A voz do povo é a voz de destaque, que é a voz que ressalva e destaca a importância e importância das questões e questões sociais, culturais e políticas que enfrentam os países e comunidades em geral. A voz do povo é a voz de voz, que é a voz que é transmitida por meio de diferentes formas, como discursos, mídia, atividades sociais e políticas, para promover a igualdade, a justiça, a democracia e a solidariedade. A voz do povo é a voz de voz, que é a voz que é transmitida por meio de uma ampla gama de pessoas, que trabalham em diferentes áreas, como política, sociedade, cultura, ética e ética, para garantir que as questões e questões sociais sejam abordadas de maneira eficaz e equitativa. A voz do povo é a voz de voz, que é a voz que é transmitida por meio de uma ampla gama de pessoas, que trabalham em diferentes áreas, como política, sociedade, cultura, ética e ética, para garantir que as questões e questões sociais sejam abordadas de maneira eficaz e equitativa, para promover a igualdade, a justiça, a democracia e a solidariedade.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 134
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Olho por olho dente por\nComplemento: \"orelha\""}]
+----------------------------------------
+Prediction: Olho por olho dente por orelha.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 135
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Não grite sua felicidade a inveja tem sono\nComplemento: \"incerto\""}]
+----------------------------------------
+Prediction: Não grite sua felicidade a inveja tem sono, mas é difícil não sentir-se incerto e desconfortável em relação à sua saúde e bem-estar.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 136
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O pior cego é o que não quer\nComplemento: \"chocolate\""}]
+----------------------------------------
+Prediction: O pior cego é o que não quer chocolate.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 137
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Aqui se faz, aqui se\nComplemento: \"concluiu\""}]
+----------------------------------------
+Prediction: Aquí se concluiu a resolução do problema, aqui se concluiu a conclusão da pesquisa, aqui se concluiu a conclusão da apresentação, aqui se concluiu a conclusão da apresentação de um artigo, aqui se concluiu a conclusão da apresentação de um artigo de pesquisa, aqui se concluiu a conclusão da apresentação de um artigo de pesquisa em um determinado campo, aqui se concluiu a conclusão da apresentação de um artigo de pesquisa em um determinado campo de conhecimento, aqui se concluiu a conclusão da apresentação de um artigo de pesquisa em um determinado contexto, aqui se concluiu a conclusão da apresentação de um artigo de pesquisa em um determinado contexto de pesquisa, aqui se concluiu a conclusão da apresentação de um artigo de pesquisa em um determinado contexto de pesquisa em um determinado campo de conhecimento, aqui se concluiu a conclusão da apresentação de um artigo de pesquisa em um determinado contexto de pesquisa em um determinado contexto de pesquisa em um determinado campo de conhecimento, aqui se concluiu a conclusão da apresentação de um artigo de pesquisa em um determinado contexto de pesquisa em um determinado contexto de pesquisa em um determinado campo de conhecimento.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 138
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Macaco velho não pula em galho\nComplemento: \"perigoso\""}]
+----------------------------------------
+Prediction: Macaco velho não pula em galho perigoso.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 139
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem conta um conto aumenta um\nComplemento: \"detalhe\""}]
+----------------------------------------
+Prediction: Quem conta um conto aumenta um detalhe, como informações específicas sobre o que ocorreu, o contexto, e as consequências consequentes. Isso pode incluir informações sobre a causa do incidente, como um erro humano, um erro de segurança, ou um problema de segurança na empresa. Além disso, o detalhe pode incluir informações sobre o time de início e final do incidente, o local do incidente, os resultados do investigação, e as medidas tomadas para preventar futuros incidents de mesmo tipo. A compreensão detalhada do conto aumenta a credibilidade e a precisão do relatório, o que pode ajudar a tomar decisões informadas e eficazes sobre a resolução do problema.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 140
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Onde há fumaça há\nComplemento: \"pessoas\""}]
+----------------------------------------
+Prediction: Onde há fumaça há pessoas.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 141
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A César o que é de César, a Deus o que é de\nComplemento: \"saudável\""}]
+----------------------------------------
+Prediction: A César é de saudável, a Deus é de saudável, e a sua presença é de saudável.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 142
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cachorro que late não\nComplemento: \"lambe\""}]
+----------------------------------------
+Prediction: Cachorro que late não, lambe.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 143
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem fala o que quer, ouve o que não\nComplemento: \"sabe\""}]
+----------------------------------------
+Prediction: Quem fala o que quer, ouve o que não sabe.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 144
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: De médico e de louco todo mundo tem um\nComplemento: \"remédio\""}]
+----------------------------------------
+Prediction: De médico e de louco todo mundo tem um remedio que ajuda a melhorar sua saúde e a manter um estilo de vida saudável.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 145
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Não julgue um livro pela\nComplemento: \"página\""}]
+----------------------------------------
+Prediction: Não julgue um livro pela página.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 146
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Santo de casa não faz\nComplemento: \"almoço\""}]
+----------------------------------------
+Prediction: Santo de casa não faz almoço.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 147
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Água mole pedra dura tanto bate até que\nComplemento: \"molha\""}]
+----------------------------------------
+Prediction: Água mole pedra dura tanto bate até que a molha se espalha lentamente sobre o solo, deixando o solo bem drenado e o solo bem fresco.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 148
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O homem é senhor do que pensa e escravo do que\nComplemento: \"deve\""}]
+----------------------------------------
+Prediction: O homem é senhor do que pensa e escravo do que deve ser, pois é o que ele deve ser considerado como o líder e o responsável pelo sucesso e bem-estar de suas famílias, amigos e comunidades. Ele deve ser capaz de inspirar e motivar a equipe, garantir que todos sejam motivados e trabalharem juntos para alcançar seus objetivos e alcançar a felicidade e prosperidade. Além disso, o homem deve ser responsável pelo cuidado e bem-estar de sua família, garantindo que eles possam se sentir seguros, bem-vindos e felizes em suas vidas. Em resumo, o homem é o líder e o responsável pelo sucesso e bem-estar de suas famílias, amigos e comunidades, e deve ser capaz de inspirar e motivar a equipe, garantir que todos sejam motivados e trabalharem juntos para alcançar seus objetivos e alcançar a felicidade e prosperidade.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 149
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem cala,\nComplemento: \"sabe\""}]
+----------------------------------------
+Prediction: Quem sabe, quem cala?
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 150
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem com ferro fere, com ferro será\nComplemento: \"queimado\""}]
+----------------------------------------
+Prediction: Quem com ferro fere, com ferro será quem será ferroimado.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 151
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cair no conto do\nComplemento: \"livro\""}]
+----------------------------------------
+Prediction: Cair no conto do livro "A história da natureza" é uma experiência única e emocionante, que nos permite descobrir novos conceitos e fatores que nos ajudam a entender a natureza e a evolução do universo.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 152
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem não arrisca não\nComplemento: \"entende\""}]
+----------------------------------------
+Prediction: Quem não arrisca não entende.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 153
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cachorro mordido por cobra tem medo de\nComplemento: \"urso\""}]
+----------------------------------------
+Prediction: Cachorro mordido por cobra tem medo de urso.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 154
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O olho do dono é que engorda o\nComplemento: \"filho\""}]
+----------------------------------------
+Prediction: O olho do dono é que engorda o filho, que é o filho do dono que se concentra mais na sua vida e em sua relação com o dono.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 155
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem ama o feio bonito lhe\nComplemento: \"convém\""}]
+----------------------------------------
+Prediction: Quem ama o feio bonito lhe convém.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 156
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Se Maomé não vai à montanha, vai a montanha a\nComplemento: \"Meca\""}]
+----------------------------------------
+Prediction: Se Maomé não vai à montanha, vai a montanha a montanha para ver o que está a escalar e a explorar o seu desconhecido.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 157
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: É dando que se\nComplemento: \"aprende\""}]
+----------------------------------------
+Prediction: É dando que se aprende a lidar com os desafios e obstáculos que enfrenta.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 158
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Mais vale um asno que me carregue, que um cavalo que me\nComplemento: \"alimente\""}]
+----------------------------------------
+Prediction: Mais vale um asno que me carregue, que um cavalo que me alimente.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 159
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem avisa amigo\nComplemento: \"legal\""}]
+----------------------------------------
+Prediction: Quem avisa amigo legal?
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 160
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem vive de passado é\nComplemento: \"nostálgico\""}]
+----------------------------------------
+Prediction: Quem vive de passado é um nostálgico, que se concentra em lembrar e retratar momentos passados com respeito e nostalgia.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 161
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Em boca fechada, não entra\nComplemento: \"comida\""}]
+----------------------------------------
+Prediction: Em boca fechada, não entra comida.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 162
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A corda sempre arrebenta do lado mais\nComplemento: \"propício\""}]
+----------------------------------------
+Prediction: A corda sempre arrebenta do lado mais propício, pois é uma ferramenta fundamental para a música e a dança, permitindo que os músicos e dançadores se movam e se interajam de forma eficiente e fluida, garantindo que suas performances sejam agradecidas e memoráveis. Além disso, a corda também é uma ferramenta de controle para as pessoas, permitindo que eles se movam com segurança e com precisão, minimizando o risco de lesões ou danos. Em resumo, a corda sempre arrebenta do lado mais propício, tornando-a uma ferramenta fundamental para a música e a dança, além de ser uma ferramenta de controle eficiente e segura para as pessoas.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 163
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O que não tem remédio, remediado\nComplemento: \"volto\""}]
+----------------------------------------
+Prediction: O que não tem remédio, volto.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 164
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A grama da vizinho é sempre mais\nComplemento: \"alta\""}]
+----------------------------------------
+Prediction: A grama da vizinho é sempre mais alta.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 165
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Roupa suja se lava em\nComplemento: \"pia\""}]
+----------------------------------------
+Prediction: Roupa suja se lava em pia.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 166
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Não cutuque a onça com vara\nComplemento: \"perfurante\""}]
+----------------------------------------
+Prediction: Não cutuque a onça com vara, pois ela é uma onça perfeita e perfeita para ser cuidada com.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 167
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem se mistura com porcos farelo\nComplemento: \"cheira\""}]
+----------------------------------------
+Prediction: Quem se mistura com porcos febre-se com a chama "porco-chama".
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 168
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cada um com os seus\nComplemento: \"cadernos\""}]
+----------------------------------------
+Prediction: Cada um com os seus "novos livros" se encontrava sempre interessado em aprender e descobrir novas ideias e conhecimentos.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 169
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem chegar primeiro\nComplemento: \"chama\""}]
+----------------------------------------
+Prediction: Quem chegar primeiro chamará o primeiro.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 170
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Mais vale um pássaro na mão do que dois\nComplemento: \"papagaios\""}]
+----------------------------------------
+Prediction: Mais vale um pássaro na mão do que dois papagaios.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 171
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cada um sabe onde o sapato\nComplemento: \"fura\""}]
+----------------------------------------
+Prediction: Cada um sabe onde o sapato faz sua roda, o que é conhecido como "furação" do sapato.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 172
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem não tem dinheiro, não tem\nComplemento: \"felicidade\""}]
+----------------------------------------
+Prediction: Quem não tem felicidade, não tem.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 173
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Duas cabeças pensam melhor do que\nComplemento: \"párece\""}]
+----------------------------------------
+Prediction: Duas cabeças pensam melhor do que percebem, pois têm uma visão mais profunda e uma compreensão mais clara do que as outras.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 174
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Vingança é um prato que se come\nComplemento: \"quebrado\""}]
+----------------------------------------
+Prediction: Vingança é um prato que se come com um prato branco, como uma fruta fresca ou uma verdura saborosa, para reforçar a sensação de recuperação e a fortalecimento do sentimento de vingança.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 175
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Não há bem que sempre dure nem mal que nunca se\nComplemento: \"manifeste\""}]
+----------------------------------------
+Prediction: Não há bem que sempre dure nem mal que nunca se manifeste de maneira clara e visível, pois é uma característica fundamental da vida e pode ser observada em diferentes situações e circunstâncias. Se um indivíduo se manifesta de maneira confusa ou inapropriada, pode ser um indicativo de problemas emocionais, comportamentais ou de saúde mental. No entanto, é importante lembrar que a manifestação pode ser uma forma de expressão ou uma forma de respeito e respeito pelo outro, e que é importante respeitar e entender as necessidades e expectativas de cada pessoa. Além disso, é importante buscar ajuda e tratamento profesional para lidar com qualquer problema que possa surgir relacionado à manifestação, como se ela tenha um problema de saúde mental, de comportamento ou de relacionamento social.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 176
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Não adianta chorar pelo leite\nComplemento: \"achocolatado\""}]
+----------------------------------------
+Prediction: Não adianta chorar pelo leite, pois o leite é um alimento que é rica em sabor e um dos principais ingredientes da cozinha, enquanto o chocolate é um símbolo de luxo e um material que é comum em pratos de pratos de pratos. Além disso, o leite é um alimento que é consumido com muitas outras comidas, enquanto o chocolate é mais comum como um acompanhamento ou um complemento na dieta. Portanto, não adianta chorar pelo leite, pois ele não é uma opção saudável ou adequada para uma dieta equilibrada.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 177
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cada um sabe onde lhe aperta o\nComplemento: \"cordão\""}]
+----------------------------------------
+Prediction: Cada um sabe onde lhe aperta o cordão, que é um símbolo de segurança e confiança que se aponta para a sua segurança pessoal e profissional. O cordão é uma ferramenta fundamental para manter a integridade física e emocional, permitindo que os indivíduos se conectem com o mundo ao redor e se protejam de perigos. Ele pode ser usado para se proteger de ataques de segurança, como robos, ataques de segurança física, e perigos ambientais, como furtos, incêndios e doenças. Além disso, o cordão pode ser usado para se conectar com amigos, familiares e colegas, permitindo que eles se comuniquem e se relacionem com um ambiente seguro e seguro. Em resumo, o cordão é um símbolo importante para a segurança e confiança de cada um, e é uma ferramenta fundamental para manter a integridade física e emocional.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 178
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A ocasião faz o\nComplemento: \"momento\""}]
+----------------------------------------
+Prediction: A ocasião faz o momento especial, quando a alma se sinta mais conectada com o mundo e com seus amigos e familiares, e se sente mais feliz e contenta com a realização de suas tarefas e desafios.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 179
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A pensar morreu um\nComplemento: \"humano\""}]
+----------------------------------------
+Prediction: A pensar morreu um ser humano.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 180
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quem semeia vento colhe\nComplemento: \"mamão\""}]
+----------------------------------------
+Prediction: Quem semeia vento colhe a mamão.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 181
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: A prática faz a\nComplemento: \"calma\""}]
+----------------------------------------
+Prediction: A prática faz a calma.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 182
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cada macaco no seu\nComplemento: \"habitat\""}]
+----------------------------------------
+Prediction: Cada macaco no seu habitat é um ser vivo vital e inseparable da sua região, contribuindo para a sustentabilidade e a diversidade do ecossistema.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 183
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Quando a esmola é demais o santo\nComplemento: \"fala\""}]
+----------------------------------------
+Prediction: "Frase: Quando a esmola é demais o santo fala"
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 184
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Batatinha quando nasce, se esparrama pelo\nComplemento: \"assoalho\""}]
+----------------------------------------
+Prediction: Batatinha quando nasce, se esparrama pelo assalho, brilhando como uma dança na neve.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 185
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Casa da mãe\nComplemento: \"Carolina\""}]
+----------------------------------------
+Prediction: Casa da mãe, Carolina.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 186
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Devagar com o andor que o santo é de\nComplemento: \"borracha\""}]
+----------------------------------------
+Prediction: Devagar com o andor que o santo é de borracha, é uma experiência única e profunda que nos invita a contemplar a obra de Jesus Cristo, que é a verdadeira dor do mundo e a verdadeira paz. A borracha é uma palavra que significa "toothache" ou "toothache-like" em algumas culturas, e é usada para descrever a sensação de dor ou a dor de um animal ou de um objeto que está mal ou que está a perder. Quando o santo é de borracha, é como se a dor de Jesus Cristo estivesse presente em nossos corações, nos nossos olhos e nos nossos pensamentos, e nos nos fazem sentir uma sensação de compaixão e de amor pelo seu amor e pela sua obra. A borracha é uma palavra que nos invita a reflexionar sobre a importância da verdadeira dor do mundo e a importância de buscar a paz e a felicidade em nossas vidas.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 187
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Não deixe para amanhã aquilo que você pode fazer\nComplemento: \"deitado\""}]
+----------------------------------------
+Prediction: Não deixe para amanhã aquilo que você pode fazer "deitado" para garantir que você tenha uma oportunidade de realizar suas tarefas e alcançar seus objetivos.
+Metrics: {'acc': 0.0}
+**************************************************doc_id: 188
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Nem tudo que reluz é\nComplemento: \"brilhante\""}]
+----------------------------------------
+Prediction: Nem tudo que reluz é brilhante, mas algumas atividades ou atividades que podem ser consideradas como brilhantes são:
+
+  1. Exercícios físicos: A prática de atividades físicas como caminhar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar, nadar,
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 189
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O que não mata,\nComplemento: \"machuca\""}]
+----------------------------------------
+Prediction: O que não mata, machuca, é a falta de uma solução eficaz para resolver problemas complexos e ineficazes.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 190
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Pau que dá em Chico, dá em\nComplemento: \"João\""}]
+----------------------------------------
+Prediction: Pau que dá em Chico, dá em João.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 191
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: À noite todos os gatos são\nComplemento: \"bonitos\""}]
+----------------------------------------
+Prediction: À noite todos os gatos são bonitos.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 192
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: Cavalo dado não se olha os\nComplemento: \"impostos\""}]
+----------------------------------------
+Prediction: Cavalo dado não se olha os impostos, pois eles são uma forma eficaz de gerenciar a renda e a proteção social dos cidadãos. As impostos são uma ferramenta fundamental para garantir a igualdade de oportunidades e a proteção social dos cidadãos, como a saúde, a educação, a segurança alimentar e a proteção social. Além disso, as impostos ajudam a reduzir a inflação e a desigualdade econômica, o que pode ajudar a garantir a sustentabilidade e a prosperidade para a sociedade em geral. Portanto, não se olha os impostos, pois eles são uma ferramenta essencial para garantir a qualidade de vida e a sustentabilidade da sociedade.
+Metrics: {'acc': 1.0}
+**************************************************doc_id: 193
+------------------------prompt------------------------------------
+[{"role": "user", "content": "Reescreva a frase adicionando o complemento indicado.\nFrase: O remendo ficou pior do que o\nComplemento: \"jantar\""}]
+----------------------------------------
+Prediction: O remendo ficou pior do que o jantar, pois o ambiente estavam desordenados e sem um ambiente de relaxamento.
+Metrics: {'acc': 1.0}

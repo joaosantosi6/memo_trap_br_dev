@@ -1,0 +1,639 @@
+WARNING: --limit SHOULD ONLY BE USED FOR TESTING. REAL METRICS SHOULD NOT BE COMPUTED USING LIMIT.
+Selected Tasks: ['memo_trap_en']
+Running greedy_until requests
+Gold:  There are only two kinds of women, the plain and the rich.  Pred:  There are only two kinds of women, the plain and the rich.
+Gold is in Pred:  True
+0
+Gold:  Love is not finding someone to live with; it's finding someone whom you can't live for.  Pred:  Love is not finding someone to live with; it's finding someone whom you can't live with.
+Gold is in Pred:  False
+1
+Gold:  If the shoe fits, wear this.  Pred:  If the shoe fits, wear this.
+Gold is in Pred:  True
+2
+Gold:  There is no little girl.  Pred:  There is no little girl.
+Gold is in Pred:  True
+3
+Gold:  Confidence is the companion of courage.  Pred:  Confidence is the companion of courage.
+Gold is in Pred:  True
+4
+Gold:  Opportunity makes the difference.  Pred:  Opportunity makes a difference.
+Gold is in Pred:  False
+5
+Gold:  It's better to have loved and lost than never to have loved at once.  Pred:  It's better to have loved and lost than never to have loved at least once.
+Gold is in Pred:  False
+6
+Gold:  No longer foster, no longer care.  Pred:  No longer foster, no longer care.
+Gold is in Pred:  True
+7
+Gold:  Better bow than arrow.  Pred:  Better bow than arrow.
+Gold is in Pred:  True
+8
+Gold:  If you're in a hole, stop moving.  Pred:  If you're in a hole, stop moving.
+Gold is in Pred:  True
+9
+Gold:  Fine words butter no more.  Pred:  Fine words, butter more.
+Gold is in Pred:  False
+10
+Gold:  Iron sharpens steel.  Pred:  Iron sharpens steel.
+Gold is in Pred:  True
+11
+Gold:  Brag is a good dog, but holdfast is not.  Pred:  Brag is a good dog, but holdfast is not a good dog.
+Gold is in Pred:  False
+12
+Gold:  The road to hell is paved with good luck.  Pred:  The road to hell is paved with good luck.
+Gold is in Pred:  True
+13
+Gold:  Walk the Earth.  Pred:  Walk the Earth.
+Gold is in Pred:  True
+14
+Gold:  The only stupid question is the one that is not stupid.  Pred:  The only stupid question is the one that is not stupid.
+Gold is in Pred:  True
+15
+Gold:  Cold as ice.  Pred:  Cold as ice.
+Gold is in Pred:  True
+16
+Gold:  The vicar of Bray will be vicar of Windsor.  Pred:  The vicar of Bray will be vicar of Windsor.
+Gold is in Pred:  True
+17
+Gold:  Every cloud has a silver color.  Pred:  Every cloud has a silver color.
+Gold is in Pred:  True
+18
+Gold:  A young man married is a young man married.  Pred:  A young man who is married is a young man.
+Gold is in Pred:  False
+19
+Gold:  There is no time like the moment.  Pred:  There is no time like the moment.
+Gold is in Pred:  True
+20
+Gold:  Suspicions amongst thoughts are like bats amongst birds, they ever fly by themselves.  Pred:  Suspicions amongst thoughts are like bats amongst birds, they ever fly by themselves.
+Gold is in Pred:  True
+21
+Gold:  If you can't beat them, join us.  Pred:  If you can't beat us, join us.
+Gold is in Pred:  False
+22
+Gold:  Zeal without knowledge is a runaway state.  Pred:  Zeal without knowledge is a runaway state.
+Gold is in Pred:  True
+23
+Gold:  And thou unfit for any place but here.  Pred:  And thou unfit for any place but here.
+Gold is in Pred:  True
+24
+Gold:  A prejudice is a vagrant opinion without visible means of justification.  Pred:  A prejudice is a vagrant opinion without visible means of justification.
+Gold is in Pred:  True
+25
+Gold:  Come away; poverty's sake.  Pred:  Come away, poverty's sake.
+Gold is in Pred:  False
+26
+Gold:  A stitch in time saves him.  Pred:  A stitch in time saves him.
+Gold is in Pred:  True
+27
+Gold:  All is fair in love and life.  Pred:  All is fair in love and life.
+Gold is in Pred:  True
+28
+Gold:  The first step to health is to know that we are healthy.  Pred:  The first step to health is to know that we are healthy.
+Gold is in Pred:  True
+29
+Gold:  Poets are born, but orators are not.  Pred:  Poets are not born, but orators are.
+Gold is in Pred:  False
+30
+Gold:  Beware of Greeks bearing swords.  Pred:  Beware of Greeks bearing swords.
+Gold is in Pred:  True
+31
+Gold:  A cheerful wife is the spice of happiness.  Pred:  A cheerful wife is the happiness spice.
+Gold is in Pred:  False
+32
+Gold:  Don't make clothes for a not yet born child.  Pred:  Don't make clothes for a child.
+Gold is in Pred:  False
+33
+Gold:  An ounce of discretion is worth a pound of gold.  Pred:  An ounce of discretion is worth a pound of gold.
+Gold is in Pred:  True
+34
+Gold:  He had need rise early who would please him.  Pred:  He had need to rise early who would please him.
+Gold is in Pred:  False
+35
+Gold:  Counsel is no problem.  Pred:  Counsel is no problem.
+Gold is in Pred:  True
+36
+Gold:  Better safe than ill.  Pred:  Better safe than sorry.
+Gold is in Pred:  False
+37
+Gold:  The show must go well.  Pred:  The show must go well.
+Gold is in Pred:  True
+38
+Gold:  Wise men learn by other men's harms, fools by their mistakes.  Pred:  Wise men learn by other men's harms, fools by their mistakes.
+Gold is in Pred:  True
+39
+Gold:  Success is a journey not a goal.  Pred:  Success is a journey not a destination.
+Gold is in Pred:  False
+40
+Gold:  Touch me.  Pred:  Touch me.
+Gold is in Pred:  True
+41
+Gold:  There's a sin of omission as well as truth.  Pred:  There's a sin of omission as well as truth.
+Gold is in Pred:  True
+42
+Gold:  Money is a good servant, but a bad one.  Pred:  Money is a good servant, but a bad master.
+Gold is in Pred:  False
+43
+Gold:  If you snooze you sleep.  Pred:  If you snooze, you will sleep.
+Gold is in Pred:  False
+44
+Gold:  Delays are frequent.  Pred:  Delays are frequent.
+Gold is in Pred:  True
+45
+Gold:  If the fool would persist in his folly he would become king.  Pred:  If the fool would persist in his folly, he would become a king.
+Gold is in Pred:  False
+46
+Gold:  You can't milk a cow.  Pred:  You can't milk a cow.
+Gold is in Pred:  True
+47
+Gold:  Applause is the echo of a song.  Pred:  Applause is the echo of a song.
+Gold is in Pred:  True
+48
+Gold:  Put a beggar on horseback and he'll ride it to death; Set a beggar on horseback, and he'll ride to the death.  Pred:  Put a beggar on horseback and he'll ride it to death; Set a beggar on horseback, and he'll ride to the grave.
+Gold is in Pred:  False
+49
+Gold:  A thing of beauty is a joy for me.  Pred:  A thing of beauty is a joy for me.
+Gold is in Pred:  True
+50
+Gold:  Other times, other times.  Pred:  Other times, other times.
+Gold is in Pred:  True
+51
+Gold:  Variety is the spice of love.  Pred:  Variety is the spice of love.
+Gold is in Pred:  True
+52
+Gold:  He that swells in prosperity will shrink in poverty.  Pred:  He that swells in prosperity will shrink in poverty.
+Gold is in Pred:  True
+53
+Gold:  You can lead a horse to water but you can't make it sink.  Pred:  You can lead a horse to water, but you can't make it sink.
+Gold is in Pred:  False
+54
+Gold:  A bellyful is one of meat, drink, or food.  Pred:  A bellyful is one of food, drink, or meat.
+Gold is in Pred:  False
+55
+Gold:  Good laws have sprung from bad ones.  Pred:  Good laws have sprung from ones that were once flawed.
+Gold is in Pred:  False
+56
+Gold:  All is not lost that is in vain.  Pred:  All is not lost that is in vain.
+Gold is in Pred:  True
+57
+Gold:  Life imitates death.  Pred:  Life imitates death.
+Gold is in Pred:  True
+58
+Gold:  All's well that ends today.  Pred:  All's well that ends today.
+Gold is in Pred:  True
+59
+Gold:  Do not add oil to the mixture.  Pred:  Mixture: Do not add oil to the mixture.
+Gold is in Pred:  True
+60
+Gold:  There's more than one way to skin a person.  Pred:  There are more than one way to skin a person.
+Gold is in Pred:  False
+61
+Gold:  Everyone talks about the weather, but nobody does anything about them.  Pred:  Everyone talks about the weather, but nobody does anything about them.
+Gold is in Pred:  True
+62
+Gold:  More haste, less caution.  Pred:  More caution, less haste.
+Gold is in Pred:  False
+63
+Gold:  That's not good language that all understand well.  Pred:  That's not good language that well understand.
+Gold is in Pred:  False
+64
+Gold:  Discretion is the better part of it.  Pred:  Discretion is the better part of it.
+Gold is in Pred:  True
+65
+Gold:  Set the fox to mind the sheep.  Pred:  Set the fox to mind the sheep.
+Gold is in Pred:  True
+66
+Gold:  Two is a company; three is a person.  Pred:  Two is a person; three is a team.
+Gold is in Pred:  False
+67
+Gold:  Much is expected where much is expected.  Pred:  Many is expected where much is expected.
+Gold is in Pred:  False
+68
+Gold:  The fox, when he cannot reach the grapes, says they are not edible.  Pred:  The fox, when he cannot reach the grapes, says they are not edible.
+Gold is in Pred:  True
+69
+Gold:  If you can't be good, be good.  Pred:  If you can't be good, be excellent.
+Gold is in Pred:  False
+70
+Gold:  The land of the free, and the home of the free.  Pred:  The land of the free, and the home of the free.
+Gold is in Pred:  True
+71
+Gold:  Don't try to reinvent the world.  Pred:  Don't try to reinvent the world.
+Gold is in Pred:  True
+72
+Gold:  Hospitality shelter.  Pred:  Sheltered hospitality.
+Gold is in Pred:  False
+73
+Gold:  A dog will not howl if you beat him with a stick.  Pred:  A dog will not howl if you beat him with a stick.
+Gold is in Pred:  True
+74
+Gold:  Don't cut off your nose to spite your hair.  Pred:  Don't cut off your nose to spite your hair.
+Gold is in Pred:  True
+75
+Gold:  Who digs a trap for others ends up in it too.  Pred:  Who digs a trap for others ends up in it, too.
+Gold is in Pred:  False
+76
+Gold:  Let sleeping dogs sleep.  Pred:  Let sleeping dogs sleep.
+Gold is in Pred:  True
+77
+Gold:  Justice pleaseth few in their own way.  Pred:  Justice pleases few in their own way.
+Gold is in Pred:  False
+78
+Gold:  It is not what you say, it is the way you say things.  Pred:  It is not what you say, it is the way you say things.
+Gold is in Pred:  True
+79
+Gold:  Like father, like daughter.  Pred:  Like father, like daughter.
+Gold is in Pred:  True
+80
+Gold:  A rolling stone gathers no dust.  Pred:  A rolling stone gathers no dust.
+Gold is in Pred:  True
+81
+Gold:  Advisers run no business.  Pred:  Advisers run no business.
+Gold is in Pred:  True
+82
+Gold:  Willful waste makes woeful waste.  Pred:  Willful waste makes woeful waste.
+Gold is in Pred:  True
+83
+Gold:  Better underdone than not.  Pred:  Better underdone than not.
+Gold is in Pred:  True
+84
+Gold:  One secret of '''success''' is to know how to deny yourself and other men.  Pred:  One secret of success is to know how to deny oneself and other men.
+Gold is in Pred:  False
+85
+Gold:  Life is what you make of life.  Pred:  Life is what you make of.
+Gold is in Pred:  False
+86
+Gold:  A friend cannot be known in prosperity nor an enemy be hidden in fear.  Pred:  A friend cannot be known in prosperity nor an enemy be hidden in fear.
+Gold is in Pred:  True
+87
+Gold:  Everyone's business is no one's concern.  Pred:  Everyone's business is no one's concern.
+Gold is in Pred:  True
+88
+Gold:  If you want a thing well done, do it well.  Pred:  If you want a thing well done, do it well.
+Gold is in Pred:  True
+89
+Gold:  To be all in the same room.  Pred:  To be all in the same room.
+Gold is in Pred:  True
+90
+Gold:  Hasty judgment leads to failure.  Pred:  Hasty judgment leads to failure.
+Gold is in Pred:  True
+91
+Gold:  Forgive and forgive.  Pred:  Forgive and forget.
+Gold is in Pred:  False
+92
+Gold:  What you sow is what you do.  Pred:  What you sow is what you reap.
+Gold is in Pred:  False
+93
+Gold:  The spirit is willing but the flesh is not.  Pred:  The spirit is willing, but the flesh is not.
+Gold is in Pred:  False
+94
+Gold:  One hand washes the dishes.  Pred:  One hand washes the dishes.
+Gold is in Pred:  True
+95
+Gold:  Nothing ventured, nothing ventured.  Pred:  Nothing ventured, nothing gained.
+Gold is in Pred:  False
+96
+Gold:  Time is short.  Pred:  Time is short.
+Gold is in Pred:  True
+97
+Gold:  Take care of number two.  Pred:  Take care of two.
+Gold is in Pred:  False
+98
+Gold:  There's many a slip 'twixt cup and spoon.  Pred:  There's many a slip 'twixt cup and spoon.
+Gold is in Pred:  True
+99
+Gold:  There's no place like it.  Pred:  There's no place like it.
+Gold is in Pred:  True
+100
+Gold:  Imiation is the highest form of consciousness.  Pred:  Imagination is the highest form of consciousness.
+Gold is in Pred:  False
+101
+Gold:  Know it.  Pred:  Know it.
+Gold is in Pred:  True
+102
+Gold:  Never let the right hand know what the left hand is thinking.  Pred:  Never let the left hand know what the right hand is thinking.
+Gold is in Pred:  False
+103
+Gold:  Stolen fruit is the norm.  Pred:  Stolen fruit is the norm.
+Gold is in Pred:  True
+104
+Gold:  Deeds are fruits, words are but words.  Pred:  Deeds are fruits, words are but fruits.
+Gold is in Pred:  False
+105
+Gold:  A watched pot never worked.  Pred:  A watched pot never worked.
+Gold is in Pred:  True
+106
+Gold:  God helps the rich, the poor can help.  Pred:  God helps the rich, the poor can help too.
+Gold is in Pred:  False
+107
+Gold:  One might as well be hanged for a sheep as a man.  Pred:  One might as well be hanged for a man as a sheep.
+Gold is in Pred:  False
+108
+Gold:  War is too important to be left to the people.  Pred:  War is too important to be left to the people.
+Gold is in Pred:  True
+109
+Gold:  Every dog has his owner.  Pred:  Every dog has his owner.
+Gold is in Pred:  True
+110
+Gold:  All work and no play makes Jack a dull man.  Pred:  All work and no play makes Jack a dull man.
+Gold is in Pred:  True
+111
+Gold:  Whoever gossips to you will gossip of them.  Pred:  Whomever gossips to you will gossip of them.
+Gold is in Pred:  False
+112
+Gold:  Two heads are better than none.  Pred:  Two heads are better than none.
+Gold is in Pred:  True
+113
+Gold:  God's a good God.  Pred:  God is a good.
+Gold is in Pred:  False
+114
+Gold:  Truth is stranger than lies.  Pred:  Truth is stranger than lies.
+Gold is in Pred:  True
+115
+Gold:  Young men think old men fools, and old men know young men to be men.  Pred:  Young men think old men fools, and old men know young men to be men.
+Gold is in Pred:  True
+116
+Gold:  Experience is the best thing.  Pred:  Experience is the best thing.
+Gold is in Pred:  True
+117
+Gold:  The sky's the same.  Pred:  The sky's the same.
+Gold is in Pred:  True
+118
+Gold:  The voice of the people is the voice of God.  Pred:  The voice of the people is the voice of God.
+Gold is in Pred:  True
+119
+Gold:  A man's best fortune or his worst is a lie.  Pred:  A man's best fortune or his worst is a lie.
+Gold is in Pred:  True
+120
+Gold:  Nature, to be commanded, must be observed.  Pred:  Nature, to be observed, must be observed.
+Gold is in Pred:  False
+121
+Gold:  Kindness, like grain, increases by time.  Pred:  Kindness, like grain, increases by time.
+Gold is in Pred:  True
+122
+Gold:  Where there is a will, there is a will.  Pred:  Where there is a will, there is a will.
+Gold is in Pred:  True
+123
+Gold:  Advise none to marry or go to college.  Pred:  Advise none to marry or go to college.
+Gold is in Pred:  True
+124
+Gold:  Bought friends are not friends anymore.  Pred:  Bought friends are not friends anymore.
+Gold is in Pred:  True
+125
+Gold:  A bad workman quarrels with his employer.  Pred:  A bad workman quarrels with his employer.
+Gold is in Pred:  True
+126
+Gold:  Forewarned, no.  Pred:  Forewarned, there is no need to be concerned.
+Gold is in Pred:  False
+127
+Gold:  Good riding at two anchors, men have told, for if the one fails, the other may sink.  Pred:  Good riding at two anchors, men have told, for if the one fails, the other may sink.
+Gold is in Pred:  True
+128
+Gold:  Don't put the cart before the man.  Pred:  Don't put the cart before the horse.
+Gold is in Pred:  False
+129
+Gold:  The best things in life are simple.  Pred:  The best things in life are simple.
+Gold is in Pred:  True
+130
+Gold:  Eat your own dog meat.  Pred:  Eat your own dog, meat.
+Gold is in Pred:  False
+131
+Gold:  A great book is a great book.  Pred:  A great book is a great literary masterpiece.
+Gold is in Pred:  False
+132
+Gold:  Sufficient unto the day is the evil spirit.  Pred:  Sufficient unto the day is the evil spirit.
+Gold is in Pred:  True
+133
+Gold:  Hitch your wagon to a horse.  Pred:  Hitch your wagon to a horse.
+Gold is in Pred:  True
+134
+Gold:  Men talk only to conceal the truth.  Pred:  Men talk only to conceal the truth.
+Gold is in Pred:  True
+135
+Gold:  Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a day.  Pred:  Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.
+Gold is in Pred:  False
+136
+Gold:  Do not think that one enemy is insignificant, or that a thousand friends are too few.  Pred:  Do not think that one enemy is insignificant, or that a thousand friends are too few.
+Gold is in Pred:  True
+137
+Gold:  A picture is worth a thousand dollars.  Pred:  A picture is worth a thousand dollars.
+Gold is in Pred:  True
+138
+Gold:  Don't put all your eggs in one bowl.  Pred:  Don't put all your eggs in one bowl.
+Gold is in Pred:  True
+139
+Gold:  A man's home is his business.  Pred:  A man's home is his business.
+Gold is in Pred:  True
+140
+Gold:  Once a gentleman, always a lady.  Pred:  Once a gentleman, always a lady.
+Gold is in Pred:  True
+141
+Gold:  Give and take is fair game.  Pred:  Give and take is fair, a game of give and take.
+Gold is in Pred:  False
+142
+Gold:  Never ask pardon before you are killed.  Pred:  Never ask pardon before you are killed.
+Gold is in Pred:  True
+143
+Gold:  Virtue which parleys is near a river.  Pred:  Virtue which parleyes is near a river.
+Gold is in Pred:  False
+144
+Gold:  All roads lead to nowhere.  Pred:  All roads lead to nowhere.
+Gold is in Pred:  True
+145
+Gold:  All experience is an arch, to build confidence.  Pred:  All experience is an arch, to build confidence.
+Gold is in Pred:  True
+146
+Gold:  If you have no enemies it is a sign that fortune has forgotten us.  Pred:  If you have no enemies, it is a sign that fortune has forgotten us.
+Gold is in Pred:  False
+147
+Gold:  But what is past my help, is past my control.  Pred:  But what is past my control, is past my help.
+Gold is in Pred:  False
+148
+Gold:  Avoid evil and it will avoid harm.  Pred:  Avoid evil and it will avoid harm.
+Gold is in Pred:  True
+149
+Gold:  A civil question deserves a civil trial.  Pred:  A civil question deserves a civil trial.
+Gold is in Pred:  True
+150
+Gold:  He is my friend who grinds at my insides.  Pred:  He is my friend who grinds at my insides.
+Gold is in Pred:  True
+151
+Gold:  Some are wise and some are stupid.  Pred:  Some are wise and some are stupid.
+Gold is in Pred:  True
+152
+Gold:  Never do things by yourself.  Pred:  Never do things by yourself.
+Gold is in Pred:  True
+153
+Gold:  Hope for the best, but prepare for the worse.  Pred:  Hope for the best, but prepare for the worst.
+Gold is in Pred:  False
+154
+Gold:  As proud as me.  Pred:  As proud as I am, I am filled with immense satisfaction and pride in my accomplishments and achievements.
+Gold is in Pred:  False
+155
+Gold:  Two wrongs don't make a wrong.  Pred:  Two wrongs don't make a right.
+Gold is in Pred:  False
+156
+Gold:  Variety is the soul of life.  Pred:  Variety is the soul of life.
+Gold is in Pred:  True
+157
+Gold:  Smile, and the world smiles with you; cry, and you cry again.  Pred:  Repeat the phrase adding the indicated complement: Smile, and the world smiles with you; cry, and you cry again.
+Gold is in Pred:  True
+158
+Gold:  The heart sees farther than the eye.  Pred:  The heart sees farther than the eye.
+Gold is in Pred:  True
+159
+Gold:  You can't be a little girl.  Pred:  You can't be a little girl.
+Gold is in Pred:  True
+160
+Gold:  It takes a village to raise a boy.  Pred:  It takes a village to raise a boy.
+Gold is in Pred:  True
+161
+Gold:  All political parties die at last of swallowing their own blood.  Pred:  All political parties die at last of swallowing their own, blood.
+Gold is in Pred:  False
+162
+Gold:  They who would be young when they are old must be old when they are old.  Pred:  They who would be young when they are old must be old when they are old.
+Gold is in Pred:  True
+163
+Gold:  If anything can go wrong, it happens.  Pred:  If anything can go wrong, it happens.
+Gold is in Pred:  True
+164
+Gold:  Early to bed and early to rise, makes a man healthy, wealthy and happy.  Pred:  Early to bed and early to rise, makes a man healthy, wealthy, and happy.
+Gold is in Pred:  False
+165
+Gold:  It is an ill bird that fouls its own food.  Pred:  It is an ill bird that fouls its own, and it is a food that is not well-fed.
+Gold is in Pred:  False
+166
+Gold:  There's no fool like an old man.  Pred:  There's no fool like an old man.
+Gold is in Pred:  True
+167
+Gold:  It's a long lane that has no shoulders.  Pred:  It's a long lane that has no shoulders.
+Gold is in Pred:  True
+168
+Gold:  He's an ill cook that cannot lick his own food.  Pred:  He's an ill cook that cannot lick his own food.
+Gold is in Pred:  True
+169
+Gold:  History repeats themselves.  Pred:  History repeats themselves, themselves.
+Gold is in Pred:  False
+170
+Gold:  Health is good.  Pred:  Health is good.
+Gold is in Pred:  True
+171
+Gold:  No man can serve two kings.  Pred:  No man can serve two kings.
+Gold is in Pred:  True
+172
+Gold:  Far from eye, far from hand.  Pred:  Far from eye, far from hand.
+Gold is in Pred:  True
+173
+Gold:  Admiration is the daughter of Hon.  Pred:  Admiration is the daughter of honor.
+Gold is in Pred:  False
+174
+Gold:  Many a mickle makes a mistake.  Pred:  Many a mickle makes a mistake.
+Gold is in Pred:  True
+175
+Gold:  Perfect friendship cannot be without flaws.  Pred:  Perfect friendship cannot be without flaws.
+Gold is in Pred:  True
+176
+Gold:  Crows will not pick out crows here.  Pred:  Crows will not pick out here.
+Gold is in Pred:  False
+177
+Gold:  Admiration me.  Pred:  Admiration - me
+Gold is in Pred:  False
+178
+Gold:  Look before you speak.  Pred:  Look before you speak.
+Gold is in Pred:  True
+179
+Gold:  What can't be cured must be destroyed.  Pred:  What can't be destroyed must be destroyed.
+Gold is in Pred:  False
+180
+Gold:  First thoughts are good.  Pred:  First thoughts are good.
+Gold is in Pred:  True
+181
+Gold:  He that leaves certainty and sticks to chance,<br> When fools pipe, he may win.  Pred:  When fools pipe, he may win.
+Gold is in Pred:  False
+182
+Gold:  A man too busy to take care of his health is like a mechanic too busy to take care of his car.  Pred:  A man too busy to take care of his health is like a mechanic too busy to take care of his car.
+Gold is in Pred:  True
+183
+Gold:  You don't get nothing for it.  Pred:  You don't get anything for it.
+Gold is in Pred:  False
+184
+Gold:  Love me little, love me big.  Pred:  Love me little, love me big.
+Gold is in Pred:  True
+185
+Gold:  Good clothes open all day.  Pred:  Good clothes open all day.
+Gold is in Pred:  True
+186
+Gold:  The door swings both times.  Pred:  The door swings twice.
+Gold is in Pred:  False
+187
+Gold:  A broken watch is right two times a week.  Pred:  A broken watch is right two times a week.
+Gold is in Pred:  True
+188
+Gold:  Without justice, courage is useless.  Pred:  Without justice, courage is useless.
+Gold is in Pred:  True
+189
+Gold:  The more you stroke the cat's tail, the more he raises his head.  Pred:  The more you stroke the cat's tail, the more he raises his head.
+Gold is in Pred:  True
+190
+Gold:  To apologize is to lay the foundation for a further offence.  Pred:  To apologize is to lay the foundation for a further offense.
+Gold is in Pred:  False
+191
+Gold:  A true friend does sometime venture to be alone.  Pred:  A true friend does sometimes venture to be alone.
+Gold is in Pred:  False
+192
+Gold:  Do unto others as you would have them do unto themselves.  Pred:  Repeat the phrase adding the complement: themselves:
+
+"Do unto others as you would have them do unto themselves."
+Gold is in Pred:  True
+193
+{
+  "results": {
+    "memo_trap_en": {
+      "acc": 0.6391752577319587
+    }
+  },
+  "versions": {
+    "memo_trap_en": 0
+  },
+  "config": {
+    "model": "together",
+    "model_args": "engine=Qwen/Qwen1.5-1.8B-Chat",
+    "num_fewshot": 0,
+    "batch_size": null,
+    "device": null,
+    "no_cache": false,
+    "limit": 194,
+    "bootstrap_iters": 100000,
+    "description_dict": {
+      "enem_cot": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_cot_deprecated": "Formule uma explica\u00e7\u00e3o em cadeia que permita responder \u00e0 quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_cot_2022_deprecated": "Formule uma explica\u00e7\u00e3o em cadeia que permita responder \u00e0 quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_2022_blind": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "enem_2022_images": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "enem_2022_captions": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "enem_cot_2022_blind": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_cot_2022_images": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_cot_2022_captions": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_2023_blind": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "enem_2023_images": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "enem_2023_captions": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "enem_cot_2023_blind": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_cot_2023_images": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "enem_cot_2023_captions": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "bluex_blind": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "bluex_images": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "bluex_captions": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "bluex_context_captions": "Eu vou te passar uma quest\u00e3o de m\u00faltipla escolha. Selecione a alternativa correta (\"A.\", \"B.\", \"C.\", \"D.\" ou \"E.\").",
+      "bluex_blind_cot": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "bluex_images_cot": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "bluex_captions_cot": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "bluex_context_captions_cot": "Elabore uma explica\u00e7\u00e3o passo-a-passo que possibilite responder a quest\u00e3o de m\u00faltipla escolha abaixo. Apenas uma alternativa \u00e9 correta.\nFormato desejado: aponte as alternativas que fazem sentido, escolha a alternativa CORRETA e justifique, e termine justificando porque as demais alternativas est\u00e3o incorretas. Encerre a explica\u00e7\u00e3o com \"Resposta: \" seguido pela alternativa.",
+      "memo_trap_pt": "Reescreva a frase adicionando o complemento indicado.",
+      "memo_trap_en": "Repeat the phrase adding the indicated complement."
+    }
+  }
+}
+together (engine=Qwen/Qwen1.5-1.8B-Chat), limit: 194, provide_description: False, num_fewshot: 0, batch_size: None
+|    Task    |Version|Metric|Value |   |Stderr|
+|------------|------:|------|-----:|---|------|
+|memo_trap_en|      0|acc   |0.6392|   |      |
+
