@@ -1,0 +1,13 @@
+mistralai/Mistral-7B-Instruct-v0.3
+Qwen/Qwen2-72B-Instruct
+meta-llama/Llama-3-70b-chat-hf
+meta-llama/Llama-3-8b-chat-hf
+google/gemma-7b-it
+Qwen/Qwen1.5-0.5B-Chat
+Qwen/Qwen1.5-1.8B-Chat
+Qwen/Qwen1.5-110B-Chat
+Qwen/Qwen1.5-14B-Chat
+Qwen/Qwen1.5-32B-Chat
+Qwen/Qwen1.5-4B-Chat
+Qwen/Qwen1.5-72B-Chat
+Qwen/Qwen1.5-7B-Chat
